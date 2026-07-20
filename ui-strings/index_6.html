@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Procedure Knowledge Test — Bartoline Limited</title>
+<style>
+  :root{
+    --navy:#1f4e79;
+    --navy-dark:#163a5c;
+    --red:#b03a48;
+    --teal:#17786a;
+    --amber:#c8901f;
+    --cream:#f6f4ee;
+    --paper:#ffffff;
+    --ink:#20242b;
+    --ink-soft:#565b62;
+    --line:#dcd6c8;
+    --radius:3px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--cream);
+    font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif;
+    color:var(--ink);
+    line-height:1.5;
+    min-height:100vh;
+  }
+  .wrap{
+    max-width:800px;
+    margin:0 auto;
+    padding:28px 20px 80px;
+  }
+  .brandbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background:var(--navy);
+    color:#fff;
+    padding:16px 22px;
+    border-radius:var(--radius);
+    margin-bottom:4px;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  .brand-name{
+    font-weight:700;
+    font-size:15px;
+    letter-spacing:.03em;
+    text-transform:uppercase;
+  }
+  .brand-logo-chip{
+    background:#fff;
+    border-radius:4px;
+    padding:6px 12px;
+    display:inline-flex;
+    align-items:center;
+    line-height:0;
+  }
+  .brand-logo-chip img{
+    height:26px;
+    width:auto;
+    display:block;
+  }
+  .brand-doc{
+    font-size:12.5px;
+    opacity:.9;
+    text-align:right;
+  }
+  .subbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background:#fff;
+    border:1px solid var(--line);
+    border-top:none;
+    padding:10px 22px;
+    font-size:13px;
+    color:var(--ink-soft);
+    border-bottom-left-radius:var(--radius);
+    border-bottom-right-radius:var(--radius);
+    margin-bottom:26px;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  .lang-toggle{
+    display:flex;
+    gap:0;
+    border:1px solid var(--navy);
+    border-radius:var(--radius);
+    overflow:hidden;
+  }
+  .lang-toggle button{
+    border:none;
+    background:#fff;
+    color:var(--navy);
+    padding:6px 14px;
+    font-size:12.5px;
+    font-weight:700;
+    cursor:pointer;
+    letter-spacing:.04em;
+  }
+  .lang-toggle button.active{
+    background:var(--navy);
+    color:#fff;
+  }
+  .card{
+    background:var(--paper);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    padding:34px 36px;
+    margin-bottom:20px;
+  }
+  h1{
+    font-size:23px;
+    margin:0 0 6px;
+    color:var(--navy-dark);
+  }
+  .eyebrow{
+    text-transform:uppercase;
+    font-size:11.5px;
+    font-weight:700;
+    letter-spacing:.12em;
+    color:var(--red);
+    margin:0 0 8px;
+  }
+  .lede{
+    color:var(--ink-soft);
+    font-size:14.5px;
+    margin:0 0 24px;
+    max-width:56ch;
+  }
+  .field-row{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:18px;
+    margin-bottom:22px;
+  }
+  @media (max-width:560px){ .field-row{grid-template-columns:1fr;} }
+  label{
+    display:block;
+    font-size:12.5px;
+    font-weight:700;
+    text-transform:uppercase;
+    letter-spacing:.05em;
+    color:var(--ink-soft);
+    margin-bottom:6px;
+  }
+  input[type=text], input[type=date], select{
+    width:100%;
+    padding:11px 12px;
+    border:1px solid #c7c2b6;
+    border-radius:var(--radius);
+    font-size:15px;
+    font-family:inherit;
+    background:#fdfcfa;
+    color:var(--ink);
+  }
+  input[type=text]:focus, input[type=date]:focus, select:focus{
+    outline:2px solid var(--navy);
+    outline-offset:1px;
+  }
+  select:disabled{
+    background:#eeece5;
+    color:var(--ink-soft);
+    cursor:not-allowed;
+  }
+  #procedure-search:disabled{
+    background:#eeece5;
+    color:var(--ink-soft);
+    cursor:not-allowed;
+  }
+  .combo-dropdown{
+    position:absolute;
+    top:100%;
+    left:0;
+    right:0;
+    background:#fff;
+    border:1px solid #c7c2b6;
+    border-top:none;
+    border-radius:0 0 var(--radius) var(--radius);
+    max-height:280px;
+    overflow-y:auto;
+    z-index:20;
+    box-shadow:0 8px 18px rgba(0,0,0,.12);
+  }
+  .combo-option{
+    padding:10px 12px;
+    cursor:pointer;
+    font-size:14.5px;
+    border-bottom:1px solid #f0ede4;
+  }
+  .combo-option:last-child{border-bottom:none;}
+  .combo-option:hover, .combo-option.active{
+    background:#eaf0f7;
+  }
+  .combo-option .doc-ref{
+    font-weight:700;
+    color:var(--navy-dark);
+    margin-right:6px;
+  }
+  .combo-empty{
+    padding:12px;
+    font-size:13.5px;
+    color:var(--ink-soft);
+    font-style:italic;
+  }
+  .btn{
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    background:var(--navy);
+    color:#fff;
+    border:none;
+    padding:13px 26px;
+    font-size:14.5px;
+    font-weight:700;
+    letter-spacing:.02em;
+    border-radius:var(--radius);
+    cursor:pointer;
+  }
+  .btn:hover{background:var(--navy-dark);}
+  .btn:disabled{background:#b7bcc4;cursor:not-allowed;}
+  .btn.secondary{
+    background:#fff;
+    color:var(--navy);
+    border:1px solid var(--navy);
+  }
+  .btn.secondary:hover{background:#eef2f7;}
+  .btn.ghost{
+    background:transparent;
+    color:var(--ink-soft);
+    border:1px solid var(--line);
+  }
+  .hint{font-size:12.5px;color:var(--ink-soft);margin-top:-12px;margin-bottom:20px;}
+  .error-msg{
+    color:var(--red);
+    font-size:13px;
+    font-weight:600;
+    margin:-10px 0 18px;
+    display:none;
+  }
+  .notice-msg{
+    color:var(--amber);
+    font-size:12.5px;
+    font-weight:600;
+    margin:0 0 16px;
+    display:none;
+  }
+  .progress-shell{
+    background:#eae6db;
+    height:8px;
+    border-radius:5px;
+    overflow:hidden;
+    margin-bottom:26px;
+  }
+  .progress-fill{
+    height:100%;
+    background:var(--teal);
+    width:0%;
+    transition:width .25s ease;
+  }
+  .progress-label{
+    font-size:12.5px;
+    color:var(--ink-soft);
+    margin-bottom:8px;
+    display:flex;
+    justify-content:space-between;
+  }
+  .qcount{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    width:30px;height:30px;
+    border-radius:50%;
+    background:var(--navy);
+    color:#fff;
+    font-weight:700;
+    font-size:13px;
+    flex:none;
+  }
+  .question-block{
+    display:flex;
+    gap:14px;
+    padding:22px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .question-block:last-child{border-bottom:none;}
+  .qtext{
+    font-size:15.5px;
+    font-weight:600;
+    margin:2px 0 14px;
+  }
+  .options{display:flex;flex-direction:column;gap:9px;}
+  .option{
+    display:flex;
+    align-items:flex-start;
+    gap:10px;
+    padding:10px 13px;
+    border:1px solid #d7d2c5;
+    border-radius:var(--radius);
+    cursor:pointer;
+    font-size:14.5px;
+    background:#fdfcfa;
+  }
+  .option:hover{border-color:var(--navy);}
+  .option input{margin-top:3px;}
+  .option.selected{
+    border-color:var(--navy);
+    background:#eaf0f7;
+  }
+  .unanswered-flag{
+    border-color:var(--red) !important;
+  }
+  .score-circle{
+    width:150px;height:150px;
+    border-radius:50%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+    margin:6px auto 22px;
+    border:8px solid var(--line);
+  }
+  .score-circle.pass{border-color:var(--teal);}
+  .score-circle.fail{border-color:var(--red);}
+  .score-pct{font-size:34px;font-weight:800;line-height:1;}
+  .score-of{font-size:12px;color:var(--ink-soft);margin-top:4px;}
+  .result-banner{
+    text-align:center;
+    font-weight:800;
+    font-size:19px;
+    letter-spacing:.03em;
+    text-transform:uppercase;
+    margin-bottom:4px;
+  }
+  .result-banner.pass{color:var(--teal);}
+  .result-banner.fail{color:var(--red);}
+  .result-sub{
+    text-align:center;
+    color:var(--ink-soft);
+    font-size:14px;
+    margin-bottom:28px;
+  }
+  .review-item{
+    display:flex;
+    gap:12px;
+    padding:14px 0;
+    border-bottom:1px solid var(--line);
+    font-size:14px;
+  }
+  .review-item:last-child{border-bottom:none;}
+  .review-mark{
+    flex:none;
+    width:22px;height:22px;
+    border-radius:50%;
+    display:flex;align-items:center;justify-content:center;
+    font-size:13px;font-weight:800;color:#fff;
+  }
+  .review-mark.correct{background:var(--teal);}
+  .review-mark.incorrect{background:var(--red);}
+  .review-answer{color:var(--ink-soft);font-size:13px;margin-top:3px;}
+  .actions-row{
+    display:flex;
+    gap:12px;
+    justify-content:center;
+    margin-top:26px;
+    flex-wrap:wrap;
+  }
+  #certificate-wrap{display:none;}
+  .certificate{
+    background:#fffefb;
+    border:2px solid var(--navy);
+    padding:0;
+    position:relative;
+    overflow:hidden;
+  }
+  .cert-inner{
+    padding:44px 46px 40px;
+    border:1px solid #cfc7ad;
+    margin:10px;
+    text-align:center;
+    position:relative;
+  }
+  .cert-topline{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    font-size:11px;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    margin-bottom:26px;
+  }
+  .cert-brand{
+    font-weight:800;
+    color:var(--navy-dark);
+    font-size:13px;
+    letter-spacing:.05em;
+  }
+  .cert-title{
+    font-size:13px;
+    text-transform:uppercase;
+    letter-spacing:.18em;
+    color:var(--red);
+    font-weight:700;
+    margin-bottom:6px;
+  }
+  .cert-heading{
+    font-size:28px;
+    font-weight:800;
+    color:var(--navy-dark);
+    margin:0 0 22px;
+  }
+  .cert-presented{
+    font-size:12.5px;
+    color:var(--ink-soft);
+    text-transform:uppercase;
+    letter-spacing:.1em;
+    margin-bottom:8px;
+  }
+  .cert-name{
+    font-size:32px;
+    font-weight:700;
+    color:var(--ink);
+    margin:0 0 18px;
+    border-bottom:2px solid var(--navy);
+    display:inline-block;
+    padding:0 10px 8px;
+    min-width:60%;
+  }
+  .cert-body{
+    font-size:14.5px;
+    color:var(--ink-soft);
+    max-width:52ch;
+    margin:0 auto 26px;
+  }
+  .cert-meta{
+    display:flex;
+    justify-content:center;
+    gap:60px;
+    margin-bottom:30px;
+    flex-wrap:wrap;
+  }
+  .cert-meta div{text-align:center;}
+  .cert-meta .k{
+    font-size:10.5px;
+    text-transform:uppercase;
+    letter-spacing:.1em;
+    color:var(--ink-soft);
+    margin-bottom:4px;
+  }
+  .cert-meta .v{font-size:16px;font-weight:700;color:var(--ink);}
+  .seal{
+    width:92px;height:92px;
+    border-radius:50%;
+    background:radial-gradient(circle at 35% 30%, #e3ac3e, var(--amber) 65%, #a3720f 100%);
+    color:#fff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+    margin:0 auto 18px;
+    border:3px solid #fff;
+    box-shadow:0 0 0 3px var(--amber);
+    font-weight:800;
+  }
+  .seal .tick{font-size:34px;line-height:1;}
+  .seal .label{font-size:9px;letter-spacing:.08em;text-transform:uppercase;}
+  .cert-foot{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    margin-top:10px;
+    font-size:11.5px;
+    color:var(--ink-soft);
+  }
+  .sig-line{
+    border-top:1px solid var(--ink-soft);
+    width:180px;
+    padding-top:6px;
+    text-align:center;
+  }
+  @media print{
+    body *{visibility:hidden;}
+    #certificate-wrap, #certificate-wrap *{visibility:visible;}
+    #certificate-wrap{
+      display:block !important;
+      position:absolute;
+      top:0;left:0;right:0;
+      margin:0;
+      padding:0;
+    }
+    .wrap{padding:0;max-width:none;}
+    .no-print{display:none !important;}
+    .certificate{border:2px solid var(--navy);}
+  }
+  .footer-note{
+    text-align:center;
+    font-size:11.5px;
+    color:var(--ink-soft);
+    margin-top:10px;
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <div class="brandbar">
+    <div class="brand-logo-chip"><img src="tetrosyl-logo.png" alt="Tetrosyl"></div>
+    <div class="brand-doc" data-i18n="brand_doc"></div>
+  </div>
+  <div class="subbar no-print">
+    <div data-i18n="subbar_label"></div>
+    <div class="lang-toggle" id="lang-toggle"></div>
+  </div>
+
+  <div id="screen-setup" class="card">
+    <p class="eyebrow" data-i18n="setup_eyebrow"></p>
+    <h1 data-i18n="setup_title"></h1>
+    <p class="lede" data-i18n="setup_lede"></p>
+
+    <div style="margin-bottom:22px; position:relative;" id="procedure-combo-wrap">
+      <label data-i18n="procedure_label"></label>
+      <input type="text" id="procedure-search" autocomplete="off" disabled placeholder="">
+      <div id="procedure-dropdown" class="combo-dropdown" style="display:none;"></div>
+    </div>
+
+    <p class="error-msg" id="load-error" data-i18n="load_error"></p>
+
+    <div class="field-row">
+      <div>
+        <label data-i18n="candidate_name_label"></label>
+        <input type="text" id="candidate-name" placeholder="">
+      </div>
+      <div>
+        <label data-i18n="date_label"></label>
+        <input type="date" id="candidate-date">
+      </div>
+    </div>
+    <p class="error-msg" id="setup-error" data-i18n="setup_error"></p>
+
+    <button class="btn" id="start-btn" onclick="startTest()" disabled data-i18n="start_test_btn"></button>
+  </div>
+
+  <div id="screen-quiz" class="card" style="display:none;">
+    <p class="eyebrow" id="quiz-eyebrow"></p>
+    <div class="progress-label">
+      <span id="progress-text"></span>
+      <span id="progress-pct"></span>
+    </div>
+    <div class="progress-shell"><div class="progress-fill" id="progress-fill"></div></div>
+
+    <p class="notice-msg" id="content-fallback-notice"></p>
+
+    <div id="questions-container"></div>
+
+    <p class="error-msg" id="quiz-error" data-i18n="quiz_error"></p>
+
+    <div class="actions-row">
+      <button class="btn" onclick="submitTest()" data-i18n="submit_test_btn"></button>
+    </div>
+  </div>
+
+  <div id="screen-results" class="card" style="display:none;">
+    <div class="result-banner" id="result-banner"></div>
+    <div class="result-sub" id="result-sub"></div>
+    <div class="score-circle" id="score-circle">
+      <div class="score-pct" id="score-pct"></div>
+      <div class="score-of" id="score-word"></div>
+    </div>
+
+    <div id="review-container"></div>
+
+    <div class="actions-row">
+      <button class="btn ghost" onclick="chooseDifferentTest()" data-i18n="choose_different_btn"></button>
+      <button class="btn secondary" onclick="retakeTest()" data-i18n="retake_btn"></button>
+      <button class="btn" id="cert-btn" style="display:none;" onclick="showCertificate()" data-i18n="view_cert_btn"></button>
+    </div>
+  </div>
+
+  <div id="screen-certificate" style="display:none;">
+    <div class="actions-row no-print" style="margin-bottom:18px;">
+      <button class="btn ghost" onclick="backToResults()" data-i18n="back_to_results_btn"></button>
+      <button class="btn" onclick="window.print()" data-i18n="print_cert_btn"></button>
+    </div>
+
+    <div id="certificate-wrap" style="display:block;">
+      <div class="certificate">
+        <div class="cert-inner">
+          <div class="cert-topline">
+            <span class="cert-brand">BARTOLINE LIMITED</span>
+            <span><span id="cert-document-label"></span><span id="cert-docref"></span></span>
+          </div>
+
+          <div class="seal">
+            <div class="tick">✓</div>
+            <div class="label" id="cert-pass-seal"></div>
+          </div>
+
+          <div class="cert-title" data-i18n="cert_of_completion"></div>
+          <h2 class="cert-heading" id="cert-proc-title">—</h2>
+
+          <div class="cert-presented" data-i18n="this_certifies_that"></div>
+          <div class="cert-name" id="cert-name">—</div>
+
+          <p class="cert-body" id="cert-body">—</p>
+
+          <div class="cert-meta">
+            <div>
+              <div class="k" id="cert-date-label"></div>
+              <div class="v" id="cert-date">—</div>
+            </div>
+            <div>
+              <div class="k" id="cert-score-label"></div>
+              <div class="v" id="cert-score">—</div>
+            </div>
+            <div>
+              <div class="k" id="cert-passmark-label"></div>
+              <div class="v" id="cert-passmark">—</div>
+            </div>
+          </div>
+
+          <div class="cert-foot">
+            <div class="sig-line" id="cert-signature-label"></div>
+            <div style="font-size:11px;" id="cert-issue">—</div>
+            <div class="sig-line" id="cert-date-label-2"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+let LANGUAGES = [];
+let uiStrings = {};
+let currentLang = "en";
+
+function t(key, vars){
+  let str = (uiStrings[currentLang] && uiStrings[currentLang][key])
+    || (uiStrings.en && uiStrings.en[key])
+    || key;
+  if(vars){
+    Object.keys(vars).forEach(k => {
+      str = str.split("{" + k + "}").join(vars[k]);
+    });
+  }
+  return str;
+}
+
+function applyStaticI18n(){
+  document.querySelectorAll("[data-i18n]").forEach(el => {
+    el.textContent = t(el.getAttribute("data-i18n"));
+  });
+}
+
+async function loadLanguages(){
+  try{
+    const res = await fetch("languages.json", {cache:"no-store"});
+    const data = await res.json();
+    LANGUAGES = data.languages || [{code:"en", label:"EN", name:"English"}];
+  }catch(err){
+    LANGUAGES = [{code:"en", label:"EN", name:"English"}];
+  }
+  const loaded = await Promise.all(LANGUAGES.map(l =>
+    fetch("ui-strings/" + l.code + ".json", {cache:"no-store"})
+      .then(r => r.json())
+      .then(d => ({code:l.code, data:d}))
+      .catch(() => ({code:l.code, data:{}}))
+  ));
+  loaded.forEach(l => { uiStrings[l.code] = l.data; });
+  renderLangToggle();
+}
+
+function renderLangToggle(){
+  const el = document.getElementById("lang-toggle");
+  el.innerHTML = "";
+  LANGUAGES.forEach(l => {
+    const btn = document.createElement("button");
+    btn.textContent = l.label;
+    btn.id = "btn-" + l.code;
+    btn.className = l.code === currentLang ? "active" : "";
+    btn.onclick = () => setLang(l.code);
+    el.appendChild(btn);
+  });
+}
+
+function setLang(lang){
+  currentLang = lang;
+  LANGUAGES.forEach(l => {
+    const btn = document.getElementById("btn-" + l.code);
+    if(btn) btn.classList.toggle("active", l.code === lang);
+  });
+  applyStaticI18n();
+  const searchInput = document.getElementById("procedure-search");
+  if(searchInput) searchInput.placeholder = t("search_placeholder");
+  refreshSelectedProcedureLabel();
+  if(document.getElementById("screen-quiz").style.display !== "none"){
+    renderQuestions();
+  }
+  if(document.getElementById("screen-results").style.display !== "none"){
+    renderResults();
+  }
+  if(document.getElementById("screen-certificate").style.display !== "none"){
+    populateCertificateFields();
+  }
+}
+
+function localizedQuestion(q){
+  if(q[currentLang]) return { content: q[currentLang], fellBack: false };
+  return { content: q.en, fellBack: true };
+}
+
+function localizedTitle(titleObj){
+  if(!titleObj) return "";
+  return titleObj[currentLang] || titleObj.en || "";
+}
+
+function todayISO(){
+  const d = new Date();
+  return d.toISOString().slice(0,10);
+}
+document.getElementById("candidate-date").value = todayISO();
+
+let manifest = null;
+let currentProcedure = null;
+let answers = [];
+let lastScore = 0;
+
+async function loadManifest(){
+  try{
+    const res = await fetch("procedures/manifest.json", {cache:"no-store"});
+    if(!res.ok) throw new Error("HTTP " + res.status);
+    manifest = await res.json();
+    if(!manifest.procedures || manifest.procedures.length === 0) throw new Error("empty manifest");
+    document.getElementById("procedure-search").disabled = false;
+    document.getElementById("start-btn").disabled = false;
+    document.getElementById("load-error").style.display = "none";
+    setupProcedureCombo();
+  }catch(err){
+    document.getElementById("load-error").style.display = "block";
+    document.getElementById("procedure-search").disabled = true;
+    document.getElementById("start-btn").disabled = true;
+  }
+}
+
+let selectedProcedureFile = null;
+let comboActiveIndex = -1;
+let comboFilteredList = [];
+
+function setupProcedureCombo(){
+  const input = document.getElementById("procedure-search");
+  input.placeholder = t("search_placeholder");
+
+  input.addEventListener("input", () => {
+    selectedProcedureFile = null;
+    renderProcedureDropdown(input.value);
+  });
+  input.addEventListener("focus", () => {
+    renderProcedureDropdown(input.value);
+  });
+  input.addEventListener("blur", () => {
+    // slight delay so a click on an option registers before the list hides
+    setTimeout(() => { document.getElementById("procedure-dropdown").style.display = "none"; }, 150);
+  });
+  input.addEventListener("keydown", (e) => {
+    const dropdown = document.getElementById("procedure-dropdown");
+    if(dropdown.style.display === "none") return;
+    if(e.key === "ArrowDown"){
+      e.preventDefault();
+      comboActiveIndex = Math.min(comboActiveIndex + 1, comboFilteredList.length - 1);
+      highlightComboActive();
+    }else if(e.key === "ArrowUp"){
+      e.preventDefault();
+      comboActiveIndex = Math.max(comboActiveIndex - 1, 0);
+      highlightComboActive();
+    }else if(e.key === "Enter"){
+      e.preventDefault();
+      if(comboActiveIndex >= 0 && comboFilteredList[comboActiveIndex]){
+        selectProcedure(comboFilteredList[comboActiveIndex]);
+      }
+    }else if(e.key === "Escape"){
+      dropdown.style.display = "none";
+    }
+  });
+}
+
+function renderProcedureDropdown(filterText){
+  const dropdown = document.getElementById("procedure-dropdown");
+  const needle = (filterText || "").trim().toLowerCase();
+  comboFilteredList = manifest.procedures.filter(p => {
+    const title = localizedTitle(p.title).toLowerCase();
+    return p.docRef.toLowerCase().includes(needle) || title.includes(needle);
+  });
+  comboActiveIndex = -1;
+  dropdown.innerHTML = "";
+  if(comboFilteredList.length === 0){
+    const empty = document.createElement("div");
+    empty.className = "combo-empty";
+    empty.textContent = t("no_matches");
+    dropdown.appendChild(empty);
+  }else{
+    comboFilteredList.forEach((p, idx) => {
+      const opt = document.createElement("div");
+      opt.className = "combo-option";
+      opt.innerHTML = '<span class="doc-ref">' + p.docRef + '</span>' + localizedTitle(p.title);
+      opt.onmousedown = (e) => { e.preventDefault(); selectProcedure(p); };
+      dropdown.appendChild(opt);
+    });
+  }
+  dropdown.style.display = "block";
+}
+
+function highlightComboActive(){
+  const dropdown = document.getElementById("procedure-dropdown");
+  Array.from(dropdown.children).forEach((el, idx) => {
+    el.classList.toggle("active", idx === comboActiveIndex);
+    if(idx === comboActiveIndex) el.scrollIntoView({block:"nearest"});
+  });
+}
+
+function selectProcedure(p){
+  selectedProcedureFile = p.file;
+  document.getElementById("procedure-search").value = p.docRef + " — " + localizedTitle(p.title);
+  document.getElementById("procedure-dropdown").style.display = "none";
+  document.getElementById("setup-error").style.display = "none";
+}
+
+// Called on language switch: keep the same procedure selected, but refresh
+// the displayed label into the new language.
+function refreshSelectedProcedureLabel(){
+  if(!selectedProcedureFile || !manifest) return;
+  const p = manifest.procedures.find(p => p.file === selectedProcedureFile);
+  if(p) document.getElementById("procedure-search").value = p.docRef + " — " + localizedTitle(p.title);
+}
+
+async function init(){
+  await loadLanguages();
+  applyStaticI18n();
+  loadManifest();
+}
+init();
+
+function startTest(){
+  const name = document.getElementById("candidate-name").value.trim();
+  const date = document.getElementById("candidate-date").value;
+  if(!selectedProcedureFile || !name || !date){
+    document.getElementById("setup-error").style.display = "block";
+    return;
+  }
+  document.getElementById("setup-error").style.display = "none";
+  document.getElementById("start-btn").disabled = true;
+
+  fetch("procedures/" + selectedProcedureFile, {cache:"no-store"})
+    .then(res => {
+      if(!res.ok) throw new Error("HTTP " + res.status);
+      return res.json();
+    })
+    .then(data => {
+      currentProcedure = data;
+      answers = new Array(currentProcedure.questions.length).fill(null);
+      renderQuestions();
+      document.getElementById("screen-setup").style.display = "none";
+      document.getElementById("screen-quiz").style.display = "block";
+      window.scrollTo({top:0, behavior:"smooth"});
+    })
+    .catch(err => {
+      document.getElementById("load-error").style.display = "block";
+    })
+    .finally(() => {
+      document.getElementById("start-btn").disabled = false;
+    });
+}
+
+function renderQuestions(){
+  if(!currentProcedure) return;
+  document.getElementById("quiz-eyebrow").textContent =
+    t("quiz_eyebrow_template", {docRef: currentProcedure.docRef});
+
+  const container = document.getElementById("questions-container");
+  container.innerHTML = "";
+  let anyFallback = false;
+  currentProcedure.questions.forEach((q, qi) => {
+    const { content, fellBack } = localizedQuestion(q);
+    if(fellBack) anyFallback = true;
+
+    const block = document.createElement("div");
+    block.className = "question-block";
+    block.id = "qblock-" + qi;
+
+    const num = document.createElement("div");
+    num.className = "qcount";
+    num.textContent = qi + 1;
+
+    const right = document.createElement("div");
+    right.style.flex = "1";
+
+    const qt = document.createElement("div");
+    qt.className = "qtext";
+    qt.textContent = content.q;
+    right.appendChild(qt);
+
+    const opts = document.createElement("div");
+    opts.className = "options";
+    content.o.forEach((opt, oi) => {
+      const label = document.createElement("label");
+      label.className = "option" + (answers[qi]===oi ? " selected" : "");
+      label.innerHTML = '<input type="radio" name="q'+qi+'" value="'+oi+'" '+(answers[qi]===oi?"checked":"")+'> <span>'+opt+'</span>';
+      label.onclick = () => selectAnswer(qi, oi);
+      opts.appendChild(label);
+    });
+    right.appendChild(opts);
+    block.appendChild(num);
+    block.appendChild(right);
+    container.appendChild(block);
+  });
+
+  const notice = document.getElementById("content-fallback-notice");
+  if(anyFallback && currentLang !== "en"){
+    notice.textContent = t("content_not_translated_notice");
+    notice.style.display = "block";
+  }else{
+    notice.style.display = "none";
+  }
+
+  updateProgress();
+}
+
+function selectAnswer(qi, oi){
+  answers[qi] = oi;
+  document.getElementById("quiz-error").style.display = "none";
+  document.getElementById("qblock-"+qi).classList.remove("unanswered-flag");
+  renderQuestions();
+}
+
+function updateProgress(){
+  const total = currentProcedure.questions.length;
+  const answered = answers.filter(a => a!==null).length;
+  const pct = Math.round((answered/total)*100);
+  document.getElementById("progress-fill").style.width = pct+"%";
+  document.getElementById("progress-text").textContent =
+    t("progress_text_template", {answered, total});
+  document.getElementById("progress-pct").textContent = pct + "%";
+}
+
+function submitTest(){
+  const unanswered = [];
+  answers.forEach((a,i)=>{ if(a===null) unanswered.push(i); });
+  if(unanswered.length > 0){
+    document.getElementById("quiz-error").style.display = "block";
+    unanswered.forEach(i => document.getElementById("qblock-"+i).classList.add("unanswered-flag"));
+    document.getElementById("qblock-"+unanswered[0]).scrollIntoView({behavior:"smooth", block:"center"});
+    return;
+  }
+  let correct = 0;
+  currentProcedure.questions.forEach((q,i)=>{ if(answers[i]===q.correct) correct++; });
+  lastScore = Math.round((correct/currentProcedure.questions.length)*100);
+
+  document.getElementById("screen-quiz").style.display = "none";
+  document.getElementById("screen-results").style.display = "block";
+  renderResults();
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
+function renderResults(){
+  document.getElementById("score-word").textContent = t("score_word");
+
+  const passMark = currentProcedure.passMark;
+  const pass = lastScore >= passMark;
+  const circle = document.getElementById("score-circle");
+  circle.className = "score-circle " + (pass ? "pass" : "fail");
+  document.getElementById("score-pct").textContent = lastScore + "%";
+
+  const banner = document.getElementById("result-banner");
+  banner.className = "result-banner " + (pass ? "pass" : "fail");
+  banner.textContent = pass ? t("result_pass_banner") : t("result_fail_banner");
+
+  const sub = document.getElementById("result-sub");
+  sub.textContent = pass
+    ? t("result_pass_sub_template", {passMark, docRef: currentProcedure.docRef})
+    : t("result_fail_sub_template", {passMark});
+
+  const reviewContainer = document.getElementById("review-container");
+  reviewContainer.innerHTML = "";
+  currentProcedure.questions.forEach((q,i)=>{
+    const isCorrect = answers[i] === q.correct;
+    const { content } = localizedQuestion(q);
+    const item = document.createElement("div");
+    item.className = "review-item";
+    const mark = document.createElement("div");
+    mark.className = "review-mark " + (isCorrect ? "correct" : "incorrect");
+    mark.textContent = isCorrect ? "✓" : "✕";
+    const body = document.createElement("div");
+    let html = "<strong>"+(i+1)+". "+content.q+"</strong>";
+    if(!isCorrect){
+      html += '<div class="review-answer">' +
+        t("your_answer_prefix") + content.o[answers[i]] +
+        '<br>' + t("correct_answer_prefix") + content.o[q.correct] +
+        '</div>';
+    }
+    body.innerHTML = html;
+    item.appendChild(mark);
+    item.appendChild(body);
+    reviewContainer.appendChild(item);
+  });
+
+  document.getElementById("cert-btn").style.display = pass ? "inline-flex" : "none";
+}
+
+function retakeTest(){
+  answers = new Array(currentProcedure.questions.length).fill(null);
+  document.getElementById("screen-results").style.display = "none";
+  document.getElementById("screen-certificate").style.display = "none";
+  document.getElementById("screen-quiz").style.display = "block";
+  renderQuestions();
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
+function chooseDifferentTest(){
+  currentProcedure = null;
+  answers = [];
+  selectedProcedureFile = null;
+  document.getElementById("screen-results").style.display = "none";
+  document.getElementById("screen-certificate").style.display = "none";
+  document.getElementById("screen-quiz").style.display = "none";
+  document.getElementById("screen-setup").style.display = "block";
+  document.getElementById("procedure-search").value = "";
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
+function populateCertificateFields(){
+  const name = document.getElementById("candidate-name").value.trim();
+  const date = document.getElementById("candidate-date").value;
+  document.getElementById("cert-name").textContent = name;
+
+  const locale = (uiStrings[currentLang] && uiStrings[currentLang].locale) || "en-GB";
+  const dateObj = new Date(date + "T00:00:00");
+  const formatted = dateObj.toLocaleDateString(locale, {day:"2-digit",month:"long",year:"numeric"});
+  document.getElementById("cert-date").textContent = formatted;
+  document.getElementById("cert-score").textContent = lastScore + "%";
+  document.getElementById("cert-passmark").textContent = currentProcedure.passMark + "%";
+  document.getElementById("cert-docref").textContent = currentProcedure.docRef;
+  document.getElementById("cert-issue").textContent = currentProcedure.docRef + " · Issue " + currentProcedure.issue;
+  document.getElementById("cert-proc-title").textContent = localizedTitle(currentProcedure.title);
+  document.getElementById("cert-document-label").textContent = t("cert_document_label");
+  document.getElementById("cert-pass-seal").textContent = t("cert_pass_seal");
+  document.getElementById("cert-body").textContent = t("cert_body_template", {
+    docRef: currentProcedure.docRef,
+    title: localizedTitle(currentProcedure.title)
+  });
+  document.getElementById("cert-date-label").textContent = t("cert_date_label");
+  document.getElementById("cert-score-label").textContent = t("cert_score_label");
+  document.getElementById("cert-passmark-label").textContent = t("cert_pass_mark_label");
+  document.getElementById("cert-signature-label").textContent = t("team_leader_signature");
+  document.getElementById("cert-date-label-2").textContent = t("cert_date_label");
+}
+
+function showCertificate(){
+  populateCertificateFields();
+  document.getElementById("screen-results").style.display = "none";
+  document.getElementById("screen-certificate").style.display = "block";
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
+function backToResults(){
+  document.getElementById("screen-certificate").style.display = "none";
+  document.getElementById("screen-results").style.display = "block";
+}
+</script>
+</body>
+</html>
