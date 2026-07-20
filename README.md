@@ -8,19 +8,11 @@ can be added without touching the app itself.
 
 ```
 /                       (publish this whole folder on the web server)
-  index.html            <- the test-taking app
-  records.html          <- the training record matrix (candidates × procedures)
-  styles.css            <- shared visual styling for both pages
-  results-store.js      <- shared folder connection logic (File System Access API)
-  matrix-builder.js     <- shared logic that turns result files into the matrix
+  index.html            <- the app (never needs editing to add a procedure)
   README.md             <- this file
-  candidates/
-    list.json           <- editable roster of candidate names (shows in the dropdown)
   procedures/
     manifest.json       <- list of available procedures (shows in the dropdown)
     wp09z.json           <- WP09Z: General Safety & Emergency Equipment
-  results/
-    (result files land here automatically once the folder is connected)
 ```
 
 ## Hosting requirements
@@ -87,61 +79,19 @@ when adding new ones.
 
 ## What it does
 
-- Candidate picks their name (from a shared roster) and a procedure, enters the date
+- Candidate picks a procedure, enters their name and date
 - Bilingual EN/PL toggle switches every question, label, and the certificate
 - Scores out of 100%, pass mark is per-procedure (set in that procedure's JSON)
 - Full review of right/wrong answers after submitting
-- Result is saved automatically to the shared `results` folder (or offered as a download if that's not possible on that machine)
 - On a pass: a printable certificate with the candidate's name, date, score,
   and the procedure's reference/title, styled to match the Bartoline WP09Z
   document branding
-- `records.html` shows a live training matrix (candidates × procedures) built from every saved result, exportable to CSV
-- "Retake test" clears answers and starts over; "Choose a different procedure" returns to the start to pick another one
-
-## Shared results & the training record
-
-Results now save centrally, and there's a live training matrix — no manual step, no database, and still no backend server code. Here's how:
-
-**Connecting the results folder (once per browser/computer).** The first time
-someone uses `index.html` or `records.html`, they click "Connect results
-folder" and pick the shared `results` folder (e.g. a mapped network drive).
-The browser remembers this choice, so it's normally a one-off per machine,
-not per test. This uses the **File System Access API**, which needs a
-**Chromium-based browser — Chrome or Edge** (not Firefox or Safari). Edge is
-the default on Windows, so this should be fine for most machines; it's worth
-just confirming with IT which browser is standard on the shopfloor PCs.
-
-**Taking a test.** Once connected, finishing a test writes a small JSON
-result file straight into the `results` folder automatically — no download,
-no manual save. If a computer *isn't* connected (or is on a browser that
-doesn't support this), the app automatically falls back to offering the
-result as a normal download, with a note to save it into the shared folder
-by hand. Either way, nothing is lost — it only degrades to a manual step
-where it strictly has to.
-
-**Viewing the training record.** Open `records.html`, connect to the same
-results folder, and it builds a live matrix: every candidate down the side,
-every procedure across the top, and each cell showing their most recent
-pass/fail, score, and date (hovering a cell shows how many times they've
-attempted it, if more than once). "Refresh" re-reads the folder; "Export
-CSV" downloads the whole matrix for Excel/Teams/reporting.
-
-**Candidates.** `candidates/list.json` is a simple editable list, exactly
-like `procedures/manifest.json` — add or rename people there and the
-dropdown (and the matrix) picks it up. If someone isn't on the list yet,
-there's an "Other / not listed" option so a test never has to be blocked
-on the roster being up to date.
-
-```json
-{ "candidates": ["Jan Kowalski", "Anna Nowak"] }
-```
+- "Retake test" resets answers; "Choose a different procedure" returns to
+  the start to pick another one
 
 ## What it doesn't do (by design, for now)
 
-There's no server-side database — the "database" is simply the folder of
-result files, read live by the browser. That's deliberately simple and
-matches how the OEE dashboard already works. The trade-off: everyone
-viewing the training record needs Chrome or Edge and access to that shared
-folder. If a proper database/reporting layer is ever wanted instead, that's
-a bigger step involving IT running an actual backend service — this
-version avoids that entirely.
+There's no central record of who's taken a test or what they scored — each
+pass produces a printable/PDF certificate, and that's the only record. If a
+shared log of results is ever wanted, that's a bigger step (some form of
+server-side storage) and isn't part of this static version.
