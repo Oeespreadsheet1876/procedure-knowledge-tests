@@ -1,0 +1,794 @@
+{
+  "id": "wp09z",
+  "docRef": "WP09Z",
+  "issue": "3",
+  "title": {
+    "en": "General Safety & Emergency Equipment",
+    "pl": "Bezpieczeństwo ogólne i wyposażenie awaryjne",
+    "bg": "Обща безопасност и аварийно оборудване",
+    "ro": "Siguranță generală și echipamente de urgență"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "en": {
+        "q": "Who is allowed access to the production area?",
+        "o": [
+          "Anyone visiting the site",
+          "Only authorised personnel",
+          "Contractors without signing in",
+          "Delivery drivers only"
+        ]
+      },
+      "pl": {
+        "q": "Kto ma prawo wstępu na teren produkcji?",
+        "o": [
+          "Każdy odwiedzający zakład",
+          "Wyłącznie osoby upoważnione",
+          "Wykonawcy bez podpisywania listy obecności",
+          "Tylko kierowcy dostaw"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Кой има право на достъп до производствената зона?",
+        "o": [
+          "Всеки посетител на обекта",
+          "Само упълномощен персонал",
+          "Изпълнители без вписване в книгата за посещения",
+          "Само шофьори на доставки"
+        ]
+      },
+      "ro": {
+        "q": "Cine are voie să acceseze zona de producție?",
+        "o": [
+          "Orice vizitator al șantierului",
+          "Doar personalul autorizat",
+          "Contractorii fără înregistrare la intrare",
+          "Doar șoferii de livrare"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "Where are smoking and vaping permitted?",
+        "o": [
+          "Anywhere outside the building",
+          "In the designated smoking area only",
+          "In the canteen",
+          "Next to the production line"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie dozwolone jest palenie i używanie e-papierosów?",
+        "o": [
+          "Wszędzie na zewnątrz budynku",
+          "Wyłącznie w wyznaczonej strefie dla palących",
+          "W stołówce",
+          "Przy linii produkcyjnej"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Къде е разрешено пушенето и електронните цигари?",
+        "o": [
+          "Навсякъде извън сградата",
+          "Само в определената зона за пушачи",
+          "В стола",
+          "До производствената линия"
+        ]
+      },
+      "ro": {
+        "q": "Unde este permis fumatul și utilizarea țigărilor electronice?",
+        "o": [
+          "Oriunde în afara clădirii",
+          "Doar în zona desemnată pentru fumat",
+          "În cantină",
+          "Lângă linia de producție"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "Is food or drink allowed on the production lines?",
+        "o": [
+          "Yes, at any time",
+          "Only bottled water",
+          "No, it is not allowed",
+          "Only during breaks"
+        ]
+      },
+      "pl": {
+        "q": "Czy jedzenie i picie jest dozwolone na liniach produkcyjnych?",
+        "o": [
+          "Tak, w każdej chwili",
+          "Tylko woda butelkowana",
+          "Nie, jest to zabronione",
+          "Tylko podczas przerw"
+        ]
+      },
+      "correct": 2,
+      "bg": {
+        "q": "Разрешена ли е храна или напитки на производствените линии?",
+        "o": [
+          "Да, по всяко време",
+          "Само бутилирана вода",
+          "Не, не е разрешено",
+          "Само по време на почивки"
+        ]
+      },
+      "ro": {
+        "q": "Este permisă mâncarea sau băutura pe liniile de producție?",
+        "o": [
+          "Da, oricând",
+          "Doar apă îmbuteliată",
+          "Nu, nu este permis",
+          "Doar în timpul pauzelor"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "Where is drinking alcohol or taking drugs prohibited?",
+        "o": [
+          "Only inside the building",
+          "On the premises and in the car park",
+          "Only during working hours",
+          "It is not prohibited"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie zabronione jest spożywanie alkoholu i zażywanie narkotyków?",
+        "o": [
+          "Tylko wewnątrz budynku",
+          "Na terenie zakładu i na parkingu",
+          "Tylko w godzinach pracy",
+          "Nie jest to zabronione"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Къде е забранена консумацията на алкохол или употребата на наркотици?",
+        "o": [
+          "Само вътре в сградата",
+          "На територията на обекта и на паркинга",
+          "Само в работно време",
+          "Не е забранено"
+        ]
+      },
+      "ro": {
+        "q": "Unde este interzis consumul de alcool sau droguri?",
+        "o": [
+          "Doar în interiorul clădirii",
+          "Pe teritoriul unității și în parcare",
+          "Doar în timpul programului de lucru",
+          "Nu este interzis"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "What is restricted in areas with a potentially explosive atmosphere?",
+        "o": [
+          "Only smoking",
+          "Mobile phones and unapproved electrical equipment",
+          "Only hi-vis clothing",
+          "Nothing extra"
+        ]
+      },
+      "pl": {
+        "q": "Co jest ograniczone w strefach zagrożonych wybuchem?",
+        "o": [
+          "Tylko palenie",
+          "Telefony komórkowe i niezatwierdzony sprzęt elektryczny",
+          "Tylko odzież ostrzegawcza",
+          "Nic dodatkowego"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Какво е ограничено в зони с потенциално експлозивна атмосфера?",
+        "o": [
+          "Само пушенето",
+          "Мобилни телефони и неодобрено електрическо оборудване",
+          "Само светлоотразително облекло",
+          "Нищо допълнително"
+        ]
+      },
+      "ro": {
+        "q": "Ce este restricționat în zonele cu atmosferă potențial explozivă?",
+        "o": [
+          "Doar fumatul",
+          "Telefoanele mobile și echipamentele electrice neaprobate",
+          "Doar îmbrăcămintea reflectorizantă",
+          "Nimic suplimentar"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "What must be worn in production and warehouse areas?",
+        "o": [
+          "Casual shoes",
+          "Protective footwear",
+          "Sandals",
+          "No specific footwear is required"
+        ]
+      },
+      "pl": {
+        "q": "Co należy nosić w strefach produkcyjnych i magazynowych?",
+        "o": [
+          "Obuwie casualowe",
+          "Obuwie ochronne",
+          "Sandały",
+          "Brak wymogu dotyczącego obuwia"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Какво трябва да се носи в производствените и складовите зони?",
+        "o": [
+          "Ежедневни обувки",
+          "Защитни обувки",
+          "Сандали",
+          "Не се изисква конкретен вид обувки"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie purtat în zonele de producție și depozitare?",
+        "o": [
+          "Încălțăminte casual",
+          "Încălțăminte de protecție",
+          "Sandale",
+          "Nu este necesară o încălțăminte anume"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "Where must high visibility clothing be worn?",
+        "o": [
+          "In the office only",
+          "In the warehouse and external areas",
+          "In the canteen",
+          "It is optional everywhere"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie należy nosić odzież ostrzegawczą (o wysokiej widoczności)?",
+        "o": [
+          "Tylko w biurze",
+          "W magazynie i na terenach zewnętrznych",
+          "W stołówce",
+          "Jest to opcjonalne wszędzie"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Къде трябва да се носи светлоотразително облекло?",
+        "o": [
+          "Само в офиса",
+          "В склада и външните зони",
+          "В стола",
+          "По желание навсякъде"
+        ]
+      },
+      "ro": {
+        "q": "Unde trebuie purtată îmbrăcămintea reflectorizantă?",
+        "o": [
+          "Doar în birou",
+          "În depozit și în zonele exterioare",
+          "În cantină",
+          "Este opțională peste tot"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "What must all staff and visitors do every day?",
+        "o": [
+          "Attend a briefing",
+          "Sign in and out",
+          "Complete a medical check",
+          "Wear a name badge only"
+        ]
+      },
+      "pl": {
+        "q": "Co muszą robić codziennie wszyscy pracownicy i goście?",
+        "o": [
+          "Uczestniczyć w odprawie",
+          "Podpisywać się na liście przy wejściu i wyjściu",
+          "Przechodzić badanie lekarskie",
+          "Nosić wyłącznie identyfikator"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Какво трябва да правят ежедневно всички служители и посетители?",
+        "o": [
+          "Да присъстват на инструктаж",
+          "Да се вписват при вход и изход",
+          "Да преминават медицински преглед",
+          "Само да носят табелка с име"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să facă zilnic tot personalul și vizitatorii?",
+        "o": [
+          "Să participe la un briefing",
+          "Să se înregistreze la intrare și ieșire",
+          "Să facă un control medical",
+          "Doar să poarte un ecuson"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "How should people move around inside the building?",
+        "o": [
+          "Any route is fine",
+          "Follow the designated walkways",
+          "Through the production line",
+          "Through the loading bay only"
+        ]
+      },
+      "pl": {
+        "q": "Jak należy poruszać się wewnątrz budynku?",
+        "o": [
+          "Dowolną trasą",
+          "Wyznaczonymi ciągami komunikacyjnymi",
+          "Przez linię produkcyjną",
+          "Tylko przez rampę załadunkową"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Как трябва да се движат хората вътре в сградата?",
+        "o": [
+          "Всеки маршрут е подходящ",
+          "Да следват обозначените пешеходни пътеки",
+          "През производствената линия",
+          "Само през товарната рампа"
+        ]
+      },
+      "ro": {
+        "q": "Cum trebuie să circule oamenii în interiorul clădirii?",
+        "o": [
+          "Orice traseu este potrivit",
+          "Să urmeze culoarele pietonale desemnate",
+          "Prin linia de producție",
+          "Doar prin zona de încărcare"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "What must you have received before starting work in the Production area?",
+        "o": [
+          "A site tour only",
+          "Up to date COSHH training",
+          "A uniform",
+          "A car park permit"
+        ]
+      },
+      "pl": {
+        "q": "Co musisz odbyć przed rozpoczęciem pracy w obszarze produkcyjnym?",
+        "o": [
+          "Tylko wycieczkę po zakładzie",
+          "Aktualne szkolenie COSHH",
+          "Mundur",
+          "Zezwolenie na parking"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Какво трябва да сте преминали, преди да започнете работа в производствената зона?",
+        "o": [
+          "Само обиколка на обекта",
+          "Актуално обучение по COSHH",
+          "Униформа",
+          "Пропуск за паркинг"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să fi urmat înainte de a începe lucrul în zona de producție?",
+        "o": [
+          "Doar un tur al unității",
+          "Instruire COSHH actualizată",
+          "O uniformă",
+          "Un permis de parcare"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "Where are the COSHH Action Cards (B82) located?",
+        "o": [
+          "In the manager's office",
+          "In a blue folder in a wall mounted tray next to the QC laboratory sample hatch",
+          "In the canteen",
+          "On the notice board only"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie znajdują się Karty Postępowania COSHH (B82)?",
+        "o": [
+          "W biurze kierownika",
+          "W niebieskim segregatorze, w tacce zamontowanej na ścianie obok okienka do pobierania próbek laboratorium QC",
+          "W stołówce",
+          "Tylko na tablicy ogłoszeń"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Къде се намират картите за действие COSHH (B82)?",
+        "o": [
+          "В кабинета на управителя",
+          "В синя папка, поставена в стойка на стената до прозорчето за проби на лабораторията за качествен контрол",
+          "В стола",
+          "Само на информационното табло"
+        ]
+      },
+      "ro": {
+        "q": "Unde se află fișele de acțiune COSHH (B82)?",
+        "o": [
+          "În biroul managerului",
+          "Într-un dosar albastru, într-o tavă montată pe perete lângă ghișeul de eșantioane al laboratorului de control al calității",
+          "În cantină",
+          "Doar pe avizier"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "Where can you find the PPE requirements for a specific product?",
+        "o": [
+          "In the Protective Equipment section at the bottom of the COSHH Action Card",
+          "In the canteen menu",
+          "In the fire evacuation plan",
+          "They are not documented"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie można znaleźć wymagania dotyczące PPE dla danego produktu?",
+        "o": [
+          "W sekcji „Sprzęt ochronny” na dole Karty Postępowania COSHH",
+          "W menu stołówki",
+          "W planie ewakuacji przeciwpożarowej",
+          "Nie są nigdzie udokumentowane"
+        ]
+      },
+      "correct": 0,
+      "bg": {
+        "q": "Къде можете да намерите изискванията за PPE за конкретен продукт?",
+        "o": [
+          "В секцията „Защитно оборудване“ в долната част на картата за действие COSHH",
+          "В менюто на стола",
+          "В плана за евакуация при пожар",
+          "Не са документирани"
+        ]
+      },
+      "ro": {
+        "q": "Unde puteți găsi cerințele privind PPE pentru un anumit produs?",
+        "o": [
+          "În secțiunea „Echipament de protecție” din partea de jos a fișei de acțiune COSHH",
+          "În meniul cantinei",
+          "În planul de evacuare în caz de incendiu",
+          "Nu sunt documentate"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "What should you do with damaged PPE before starting work?",
+        "o": [
+          "Use it anyway",
+          "Inspect it and replace any damaged items",
+          "Report it at the end of the shift",
+          "Ignore minor damage"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić z uszkodzonymi PPE przed rozpoczęciem pracy?",
+        "o": [
+          "Używać ich mimo to",
+          "Skontrolować je i wymienić uszkodzone elementy",
+          "Zgłosić dopiero na koniec zmiany",
+          "Zignorować drobne uszkodzenia"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Какво трябва да направите с повредено PPE, преди да започнете работа?",
+        "o": [
+          "Да го използвате въпреки това",
+          "Да го проверите и смените повредените части",
+          "Да го докладвате едва в края на смяната",
+          "Да пренебрегнете леки повреди"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți cu un PPE deteriorat înainte de a începe lucrul?",
+        "o": [
+          "Să îl folosiți oricum",
+          "Să îl verificați și să înlocuiți orice element deteriorat",
+          "Să raportați abia la sfârșitul turei",
+          "Să ignorați deteriorările minore"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "When should you wash your hands, according to the hygiene rules?",
+        "o": [
+          "Only before starting a shift",
+          "Before and after visiting the toilet, eating, drinking or smoking",
+          "Only after handling chemicals",
+          "Once a day is enough"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy należy myć ręce zgodnie z zasadami higieny?",
+        "o": [
+          "Tylko przed rozpoczęciem zmiany",
+          "Przed i po skorzystaniu z toalety, jedzeniu, piciu lub paleniu",
+          "Tylko po kontakcie z chemikaliami",
+          "Raz dziennie wystarczy"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Кога трябва да си миете ръцете съгласно правилата за хигиена?",
+        "o": [
+          "Само преди началото на смяната",
+          "Преди и след посещение на тоалетна, хранене, пиене или пушене",
+          "Само след работа с химикали",
+          "Веднъж дневно е достатъчно"
+        ]
+      },
+      "ro": {
+        "q": "Când trebuie să vă spălați pe mâini, conform regulilor de igienă?",
+        "o": [
+          "Doar înainte de începerea turei",
+          "Înainte și după folosirea toaletei, mâncat, băut sau fumat",
+          "Doar după manipularea substanțelor chimice",
+          "O dată pe zi este suficient"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "What is the stop button used for?",
+        "o": [
+          "To halt the machine immediately in an emergency",
+          "To halt the machine at the end of the working cycle",
+          "To start the machine",
+          "To reset the machine's software"
+        ]
+      },
+      "pl": {
+        "q": "Do czego służy przycisk zatrzymania?",
+        "o": [
+          "Do natychmiastowego zatrzymania maszyny w sytuacji awaryjnej",
+          "Do zatrzymania maszyny na koniec cyklu roboczego",
+          "Do uruchomienia maszyny",
+          "Do zresetowania oprogramowania maszyny"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "За какво служи бутонът за спиране?",
+        "o": [
+          "За незабавно спиране на машината при авария",
+          "За спиране на машината в края на работния цикъл",
+          "За стартиране на машината",
+          "За рестартиране на софтуера на машината"
+        ]
+      },
+      "ro": {
+        "q": "La ce servește butonul de oprire?",
+        "o": [
+          "Pentru oprirea imediată a mașinii în caz de urgență",
+          "Pentru oprirea mașinii la sfârșitul ciclului de lucru",
+          "Pentru pornirea mașinii",
+          "Pentru resetarea software-ului mașinii"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "What is the emergency stop button used for?",
+        "o": [
+          "Routine end-of-cycle stops",
+          "Halting the machine immediately in an emergency situation",
+          "Adjusting machine speed",
+          "Cleaning the machine"
+        ]
+      },
+      "pl": {
+        "q": "Do czego służy przycisk zatrzymania awaryjnego?",
+        "o": [
+          "Do rutynowego zatrzymania na koniec cyklu",
+          "Do natychmiastowego zatrzymania maszyny w sytuacji awaryjnej",
+          "Do regulacji prędkości maszyny",
+          "Do czyszczenia maszyny"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "За какво служи бутонът за аварийно спиране?",
+        "o": [
+          "За рутинно спиране в края на цикъла",
+          "За незабавно спиране на машината при аварийна ситуация",
+          "За регулиране на скоростта на машината",
+          "За почистване на машината"
+        ]
+      },
+      "ro": {
+        "q": "La ce servește butonul de oprire de urgență?",
+        "o": [
+          "Pentru opriri de rutină la sfârșitul ciclului",
+          "Pentru oprirea imediată a mașinii într-o situație de urgență",
+          "Pentru reglarea vitezei mașinii",
+          "Pentru curățarea mașinii"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "What should you check before operating a machine?",
+        "o": [
+          "Nothing, guarding is optional",
+          "That all guarding and covers are fitted correctly and working",
+          "Only the oil level",
+          "Only the power cable"
+        ]
+      },
+      "pl": {
+        "q": "Co należy sprawdzić przed rozpoczęciem obsługi maszyny?",
+        "o": [
+          "Nic, osłony są opcjonalne",
+          "Czy wszystkie osłony i pokrywy są prawidłowo zamontowane i sprawne",
+          "Tylko poziom oleju",
+          "Tylko przewód zasilający"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Какво трябва да проверите, преди да работите с машина?",
+        "o": [
+          "Нищо, обезопасяването е по избор",
+          "Дали всички предпазни устройства и капаци са монтирани правилно и работят",
+          "Само нивото на маслото",
+          "Само захранващия кабел"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să verificați înainte de a folosi o mașină?",
+        "o": [
+          "Nimic, protecțiile sunt opționale",
+          "Dacă toate protecțiile și capacele sunt montate corect și funcționează",
+          "Doar nivelul uleiului",
+          "Doar cablul de alimentare"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "What must you always do before cleaning a machine?",
+        "o": [
+          "Leave it running",
+          "Isolate the electrical supply at the mains isolator (lock out)",
+          "Remove the guarding",
+          "Ask a colleague to hold the stop button"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zawsze zrobić przed czyszczeniem maszyny?",
+        "o": [
+          "Zostawić ją włączoną",
+          "Odłączyć zasilanie elektryczne przy głównym wyłączniku izolacyjnym (blokada – lock out)",
+          "Zdemontować osłony",
+          "Poprosić kolegę o przytrzymanie przycisku stop"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Какво трябва винаги да правите, преди да почистите машина?",
+        "o": [
+          "Да я оставите включена",
+          "Да изключите електрозахранването от главния изолатор (блокиране)",
+          "Да свалите предпазните устройства",
+          "Да помолите колега да задържи бутона за спиране"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți întotdeauna înainte de a curăța o mașină?",
+        "o": [
+          "Să o lăsați pornită",
+          "Să izolați alimentarea electrică de la separatorul principal (blocare)",
+          "Să îndepărtați protecțiile",
+          "Să rugați un coleg să țină apăsat butonul de oprire"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "Who is authorised to carry out maintenance and fault finding on the machines?",
+        "o": [
+          "Any team member",
+          "Only trained and authorised personnel, e.g. engineers",
+          "Only the shift supervisor",
+          "Only cleaning staff"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest upoważniony do przeprowadzania konserwacji i wykrywania usterek maszyn?",
+        "o": [
+          "Każdy członek zespołu",
+          "Wyłącznie przeszkolony i upoważniony personel, np. inżynierowie",
+          "Tylko kierownik zmiany",
+          "Tylko personel sprzątający"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Кой има право да извършва поддръжка и откриване на неизправности по машините?",
+        "o": [
+          "Всеки член на екипа",
+          "Само обучен и упълномощен персонал, напр. инженери",
+          "Само ръководителят на смяната",
+          "Само почистващият персонал"
+        ]
+      },
+      "ro": {
+        "q": "Cine este autorizat să efectueze întreținerea și depanarea mașinilor?",
+        "o": [
+          "Orice membru al echipei",
+          "Doar personalul instruit și autorizat, de ex. ingineri",
+          "Doar supervizorul de tură",
+          "Doar personalul de curățenie"
+        ]
+      }
+    },
+    {
+      "en": {
+        "q": "What should you do if you are in doubt about something?",
+        "o": [
+          "Guess and continue",
+          "Always ask your team leader",
+          "Ignore it",
+          "Wait until the next shift"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić w razie wątpliwości?",
+        "o": [
+          "Zgadywać i kontynuować",
+          "Zawsze zapytać swojego lidera zespołu",
+          "Zignorować",
+          "Poczekać do następnej zmiany"
+        ]
+      },
+      "correct": 1,
+      "bg": {
+        "q": "Какво трябва да направите, ако имате съмнения относно нещо?",
+        "o": [
+          "Да предположите и да продължите",
+          "Винаги да попитате ръководителя на екипа си",
+          "Да го пренебрегнете",
+          "Да изчакате до следващата смяна"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți dacă aveți dubii cu privire la ceva?",
+        "o": [
+          "Să presupuneți și să continuați",
+          "Să întrebați întotdeauna liderul echipei",
+          "Să ignorați",
+          "Să așteptați până la următoarea tură"
+        ]
+      }
+    }
+  ]
+}
