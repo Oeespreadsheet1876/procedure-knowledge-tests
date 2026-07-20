@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WP09Z — Knowledge Test / Test Wiedzy</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-lang="en">
+
+<div class="wrap">
+
+  <div class="brandbar">
+    <div class="brand-name">Bartoline Limited</div>
+    <div class="brand-doc">
+      <span data-en>Procedure Knowledge Tests</span>
+      <span data-pl>Testy wiedzy z procedur</span>
+    </div>
+  </div>
+  <div class="subbar no-print">
+    <div>
+      <span data-en>Knowledge test</span>
+      <span data-pl>Test wiedzy</span>
+      <a href="records.html" style="margin-left:16px; color:var(--navy); font-size:12.5px; font-weight:600;">
+        <span data-en>Training record →</span><span data-pl>Rejestr szkoleń →</span>
+      </a>
+    </div>
+    <div class="lang-toggle">
+      <button id="btn-en" class="active" onclick="setLang('en')">EN</button>
+      <button id="btn-pl" onclick="setLang('pl')">PL</button>
+    </div>
+  </div>
+
+  <!-- ============ SETUP SCREEN ============ -->
+  <div id="screen-setup" class="card">
+    <p class="eyebrow"><span data-en>Before you start</span><span data-pl>Przed rozpoczęciem</span></p>
+    <h1><span data-en>Procedure Knowledge Test</span><span data-pl>Test wiedzy z procedury</span></h1>
+    <p class="lede">
+      <span data-en>Choose a procedure, enter your details, and begin when you're ready.</span>
+      <span data-pl>Wybierz procedurę, wpisz swoje dane i rozpocznij, gdy będziesz gotowy(a).</span>
+    </p>
+
+    <div style="margin-bottom:22px;">
+      <label><span data-en>Procedure</span><span data-pl>Procedura</span></label>
+      <select id="procedure-select" disabled>
+        <option value="">…</option>
+      </select>
+    </div>
+
+    <p class="error-msg" id="load-error">
+      <span data-en>Couldn't load the procedure list. If you opened this file directly on your computer, it needs to be served from a web server instead — check with IT that the folder (including the "procedures" subfolder) is published on the intranet server.</span>
+      <span data-pl>Nie udało się wczytać listy procedur. Jeśli plik został otwarty bezpośrednio na komputerze, musi zostać udostępniony z serwera WWW — sprawdź z działem IT, czy folder (wraz z podfolderem "procedures") jest opublikowany na serwerze intranetowym.</span>
+    </p>
+
+    <div class="field-row">
+      <div>
+        <label><span data-en>Candidate name</span><span data-pl>Imię i nazwisko</span></label>
+        <select id="candidate-select" disabled>
+          <option value="">…</option>
+        </select>
+        <input type="text" id="candidate-name-other" placeholder="Type name…" style="display:none; margin-top:8px;">
+      </div>
+      <div>
+        <label><span data-en>Date</span><span data-pl>Data</span></label>
+        <input type="date" id="candidate-date">
+      </div>
+    </div>
+
+    <div class="results-conn no-print" id="results-conn-block" style="margin-bottom:22px;">
+      <label><span data-en>Shared results folder</span><span data-pl>Wspólny folder wyników</span></label>
+      <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+        <span id="results-conn-status" style="font-size:13px; color:var(--ink-soft);"></span>
+        <button type="button" class="btn secondary" id="connect-folder-btn" onclick="connectResultsFolder()" style="display:none;">
+          <span data-en>Connect results folder</span>
+          <span data-pl>Połącz folder wyników</span>
+        </button>
+      </div>
+      <p class="hint" id="no-fsa-hint" style="display:none; margin-top:8px;">
+        <span data-en>Your browser can't connect directly to a shared folder (this needs Chrome or Edge). Your result will be offered as a download instead — save it into the shared results folder afterwards.</span>
+        <span data-pl>Ta przeglądarka nie obsługuje bezpośredniego połączenia z folderem (wymagany jest Chrome lub Edge). Wynik zostanie zaproponowany do pobrania — zapisz go później we wspólnym folderze wyników.</span>
+      </p>
+    </div>
+
+    <p class="hint" id="passmark-hint" style="display:none;"></p>
+    <p class="error-msg" id="setup-error">
+      <span data-en>Please choose a procedure and enter your name and date to continue.</span>
+      <span data-pl>Wybierz procedurę oraz wpisz imię i nazwisko i datę, aby kontynuować.</span>
+    </p>
+
+    <button class="btn" id="start-btn" onclick="startTest()" disabled>
+      <span data-en>Start test →</span>
+      <span data-pl>Rozpocznij test →</span>
+    </button>
+  </div>
+
+  <!-- ============ QUIZ SCREEN ============ -->
+  <div id="screen-quiz" class="card" style="display:none;">
+    <p class="eyebrow"><span data-en>WP09Z knowledge test</span><span data-pl>Test wiedzy WP09Z</span></p>
+    <div class="progress-label">
+      <span id="progress-text"></span>
+      <span id="progress-pct"></span>
+    </div>
+    <div class="progress-shell"><div class="progress-fill" id="progress-fill"></div></div>
+
+    <div id="questions-container"></div>
+
+    <p class="error-msg" id="quiz-error">
+      <span data-en>Please answer every question before submitting.</span>
+      <span data-pl>Odpowiedz na wszystkie pytania przed przesłaniem testu.</span>
+    </p>
+
+    <div class="actions-row">
+      <button class="btn" onclick="submitTest()">
+        <span data-en>Submit test</span>
+        <span data-pl>Wyślij test</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- ============ RESULTS SCREEN ============ -->
+  <div id="screen-results" class="card" style="display:none;">
+    <div class="result-banner" id="result-banner"></div>
+    <div class="result-sub" id="result-sub"></div>
+    <div class="save-status" id="save-status"></div>
+    <div class="score-circle" id="score-circle">
+      <div class="score-pct" id="score-pct"></div>
+      <div class="score-of"><span data-en>SCORE</span><span data-pl>WYNIK</span></div>
+    </div>
+
+    <div id="review-container"></div>
+
+    <div class="actions-row">
+      <button class="btn ghost" onclick="chooseDifferentTest()">
+        <span data-en>Choose a different procedure</span>
+        <span data-pl>Wybierz inną procedurę</span>
+      </button>
+      <button class="btn secondary" onclick="retakeTest()">
+        <span data-en>↺ Retake test</span>
+        <span data-pl>↺ Podejdź ponownie</span>
+      </button>
+      <button class="btn" id="cert-btn" style="display:none;" onclick="showCertificate()">
+        <span data-en>View certificate →</span>
+        <span data-pl>Zobacz certyfikat →</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- ============ CERTIFICATE SCREEN ============ -->
+  <div id="screen-certificate" style="display:none;">
+    <div class="actions-row no-print" style="margin-bottom:18px;">
+      <button class="btn ghost" onclick="backToResults()">
+        <span data-en>← Back to results</span>
+        <span data-pl>← Powrót do wyników</span>
+      </button>
+      <button class="btn" onclick="window.print()">
+        <span data-en>🖨 Print certificate</span>
+        <span data-pl>🖨 Drukuj certyfikat</span>
+      </button>
+    </div>
+
+    <div id="certificate-wrap" style="display:block;">
+      <div class="certificate">
+        <div class="cert-inner">
+          <div class="cert-topline">
+            <span class="cert-brand">BARTOLINE LIMITED</span>
+            <span><span data-en>Document </span><span data-pl>Dokument </span><span id="cert-docref"></span></span>
+          </div>
+
+          <div class="seal">
+            <div class="tick">✓</div>
+            <div class="label"><span data-en>Pass</span><span data-pl>Zaliczono</span></div>
+          </div>
+
+          <div class="cert-title"><span data-en>Certificate of Completion</span><span data-pl>Certyfikat ukończenia</span></div>
+          <h2 class="cert-heading" id="cert-proc-title">—</h2>
+
+          <div class="cert-presented"><span data-en>This certifies that</span><span data-pl>Niniejszym zaświadcza się, że</span></div>
+          <div class="cert-name" id="cert-name">—</div>
+
+          <p class="cert-body">
+            <span data-en>has successfully completed the <span id="cert-docref-en"></span> knowledge test on <span id="cert-title-en"></span>, demonstrating the required understanding of the procedure.</span>
+            <span data-pl>ukończył(a) z wynikiem pozytywnym test wiedzy <span id="cert-docref-pl"></span> dotyczący <span id="cert-title-pl"></span>, wykazując wymaganą znajomość procedury.</span>
+          </p>
+
+          <div class="cert-meta">
+            <div>
+              <div class="k"><span data-en>Date</span><span data-pl>Data</span></div>
+              <div class="v" id="cert-date">—</div>
+            </div>
+            <div>
+              <div class="k"><span data-en>Score</span><span data-pl>Wynik</span></div>
+              <div class="v" id="cert-score">—</div>
+            </div>
+            <div>
+              <div class="k"><span data-en>Pass mark</span><span data-pl>Próg zaliczenia</span></div>
+              <div class="v" id="cert-passmark">—</div>
+            </div>
+          </div>
+
+          <div class="cert-foot">
+            <div class="sig-line"><span data-en>Team Leader signature</span><span data-pl>Podpis lidera zespołu</span></div>
+            <div style="font-size:11px;" id="cert-issue">—</div>
+            <div class="sig-line"><span data-en>Date</span><span data-pl>Data</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script src="results-store.js"></script>
+<script src="matrix-builder.js"></script>
+<script>
+let currentLang = "en";
+let manifest = null;
+let currentProcedure = null;
+let answers = [];
+let lastScore = 0;
+
+function setLang(lang){
+  currentLang = lang;
+  document.body.setAttribute("data-lang", lang);
+  document.getElementById("btn-en").classList.toggle("active", lang==="en");
+  document.getElementById("btn-pl").classList.toggle("active", lang==="pl");
+  populateProcedureSelect();
+  if(document.getElementById("screen-quiz").style.display !== "none"){
+    renderQuestions();
+  }
+  if(document.getElementById("screen-results").style.display !== "none"){
+    renderResults();
+  }
+  if(document.getElementById("screen-certificate").style.display !== "none"){
+    populateCertificateFields();
+  }
+}
+
+function todayISO(){
+  const d = new Date();
+  return d.toISOString().slice(0,10);
+}
+document.getElementById("candidate-date").value = todayISO();
+
+async function loadManifest(){
+  try{
+    const res = await fetch("procedures/manifest.json", {cache:"no-store"});
+    if(!res.ok) throw new Error("HTTP " + res.status);
+    manifest = await res.json();
+    if(!manifest.procedures || manifest.procedures.length === 0) throw new Error("empty manifest");
+    document.getElementById("procedure-select").disabled = false;
+    document.getElementById("start-btn").disabled = false;
+    document.getElementById("load-error").style.display = "none";
+    populateProcedureSelect();
+  }catch(err){
+    document.getElementById("load-error").style.display = "block";
+    document.getElementById("procedure-select").disabled = true;
+    document.getElementById("start-btn").disabled = true;
+  }
+}
+
+function populateProcedureSelect(){
+  if(!manifest) return;
+  const sel = document.getElementById("procedure-select");
+  const prevValue = sel.value;
+  sel.innerHTML = "";
+  const placeholder = document.createElement("option");
+  placeholder.value = "";
+  placeholder.textContent = currentLang === "en" ? "Select a procedure…" : "Wybierz procedurę…";
+  sel.appendChild(placeholder);
+  manifest.procedures.forEach(p => {
+    const opt = document.createElement("option");
+    opt.value = p.file;
+    const title = currentLang === "en" ? p.title.en : p.title.pl;
+    opt.textContent = p.docRef + " — " + title;
+    sel.appendChild(opt);
+  });
+  if(prevValue) sel.value = prevValue;
+  sel.onchange = updatePassmarkHint;
+}
+
+function updatePassmarkHint(){
+  const sel = document.getElementById("procedure-select");
+  const hint = document.getElementById("passmark-hint");
+  const entry = manifest.procedures.find(p => p.file === sel.value);
+  if(!entry){ hint.style.display = "none"; return; }
+  // pass mark isn't in manifest (only in the full procedure file), so just prompt generically
+  hint.style.display = "none";
+}
+
+let candidatesList = [];
+let resultsFolderHandle = null;
+
+async function loadCandidates(){
+  try{
+    const res = await fetch("candidates/list.json", {cache:"no-store"});
+    if(!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    candidatesList = data.candidates || [];
+  }catch(err){
+    candidatesList = [];
+  }
+  populateCandidateSelect();
+  document.getElementById("candidate-select").disabled = false;
+}
+
+function populateCandidateSelect(){
+  const sel = document.getElementById("candidate-select");
+  const prevValue = sel.value;
+  sel.innerHTML = "";
+  const placeholder = document.createElement("option");
+  placeholder.value = "";
+  placeholder.textContent = currentLang === "en" ? "Select your name…" : "Wybierz swoje imię i nazwisko…";
+  sel.appendChild(placeholder);
+  candidatesList.forEach(name => {
+    const opt = document.createElement("option");
+    opt.value = name;
+    opt.textContent = name;
+    sel.appendChild(opt);
+  });
+  const otherOpt = document.createElement("option");
+  otherOpt.value = "__other__";
+  otherOpt.textContent = currentLang === "en" ? "Other / not listed…" : "Inna osoba / brak na liście…";
+  sel.appendChild(otherOpt);
+  if(prevValue) sel.value = prevValue;
+  sel.onchange = () => {
+    const otherInput = document.getElementById("candidate-name-other");
+    otherInput.style.display = sel.value === "__other__" ? "block" : "none";
+  };
+}
+
+function getCandidateName(){
+  const sel = document.getElementById("candidate-select");
+  if(sel.value === "__other__"){
+    return document.getElementById("candidate-name-other").value.trim();
+  }
+  return sel.value;
+}
+
+async function initResultsFolder(){
+  const statusEl = document.getElementById("results-conn-status");
+  const btn = document.getElementById("connect-folder-btn");
+  if(!rsIsSupported()){
+    document.getElementById("no-fsa-hint").style.display = "block";
+    statusEl.textContent = "";
+    btn.style.display = "none";
+    return;
+  }
+  const handle = await rsReconnectFolder();
+  if(handle){
+    resultsFolderHandle = handle;
+    statusEl.textContent = currentLang === "en" ? "✓ Connected" : "✓ Połączono";
+    btn.style.display = "none";
+  }else{
+    statusEl.textContent = currentLang === "en" ? "Not connected" : "Niepołączono";
+    btn.style.display = "inline-flex";
+  }
+}
+
+async function connectResultsFolder(){
+  const statusEl = document.getElementById("results-conn-status");
+  try{
+    resultsFolderHandle = await rsConnectFolder();
+    statusEl.textContent = currentLang === "en" ? "✓ Connected" : "✓ Połączono";
+    document.getElementById("connect-folder-btn").style.display = "none";
+  }catch(err){
+    // user cancelled the picker, or permission denied — leave as not connected
+    statusEl.textContent = currentLang === "en" ? "Not connected" : "Niepołączono";
+  }
+}
+
+loadManifest();
+loadCandidates();
+initResultsFolder();
+
+function startTest(){
+  const sel = document.getElementById("procedure-select");
+  const name = getCandidateName();
+  const date = document.getElementById("candidate-date").value;
+  if(!sel.value || !name || !date){
+    document.getElementById("setup-error").style.display = "block";
+    return;
+  }
+  document.getElementById("setup-error").style.display = "none";
+  document.getElementById("start-btn").disabled = true;
+
+  fetch("procedures/" + sel.value, {cache:"no-store"})
+    .then(res => {
+      if(!res.ok) throw new Error("HTTP " + res.status);
+      return res.json();
+    })
+    .then(data => {
+      currentProcedure = data;
+      answers = new Array(currentProcedure.questions.length).fill(null);
+      renderQuestions();
+      document.getElementById("screen-setup").style.display = "none";
+      document.getElementById("screen-quiz").style.display = "block";
+      window.scrollTo({top:0, behavior:"smooth"});
+    })
+    .catch(err => {
+      document.getElementById("load-error").style.display = "block";
+    })
+    .finally(() => {
+      document.getElementById("start-btn").disabled = false;
+    });
+}
+
+function renderQuestions(){
+  if(!currentProcedure) return;
+  const container = document.getElementById("questions-container");
+  container.innerHTML = "";
+  currentProcedure.questions.forEach((q, qi) => {
+    const block = document.createElement("div");
+    block.className = "question-block";
+    block.id = "qblock-" + qi;
+
+    const num = document.createElement("div");
+    num.className = "qcount";
+    num.textContent = qi + 1;
+
+    const right = document.createElement("div");
+    right.style.flex = "1";
+
+    const qt = document.createElement("div");
+    qt.className = "qtext";
+    qt.textContent = currentLang === "en" ? q.en.q : q.pl.q;
+    right.appendChild(qt);
+
+    const opts = document.createElement("div");
+    opts.className = "options";
+    const optionTexts = currentLang === "en" ? q.en.o : q.pl.o;
+    optionTexts.forEach((opt, oi) => {
+      const label = document.createElement("label");
+      label.className = "option" + (answers[qi]===oi ? " selected" : "");
+      label.innerHTML = '<input type="radio" name="q'+qi+'" value="'+oi+'" '+(answers[qi]===oi?"checked":"")+'> <span>'+opt+'</span>';
+      label.onclick = () => selectAnswer(qi, oi);
+      opts.appendChild(label);
+    });
+    right.appendChild(opts);
+    block.appendChild(num);
+    block.appendChild(right);
+    container.appendChild(block);
+  });
+  updateProgress();
+}
+
+function selectAnswer(qi, oi){
+  answers[qi] = oi;
+  document.getElementById("quiz-error").style.display = "none";
+  document.getElementById("qblock-"+qi).classList.remove("unanswered-flag");
+  renderQuestions();
+}
+
+function updateProgress(){
+  const total = currentProcedure.questions.length;
+  const answered = answers.filter(a => a!==null).length;
+  const pct = Math.round((answered/total)*100);
+  document.getElementById("progress-fill").style.width = pct+"%";
+  const progressTextEn = "Question progress: " + answered + " / " + total + " answered";
+  const progressTextPl = "Postęp: " + answered + " / " + total + " odpowiedzi";
+  document.getElementById("progress-text").textContent = currentLang==="en" ? progressTextEn : progressTextPl;
+  document.getElementById("progress-pct").textContent = pct + "%";
+}
+
+function submitTest(){
+  const unanswered = [];
+  answers.forEach((a,i)=>{ if(a===null) unanswered.push(i); });
+  if(unanswered.length > 0){
+    document.getElementById("quiz-error").style.display = "block";
+    unanswered.forEach(i => document.getElementById("qblock-"+i).classList.add("unanswered-flag"));
+    document.getElementById("qblock-"+unanswered[0]).scrollIntoView({behavior:"smooth", block:"center"});
+    return;
+  }
+  let correct = 0;
+  currentProcedure.questions.forEach((q,i)=>{ if(answers[i]===q.correct) correct++; });
+  lastScore = Math.round((correct/currentProcedure.questions.length)*100);
+
+  document.getElementById("screen-quiz").style.display = "none";
+  document.getElementById("screen-results").style.display = "block";
+  renderResults();
+  saveResultRecord();
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
+async function saveResultRecord(){
+  const statusEl = document.getElementById("save-status");
+  const name = getCandidateName();
+  const date = document.getElementById("candidate-date").value;
+  const now = new Date();
+  const record = {
+    candidate: name,
+    date: date,
+    docRef: currentProcedure.docRef,
+    procedureTitle: currentProcedure.title,
+    score: lastScore,
+    passMark: currentProcedure.passMark,
+    pass: lastScore >= currentProcedure.passMark,
+    timestamp: now.toISOString()
+  };
+  const timeSuffix = now.toISOString().slice(11,19).replace(/:/g,"");
+  const filename = rsResultFilename(name, currentProcedure.docRef, date, timeSuffix);
+
+  statusEl.className = "save-status";
+  statusEl.textContent = currentLang==="en" ? "Saving result…" : "Zapisywanie wyniku…";
+
+  if(resultsFolderHandle){
+    try{
+      const ok = await rsVerifyPermission(resultsFolderHandle, "readwrite");
+      if(!ok) throw new Error("permission denied");
+      await rsWriteResult(resultsFolderHandle, filename, record);
+      statusEl.textContent = currentLang==="en" ? "✓ Result saved to shared folder" : "✓ Wynik zapisany we wspólnym folderze";
+      statusEl.className = "save-status ok";
+      return;
+    }catch(err){
+      // fall through to download fallback
+    }
+  }
+  offerResultDownload(record, filename);
+  statusEl.textContent = currentLang==="en"
+    ? "Couldn't save automatically — result downloaded; please save it into the shared results folder"
+    : "Nie udało się zapisać automatycznie — wynik pobrano; zapisz go we wspólnym folderze wyników";
+  statusEl.className = "save-status warn";
+}
+
+function offerResultDownload(record, filename){
+  const blob = new Blob([JSON.stringify(record, null, 2)], {type:"application/json"});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+function renderResults(){
+  const passMark = currentProcedure.passMark;
+  const pass = lastScore >= passMark;
+  const circle = document.getElementById("score-circle");
+  circle.className = "score-circle " + (pass ? "pass" : "fail");
+  document.getElementById("score-pct").textContent = lastScore + "%";
+
+  const banner = document.getElementById("result-banner");
+  banner.className = "result-banner " + (pass ? "pass" : "fail");
+  banner.textContent = currentLang==="en"
+    ? (pass ? "Pass" : "Not yet a pass")
+    : (pass ? "Zaliczono" : "Wynik niewystarczający");
+
+  const sub = document.getElementById("result-sub");
+  if(currentLang==="en"){
+    sub.textContent = pass
+      ? "Well done — you've met the " + passMark + "% pass mark for " + currentProcedure.docRef + "."
+      : "You need " + passMark + "% to pass. Review the procedure and try again.";
+  } else {
+    sub.textContent = pass
+      ? "Świetnie — osiągnięto próg zaliczenia " + passMark + "% dla " + currentProcedure.docRef + "."
+      : "Do zaliczenia wymagane jest " + passMark + "%. Przejrzyj procedurę i spróbuj ponownie.";
+  }
+
+  const reviewContainer = document.getElementById("review-container");
+  reviewContainer.innerHTML = "";
+  currentProcedure.questions.forEach((q,i)=>{
+    const isCorrect = answers[i] === q.correct;
+    const item = document.createElement("div");
+    item.className = "review-item";
+    const mark = document.createElement("div");
+    mark.className = "review-mark " + (isCorrect ? "correct" : "incorrect");
+    mark.textContent = isCorrect ? "✓" : "✕";
+    const body = document.createElement("div");
+    const qText = currentLang==="en" ? q.en.q : q.pl.q;
+    const optionTexts = currentLang==="en" ? q.en.o : q.pl.o;
+    let html = "<strong>"+(i+1)+". "+qText+"</strong>";
+    if(!isCorrect){
+      html += '<div class="review-answer">' +
+        (currentLang==="en" ? "Your answer: " : "Twoja odpowiedź: ") + optionTexts[answers[i]] +
+        '<br>' + (currentLang==="en" ? "Correct answer: " : "Poprawna odpowiedź: ") + optionTexts[q.correct] +
+        '</div>';
+    }
+    body.innerHTML = html;
+    item.appendChild(mark);
+    item.appendChild(body);
+    reviewContainer.appendChild(item);
+  });
+
+  document.getElementById("cert-btn").style.display = pass ? "inline-flex" : "none";
+}
+
+function retakeTest(){
+  answers = new Array(currentProcedure.questions.length).fill(null);
+  document.getElementById("screen-results").style.display = "none";
+  document.getElementById("screen-certificate").style.display = "none";
+  document.getElementById("screen-quiz").style.display = "block";
+  renderQuestions();
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
+function chooseDifferentTest(){
+  currentProcedure = null;
+  answers = [];
+  document.getElementById("screen-results").style.display = "none";
+  document.getElementById("screen-certificate").style.display = "none";
+  document.getElementById("screen-quiz").style.display = "none";
+  document.getElementById("screen-setup").style.display = "block";
+  document.getElementById("procedure-select").value = "";
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
+function populateCertificateFields(){
+  const name = getCandidateName();
+  const date = document.getElementById("candidate-date").value;
+  document.getElementById("cert-name").textContent = name;
+  const dateObj = new Date(date + "T00:00:00");
+  const formatted = dateObj.toLocaleDateString(currentLang==="en" ? "en-GB" : "pl-PL", {day:"2-digit",month:"long",year:"numeric"});
+  document.getElementById("cert-date").textContent = formatted;
+  document.getElementById("cert-score").textContent = lastScore + "%";
+  document.getElementById("cert-passmark").textContent = currentProcedure.passMark + "%";
+  document.getElementById("cert-docref").textContent = currentProcedure.docRef;
+  document.getElementById("cert-issue").textContent = currentProcedure.docRef + " · Issue " + currentProcedure.issue;
+  document.getElementById("cert-proc-title").textContent = currentLang==="en" ? currentProcedure.title.en : currentProcedure.title.pl;
+  document.getElementById("cert-docref-en").textContent = currentProcedure.docRef;
+  document.getElementById("cert-docref-pl").textContent = currentProcedure.docRef;
+  document.getElementById("cert-title-en").textContent = currentProcedure.title.en;
+  document.getElementById("cert-title-pl").textContent = currentProcedure.title.pl;
+}
+
+function showCertificate(){
+  populateCertificateFields();
+  document.getElementById("screen-results").style.display = "none";
+  document.getElementById("screen-certificate").style.display = "block";
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
+function backToResults(){
+  document.getElementById("screen-certificate").style.display = "none";
+  document.getElementById("screen-results").style.display = "block";
+}
+</script>
+</body>
+</html>
