@@ -56,6 +56,18 @@
         "ro": "Încărcarea presei de balotat cu trei camere (Fillers)",
         "lv": "Trīskameru balošanas preses iekraušana (Fillers)"
       }
+    },
+    {
+      "id": "wp93",
+      "file": "wp93.json",
+      "docRef": "WP93",
+      "title": {
+        "en": "Loading/Unloading Activities",
+        "pl": "Czynności załadunkowe i rozładunkowe",
+        "bg": "Дейности по товарене/разтоварване",
+        "ro": "Activități de încărcare/descărcare",
+        "lv": "Iekraušanas/izkraušanas darbības"
+      }
     }
   ]
 }

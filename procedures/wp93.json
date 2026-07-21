@@ -1,0 +1,1215 @@
+{
+  "id": "wp93",
+  "docRef": "WP93",
+  "issue": "3",
+  "title": {
+    "en": "Loading/Unloading Activities",
+    "pl": "Czynności załadunkowe i rozładunkowe",
+    "bg": "Дейности по товарене/разтоварване",
+    "ro": "Activități de încărcare/descărcare",
+    "lv": "Iekraušanas/izkraušanas darbības"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "en": {
+        "q": "What must Forklift Operatives do before operating a lift truck on site?",
+        "o": [
+          "Nothing special",
+          "Read, understand and sign a copy of the B125 Lift Truck Operator Safety Rules",
+          "Complete a driving test only",
+          "Ask a colleague to supervise"
+        ]
+      },
+      "pl": {
+        "q": "Co muszą zrobić operatorzy wózków widłowych przed rozpoczęciem pracy z wózkiem widłowym na terenie zakładu?",
+        "o": [
+          "Nic specjalnego",
+          "Przeczytać, zrozumieć i podpisać kopię Zasad Bezpieczeństwa Operatora Wózka Widłowego B125",
+          "Ukończyć wyłącznie test jazdy",
+          "Poprosić kolegę o nadzór"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направят операторите на мотокари, преди да работят с мотокар на обекта?",
+        "o": [
+          "Нищо специално",
+          "Да прочетат, разберат и подпишат копие от Правилата за безопасност на оператора на мотокар B125",
+          "Да завършат само шофьорски тест",
+          "Да помолят колега да ги наблюдава"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să facă operatorii de stivuitoare înainte de a opera un stivuitor pe șantier?",
+        "o": [
+          "Nimic special",
+          "Să citească, să înțeleagă și să semneze o copie a Regulilor de siguranță pentru operatorul de stivuitor B125",
+          "Să finalizeze doar un test de conducere",
+          "Să roage un coleg să îi supravegheze"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara autoiekrāvēja operatoriem pirms autoiekrāvēja darbināšanas objektā?",
+        "o": [
+          "Nekas īpašs",
+          "Jāizlasa, jāsaprot un jāparaksta B125 Autoiekrāvēja operatora drošības noteikumu kopija",
+          "Jānokārto tikai braukšanas eksāmens",
+          "Jālūdz kolēģim uzraudzīt"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for coordinating the effective implementation of this procedure?",
+        "o": [
+          "The Team Leader",
+          "The Logistics Controller",
+          "The Forklift Operatives",
+          "The delivery driver"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za koordynację skutecznego wdrożenia tej procedury?",
+        "o": [
+          "Lider zespołu",
+          "Kontroler logistyki",
+          "Operatorzy wózków widłowych",
+          "Kierowca dostawy"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за координирането на ефективното прилагане на тази процедура?",
+        "o": [
+          "Ръководителят на екипа",
+          "Логистичният контрольор",
+          "Операторите на мотокари",
+          "Шофьорът на доставка"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru coordonarea implementării eficiente a acestei proceduri?",
+        "o": [
+          "Liderul de echipă",
+          "Controlorul de logistică",
+          "Operatorii de stivuitoare",
+          "Șoferul de livrare"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par šīs procedūras efektīvas ieviešanas koordinēšanu?",
+        "o": [
+          "Komandas vadītājs",
+          "Loģistikas kontrolieris",
+          "Autoiekrāvēju operatori",
+          "Piegādes vadītājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for providing training to Forklift Operatives against this procedure?",
+        "o": [
+          "The Logistics Controller",
+          "The Team Leader",
+          "HR department",
+          "The delivery driver"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za zapewnienie szkolenia operatorom wózków widłowych w ramach tej procedury?",
+        "o": [
+          "Kontroler logistyki",
+          "Lider zespołu",
+          "Dział HR",
+          "Kierowca dostawy"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за осигуряване на обучение на операторите на мотокари по тази процедура?",
+        "o": [
+          "Логистичният контрольор",
+          "Ръководителят на екипа",
+          "Отдел HR",
+          "Шофьорът на доставка"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru furnizarea instruirii operatorilor de stivuitoare conform acestei proceduri?",
+        "o": [
+          "Controlorul de logistică",
+          "Liderul de echipă",
+          "Departamentul de resurse umane",
+          "Șoferul de livrare"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par autoiekrāvēju operatoru apmācības nodrošināšanu atbilstoši šai procedūrai?",
+        "o": [
+          "Loģistikas kontrolieris",
+          "Komandas vadītājs",
+          "Personāla nodaļa",
+          "Piegādes vadītājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Before loading/unloading begins, what must be true about the delivery vehicle?",
+        "o": [
+          "Nothing specific",
+          "Engine switched off, brakes applied, and wheels chocked if necessary",
+          "Engine running for quick departure",
+          "Doors locked"
+        ]
+      },
+      "pl": {
+        "q": "Co musi być prawdą w odniesieniu do pojazdu dostawczego przed rozpoczęciem załadunku/rozładunku?",
+        "o": [
+          "Nic konkretnego",
+          "Silnik wyłączony, zaciągnięty hamulec, a koła podklinowane w razie potrzeby",
+          "Silnik włączony dla szybkiego odjazdu",
+          "Drzwi zamknięte"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да важи за доставния автомобил преди началото на товарене/разтоварване?",
+        "o": [
+          "Нищо конкретно",
+          "Двигателят изключен, спирачките задействани, а колелата подпрени с клинове при необходимост",
+          "Двигателят работещ за бързо тръгване",
+          "Вратите заключени"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să fie adevărat despre vehiculul de livrare înainte de începerea încărcării/descărcării?",
+        "o": [
+          "Nimic specific",
+          "Motorul oprit, frânele acționate și roțile calate dacă este necesar",
+          "Motorul pornit pentru o plecare rapidă",
+          "Ușile încuiate"
+        ]
+      },
+      "lv": {
+        "q": "Kam jāatbilst piegādes transportlīdzeklim pirms iekraušanas/izkraušanas sākšanas?",
+        "o": [
+          "Nekam konkrētam",
+          "Dzinējam jābūt izslēgtam, bremzēm pielietotām, un riteņiem jābūt nostiprinātiem ar ķīļiem, ja nepieciešams",
+          "Dzinējam jādarbojas ātrai izbraukšanai",
+          "Durvīm jābūt aizslēgtām"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must the delivery driver wear, and where should they stand when not assisting?",
+        "o": [
+          "No specific requirement",
+          "Hi-vis clothing, standing in a safe place away from the vehicle and FLT activities",
+          "A hard hat only, standing directly behind the forklift",
+          "Ear defenders, standing inside the cab"
+        ]
+      },
+      "pl": {
+        "q": "Co musi nosić kierowca dostawy i gdzie powinien stać, gdy nie pomaga przy rozładunku?",
+        "o": [
+          "Nie ma konkretnego wymogu",
+          "Odzież ostrzegawczą, stojąc w bezpiecznym miejscu z dala od pojazdu i działań wózka widłowego",
+          "Tylko kask, stojąc bezpośrednio za wózkiem widłowym",
+          "Ochronniki słuchu, stojąc w kabinie"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да носи шофьорът на доставка и къде трябва да стои, когато не помага при разтоварването?",
+        "o": [
+          "Няма конкретно изискване",
+          "Светлоотразително облекло, стоящ на безопасно място далеч от превозното средство и дейностите на мотокара",
+          "Само каска, стоящ директно зад мотокара",
+          "Антифони, стоящ в кабината"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să poarte șoferul de livrare și unde trebuie să stea când nu ajută la descărcare?",
+        "o": [
+          "Nu există o cerință specifică",
+          "Îmbrăcăminte reflectorizantă, stând într-un loc sigur, departe de vehicul și de activitățile stivuitorului",
+          "Doar cască de protecție, stând direct în spatele stivuitorului",
+          "Antifoane, stând în cabină"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāvalkā piegādes vadītājam un kur viņam jāstāv, kad viņš nepalīdz izkraušanā?",
+        "o": [
+          "Nav konkrētas prasības",
+          "Signālkrāsu apģērbs, stāvot drošā vietā tālāk no transportlīdzekļa un autoiekrāvēja darbībām",
+          "Tikai aizsargķivere, stāvot tieši aiz autoiekrāvēja",
+          "Ausu aizsargi, stāvot kabīnē"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "When should you sound the horn?",
+        "o": [
+          "Never, it's not required",
+          "Around corners and when entering/exiting the loading bay",
+          "Only if someone is in danger",
+          "Continuously while driving"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy należy używać sygnału dźwiękowego?",
+        "o": [
+          "Nigdy, nie jest to wymagane",
+          "Na zakrętach oraz podczas wjazdu i wyjazdu z rampy załadunkowej",
+          "Tylko jeśli ktoś jest w niebezpieczeństwie",
+          "Ciągle podczas jazdy"
+        ]
+      },
+      "bg": {
+        "q": "Кога трябва да се използва клаксонът?",
+        "o": [
+          "Никога, не се изисква",
+          "На завоите и при влизане/излизане от товарната рампа",
+          "Само ако някой е в опасност",
+          "Непрекъснато по време на шофиране"
+        ]
+      },
+      "ro": {
+        "q": "Când trebuie folosit claxonul?",
+        "o": [
+          "Niciodată, nu este necesar",
+          "În jurul colțurilor și la intrarea/ieșirea din zona de încărcare",
+          "Doar dacă cineva este în pericol",
+          "Continuu în timpul conducerii"
+        ]
+      },
+      "lv": {
+        "q": "Kad jāizmanto signāltaure?",
+        "o": [
+          "Nekad, tas nav nepieciešams",
+          "Ap stūriem un iebraucot/izbraucot no iekraušanas rampas",
+          "Tikai ja kāds ir briesmās",
+          "Nepārtraukti braukšanas laikā"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What is the site speed limit for forklifts?",
+        "o": [
+          "Walking pace internally, 5mph externally",
+          "10mph everywhere",
+          "No speed limit applies",
+          "Running pace internally, 15mph externally"
+        ]
+      },
+      "pl": {
+        "q": "Jakie jest ograniczenie prędkości na terenie zakładu dla wózków widłowych?",
+        "o": [
+          "Tempo spacerowe wewnątrz, 5 mph na zewnątrz",
+          "10 mph wszędzie",
+          "Nie obowiązuje żadne ograniczenie prędkości",
+          "Tempo biegu wewnątrz, 15 mph na zewnątrz"
+        ]
+      },
+      "bg": {
+        "q": "Какво е ограничението на скоростта на обекта за мотокари?",
+        "o": [
+          "Темпо на ходене вътре, 5 mph отвън",
+          "10 mph навсякъде",
+          "Не се прилага ограничение на скоростта",
+          "Темпо на бягане вътре, 15 mph отвън"
+        ]
+      },
+      "ro": {
+        "q": "Care este limita de viteză pe șantier pentru stivuitoare?",
+        "o": [
+          "Ritm de mers pe jos în interior, 5 mph în exterior",
+          "10 mph peste tot",
+          "Nu se aplică nicio limită de viteză",
+          "Ritm de alergare în interior, 15 mph în exterior"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir objekta ātruma ierobežojums autoiekrāvējiem?",
+        "o": [
+          "Gājēja temps iekštelpās, 5 jūdzes stundā ārpusē",
+          "10 jūdzes stundā visur",
+          "Ātruma ierobežojums nav noteikts",
+          "Skrējēja temps iekštelpās, 15 jūdzes stundā ārpusē"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "If you have doubts about the safety of a load or unload, what should you do?",
+        "o": [
+          "Continue carefully",
+          "Stop the activity and inform the Team Leader or Logistics Controller",
+          "Ask the delivery driver to decide",
+          "Speed up to finish quickly"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli masz wątpliwości co do bezpieczeństwa załadunku lub rozładunku, co należy zrobić?",
+        "o": [
+          "Kontynuować ostrożnie",
+          "Zatrzymać czynność i poinformować lidera zespołu lub kontrolera logistyki",
+          "Poprosić kierowcę dostawy o decyzję",
+          "Przyspieszyć, aby szybko skończyć"
+        ]
+      },
+      "bg": {
+        "q": "Ако имате съмнения относно безопасността на товарене или разтоварване, какво трябва да направите?",
+        "o": [
+          "Да продължите внимателно",
+          "Да спрете дейността и да информирате ръководителя на екипа или логистичния контрольор",
+          "Да помолите шофьора на доставка да реши",
+          "Да ускорите, за да приключите бързо"
+        ]
+      },
+      "ro": {
+        "q": "Dacă aveți dubii cu privire la siguranța unei încărcări sau descărcări, ce trebuie să faceți?",
+        "o": [
+          "Continuați cu atenție",
+          "Opriți activitatea și informați liderul de echipă sau controlorul de logistică",
+          "Cereți șoferului de livrare să decidă",
+          "Grăbiți-vă pentru a termina repede"
+        ]
+      },
+      "lv": {
+        "q": "Ja jums ir šaubas par kraušanas vai izkraušanas drošību, kas jādara?",
+        "o": [
+          "Jāturpina uzmanīgi",
+          "Jāaptur darbība un jāinformē komandas vadītājs vai loģistikas kontrolieris",
+          "Jālūdz piegādes vadītājam izlemt",
+          "Jāpaātrina, lai ātrāk pabeigtu"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "For a standing trailer, who is responsible for closing the curtains and securing the end bars?",
+        "o": [
+          "The delivery driver",
+          "The FLT operator",
+          "The Logistics Controller",
+          "The Team Leader"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za zamknięcie zasłon i zabezpieczenie prętów końcowych przy stojącej naczepie?",
+        "o": [
+          "Kierowca dostawy",
+          "Operator wózka widłowego",
+          "Kontroler logistyki",
+          "Lider zespołu"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за затварянето на завесите и обезопасяването на крайните прегради при стояща ремарке?",
+        "o": [
+          "Шофьорът на доставка",
+          "Операторът на мотокара",
+          "Логистичният контрольор",
+          "Ръководителят на екипа"
+        ]
+      },
+      "ro": {
+        "q": "Pentru o remorcă staționară, cine este responsabil pentru închiderea perdelelor și fixarea barelor de capăt?",
+        "o": [
+          "Șoferul de livrare",
+          "Operatorul de stivuitor",
+          "Controlorul de logistică",
+          "Liderul de echipă"
+        ]
+      },
+      "lv": {
+        "q": "Stāvošai piekabei, kas ir atbildīgs par aizkaru aizvēršanu un gala stieņu nostiprināšanu?",
+        "o": [
+          "Piegādes vadītājs",
+          "Autoiekrāvēja operators",
+          "Loģistikas kontrolieris",
+          "Komandas vadītājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "For a standing trailer, who is responsible for securing the curtains after checking the load?",
+        "o": [
+          "The FLT operator",
+          "The LGV driver",
+          "The Logistics Controller",
+          "No one, it's not required"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za zabezpieczenie zasłon po sprawdzeniu ładunku przy stojącej naczepie?",
+        "o": [
+          "Operator wózka widłowego",
+          "Kierowca LGV",
+          "Kontroler logistyki",
+          "Nikt, nie jest to wymagane"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за обезопасяването на завесите след проверка на товара при стояща ремарке?",
+        "o": [
+          "Операторът на мотокара",
+          "Шофьорът на LGV",
+          "Логистичният контрольор",
+          "Никой, не се изисква"
+        ]
+      },
+      "ro": {
+        "q": "Pentru o remorcă staționară, cine este responsabil pentru fixarea perdelelor după verificarea încărcăturii?",
+        "o": [
+          "Operatorul de stivuitor",
+          "Șoferul LGV",
+          "Controlorul de logistică",
+          "Nimeni, nu este necesar"
+        ]
+      },
+      "lv": {
+        "q": "Stāvošai piekabei, kas ir atbildīgs par aizkaru nostiprināšanu pēc kravas pārbaudes?",
+        "o": [
+          "Autoiekrāvēja operators",
+          "LGV vadītājs",
+          "Loģistikas kontrolieris",
+          "Neviens, tas nav nepieciešams"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "For a trailer with the cab attached, who is responsible for closing and securing the trailer curtains?",
+        "o": [
+          "The FLT operator",
+          "The LGV driver",
+          "Both together",
+          "The Team Leader"
+        ]
+      },
+      "pl": {
+        "q": "Przy naczepie z podłączoną kabiną, kto jest odpowiedzialny za zamknięcie i zabezpieczenie zasłon naczepy?",
+        "o": [
+          "Operator wózka widłowego",
+          "Kierowca LGV",
+          "Obaj razem",
+          "Lider zespołu"
+        ]
+      },
+      "bg": {
+        "q": "При ремарке с прикачена кабина, кой отговаря за затварянето и обезопасяването на завесите на ремаркето?",
+        "o": [
+          "Операторът на мотокара",
+          "Шофьорът на LGV",
+          "И двамата заедно",
+          "Ръководителят на екипа"
+        ]
+      },
+      "ro": {
+        "q": "Pentru o remorcă cu cabina atașată, cine este responsabil pentru închiderea și fixarea perdelelor remorcii?",
+        "o": [
+          "Operatorul de stivuitor",
+          "Șoferul LGV",
+          "Amândoi împreună",
+          "Liderul de echipă"
+        ]
+      },
+      "lv": {
+        "q": "Piekabei ar pievienotu kabīni, kas ir atbildīgs par piekabes aizkaru aizvēršanu un nostiprināšanu?",
+        "o": [
+          "Autoiekrāvēja operators",
+          "LGV vadītājs",
+          "Abi kopā",
+          "Komandas vadītājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "When closing curtains on a standing trailer, where should the FLT operator park the forklift?",
+        "o": [
+          "Anywhere nearby",
+          "At the head/front of the trailer, blocking the connection until the FLT is moved",
+          "Behind the trailer",
+          "It doesn't matter"
+        ]
+      },
+      "pl": {
+        "q": "Podczas zamykania zasłon na stojącej naczepie, gdzie powinien zaparkować wózek widłowy operator?",
+        "o": [
+          "W dowolnym miejscu w pobliżu",
+          "Przy głowie/przedzie naczepy, blokując połączenie, dopóki wózek nie zostanie przesunięty",
+          "Za naczepą",
+          "Nie ma to znaczenia"
+        ]
+      },
+      "bg": {
+        "q": "При затваряне на завесите на стояща ремарке, къде трябва да паркира мотокарът операторът?",
+        "o": [
+          "Навсякъде наблизо",
+          "В главата/предната част на ремаркето, блокирайки връзката, докато мотокарът не бъде преместен",
+          "Зад ремаркето",
+          "Няма значение"
+        ]
+      },
+      "ro": {
+        "q": "La închiderea perdelelor pe o remorcă staționară, unde trebuie să parcheze operatorul stivuitorul?",
+        "o": [
+          "Oriunde în apropiere",
+          "La capul/fața remorcii, blocând conexiunea până când stivuitorul este mutat",
+          "În spatele remorcii",
+          "Nu contează"
+        ]
+      },
+      "lv": {
+        "q": "Aizverot aizkarus stāvošai piekabei, kur autoiekrāvēja operatoram jānovieto autoiekrāvējs?",
+        "o": [
+          "Jebkur tuvumā",
+          "Piekabes galvā/priekšā, bloķējot savienojumu, līdz autoiekrāvējs tiek pārvietots",
+          "Aiz piekabes",
+          "Tam nav nozīmes"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Before loading, what should you inspect the trailer interior for?",
+        "o": [
+          "Nothing, just start loading",
+          "Debris, loose objects, holes or weak flooring, and liquid spills",
+          "Only the floor colour",
+          "The trailer's registration number"
+        ]
+      },
+      "pl": {
+        "q": "Co należy sprawdzić wewnątrz naczepy przed załadunkiem?",
+        "o": [
+          "Nic, po prostu zacząć załadunek",
+          "Gruz, luźne przedmioty, dziury lub słabą podłogę, rozlania płynów",
+          "Tylko kolor podłogi",
+          "Numer rejestracyjny naczepy"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да проверите вътре в ремаркето преди товарене?",
+        "o": [
+          "Нищо, просто започнете товаренето",
+          "Отпадъци, разхлабени предмети, дупки или слаб под, разливи на течности",
+          "Само цвета на пода",
+          "Регистрационния номер на ремаркето"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să inspectați în interiorul remorcii înainte de încărcare?",
+        "o": [
+          "Nimic, doar începeți încărcarea",
+          "Resturi, obiecte desprinse, găuri sau podea slăbită, scurgeri de lichide",
+          "Doar culoarea podelei",
+          "Numărul de înmatriculare al remorcii"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāpārbauda piekabes iekšpusē pirms iekraušanas?",
+        "o": [
+          "Nekas, vienkārši jāsāk iekraušana",
+          "Netīrumi, vaļīgi priekšmeti, caurumi vai vāja grīda, šķidruma noplūdes",
+          "Tikai grīdas krāsa",
+          "Piekabes reģistrācijas numurs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What should you do if a pallet is in unfit condition?",
+        "o": [
+          "Load it anyway",
+          "Not load it — arrange for it to be replaced or reworked",
+          "Load it last",
+          "Ignore the condition if time is short"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić, jeśli paleta jest w nieodpowiednim stanie?",
+        "o": [
+          "Załadować ją mimo to",
+          "Nie ładować jej – zorganizować jej wymianę lub naprawę",
+          "Załadować ją jako ostatnią",
+          "Zignorować stan, jeśli czasu jest mało"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направите, ако палет е в негодно състояние?",
+        "o": [
+          "Да го натоварите въпреки това",
+          "Да не го товарите – да организирате смяната или ремонта му",
+          "Да го натоварите последен",
+          "Да игнорирате състоянието, ако времето е малко"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți dacă un palet este în stare necorespunzătoare?",
+        "o": [
+          "Să îl încărcați oricum",
+          "Să nu îl încărcați — să organizați înlocuirea sau repararea lui",
+          "Să îl încărcați ultimul",
+          "Să ignorați starea dacă timpul este scurt"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara, ja palete ir nepiemērotā stāvoklī?",
+        "o": [
+          "Iekraut to tik un tā",
+          "Neiekraut to – jāorganizē tās nomaiņa vai remonts",
+          "Iekraut to pēdējo",
+          "Ignorēt stāvokli, ja laika trūkst"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Where should forklift operators normally start loading a vehicle?",
+        "o": [
+          "At the back, working forwards",
+          "At the front, working backwards on alternate sides",
+          "In the middle, working outwards",
+          "Wherever is most convenient"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie operatorzy wózków widłowych powinni zwykle zaczynać załadunek pojazdu?",
+        "o": [
+          "Z tyłu, przesuwając się do przodu",
+          "Z przodu, przesuwając się do tyłu na przemiennych stronach",
+          "Pośrodku, przesuwając się na zewnątrz",
+          "Gdziekolwiek jest najwygodniej"
+        ]
+      },
+      "bg": {
+        "q": "Къде операторите на мотокари обикновено трябва да започват товаренето на превозно средство?",
+        "o": [
+          "Отзад, движейки се напред",
+          "Отпред, движейки се назад на редуващи се страни",
+          "В средата, движейки се навън",
+          "Където е най-удобно"
+        ]
+      },
+      "ro": {
+        "q": "Unde ar trebui operatorii de stivuitoare să înceapă de obicei încărcarea unui vehicul?",
+        "o": [
+          "În spate, mergând înainte",
+          "În față, mergând înapoi pe părți alternante",
+          "În mijloc, mergând spre exterior",
+          "Oriunde este mai convenabil"
+        ]
+      },
+      "lv": {
+        "q": "Kur autoiekrāvēju operatoriem parasti jāsāk transportlīdzekļa iekraušana?",
+        "o": [
+          "Aizmugurē, virzoties uz priekšu",
+          "Priekšpusē, virzoties atpakaļ pārmaiņus abās pusēs",
+          "Vidū, virzoties uz ārpusi",
+          "Kur vien ir ērtāk"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Why should pallets and loads sit close together?",
+        "o": [
+          "To look tidy",
+          "To prevent slipping and sliding during transit and maximise capacity",
+          "To make unloading harder",
+          "It has no real purpose"
+        ]
+      },
+      "pl": {
+        "q": "Dlaczego palety i ładunki powinny znajdować się blisko siebie?",
+        "o": [
+          "Aby wyglądały schludnie",
+          "Aby zapobiec ślizganiu się podczas transportu i zmaksymalizować pojemność",
+          "Aby utrudnić rozładunek",
+          "Nie ma to żadnego rzeczywistego celu"
+        ]
+      },
+      "bg": {
+        "q": "Защо палетите и товарите трябва да са близо един до друг?",
+        "o": [
+          "За да изглеждат спретнато",
+          "За да се предотврати плъзгане по време на транспорт и да се увеличи максимално капацитетът",
+          "За да се затрудни разтоварването",
+          "Няма реална цел"
+        ]
+      },
+      "ro": {
+        "q": "De ce ar trebui paleții și încărcăturile să stea aproape unele de altele?",
+        "o": [
+          "Pentru a arăta ordonat",
+          "Pentru a preveni alunecarea în timpul transportului și pentru a maximiza capacitatea",
+          "Pentru a face descărcarea mai dificilă",
+          "Nu are niciun scop real"
+        ]
+      },
+      "lv": {
+        "q": "Kāpēc paletēm un kravām jāatrodas cieši kopā?",
+        "o": [
+          "Lai izskatītos kārtīgi",
+          "Lai novērstu slīdēšanu transportēšanas laikā un maksimāli palielinātu ietilpību",
+          "Lai apgrūtinātu izkraušanu",
+          "Tam nav reāla mērķa"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "For double decker trailers, how should goods be arranged by weight?",
+        "o": [
+          "Heaviest at the top, lightest at the bottom",
+          "Lightest at the top, heaviest at the bottom",
+          "Weight doesn't matter",
+          "All goods must be the same weight"
+        ]
+      },
+      "pl": {
+        "q": "Jak należy rozmieszczać towary według wagi w naczepach dwupoziomowych?",
+        "o": [
+          "Najcięższe na górze, najlżejsze na dole",
+          "Najlżejsze na górze, najcięższe na dole",
+          "Waga nie ma znaczenia",
+          "Wszystkie towary muszą mieć tę samą wagę"
+        ]
+      },
+      "bg": {
+        "q": "Как трябва да се подреждат стоките по тегло в двуетажни ремаркета?",
+        "o": [
+          "Най-тежките отгоре, най-леките отдолу",
+          "Най-леките отгоре, най-тежките отдолу",
+          "Теглото няма значение",
+          "Всички стоки трябва да са с еднакво тегло"
+        ]
+      },
+      "ro": {
+        "q": "Pentru remorcile cu etaj dublu, cum trebuie aranjate mărfurile după greutate?",
+        "o": [
+          "Cele mai grele sus, cele mai ușoare jos",
+          "Cele mai ușoare sus, cele mai grele jos",
+          "Greutatea nu contează",
+          "Toate mărfurile trebuie să aibă aceeași greutate"
+        ]
+      },
+      "lv": {
+        "q": "Divstāvu piekabēs, kā preces jāsakārto pēc svara?",
+        "o": [
+          "Smagākās augšā, vieglākās apakšā",
+          "Vieglākās augšā, smagākās apakšā",
+          "Svaram nav nozīmes",
+          "Visām precēm jābūt vienāda svara"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Why should you never push a load from one side of the vehicle to the other?",
+        "o": [
+          "It's just slower",
+          "It may cause the vehicle to lean or even tip over, and make it hard to re-insert forks",
+          "It damages the forklift tyres",
+          "It's against union rules"
+        ]
+      },
+      "pl": {
+        "q": "Dlaczego nigdy nie należy przesuwać ładunku z jednej strony pojazdu na drugą?",
+        "o": [
+          "To po prostu wolniejsze",
+          "Może spowodować przechylenie się pojazdu lub nawet jego przewrócenie oraz utrudnić ponowne wsunięcie wideł",
+          "Uszkadza to opony wózka widłowego",
+          "Jest to niezgodne z zasadami związkowymi"
+        ]
+      },
+      "bg": {
+        "q": "Защо никога не трябва да бутате товар от едната страна на превозното средство към другата?",
+        "o": [
+          "Просто е по-бавно",
+          "Може да причини накланяне или дори преобръщане на превозното средство и да затрудни повторното вкарване на вилиците",
+          "Уврежда гумите на мотокара",
+          "Противоречи на профсъюзните правила"
+        ]
+      },
+      "ro": {
+        "q": "De ce nu trebuie niciodată împinsă o încărcătură dintr-o parte a vehiculului în cealaltă?",
+        "o": [
+          "Este pur și simplu mai lent",
+          "Poate face vehiculul să se încline sau chiar să se răstoarne și să facă dificilă reintroducerea furcilor",
+          "Deteriorează anvelopele stivuitorului",
+          "Este împotriva regulilor sindicale"
+        ]
+      },
+      "lv": {
+        "q": "Kāpēc kravu nekad nedrīkst grūst no vienas transportlīdzekļa puses uz otru?",
+        "o": [
+          "Tas vienkārši ir lēnāk",
+          "Tas var izraisīt transportlīdzekļa sasvēršanos vai pat apgāšanos, un apgrūtināt dakšu atkārtotu ievietošanu",
+          "Tas bojā autoiekrāvēja riepas",
+          "Tas ir pretrunā ar arodbiedrības noteikumiem"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What does \"first on is last off\" mean for loading order?",
+        "o": [
+          "Load in delivery order so gaps don't appear as deliveries are made",
+          "Load the heaviest items first regardless of delivery order",
+          "It refers to driver shift patterns",
+          "It's unrelated to loading"
+        ]
+      },
+      "pl": {
+        "q": "Co oznacza zasada „pierwszy załadowany, ostatni rozładowany”?",
+        "o": [
+          "Ładować w kolejności dostaw, aby nie powstawały luki podczas dostaw",
+          "Ładować najpierw najcięższe przedmioty, niezależnie od kolejności dostaw",
+          "Odnosi się do wzorców zmian kierowców",
+          "Nie ma to związku z załadunkiem"
+        ]
+      },
+      "bg": {
+        "q": "Какво означава правилото „пръв натоварен, последен разтоварен“?",
+        "o": [
+          "Товарене по реда на доставките, за да не се появяват празнини при доставките",
+          "Товарене първо на най-тежките предмети, независимо от реда на доставките",
+          "Отнася се за графиците на смените на шофьорите",
+          "Няма връзка с товаренето"
+        ]
+      },
+      "ro": {
+        "q": "Ce înseamnă regula „primul încărcat este ultimul descărcat”?",
+        "o": [
+          "Se încarcă în ordinea livrărilor, astfel încât să nu apară goluri pe măsură ce se fac livrările",
+          "Se încarcă mai întâi articolele cele mai grele, indiferent de ordinea livrărilor",
+          "Se referă la programul turelor șoferilor",
+          "Nu are legătură cu încărcarea"
+        ]
+      },
+      "lv": {
+        "q": "Ko nozīmē noteikums „pirmais iekrautais ir pēdējais izkrautais”?",
+        "o": [
+          "Iekraut piegādes secībā, lai piegāžu laikā neveidotos tukšumi",
+          "Iekraut vispirms smagākos priekšmetus neatkarīgi no piegādes secības",
+          "Attiecas uz vadītāju maiņu grafikiem",
+          "Nav saistīts ar iekraušanu"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "When might operators need to disregard the delivery-order loading rule?",
+        "o": [
+          "Never, it must always be followed exactly",
+          "To achieve the correct axle weight distribution",
+          "If the driver asks nicely",
+          "Only on Fridays"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy operatorzy mogą pominąć zasadę kolejności dostaw przy załadunku?",
+        "o": [
+          "Nigdy, musi być zawsze ściśle przestrzegana",
+          "Aby osiągnąć prawidłowy rozkład wagi na osie",
+          "Jeśli kierowca uprzejmie o to poprosi",
+          "Tylko w piątki"
+        ]
+      },
+      "bg": {
+        "q": "Кога операторите може да се наложи да пренебрегнат правилото за реда на доставките при товарене?",
+        "o": [
+          "Никога, трябва винаги да се спазва стриктно",
+          "За да се постигне правилно разпределение на теглото по осите",
+          "Ако шофьорът учтиво помоли",
+          "Само в петък"
+        ]
+      },
+      "ro": {
+        "q": "Când ar putea operatorii să trebuiască să ignore regula ordinii de livrare la încărcare?",
+        "o": [
+          "Niciodată, trebuie respectată întotdeauna strict",
+          "Pentru a obține distribuția corectă a greutății pe axe",
+          "Dacă șoferul cere politicos",
+          "Doar vinerea"
+        ]
+      },
+      "lv": {
+        "q": "Kad operatoriem varētu būt nepieciešams ignorēt piegādes secības noteikumu iekraušanā?",
+        "o": [
+          "Nekad, tas vienmēr stingri jāievēro",
+          "Lai panāktu pareizu svara sadalījumu pa asīm",
+          "Ja vadītājs pieklājīgi palūdz",
+          "Tikai piektdienās"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Before unloading, who should you consult for specific unloading instructions?",
+        "o": [
+          "The Logistics Controller only",
+          "The delivery driver",
+          "No one, just start unloading",
+          "The Team Leader only"
+        ]
+      },
+      "pl": {
+        "q": "Przed rozładunkiem, z kim należy się skonsultować w sprawie konkretnych instrukcji rozładunku?",
+        "o": [
+          "Wyłącznie z kontrolerem logistyki",
+          "Z kierowcą dostawy",
+          "Z nikim, po prostu zacząć rozładunek",
+          "Wyłącznie z liderem zespołu"
+        ]
+      },
+      "bg": {
+        "q": "Преди разтоварване, с кого трябва да се консултирате за конкретни инструкции за разтоварване?",
+        "o": [
+          "Само с логистичния контрольор",
+          "С шофьора на доставка",
+          "С никого, просто започнете разтоварването",
+          "Само с ръководителя на екипа"
+        ]
+      },
+      "ro": {
+        "q": "Înainte de descărcare, pe cine trebuie să consultați pentru instrucțiuni specifice de descărcare?",
+        "o": [
+          "Doar controlorul de logistică",
+          "Șoferul de livrare",
+          "Pe nimeni, doar începeți descărcarea",
+          "Doar liderul de echipă"
+        ]
+      },
+      "lv": {
+        "q": "Pirms izkraušanas, ar ko jākonsultējas par konkrētām izkraušanas instrukcijām?",
+        "o": [
+          "Tikai ar loģistikas kontrolieri",
+          "Ar piegādes vadītāju",
+          "Ne ar vienu, vienkārši jāsāk izkraušana",
+          "Tikai ar komandas vadītāju"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which procedure should be followed for Incoming Goods when unloading?",
+        "o": [
+          "WP09Z",
+          "WP03",
+          "WP74A",
+          "There is no related procedure"
+        ]
+      },
+      "pl": {
+        "q": "Której procedury należy przestrzegać w przypadku towarów przychodzących podczas rozładunku?",
+        "o": [
+          "WP09Z",
+          "WP03",
+          "WP74A",
+          "Nie ma powiązanej procedury"
+        ]
+      },
+      "bg": {
+        "q": "Коя процедура трябва да се следва за входящи стоки при разтоварване?",
+        "o": [
+          "WP09Z",
+          "WP03",
+          "WP74A",
+          "Няма свързана процедура"
+        ]
+      },
+      "ro": {
+        "q": "Ce procedură trebuie urmată pentru mărfurile primite la descărcare?",
+        "o": [
+          "WP09Z",
+          "WP03",
+          "WP74A",
+          "Nu există o procedură asociată"
+        ]
+      },
+      "lv": {
+        "q": "Kura procedūra jāievēro attiecībā uz ienākošajām precēm izkraušanas laikā?",
+        "o": [
+          "WP09Z",
+          "WP03",
+          "WP74A",
+          "Nav saistītas procedūras"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Where should forklift operators normally start unloading a vehicle?",
+        "o": [
+          "At the front, working backwards",
+          "At the rear, working forwards on alternate sides",
+          "In the middle",
+          "Wherever is most convenient"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie operatorzy wózków widłowych powinni zwykle zaczynać rozładunek pojazdu?",
+        "o": [
+          "Z przodu, przesuwając się do tyłu",
+          "Z tyłu, przesuwając się do przodu na przemiennych stronach",
+          "Pośrodku",
+          "Gdziekolwiek jest najwygodniej"
+        ]
+      },
+      "bg": {
+        "q": "Къде операторите на мотокари обикновено трябва да започват разтоварването на превозно средство?",
+        "o": [
+          "Отпред, движейки се назад",
+          "Отзад, движейки се напред на редуващи се страни",
+          "В средата",
+          "Където е най-удобно"
+        ]
+      },
+      "ro": {
+        "q": "Unde ar trebui operatorii de stivuitoare să înceapă de obicei descărcarea unui vehicul?",
+        "o": [
+          "În față, mergând înapoi",
+          "În spate, mergând înainte pe părți alternante",
+          "În mijloc",
+          "Oriunde este mai convenabil"
+        ]
+      },
+      "lv": {
+        "q": "Kur autoiekrāvēju operatoriem parasti jāsāk transportlīdzekļa izkraušana?",
+        "o": [
+          "Priekšpusē, virzoties atpakaļ",
+          "Aizmugurē, virzoties uz priekšu pārmaiņus abās pusēs",
+          "Vidū",
+          "Kur vien ir ērtāk"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "For double decker trailers, which deck should be unloaded first?",
+        "o": [
+          "The bottom deck",
+          "The top deck, starting from the rear",
+          "Both decks simultaneously",
+          "Whichever is more convenient"
+        ]
+      },
+      "pl": {
+        "q": "W przypadku naczep dwupoziomowych, który poziom należy rozładować jako pierwszy?",
+        "o": [
+          "Dolny poziom",
+          "Górny poziom, zaczynając od tyłu",
+          "Oba poziomy jednocześnie",
+          "Który jest wygodniejszy"
+        ]
+      },
+      "bg": {
+        "q": "При двуетажни ремаркета, кой етаж трябва да се разтовари първи?",
+        "o": [
+          "Долният етаж",
+          "Горният етаж, започвайки отзад",
+          "И двата етажа едновременно",
+          "Който е по-удобен"
+        ]
+      },
+      "ro": {
+        "q": "Pentru remorcile cu etaj dublu, care punte trebuie descărcată prima?",
+        "o": [
+          "Puntea inferioară",
+          "Puntea superioară, începând din spate",
+          "Ambele punți simultan",
+          "Oricare este mai convenabilă"
+        ]
+      },
+      "lv": {
+        "q": "Divstāvu piekabēs, kurš stāvs jāizkrauj pirmais?",
+        "o": [
+          "Apakšējais stāvs",
+          "Augšējais stāvs, sākot no aizmugures",
+          "Abi stāvi vienlaicīgi",
+          "Kurš ir ērtāks"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "After unloading 4-5 pallets and creating space at the rear of the trailer, what should be done?",
+        "o": [
+          "Nothing specific",
+          "Put a pallet truck on the deck so the driver can move pallets across, while reminding the driver to stay away from the edge",
+          "Immediately unload the rest as fast as possible",
+          "Close the curtains"
+        ]
+      },
+      "pl": {
+        "q": "Po rozładowaniu 4-5 palet i utworzeniu miejsca z tyłu naczepy, co należy zrobić?",
+        "o": [
+          "Nic konkretnego",
+          "Umieścić wózek paletowy na pokładzie, aby kierowca mógł przesuwać palety w poprzek, przypominając mu o trzymaniu się z dala od krawędzi",
+          "Natychmiast rozładować resztę jak najszybciej",
+          "Zamknąć zasłony"
+        ]
+      },
+      "bg": {
+        "q": "След разтоварване на 4-5 палета и създаване на място в задната част на ремаркето, какво трябва да се направи?",
+        "o": [
+          "Нищо конкретно",
+          "Да се постави палетна количка на платформата, за да може шофьорът да премества палети напречно, като му се напомни да стои далеч от края",
+          "Незабавно да се разтовари останалото възможно най-бързо",
+          "Да се затворят завесите"
+        ]
+      },
+      "ro": {
+        "q": "După descărcarea a 4-5 paleți și crearea spațiului în spatele remorcii, ce trebuie făcut?",
+        "o": [
+          "Nimic specific",
+          "Se pune un cărucior de paleți pe punte pentru ca șoferul să poată muta paleții dintr-o parte în alta, reamintindu-i să stea departe de margine",
+          "Se descarcă imediat restul cât mai repede",
+          "Se închid perdelele"
+        ]
+      },
+      "lv": {
+        "q": "Pēc 4-5 palešu izkraušanas un vietas radīšanas piekabes aizmugurē, kas jādara?",
+        "o": [
+          "Nekas konkrēts",
+          "Jānovieto paleta krāvējs uz klāja, lai vadītājs varētu pārvietot paletes uz otru pusi, atgādinot viņam turēties tālāk no malas",
+          "Nekavējoties jāizkrauj atlikums pēc iespējas ātrāk",
+          "Jāaizver aizkari"
+        ]
+      },
+      "correct": 1
+    }
+  ]
+}
