@@ -1,8 +1,29 @@
 {
   "languages": [
-    { "code": "en", "label": "EN", "name": "English" },
-    { "code": "pl", "label": "PL", "name": "Polski" },
-    { "code": "bg", "label": "BG", "name": "Български" },
-    { "code": "ro", "label": "RO", "name": "Română" }
+    {
+      "code": "en",
+      "label": "EN",
+      "name": "English"
+    },
+    {
+      "code": "pl",
+      "label": "PL",
+      "name": "Polski"
+    },
+    {
+      "code": "bg",
+      "label": "BG",
+      "name": "Български"
+    },
+    {
+      "code": "ro",
+      "label": "RO",
+      "name": "Română"
+    },
+    {
+      "code": "lv",
+      "label": "LV",
+      "name": "Latviešu"
+    }
   ]
 }
