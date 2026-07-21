@@ -248,6 +248,46 @@
     margin:0 0 16px;
     display:none;
   }
+  .candidate-badge{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    font-size:13px;
+    color:var(--ink-soft);
+    margin-bottom:16px;
+    flex-wrap:wrap;
+  }
+  .candidate-badge .badge-name{
+    font-weight:700;
+    color:var(--ink);
+  }
+  .badge-edit-btn{
+    background:none;
+    border:none;
+    color:var(--navy);
+    font-size:12.5px;
+    font-weight:700;
+    cursor:pointer;
+    padding:2px 6px;
+    text-decoration:underline;
+  }
+  .badge-edit-input{
+    padding:5px 9px;
+    border:1px solid var(--navy);
+    border-radius:var(--radius);
+    font-size:13px;
+    font-family:inherit;
+  }
+  .badge-save-btn{
+    background:var(--navy);
+    color:#fff;
+    border:none;
+    padding:5px 11px;
+    border-radius:var(--radius);
+    font-size:12.5px;
+    font-weight:700;
+    cursor:pointer;
+  }
   .progress-shell{
     background:#eae6db;
     height:8px;
@@ -547,6 +587,7 @@
 
   <div id="screen-quiz" class="card" style="display:none;">
     <p class="eyebrow" id="quiz-eyebrow"></p>
+    <div class="candidate-badge" id="candidate-badge-quiz"></div>
     <div class="progress-label">
       <span id="progress-text"></span>
       <span id="progress-pct"></span>
@@ -565,6 +606,7 @@
   </div>
 
   <div id="screen-results" class="card" style="display:none;">
+    <div class="candidate-badge" id="candidate-badge-results" style="margin-bottom:16px;"></div>
     <div class="result-banner" id="result-banner"></div>
     <div class="result-sub" id="result-sub"></div>
     <div class="score-circle" id="score-circle">
@@ -584,8 +626,10 @@
   <div id="screen-certificate" style="display:none;">
     <div class="actions-row no-print" style="margin-bottom:18px;">
       <button class="btn ghost" onclick="backToResults()" data-i18n="back_to_results_btn"></button>
-      <button class="btn" onclick="window.print()" data-i18n="print_cert_btn"></button>
+      <button class="btn secondary" onclick="window.print()" data-i18n="print_cert_btn"></button>
+      <button class="btn" id="download-pdf-btn" onclick="downloadCertificatePdf()" data-i18n="download_pdf_btn"></button>
     </div>
+    <p class="error-msg" id="pdf-error" data-i18n="pdf_generation_failed"></p>
 
     <div id="certificate-wrap" style="display:block;">
       <div class="certificate">
@@ -635,6 +679,8 @@
 
 </div>
 
+<script src="vendor/html2canvas.min.js"></script>
+<script src="vendor/jspdf.umd.min.js"></script>
 <script>
 let LANGUAGES = [];
 let uiStrings = {};
@@ -701,9 +747,11 @@ function setLang(lang){
   refreshSelectedProcedureLabel();
   if(document.getElementById("screen-quiz").style.display !== "none"){
     renderQuestions();
+    renderCandidateBadges();
   }
   if(document.getElementById("screen-results").style.display !== "none"){
     renderResults();
+    renderCandidateBadges();
   }
   if(document.getElementById("screen-certificate").style.display !== "none"){
     populateCertificateFields();
@@ -718,6 +766,47 @@ function localizedQuestion(q){
 function localizedTitle(titleObj){
   if(!titleObj) return "";
   return titleObj[currentLang] || titleObj.en || "";
+}
+
+function escapeHtml(str){
+  const div = document.createElement("div");
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+function renderCandidateBadges(){
+  const name = document.getElementById("candidate-name").value.trim();
+  ["candidate-badge-quiz", "candidate-badge-results"].forEach(id => {
+    const el = document.getElementById(id);
+    if(!el) return;
+    el.innerHTML =
+      '<span class="badge-name">' + escapeHtml(name) + '</span>' +
+      '<button type="button" class="badge-edit-btn" onclick="startEditName(\'' + id + '\')">' +
+      t("edit_name_btn") + '</button>';
+  });
+}
+
+function startEditName(sourceId){
+  const el = document.getElementById(sourceId);
+  const current = document.getElementById("candidate-name").value;
+  el.innerHTML =
+    '<input type="text" class="badge-edit-input" id="inline-name-input" value="' + escapeHtml(current) + '">' +
+    '<button type="button" class="badge-save-btn" onclick="saveEditName()">' + t("save_name_btn") + '</button>';
+  const input = document.getElementById("inline-name-input");
+  input.focus();
+  input.select();
+  input.addEventListener("keydown", (e) => { if(e.key === "Enter") saveEditName(); });
+}
+
+function saveEditName(){
+  const val = document.getElementById("inline-name-input").value.trim();
+  if(val){
+    document.getElementById("candidate-name").value = val;
+  }
+  renderCandidateBadges();
+  if(document.getElementById("screen-certificate").style.display !== "none"){
+    populateCertificateFields();
+  }
 }
 
 function todayISO(){
@@ -864,6 +953,7 @@ function startTest(){
       currentProcedure = data;
       answers = new Array(currentProcedure.questions.length).fill(null);
       renderQuestions();
+      renderCandidateBadges();
       document.getElementById("screen-setup").style.display = "none";
       document.getElementById("screen-quiz").style.display = "block";
       window.scrollTo({top:0, behavior:"smooth"});
@@ -963,6 +1053,7 @@ function submitTest(){
   document.getElementById("screen-quiz").style.display = "none";
   document.getElementById("screen-results").style.display = "block";
   renderResults();
+  renderCandidateBadges();
   window.scrollTo({top:0, behavior:"smooth"});
 }
 
@@ -1017,6 +1108,7 @@ function retakeTest(){
   document.getElementById("screen-certificate").style.display = "none";
   document.getElementById("screen-quiz").style.display = "block";
   renderQuestions();
+  renderCandidateBadges();
   window.scrollTo({top:0, behavior:"smooth"});
 }
 
@@ -1064,6 +1156,36 @@ function showCertificate(){
   document.getElementById("screen-results").style.display = "none";
   document.getElementById("screen-certificate").style.display = "block";
   window.scrollTo({top:0, behavior:"smooth"});
+}
+
+async function downloadCertificatePdf(){
+  const btn = document.getElementById("download-pdf-btn");
+  const errorEl = document.getElementById("pdf-error");
+  errorEl.style.display = "none";
+  const originalLabel = btn.textContent;
+  btn.disabled = true;
+  btn.textContent = t("generating_pdf");
+  try{
+    const certEl = document.querySelector(".certificate");
+    const canvas = await html2canvas(certEl, { scale: 1.5, backgroundColor: "#ffffff" });
+    const imgData = canvas.toDataURL("image/jpeg", 0.88);
+    const { jsPDF } = window.jspdf;
+    const pdf = new jsPDF({
+      orientation: canvas.width >= canvas.height ? "landscape" : "portrait",
+      unit: "px",
+      format: [canvas.width, canvas.height]
+    });
+    pdf.addImage(imgData, "JPEG", 0, 0, canvas.width, canvas.height);
+    const name = document.getElementById("candidate-name").value.trim().replace(/[^a-zA-Z0-9]+/g, "-") || "candidate";
+    const docRef = (currentProcedure && currentProcedure.docRef) ? currentProcedure.docRef.replace(/[^a-zA-Z0-9]+/g, "-") : "certificate";
+    pdf.save("Certificate_" + docRef + "_" + name + ".pdf");
+  }catch(err){
+    console.error("PDF generation failed:", err);
+    errorEl.style.display = "block";
+  }finally{
+    btn.disabled = false;
+    btn.textContent = originalLabel;
+  }
 }
 
 function backToResults(){
