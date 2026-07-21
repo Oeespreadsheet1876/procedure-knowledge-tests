@@ -32,6 +32,18 @@
         "ro": "Umplere găleți A004/A005",
         "lv": "Trauku pildīšana A004/A005"
       }
+    },
+    {
+      "id": "wp09d",
+      "file": "wp09d.json",
+      "docRef": "WP09D",
+      "title": {
+        "en": "Powder Filling Lines",
+        "pl": "Linie napełniania proszkiem",
+        "bg": "Линии за пълнене на прах",
+        "ro": "Linii de umplere cu pudră",
+        "lv": "Pulvera pildīšanas līnijas"
+      }
     }
   ]
 }

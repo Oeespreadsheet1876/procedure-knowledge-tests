@@ -1,0 +1,1311 @@
+{
+  "id": "wp09d",
+  "docRef": "WP09D",
+  "issue": "14",
+  "title": {
+    "en": "Powder Filling Lines",
+    "pl": "Linie napełniania proszkiem",
+    "bg": "Линии за пълнене на прах",
+    "ro": "Linii de umplere cu pudră",
+    "lv": "Pulvera pildīšanas līnijas"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "en": {
+        "q": "What must you have received training in before operating the powder filling line?",
+        "o": [
+          "Only this WP09D procedure",
+          "WP09Z Production Area General Safety & Emergency Equipment",
+          "Sewing machine training only",
+          "No training required"
+        ]
+      },
+      "pl": {
+        "q": "Jakie szkolenie musisz odbyć przed obsługą linii napełniania proszkiem?",
+        "o": [
+          "Tylko tę procedurę WP09D",
+          "WP09Z Obszar produkcyjny – Bezpieczeństwo ogólne i wyposażenie awaryjne",
+          "Tylko szkolenie na maszynę do szycia",
+          "Żadne szkolenie nie jest wymagane"
+        ]
+      },
+      "bg": {
+        "q": "В какво обучение трябва да сте преминали, преди да работите с линията за пълнене на прах?",
+        "o": [
+          "Само тази процедура WP09D",
+          "WP09Z Производствена зона – Обща безопасност и авариен инвентар",
+          "Само обучение за шевна машина",
+          "Не се изисква обучение"
+        ]
+      },
+      "ro": {
+        "q": "Ce instruire trebuie să fi urmat înainte de a opera linia de umplere cu pudră?",
+        "o": [
+          "Doar această procedură WP09D",
+          "WP09Z Zona de producție – Siguranță generală și echipamente de urgență",
+          "Doar instruire pentru mașina de cusut",
+          "Nu este necesară nicio instruire"
+        ]
+      },
+      "lv": {
+        "q": "Kāda apmācība jums jābūt apgūtai, pirms sākat darbināt pulvera pildīšanas līniju?",
+        "o": [
+          "Tikai šī WP09D procedūra",
+          "WP09Z Ražošanas zona – Vispārīgā drošība un avārijas aprīkojums",
+          "Tikai šujmašīnas apmācība",
+          "Apmācība nav nepieciešama"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Where should you check for product-specific safety and PPE instructions?",
+        "o": [
+          "The Batch Card",
+          "The COSHH Action Card (B82)",
+          "The works order",
+          "The B61e form"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie należy sprawdzić instrukcje dotyczące bezpieczeństwa i ŚOI specyficzne dla produktu?",
+        "o": [
+          "Karta partii",
+          "Karta Postępowania COSHH (B82)",
+          "Zlecenie produkcyjne",
+          "Formularz B61e"
+        ]
+      },
+      "bg": {
+        "q": "Къде трябва да проверите инструкциите за безопасност и PPE, специфични за продукта?",
+        "o": [
+          "Партидната карта",
+          "Картата за действие COSHH (B82)",
+          "Работната поръчка",
+          "Формулярът B61e"
+        ]
+      },
+      "ro": {
+        "q": "Unde trebuie să verificați instrucțiunile de siguranță și PPE specifice produsului?",
+        "o": [
+          "Fișa de lot",
+          "Fișa de acțiune COSHH (B82)",
+          "Comanda de lucru",
+          "Formularul B61e"
+        ]
+      },
+      "lv": {
+        "q": "Kur jāpārbauda produktam specifiskās drošības un PPE instrukcijas?",
+        "o": [
+          "Partijas kartē",
+          "COSHH rīcības kartē (B82)",
+          "Darba pasūtījumā",
+          "B61e veidlapā"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which of the following is mandatory PPE when working on the powder filling lines?",
+        "o": [
+          "Hard hat only",
+          "Workwear with coat fastened and sleeves rolled down, production gloves, safety glasses",
+          "Ear defenders only",
+          "No PPE is required"
+        ]
+      },
+      "pl": {
+        "q": "Które z poniższych stanowi obowiązkowe ŚOI podczas pracy na liniach napełniania proszkiem?",
+        "o": [
+          "Tylko kask",
+          "Odzież robocza z zapiętym płaszczem i podwiniętymi rękawami, rękawice produkcyjne, okulary ochronne",
+          "Tylko ochronniki słuchu",
+          "Żadne ŚOI nie są wymagane"
+        ]
+      },
+      "bg": {
+        "q": "Кое от следните е задължително PPE при работа на линиите за пълнене на прах?",
+        "o": [
+          "Само каска",
+          "Работно облекло със закопчано горнище и навити ръкави, производствени ръкавици, предпазни очила",
+          "Само антифони",
+          "Не се изисква PPE"
+        ]
+      },
+      "ro": {
+        "q": "Care dintre următoarele reprezintă echipament de protecție obligatoriu la lucrul pe liniile de umplere cu pudră?",
+        "o": [
+          "Doar cască de protecție",
+          "Echipament de lucru cu haina încheiată și mânecile suflecate, mănuși de producție, ochelari de protecție",
+          "Doar antifoane",
+          "Nu este necesar niciun echipament"
+        ]
+      },
+      "lv": {
+        "q": "Kurš no šiem ir obligāts PPE, strādājot pie pulvera pildīšanas līnijām?",
+        "o": [
+          "Tikai aizsargķivere",
+          "Darba apģērbs ar aizpogātu virsjaku un uzlocītām piedurknēm, ražošanas cimdi, aizsargbrilles",
+          "Tikai ausu aizsargi",
+          "PPE nav nepieciešams"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "When must dust masks be worn?",
+        "o": [
+          "Never, they are optional",
+          "For cleaning or any time dust clouds may form, e.g. split bags — after a face fit test",
+          "Only during the night shift",
+          "Only by the QC operator"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy należy nosić maski przeciwpyłowe?",
+        "o": [
+          "Nigdy, są opcjonalne",
+          "Podczas czyszczenia lub zawsze, gdy mogą powstać chmury pyłu, np. rozerwane worki – po teście dopasowania maski",
+          "Tylko podczas zmiany nocnej",
+          "Tylko przez pracownika QC"
+        ]
+      },
+      "bg": {
+        "q": "Кога трябва да се носят прахозащитни маски?",
+        "o": [
+          "Никога, те са по избор",
+          "При почистване или винаги, когато може да се образува прах, напр. скъсани торби – след тест за прилягане на маската",
+          "Само по време на нощна смяна",
+          "Само от оператора по качествен контрол"
+        ]
+      },
+      "ro": {
+        "q": "Când trebuie purtate măștile de praf?",
+        "o": [
+          "Niciodată, sunt opționale",
+          "La curățare sau oricând se pot forma nori de praf, de ex. saci rupți — după un test de potrivire a măștii",
+          "Doar în timpul turei de noapte",
+          "Doar de operatorul de control al calității"
+        ]
+      },
+      "lv": {
+        "q": "Kad jāvalkā putekļu maskas?",
+        "o": [
+          "Nekad, tās ir izvēles",
+          "Tīrīšanas laikā vai jebkurā brīdī, kad var rasties putekļu mākoņi, piemēram, saplīsuši maisi – pēc sejas piegulšanas testa",
+          "Tikai nakts maiņas laikā",
+          "Tikai QC operatoram"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Approximately how hot can the vertical and horizontal sealing strips become?",
+        "o": [
+          "50°C",
+          "100°C",
+          "250°C",
+          "They do not heat up"
+        ]
+      },
+      "pl": {
+        "q": "Jak gorące mogą stać się pionowe i poziome listwy zgrzewające?",
+        "o": [
+          "50°C",
+          "100°C",
+          "250°C",
+          "Nie nagrzewają się"
+        ]
+      },
+      "bg": {
+        "q": "Приблизително колко горещи могат да станат вертикалните и хоризонталните заваръчни ленти?",
+        "o": [
+          "50°C",
+          "100°C",
+          "250°C",
+          "Не се нагряват"
+        ]
+      },
+      "ro": {
+        "q": "Cât de fierbinți pot deveni benzile de sigilare verticale și orizontale?",
+        "o": [
+          "50°C",
+          "100°C",
+          "250°C",
+          "Nu se încălzesc"
+        ]
+      },
+      "lv": {
+        "q": "Cik karstas var kļūt vertikālās un horizontālās metināšanas sloksnes?",
+        "o": [
+          "50°C",
+          "100°C",
+          "250°C",
+          "Tās nesakarst"
+        ]
+      },
+      "correct": 2
+    },
+    {
+      "en": {
+        "q": "What happens if either of the two front doors is opened while the machine is running?",
+        "o": [
+          "Nothing, the machine continues as normal",
+          "The machine will not start, or will stop if in motion, due to the safety interlock",
+          "Only an alarm sounds, the machine keeps running",
+          "The doors are not linked to machine operation"
+        ]
+      },
+      "pl": {
+        "q": "Co się dzieje, gdy jedne z dwóch przednich drzwi zostaną otwarte podczas pracy maszyny?",
+        "o": [
+          "Nic, maszyna działa normalnie dalej",
+          "Maszyna nie uruchomi się lub zatrzyma się, jeśli jest w ruchu, dzięki blokadzie bezpieczeństwa",
+          "Włącza się tylko alarm, maszyna nadal działa",
+          "Drzwi nie są powiązane z działaniem maszyny"
+        ]
+      },
+      "bg": {
+        "q": "Какво се случва, ако някоя от двете предни врати бъде отворена, докато машината работи?",
+        "o": [
+          "Нищо, машината продължава нормално",
+          "Машината няма да стартира или ще спре, ако е в движение, поради предпазната блокировка",
+          "Само се задейства аларма, машината продължава да работи",
+          "Вратите не са свързани с работата на машината"
+        ]
+      },
+      "ro": {
+        "q": "Ce se întâmplă dacă una dintre cele două uși din față este deschisă în timp ce mașina funcționează?",
+        "o": [
+          "Nimic, mașina continuă normal",
+          "Mașina nu va porni sau se va opri dacă este în mișcare, datorită dispozitivului de blocare de siguranță",
+          "Se declanșează doar o alarmă, mașina continuă să funcționeze",
+          "Ușile nu sunt legate de funcționarea mașinii"
+        ]
+      },
+      "lv": {
+        "q": "Kas notiek, ja tiek atvērtas kādas no divām priekšējām durvīm, kamēr iekārta darbojas?",
+        "o": [
+          "Nekas, iekārta turpina darboties normāli",
+          "Iekārta nesāksies vai apstāsies, ja tā darbojas, drošības blokēšanas dēļ",
+          "Ieslēdzas tikai signāls, iekārta turpina darboties",
+          "Durvis nav saistītas ar iekārtas darbību"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Before making any adjustments other than on the control panel, what must you do?",
+        "o": [
+          "Just open the door",
+          "Press the STOP button on the display panel and open the front door",
+          "Ask a colleague to watch",
+          "Nothing special is required"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić przed dokonaniem jakichkolwiek regulacji innych niż na panelu sterowania?",
+        "o": [
+          "Po prostu otworzyć drzwi",
+          "Nacisnąć przycisk STOP na panelu wyświetlacza i otworzyć przednie drzwi",
+          "Poprosić kolegę o obserwację",
+          "Nic specjalnego nie jest wymagane"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направите, преди да извършите каквито и да е настройки, различни от тези на контролния панел?",
+        "o": [
+          "Просто да отворите вратата",
+          "Да натиснете бутона STOP на дисплейния панел и да отворите предната врата",
+          "Да помолите колега да наблюдава",
+          "Нищо специално не се изисква"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți înainte de a face orice reglaj, altul decât cel de pe panoul de control?",
+        "o": [
+          "Doar deschideți ușa",
+          "Apăsați butonul STOP de pe panoul de afișare și deschideți ușa din față",
+          "Rugați un coleg să vă supravegheze",
+          "Nu este necesar nimic special"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara pirms jebkādu regulējumu veikšanas, izņemot vadības panelī?",
+        "o": [
+          "Vienkārši jāatver durvis",
+          "Jānospiež poga STOP displeja panelī un jāatver priekšējās durvis",
+          "Jālūdz kolēģim vērot",
+          "Nekas īpašs nav nepieciešams"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which document is the COSHH Action Card?",
+        "o": [
+          "B61e",
+          "B82",
+          "B19",
+          "Batch Card"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to Karta Postępowania COSHH?",
+        "o": [
+          "B61e",
+          "B82",
+          "B19",
+          "Karta partii"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е Картата за действие COSHH?",
+        "o": [
+          "B61e",
+          "B82",
+          "B19",
+          "Партидна карта"
+        ]
+      },
+      "ro": {
+        "q": "Care document este Fișa de acțiune COSHH?",
+        "o": [
+          "B61e",
+          "B82",
+          "B19",
+          "Fișa de lot"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir COSHH rīcības karte?",
+        "o": [
+          "B61e",
+          "B82",
+          "B19",
+          "Partijas karte"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for providing training to operatives against this procedure?",
+        "o": [
+          "Only the QC Operative",
+          "The Team Leader in conjunction with the Night Shift Manager",
+          "HR department",
+          "The forklift operator"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za zapewnienie szkolenia operatorom w ramach tej procedury?",
+        "o": [
+          "Wyłącznie pracownik QC",
+          "Lider zespołu wspólnie z kierownikiem zmiany nocnej",
+          "Dział HR",
+          "Operator wózka widłowego"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за осигуряване на обучение на операторите по тази процедура?",
+        "o": [
+          "Само операторът по качествен контрол",
+          "Ръководителят на екипа заедно с нощния мениджър на смяната",
+          "Отдел „Човешки ресурси“",
+          "Операторът на мотокар"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru furnizarea instruirii operatorilor conform acestei proceduri?",
+        "o": [
+          "Doar operatorul de control al calității",
+          "Liderul de echipă împreună cu managerul turei de noapte",
+          "Departamentul de resurse umane",
+          "Operatorul de stivuitor"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par operatoru apmācības nodrošināšanu atbilstoši šai procedūrai?",
+        "o": [
+          "Tikai QC operators",
+          "Komandas vadītājs kopā ar nakts maiņas vadītāju",
+          "Personāla nodaļa",
+          "Autoiekrāvēja operators"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What is the first step in the pre-production start-up?",
+        "o": [
+          "Press MAKE BAGS",
+          "Switch on the wall mounted mains isolator and spiroflow master box",
+          "Load the film",
+          "Weigh a bag"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest pierwszy krok w rozruchu przedprodukcyjnym?",
+        "o": [
+          "Naciśnięcie MAKE BAGS",
+          "Włączenie naściennego wyłącznika głównego i skrzynki głównej spiroflow",
+          "Załadowanie folii",
+          "Zważenie worka"
+        ]
+      },
+      "bg": {
+        "q": "Коя е първата стъпка в предпроизводственото пускане?",
+        "o": [
+          "Натискане на MAKE BAGS",
+          "Включване на стенния главен изолатор и главната кутия spiroflow",
+          "Зареждане на филма",
+          "Претегляне на торба"
+        ]
+      },
+      "ro": {
+        "q": "Care este primul pas în pornirea de pre-producție?",
+        "o": [
+          "Apăsarea butonului MAKE BAGS",
+          "Pornirea întrerupătorului separator montat pe perete și a cutiei principale spiroflow",
+          "Încărcarea foliei",
+          "Cântărirea unui sac"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir pirmais solis pirmsražošanas palaišanā?",
+        "o": [
+          "MAKE BAGS nospiešana",
+          "Sienas galvenā izolatora un spiroflow galvenās kastes ieslēgšana",
+          "Plēves ielāde",
+          "Maisa nosvēršana"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "For line A009, what must you do to ensure the batch number is correct on the batch printer?",
+        "o": [
+          "Nothing, it updates automatically",
+          "Press the unlock screen button and enter the pass code (1965)",
+          "Call the engineer",
+          "Restart the whole machine"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić dla linii A009, aby upewnić się, że numer partii na drukarce partii jest poprawny?",
+        "o": [
+          "Nic, aktualizuje się automatycznie",
+          "Nacisnąć przycisk odblokowania ekranu i wprowadzić kod dostępu (1965)",
+          "Zadzwonić do inżyniera",
+          "Zrestartować całą maszynę"
+        ]
+      },
+      "bg": {
+        "q": "За линия A009, какво трябва да направите, за да сте сигурни, че номерът на партидата на принтера за партиди е правилен?",
+        "o": [
+          "Нищо, обновява се автоматично",
+          "Да натиснете бутона за отключване на екрана и да въведете код за достъп (1965)",
+          "Да се обадите на инженера",
+          "Да рестартирате цялата машина"
+        ]
+      },
+      "ro": {
+        "q": "Pentru linia A009, ce trebuie să faceți pentru a vă asigura că numărul de lot este corect pe imprimanta de loturi?",
+        "o": [
+          "Nimic, se actualizează automat",
+          "Apăsați butonul de deblocare a ecranului și introduceți codul de acces (1965)",
+          "Sunați inginerul",
+          "Reporniți întreaga mașină"
+        ]
+      },
+      "lv": {
+        "q": "Attiecībā uz līniju A009, kas jādara, lai pārliecinātos, ka partijas numurs uz partijas printera ir pareizs?",
+        "o": [
+          "Nekas, tas atjaunojas automātiski",
+          "Jānospiež ekrāna atbloķēšanas poga un jāievada piekļuves kods (1965)",
+          "Jāzvana inženierim",
+          "Jārestartē visa iekārta"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "In the SET UP sequence, what should you do after pressing RESET on the front display and weight panel?",
+        "o": [
+          "Press FILL BAGS immediately",
+          "Press MAKE BAGS and produce 2 empty bags",
+          "Switch off the machine",
+          "Call the QC Operator"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić w sekwencji konfiguracji po naciśnięciu RESET na przednim wyświetlaczu i panelu wagi?",
+        "o": [
+          "Od razu nacisnąć FILL BAGS",
+          "Nacisnąć MAKE BAGS i wyprodukować 2 puste worki",
+          "Wyłączyć maszynę",
+          "Zadzwonić do pracownika QC"
+        ]
+      },
+      "bg": {
+        "q": "В последователността за настройка, какво трябва да направите след натискане на RESET на предния дисплей и панела за тегло?",
+        "o": [
+          "Веднага да натиснете FILL BAGS",
+          "Да натиснете MAKE BAGS и да произведете 2 празни торби",
+          "Да изключите машината",
+          "Да се обадите на оператора по качествен контрол"
+        ]
+      },
+      "ro": {
+        "q": "În secvența de configurare, ce trebuie să faceți după apăsarea RESET pe afișajul frontal și panoul de greutate?",
+        "o": [
+          "Apăsați imediat FILL BAGS",
+          "Apăsați MAKE BAGS și produceți 2 saci goi",
+          "Opriți mașina",
+          "Sunați operatorul de control al calității"
+        ]
+      },
+      "lv": {
+        "q": "Sagatavošanas secībā, kas jādara pēc RESET nospiešanas priekšējā displejā un svara panelī?",
+        "o": [
+          "Uzreiz jānospiež FILL BAGS",
+          "Jānospiež MAKE BAGS un jāsaražo 2 tukši maisi",
+          "Jāizslēdz iekārta",
+          "Jāzvana QC operatoram"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Before pressing FILL BAGS to begin filling, what must you check on the empty bags produced?",
+        "o": [
+          "Nothing, just start filling",
+          "That the seals are OK and the batch number is correct and legible",
+          "Only the bag colour",
+          "That they are the correct weight"
+        ]
+      },
+      "pl": {
+        "q": "Co należy sprawdzić na wyprodukowanych pustych workach przed naciśnięciem FILL BAGS?",
+        "o": [
+          "Nic, po prostu zacząć napełnianie",
+          "Czy zgrzewy są prawidłowe, a numer partii poprawny i czytelny",
+          "Tylko kolor worka",
+          "Czy mają prawidłową wagę"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да проверите на произведените празни торби, преди да натиснете FILL BAGS?",
+        "o": [
+          "Нищо, просто започнете пълненето",
+          "Дали заварките са наред и номерът на партидата е правилен и четлив",
+          "Само цвета на торбата",
+          "Дали са с правилното тегло"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să verificați la sacii goi produși înainte de a apăsa FILL BAGS?",
+        "o": [
+          "Nimic, doar începeți umplerea",
+          "Că sigiliile sunt în regulă și numărul de lot este corect și lizibil",
+          "Doar culoarea sacului",
+          "Că au greutatea corectă"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāpārbauda saražotajiem tukšajiem maisiem pirms FILL BAGS nospiešanas?",
+        "o": [
+          "Nekas, vienkārši jāsāk pildīšana",
+          "Vai metinājumi ir kārtībā un partijas numurs ir pareizs un salasāms",
+          "Tikai maisa krāsa",
+          "Vai tiem ir pareizs svars"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What is the purpose of turning on the film reel run-out and print tape run-out sensors?",
+        "o": [
+          "To speed up the machine",
+          "To prevent running bags containing no batch numbers",
+          "To reduce noise",
+          "They have no functional purpose"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest cel włączenia czujników końca rolki folii i końca taśmy drukującej?",
+        "o": [
+          "Przyspieszenie pracy maszyny",
+          "Zapobieganie produkcji worków bez numerów partii",
+          "Zmniejszenie hałasu",
+          "Nie mają żadnego celu funkcjonalnego"
+        ]
+      },
+      "bg": {
+        "q": "Каква е целта на включването на сензорите за изчерпване на ролката филм и лентата за печат?",
+        "o": [
+          "Да се ускори машината",
+          "Да се предотврати произвеждането на торби без номера на партида",
+          "Да се намали шумът",
+          "Нямат функционална цел"
+        ]
+      },
+      "ro": {
+        "q": "Care este scopul pornirii senzorilor de epuizare a rolei de folie și a benzii de imprimare?",
+        "o": [
+          "Pentru a accelera mașina",
+          "Pentru a preveni funcționarea cu saci fără numere de lot",
+          "Pentru a reduce zgomotul",
+          "Nu au niciun scop funcțional"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir mērķis ieslēgt plēves ruļļa beigu un drukas lentes beigu sensorus?",
+        "o": [
+          "Lai paātrinātu iekārtu",
+          "Lai novērstu maisu ražošanu bez partijas numuriem",
+          "Lai samazinātu troksni",
+          "Tiem nav funkcionāla mērķa"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How do you check the vertical and horizontal seal jaws are at the correct temperature?",
+        "o": [
+          "Touch them carefully",
+          "Press MENU then HEAT on the visual display screen and compare ACTUAL heat to SET heat",
+          "Wait exactly 10 minutes",
+          "There is no way to check"
+        ]
+      },
+      "pl": {
+        "q": "Jak sprawdzić, czy pionowe i poziome szczęki zgrzewające mają prawidłową temperaturę?",
+        "o": [
+          "Dotknąć ich ostrożnie",
+          "Nacisnąć MENU, a następnie HEAT na ekranie wyświetlacza i porównać ACTUAL heat z SET heat",
+          "Odczekać dokładnie 10 minut",
+          "Nie ma możliwości sprawdzenia"
+        ]
+      },
+      "bg": {
+        "q": "Как проверявате дали вертикалните и хоризонталните заваръчни челюсти са с правилната температура?",
+        "o": [
+          "Да ги докоснете внимателно",
+          "Да натиснете MENU, след което HEAT на дисплея и да сравните ACTUAL heat със SET heat",
+          "Да изчакате точно 10 минути",
+          "Няма начин за проверка"
+        ]
+      },
+      "ro": {
+        "q": "Cum verificați dacă fălcile de sigilare verticale și orizontale sunt la temperatura corectă?",
+        "o": [
+          "Le atingeți cu grijă",
+          "Apăsați MENU apoi HEAT pe ecranul de afișare și comparați ACTUAL heat cu SET heat",
+          "Așteptați exact 10 minute",
+          "Nu există nicio modalitate de verificare"
+        ]
+      },
+      "lv": {
+        "q": "Kā pārbaudīt, vai vertikālās un horizontālās metināšanas žokļi ir pareizā temperatūrā?",
+        "o": [
+          "Uzmanīgi tiem pieskarties",
+          "Jānospiež MENU, tad HEAT displeja ekrānā un jāsalīdzina ACTUAL heat ar SET heat",
+          "Jāgaida tieši 10 minūtes",
+          "Nav iespējams pārbaudīt"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How often must a bag be weighed with the weight recorded on the B19 form?",
+        "o": [
+          "Every 10 minutes",
+          "Every 30 minutes",
+          "Once per shift",
+          "Only at the end of the batch"
+        ]
+      },
+      "pl": {
+        "q": "Jak często należy ważyć worek i zapisywać wagę na formularzu B19?",
+        "o": [
+          "Co 10 minut",
+          "Co 30 minut",
+          "Raz na zmianę",
+          "Tylko na koniec partii"
+        ]
+      },
+      "bg": {
+        "q": "Колко често трябва да се претегля торба с теглото, записано във формуляр B19?",
+        "o": [
+          "На всеки 10 минути",
+          "На всеки 30 минути",
+          "Веднъж на смяна",
+          "Само в края на партидата"
+        ]
+      },
+      "ro": {
+        "q": "Cât de des trebuie cântărit un sac, cu greutatea înregistrată în formularul B19?",
+        "o": [
+          "La fiecare 10 minute",
+          "La fiecare 30 de minute",
+          "O dată pe tură",
+          "Doar la sfârșitul lotului"
+        ]
+      },
+      "lv": {
+        "q": "Cik bieži jāsver maiss, un svars jāreģistrē B19 veidlapā?",
+        "o": [
+          "Ik pēc 10 minūtēm",
+          "Ik pēc 30 minūtēm",
+          "Vienreiz maiņā",
+          "Tikai partijas beigās"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What should happen if the QC Operator is not available for the First Pallet Check?",
+        "o": [
+          "The pallet is sent out without checking",
+          "A Red Quarantine Sticker is applied stating the reason, and the forklift operator informed",
+          "The line operative performs the check themselves",
+          "The pallet is destroyed"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić, jeśli pracownik QC nie jest dostępny do kontroli pierwszej palety?",
+        "o": [
+          "Wysłać paletę bez kontroli",
+          "Nakleić czerwoną naklejkę kwarantanny z podaniem powodu i poinformować operatora wózka widłowego",
+          "Operator linii sam wykonuje kontrolę",
+          "Zniszczyć paletę"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се направи, ако операторът по качествен контрол не е наличен за проверката на първата палета?",
+        "o": [
+          "Да се изпрати палетата без проверка",
+          "Да се постави червен стикер за карантина с посочена причина и да се информира операторът на мотокара",
+          "Операторът на линията сам да извърши проверката",
+          "Да се унищожи палетата"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie făcut dacă operatorul de control al calității nu este disponibil pentru verificarea primului palet?",
+        "o": [
+          "Se trimite paletul fără verificare",
+          "Se aplică o etichetă roșie de carantină cu motivul și se informează operatorul de stivuitor",
+          "Operatorul de linie efectuează el însuși verificarea",
+          "Se distruge paletul"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara, ja QC operators nav pieejams pirmās paletes pārbaudei?",
+        "o": [
+          "Paletei jāļauj doties tālāk bez pārbaudes",
+          "Jāuzlīmē sarkana karantīnas uzlīme ar iemeslu un jāinformē autoiekrāvēja operators",
+          "Līnijas operators pats veic pārbaudi",
+          "Palete jāiznīcina"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What should happen automatically when a film reel runs out?",
+        "o": [
+          "Nothing happens",
+          "The machine should automatically stop and the error alarm should sound",
+          "The machine speeds up",
+          "A new reel loads automatically"
+        ]
+      },
+      "pl": {
+        "q": "Co powinno stać się automatycznie, gdy skończy się rolka folii?",
+        "o": [
+          "Nic się nie dzieje",
+          "Maszyna powinna się automatycznie zatrzymać i uruchomić się alarm błędu",
+          "Maszyna przyspiesza",
+          "Nowa rolka ładuje się automatycznie"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се случи автоматично, когато ролката филм свърши?",
+        "o": [
+          "Нищо не се случва",
+          "Машината трябва автоматично да спре и да се задейства алармата за грешка",
+          "Машината ускорява",
+          "Нова ролка се зарежда автоматично"
+        ]
+      },
+      "ro": {
+        "q": "Ce ar trebui să se întâmple automat când se termină rola de folie?",
+        "o": [
+          "Nu se întâmplă nimic",
+          "Mașina ar trebui să se oprească automat și să sune alarma de eroare",
+          "Mașina accelerează",
+          "O rolă nouă se încarcă automat"
+        ]
+      },
+      "lv": {
+        "q": "Kam automātiski jānotiek, kad izbeidzas plēves rullis?",
+        "o": [
+          "Nekas nenotiek",
+          "Iekārtai automātiski jāapstājas un jāatskan kļūdas signāls",
+          "Iekārta paātrinās",
+          "Jauns rullis ielādējas automātiski"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Before removing the old film reel, what must you check about the air mandrel switch?",
+        "o": [
+          "Nothing, just remove the reel",
+          "That it is off (down) and the bladder is deflated",
+          "That it is on (up)",
+          "That it is disconnected from power"
+        ]
+      },
+      "pl": {
+        "q": "Co należy sprawdzić dotyczące przełącznika trzpienia powietrznego przed usunięciem starej rolki folii?",
+        "o": [
+          "Nic, po prostu usunąć rolkę",
+          "Czy jest wyłączony (opuszczony) i mieszek jest opróżniony z powietrza",
+          "Czy jest włączony (podniesiony)",
+          "Czy jest odłączony od zasilania"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да проверите относно превключвателя на въздушния дорник, преди да отстраните старата ролка филм?",
+        "o": [
+          "Нищо, просто отстранете ролката",
+          "Че е изключен (долу) и балонът е издухан",
+          "Че е включен (горе)",
+          "Че е изключен от захранването"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să verificați cu privire la comutatorul mandrinei de aer înainte de a scoate rola veche de folie?",
+        "o": [
+          "Nimic, doar scoateți rola",
+          "Că este oprit (jos) și camera este dezumflată",
+          "Că este pornit (sus)",
+          "Că este deconectat de la alimentare"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāpārbauda par gaisa turētāja slēdzi pirms vecā plēves ruļļa noņemšanas?",
+        "o": [
+          "Nekas, vienkārši jānoņem rullis",
+          "Vai tas ir izslēgts (lejā) un balons ir izpūsts",
+          "Vai tas ir ieslēgts (augšā)",
+          "Vai tas ir atvienots no strāvas"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If the film becomes stuck in the forming shoulder, what is one of the first steps?",
+        "o": [
+          "Continue running the machine",
+          "Stop the machine using the stop button on the visual display",
+          "Call the QC Operator immediately",
+          "Ignore it, it will clear itself"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli folia utknie w ramieniu formującym, jaki jest jeden z pierwszych kroków?",
+        "o": [
+          "Kontynuować pracę maszyny",
+          "Zatrzymać maszynę za pomocą przycisku stop na wyświetlaczu",
+          "Natychmiast zadzwonić do pracownika QC",
+          "Zignorować, samo się rozwiąże"
+        ]
+      },
+      "bg": {
+        "q": "Ако филмът се заклещи в оформящото рамо, коя е една от първите стъпки?",
+        "o": [
+          "Да продължите работата на машината",
+          "Да спрете машината с бутона за стоп на дисплея",
+          "Незабавно да се обадите на оператора по качествен контрол",
+          "Да го игнорирате, ще се оправи само"
+        ]
+      },
+      "ro": {
+        "q": "Dacă folia se blochează în umărul de formare, care este unul dintre primii pași?",
+        "o": [
+          "Continuați funcționarea mașinii",
+          "Opriți mașina folosind butonul de oprire de pe afișaj",
+          "Sunați imediat operatorul de control al calității",
+          "Ignorați, se va rezolva singur"
+        ]
+      },
+      "lv": {
+        "q": "Ja plēve iesprūst formēšanas plecā, kāds ir viens no pirmajiem soļiem?",
+        "o": [
+          "Turpināt iekārtas darbību",
+          "Apturēt iekārtu, izmantojot apturēšanas pogu displejā",
+          "Nekavējoties zvanīt QC operatoram",
+          "Ignorēt, tas atrisināsies pats"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "When pulling film down around the tube manually, how many operatives should be involved?",
+        "o": [
+          "One person alone is sufficient",
+          "At least two — one handling the film and a second standing near the heated element to stop anyone touching it",
+          "A minimum of five",
+          "No specific number is required"
+        ]
+      },
+      "pl": {
+        "q": "Podczas ręcznego ściągania folii wokół rury, ilu operatorów powinno w tym uczestniczyć?",
+        "o": [
+          "Wystarczy jedna osoba",
+          "Co najmniej dwie – jedna zajmująca się folią, a druga stojąca przy elemencie grzewczym, aby nikt go nie dotknął",
+          "Minimum pięciu",
+          "Nie jest wymagana konkretna liczba"
+        ]
+      },
+      "bg": {
+        "q": "При ръчно издърпване на филма надолу около тръбата, колко оператори трябва да участват?",
+        "o": [
+          "Достатъчен е един човек",
+          "Поне двама – единият работи с филма, а вторият стои близо до нагряващия елемент, за да спре някой да го докосне",
+          "Минимум петима",
+          "Не се изисква конкретен брой"
+        ]
+      },
+      "ro": {
+        "q": "La tragerea manuală a foliei în jurul tubului, câți operatori trebuie implicați?",
+        "o": [
+          "O singură persoană este suficientă",
+          "Cel puțin doi — unul manevrând folia și al doilea stând lângă elementul încălzit pentru a opri pe oricine să îl atingă",
+          "Minimum cinci",
+          "Nu este necesar un număr specific"
+        ]
+      },
+      "lv": {
+        "q": "Manuāli velkot plēvi lejup ap cauruli, cik operatoriem jāpiedalās?",
+        "o": [
+          "Pietiek ar vienu cilvēku",
+          "Vismaz diviem – vienam, kas strādā ar plēvi, un otram, kas stāv pie sildelementa, lai neviens tam nepieskartos",
+          "Vismaz pieciem",
+          "Nav nepieciešams konkrēts skaits"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If the vertical heated element arm will not release to 180°, what should you do?",
+        "o": [
+          "Force it further",
+          "Consult your line manager before proceeding",
+          "Ignore it and continue",
+          "Use a hammer to release it"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli ramię pionowego elementu grzewczego nie zwalnia się do 180°, co należy zrobić?",
+        "o": [
+          "Siłować je dalej",
+          "Skonsultować się z kierownikiem linii przed kontynuowaniem",
+          "Zignorować i kontynuować",
+          "Użyć młotka, aby je zwolnić"
+        ]
+      },
+      "bg": {
+        "q": "Ако рамото на вертикалния нагряващ елемент не се освобождава до 180°, какво трябва да направите?",
+        "o": [
+          "Да го форсирате допълнително",
+          "Да се консултирате с ръководителя на линията, преди да продължите",
+          "Да игнорирате и да продължите",
+          "Да използвате чук, за да го освободите"
+        ]
+      },
+      "ro": {
+        "q": "Dacă brațul elementului încălzit vertical nu se eliberează la 180°, ce trebuie să faceți?",
+        "o": [
+          "Îl forțați mai mult",
+          "Consultați managerul liniei înainte de a continua",
+          "Ignorați și continuați",
+          "Folosiți un ciocan pentru a-l elibera"
+        ]
+      },
+      "lv": {
+        "q": "Ja vertikālā sildelementa svira neatbrīvojas līdz 180°, kas jādara?",
+        "o": [
+          "Jāturpina spiest to spēcīgāk",
+          "Jākonsultējas ar līnijas vadītāju pirms turpināšanas",
+          "Jāignorē un jāturpina",
+          "Jāizmanto āmurs, lai to atbrīvotu"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who should attempt the task of cleaning the hot sealing jaws/Euroslot?",
+        "o": [
+          "Anyone on shift",
+          "Only those who have received supervised instruction",
+          "Only the QC Operative",
+          "Only management"
+        ]
+      },
+      "pl": {
+        "q": "Kto powinien podejmować się czyszczenia gorących szczęk zgrzewających/Euroslot?",
+        "o": [
+          "Każdy na zmianie",
+          "Tylko osoby, które otrzymały nadzorowane szkolenie",
+          "Tylko pracownik QC",
+          "Tylko kierownictwo"
+        ]
+      },
+      "bg": {
+        "q": "Кой трябва да се заема със задачата за почистване на горещите заваръчни челюсти/Euroslot?",
+        "o": [
+          "Всеки на смяна",
+          "Само тези, които са получили обучение под наблюдение",
+          "Само операторът по качествен контрол",
+          "Само ръководството"
+        ]
+      },
+      "ro": {
+        "q": "Cine ar trebui să încerce sarcina de curățare a fălcilor de sigilare fierbinți/Euroslot?",
+        "o": [
+          "Oricine este în tură",
+          "Doar cei care au primit instruire supravegheată",
+          "Doar operatorul de control al calității",
+          "Doar conducerea"
+        ]
+      },
+      "lv": {
+        "q": "Kam vajadzētu ķerties pie karsto metināšanas žokļu/Euroslot tīrīšanas uzdevuma?",
+        "o": [
+          "Jebkuram maiņā esošam",
+          "Tikai tiem, kas saņēmuši pārraudzītu instruktāžu",
+          "Tikai QC operatoram",
+          "Tikai vadībai"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "From which side must the machine be cleaned?",
+        "o": [
+          "The front right hand side",
+          "The front left hand side",
+          "The rear",
+          "Either side, it doesn't matter"
+        ]
+      },
+      "pl": {
+        "q": "Z której strony należy czyścić maszynę?",
+        "o": [
+          "Z przedniej prawej strony",
+          "Z przedniej lewej strony",
+          "Z tyłu",
+          "Z dowolnej strony, nie ma znaczenia"
+        ]
+      },
+      "bg": {
+        "q": "От коя страна трябва да се почиства машината?",
+        "o": [
+          "От предната дясна страна",
+          "От предната лява страна",
+          "Отзад",
+          "От която и да е страна, няма значение"
+        ]
+      },
+      "ro": {
+        "q": "Din ce parte trebuie curățată mașina?",
+        "o": [
+          "Partea din față dreapta",
+          "Partea din față stânga",
+          "Din spate",
+          "Oricare parte, nu contează"
+        ]
+      },
+      "lv": {
+        "q": "No kuras puses jātīra iekārta?",
+        "o": [
+          "No priekšpuses labās puses",
+          "No priekšpuses kreisās puses",
+          "No aizmugures",
+          "No jebkuras puses, tam nav nozīmes"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What PPE must be worn when emptying damaged sachets?",
+        "o": [
+          "No specific PPE required",
+          "Packing gloves, overalls with sleeves rolled down, and eye protection",
+          "Only a hard hat",
+          "Only safety glasses"
+        ]
+      },
+      "pl": {
+        "q": "Jakie ŚOI należy nosić podczas opróżniania uszkodzonych saszetek?",
+        "o": [
+          "Nie jest wymagane żadne konkretne ŚOI",
+          "Rękawice pakujące, kombinezon z podwiniętymi rękawami oraz ochrona oczu",
+          "Tylko kask",
+          "Tylko okulary ochronne"
+        ]
+      },
+      "bg": {
+        "q": "Какво PPE трябва да се носи при изпразване на повредени сашета?",
+        "o": [
+          "Не се изисква конкретно PPE",
+          "Ръкавици за опаковане, гащеризон с навити ръкави и защита за очите",
+          "Само каска",
+          "Само предпазни очила"
+        ]
+      },
+      "ro": {
+        "q": "Ce echipament de protecție trebuie purtat la golirea plicurilor deteriorate?",
+        "o": [
+          "Nu este necesar niciun echipament specific",
+          "Mănuși de ambalare, salopetă cu mânecile suflecate și protecție pentru ochi",
+          "Doar cască de protecție",
+          "Doar ochelari de protecție"
+        ]
+      },
+      "lv": {
+        "q": "Kāds PPE jāvalkā, iztukšojot bojātos maisiņus?",
+        "o": [
+          "Nav nepieciešams konkrēts PPE",
+          "Iepakošanas cimdi, kombinezons ar uzlocītām piedurknēm un acu aizsardzība",
+          "Tikai aizsargķivere",
+          "Tikai aizsargbrilles"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must be done at the end of shift closedown regarding pallets of powder going back upstairs?",
+        "o": [
+          "Nothing specific",
+          "They must be correctly labelled with the filler powder product code",
+          "They should be left unlabelled",
+          "They should be discarded"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić na koniec zmiany w odniesieniu do palet z proszkiem wracających na górę?",
+        "o": [
+          "Nic konkretnego",
+          "Muszą być prawidłowo oznakowane kodem produktu proszku wypełniającego",
+          "Powinny pozostać nieoznakowane",
+          "Powinny zostać wyrzucone"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се направи в края на смяната по отношение на палетите с прах, връщащи се горе?",
+        "o": [
+          "Нищо конкретно",
+          "Трябва да бъдат правилно етикетирани с кода на продукта на пълнещия прах",
+          "Трябва да останат без етикет",
+          "Трябва да бъдат изхвърлени"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie făcut la finalul turei referitor la paleții de pudră care se întorc la etaj?",
+        "o": [
+          "Nimic specific",
+          "Trebuie etichetați corect cu codul produsului de pudră de umplutură",
+          "Trebuie lăsați neetichetați",
+          "Trebuie aruncați"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara maiņas noslēgumā attiecībā uz pulvera paletēm, kas dodas atpakaļ uz augšstāvu?",
+        "o": [
+          "Nekas konkrēts",
+          "Tām jābūt pareizi marķētām ar pildvielas pulvera produkta kodu",
+          "Tās jāatstāj bez marķējuma",
+          "Tās jāizmet"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "In an emergency, what is the first action to take?",
+        "o": [
+          "Call the office",
+          "Press the STOP button on the display panel to suspend filling",
+          "Leave the area without stopping the machine",
+          "Try to fix the fault yourself first"
+        ]
+      },
+      "pl": {
+        "q": "Jakie jest pierwsze działanie w sytuacji awaryjnej?",
+        "o": [
+          "Zadzwonić do biura",
+          "Nacisnąć przycisk STOP na panelu wyświetlacza, aby zawiesić napełnianie",
+          "Opuścić obszar bez zatrzymywania maszyny",
+          "Najpierw spróbować samodzielnie naprawić usterkę"
+        ]
+      },
+      "bg": {
+        "q": "Кое е първото действие в случай на авария?",
+        "o": [
+          "Да се обадите в офиса",
+          "Да натиснете бутона STOP на дисплейния панел, за да спрете пълненето",
+          "Да напуснете зоната, без да спирате машината",
+          "Първо да опитате сами да отстраните повредата"
+        ]
+      },
+      "ro": {
+        "q": "Care este prima acțiune într-o situație de urgență?",
+        "o": [
+          "Sunați la birou",
+          "Apăsați butonul STOP de pe panoul de afișare pentru a suspenda umplerea",
+          "Părăsiți zona fără a opri mașina",
+          "Încercați mai întâi să reparați singur defecțiunea"
+        ]
+      },
+      "lv": {
+        "q": "Kāda ir pirmā darbība avārijas situācijā?",
+        "o": [
+          "Jāzvana uz biroju",
+          "Jānospiež poga STOP displeja panelī, lai apturētu pildīšanu",
+          "Jāpamet zona, neapturot iekārtu",
+          "Vispirms jāmēģina pašam novērst bojājumu"
+        ]
+      },
+      "correct": 1
+    }
+  ]
+}
