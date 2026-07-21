@@ -39,5 +39,10 @@
   "team_leader_signature": "Podpis lidera zespołu",
   "content_not_translated_notice": "Ta procedura nie została jeszcze przetłumaczona na ten język — wyświetlono wersję angielską.",
   "search_placeholder": "Wpisz, aby wyszukać procedurę…",
-  "no_matches": "Brak procedur pasujących do wyszukiwania."
+  "no_matches": "Brak procedur pasujących do wyszukiwania.",
+  "edit_name_btn": "Edytuj",
+  "save_name_btn": "Zapisz",
+  "download_pdf_btn": "⬇ Pobierz PDF",
+  "generating_pdf": "Generowanie…",
+  "pdf_generation_failed": "Nie udało się wygenerować pliku PDF — spróbuj użyć opcji Drukuj i wybierz \"Zapisz jako PDF\"."
 }
