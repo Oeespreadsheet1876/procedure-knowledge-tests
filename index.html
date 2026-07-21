@@ -580,6 +580,11 @@
         <input type="date" id="candidate-date">
       </div>
     </div>
+    <div style="margin-bottom:22px;">
+      <label data-i18n="shift_manager_label"></label>
+      <input type="text" id="shift-manager-name" placeholder="">
+      <p class="hint" style="margin-top:6px; margin-bottom:0;" data-i18n="shift_manager_hint"></p>
+    </div>
     <p class="error-msg" id="setup-error" data-i18n="setup_error"></p>
 
     <button class="btn" id="start-btn" onclick="startTest()" disabled data-i18n="start_test_btn"></button>
@@ -588,6 +593,7 @@
   <div id="screen-quiz" class="card" style="display:none;">
     <p class="eyebrow" id="quiz-eyebrow"></p>
     <div class="candidate-badge" id="candidate-badge-quiz"></div>
+    <div class="candidate-badge" id="shift-manager-badge-quiz"></div>
     <div class="progress-label">
       <span id="progress-text"></span>
       <span id="progress-pct"></span>
@@ -607,6 +613,7 @@
 
   <div id="screen-results" class="card" style="display:none;">
     <div class="candidate-badge" id="candidate-badge-results" style="margin-bottom:16px;"></div>
+    <div class="candidate-badge" id="shift-manager-badge-results" style="margin-bottom:16px;"></div>
     <div class="result-banner" id="result-banner"></div>
     <div class="result-sub" id="result-sub"></div>
     <div class="score-circle" id="score-circle">
@@ -668,9 +675,15 @@
           </div>
 
           <div class="cert-foot">
-            <div class="sig-line" id="cert-signature-label"></div>
+            <div style="text-align:center; width:180px;">
+              <div id="cert-signature-name" style="font-weight:600; font-size:13px; min-height:16px;"></div>
+              <div class="sig-line" id="cert-signature-label"></div>
+            </div>
             <div style="font-size:11px;" id="cert-issue">—</div>
-            <div class="sig-line" id="cert-date-label-2"></div>
+            <div style="text-align:center; width:180px;">
+              <div id="cert-signature-date" style="font-weight:600; font-size:13px; min-height:16px;"></div>
+              <div class="sig-line" id="cert-date-label-2"></div>
+            </div>
           </div>
         </div>
       </div>
@@ -775,33 +788,47 @@ function escapeHtml(str){
 }
 
 function renderCandidateBadges(){
-  const name = document.getElementById("candidate-name").value.trim();
-  ["candidate-badge-quiz", "candidate-badge-results"].forEach(id => {
+  renderNameBadge("candidate-name", ["candidate-badge-quiz", "candidate-badge-results"], false);
+  renderNameBadge("shift-manager-name", ["shift-manager-badge-quiz", "shift-manager-badge-results"], true);
+}
+
+function renderNameBadge(fieldId, targetIds, optional){
+  const value = document.getElementById(fieldId).value.trim();
+  targetIds.forEach(id => {
     const el = document.getElementById(id);
     if(!el) return;
-    el.innerHTML =
-      '<span class="badge-name">' + escapeHtml(name) + '</span>' +
-      '<button type="button" class="badge-edit-btn" onclick="startEditName(\'' + id + '\')">' +
-      t("edit_name_btn") + '</button>';
+    if(!value && optional){
+      el.innerHTML =
+        '<button type="button" class="badge-edit-btn" onclick="startEditName(\'' + id + '\',\'' + fieldId + '\')">' +
+        t("add_shift_manager_btn") + '</button>';
+    }else{
+      const prefix = optional ? (t("shift_manager_badge_prefix") + " ") : "";
+      el.innerHTML =
+        '<span class="badge-name">' + prefix + escapeHtml(value) + '</span>' +
+        '<button type="button" class="badge-edit-btn" onclick="startEditName(\'' + id + '\',\'' + fieldId + '\')">' +
+        t("edit_name_btn") + '</button>';
+    }
   });
 }
 
-function startEditName(sourceId){
+function startEditName(sourceId, fieldId){
   const el = document.getElementById(sourceId);
-  const current = document.getElementById("candidate-name").value;
+  const current = document.getElementById(fieldId).value;
   el.innerHTML =
     '<input type="text" class="badge-edit-input" id="inline-name-input" value="' + escapeHtml(current) + '">' +
-    '<button type="button" class="badge-save-btn" onclick="saveEditName()">' + t("save_name_btn") + '</button>';
+    '<button type="button" class="badge-save-btn" onclick="saveEditName(\'' + fieldId + '\')">' + t("save_name_btn") + '</button>';
   const input = document.getElementById("inline-name-input");
   input.focus();
   input.select();
-  input.addEventListener("keydown", (e) => { if(e.key === "Enter") saveEditName(); });
+  input.addEventListener("keydown", (e) => { if(e.key === "Enter") saveEditName(fieldId); });
 }
 
-function saveEditName(){
+function saveEditName(fieldId){
   const val = document.getElementById("inline-name-input").value.trim();
-  if(val){
-    document.getElementById("candidate-name").value = val;
+  if(fieldId === "candidate-name"){
+    if(val) document.getElementById(fieldId).value = val;
+  }else{
+    document.getElementById(fieldId).value = val; // shift manager can be cleared back to blank
   }
   renderCandidateBadges();
   if(document.getElementById("screen-certificate").style.display !== "none"){
@@ -1149,6 +1176,10 @@ function populateCertificateFields(){
   document.getElementById("cert-passmark-label").textContent = t("cert_pass_mark_label");
   document.getElementById("cert-signature-label").textContent = t("team_leader_signature");
   document.getElementById("cert-date-label-2").textContent = t("cert_date_label");
+
+  const shiftManager = document.getElementById("shift-manager-name").value.trim();
+  document.getElementById("cert-signature-name").textContent = shiftManager;
+  document.getElementById("cert-signature-date").textContent = shiftManager ? formatted : "";
 }
 
 function showCertificate(){
