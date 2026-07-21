@@ -44,5 +44,9 @@
   "save_name_btn": "Salvează",
   "download_pdf_btn": "⬇ Descarcă PDF",
   "generating_pdf": "Se generează…",
-  "pdf_generation_failed": "Nu s-a putut genera fișierul PDF — încercați Printează și alegeți „Salvează ca PDF”."
+  "pdf_generation_failed": "Nu s-a putut genera fișierul PDF — încercați Printează și alegeți „Salvează ca PDF”.",
+  "shift_manager_label": "Șef de tură / Lider de echipă (opțional)",
+  "shift_manager_hint": "Dacă este completat, acest nume va apărea pe certificat în locul unei linii de semnătură goale.",
+  "add_shift_manager_btn": "+ Adaugă șef de tură",
+  "shift_manager_badge_prefix": "Șef de tură:"
 }
