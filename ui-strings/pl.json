@@ -44,5 +44,9 @@
   "save_name_btn": "Zapisz",
   "download_pdf_btn": "⬇ Pobierz PDF",
   "generating_pdf": "Generowanie…",
-  "pdf_generation_failed": "Nie udało się wygenerować pliku PDF — spróbuj użyć opcji Drukuj i wybierz \"Zapisz jako PDF\"."
+  "pdf_generation_failed": "Nie udało się wygenerować pliku PDF — spróbuj użyć opcji Drukuj i wybierz \"Zapisz jako PDF\".",
+  "shift_manager_label": "Kierownik zmiany / Lider zespołu (opcjonalnie)",
+  "shift_manager_hint": "Jeśli zostanie wypełnione, to imię i nazwisko pojawi się na certyfikacie zamiast pustej linii podpisu.",
+  "add_shift_manager_btn": "+ Dodaj kierownika zmiany",
+  "shift_manager_badge_prefix": "Kierownik zmiany:"
 }
