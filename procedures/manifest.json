@@ -44,6 +44,18 @@
         "ro": "Linii de umplere cu pudră",
         "lv": "Pulvera pildīšanas līnijas"
       }
+    },
+    {
+      "id": "wp74a",
+      "file": "wp74a.json",
+      "docRef": "WP74A",
+      "title": {
+        "en": "Loading of Triple Chamber Baler (Fillers)",
+        "pl": "Załadunek potrójnej prasy belującej (Fillers)",
+        "bg": "Товарене на тройния балиращ пресовач (Fillers)",
+        "ro": "Încărcarea presei de balotat cu trei camere (Fillers)",
+        "lv": "Trīskameru balošanas preses iekraušana (Fillers)"
+      }
     }
   ]
 }

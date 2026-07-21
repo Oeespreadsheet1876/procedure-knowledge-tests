@@ -1,0 +1,783 @@
+{
+  "id": "wp74a",
+  "docRef": "WP74A",
+  "issue": "1",
+  "title": {
+    "en": "Loading of Triple Chamber Baler (Fillers)",
+    "pl": "Załadunek potrójnej prasy belującej (Fillers)",
+    "bg": "Товарене на тройния балиращ пресовач (Fillers)",
+    "ro": "Încărcarea presei de balotat cu trei camere (Fillers)",
+    "lv": "Trīskameru balošanas preses iekraušana (Fillers)"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "en": {
+        "q": "Who can load the Triple Chamber Baler?",
+        "o": [
+          "Any warehouse employee",
+          "Only a factory employee trained to do so",
+          "Only the Team Leader",
+          "Anyone during a quiet period"
+        ]
+      },
+      "pl": {
+        "q": "Kto może załadowywać potrójną prasę belującą?",
+        "o": [
+          "Dowolny pracownik magazynu",
+          "Wyłącznie pracownik fabryki przeszkolony do tego zadania",
+          "Tylko lider zespołu",
+          "Każdy w spokojniejszym okresie"
+        ]
+      },
+      "bg": {
+        "q": "Кой може да товари тройния балиращ пресовач?",
+        "o": [
+          "Всеки служител на склада",
+          "Само фабричен служител, обучен за тази задача",
+          "Само ръководителят на екипа",
+          "Всеки в по-спокоен период"
+        ]
+      },
+      "ro": {
+        "q": "Cine poate încărca presa de balotat cu trei camere?",
+        "o": [
+          "Orice angajat al depozitului",
+          "Doar un angajat al fabricii instruit pentru această sarcină",
+          "Doar liderul de echipă",
+          "Oricine în perioadele mai liniștite"
+        ]
+      },
+      "lv": {
+        "q": "Kas drīkst iekraut trīskameru balošanas presi?",
+        "o": [
+          "Jebkurš noliktavas darbinieks",
+          "Tikai rūpnīcas darbinieks, kas apmācīts šim uzdevumam",
+          "Tikai komandas vadītājs",
+          "Jebkurš mierīgākā periodā"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What does \"loading\" the baler mean?",
+        "o": [
+          "Pressing the start button",
+          "Bringing waste to the baler and placing it inside",
+          "Repairing the hydraulic system",
+          "Sweeping the floor around the baler"
+        ]
+      },
+      "pl": {
+        "q": "Co oznacza „załadunek” prasy?",
+        "o": [
+          "Naciśnięcie przycisku start",
+          "Przyniesienie odpadów do prasy i umieszczenie ich w środku",
+          "Naprawę układu hydraulicznego",
+          "Zamiatanie podłogi wokół prasy"
+        ]
+      },
+      "bg": {
+        "q": "Какво означава „товарене“ на пресовача?",
+        "o": [
+          "Натискане на бутона старт",
+          "Донасяне на отпадъците до пресовача и поставянето им вътре",
+          "Ремонт на хидравличната система",
+          "Метене на пода около пресовача"
+        ]
+      },
+      "ro": {
+        "q": "Ce înseamnă „încărcarea” presei?",
+        "o": [
+          "Apăsarea butonului de pornire",
+          "Aducerea deșeurilor la presă și așezarea lor în interior",
+          "Repararea sistemului hidraulic",
+          "Măturarea zonei din jurul presei"
+        ]
+      },
+      "lv": {
+        "q": "Ko nozīmē preses „iekraušana”?",
+        "o": [
+          "Palaišanas pogas nospiešana",
+          "Atkritumu atnešana pie preses un ievietošana tajā",
+          "Hidrauliskās sistēmas remonts",
+          "Grīdas slaucīšana ap presi"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What should you do if the main head is above the baler and too heavy to move?",
+        "o": [
+          "Push harder until it moves",
+          "Ask for assistance, or leave the waste next to the baler out of the walkway",
+          "Climb over it",
+          "Force the buttons to move it"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić, jeśli główna głowica znajduje się nad prasą i jest zbyt ciężka do przesunięcia?",
+        "o": [
+          "Pchać mocniej, aż się ruszy",
+          "Poprosić o pomoc lub zostawić odpady obok prasy, poza ciągiem komunikacyjnym",
+          "Przejść nad nią",
+          "Wymusić naciśnięcie przycisków, aby ją przesunąć"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направите, ако главата е над пресовача и е твърде тежка за преместване?",
+        "o": [
+          "Да натиснете по-силно, докато се премести",
+          "Да помолите за помощ или да оставите отпадъците до пресовача, извън пътеката",
+          "Да преминете над нея",
+          "Да натиснете насила бутоните, за да я преместите"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți dacă capul principal este deasupra presei și este prea greu pentru a fi mutat?",
+        "o": [
+          "Împingeți mai tare până se mișcă",
+          "Cereți asistență sau lăsați deșeurile lângă presă, în afara culoarului de trecere",
+          "Treceți peste el",
+          "Forțați butoanele pentru a-l mișca"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara, ja galvenā galva atrodas virs preses un ir pārāk smaga, lai to pārvietotu?",
+        "o": [
+          "Jāspiež stiprāk, līdz tā pakustas",
+          "Jālūdz palīdzība vai jāatstāj atkritumi blakus presei, ārpus ejas",
+          "Jāpāriet tai pāri",
+          "Piespiedu kārtā jānospiež pogas, lai to pārvietotu"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Under what circumstances can you operate the baler if you are not fully trained?",
+        "o": [
+          "During quiet periods only",
+          "Under no circumstances",
+          "If a colleague tells you it's fine",
+          "Only in an emergency"
+        ]
+      },
+      "pl": {
+        "q": "W jakich okolicznościach można obsługiwać prasę, jeśli nie jest się w pełni przeszkolonym?",
+        "o": [
+          "Tylko w spokojniejszych okresach",
+          "W żadnych okolicznościach",
+          "Jeśli kolega powie, że to w porządku",
+          "Tylko w sytuacji awaryjnej"
+        ]
+      },
+      "bg": {
+        "q": "При какви обстоятелства можете да работите с пресовача, ако не сте напълно обучени?",
+        "o": [
+          "Само в по-спокойни периоди",
+          "При никакви обстоятелства",
+          "Ако колега каже, че е добре",
+          "Само в авариен случай"
+        ]
+      },
+      "ro": {
+        "q": "În ce circumstanțe puteți opera presa dacă nu sunteți pe deplin instruit?",
+        "o": [
+          "Doar în perioadele mai liniștite",
+          "În nicio circumstanță",
+          "Dacă un coleg spune că este în regulă",
+          "Doar într-o situație de urgență"
+        ]
+      },
+      "lv": {
+        "q": "Kādos apstākļos drīkst darbināt presi, ja neesat pilnībā apmācīts?",
+        "o": [
+          "Tikai mierīgākos periodos",
+          "Nekādos apstākļos",
+          "Ja kolēģis saka, ka tas ir kārtībā",
+          "Tikai avārijas situācijā"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which PPE must be worn during loading?",
+        "o": [
+          "Ear defenders only",
+          "Safety gloves, safety footwear, workwear",
+          "A hard hat only",
+          "No PPE is required"
+        ]
+      },
+      "pl": {
+        "q": "Jakie ŚOI należy nosić podczas załadunku?",
+        "o": [
+          "Tylko ochronniki słuchu",
+          "Rękawice ochronne, obuwie ochronne, odzież roboczą",
+          "Tylko kask",
+          "Żadne ŚOI nie są wymagane"
+        ]
+      },
+      "bg": {
+        "q": "Какво PPE трябва да се носи по време на товарене?",
+        "o": [
+          "Само антифони",
+          "Защитни ръкавици, защитни обувки, работно облекло",
+          "Само каска",
+          "Не се изисква PPE"
+        ]
+      },
+      "ro": {
+        "q": "Ce echipament de protecție trebuie purtat în timpul încărcării?",
+        "o": [
+          "Doar antifoane",
+          "Mănuși de protecție, încălțăminte de protecție, echipament de lucru",
+          "Doar cască de protecție",
+          "Nu este necesar niciun echipament"
+        ]
+      },
+      "lv": {
+        "q": "Kāds PPE jāvalkā iekraušanas laikā?",
+        "o": [
+          "Tikai ausu aizsargi",
+          "Aizsargcimdi, aizsargapavi, darba apģērbs",
+          "Tikai aizsargķivere",
+          "PPE nav nepieciešams"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for co-ordinating the effective implementation of this procedure?",
+        "o": [
+          "The Line Leader",
+          "The Production Manager",
+          "Any factory employee",
+          "The Maintenance team"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za koordynację skutecznego wdrożenia tej procedury?",
+        "o": [
+          "Lider linii",
+          "Kierownik produkcji",
+          "Dowolny pracownik fabryki",
+          "Zespół konserwacji"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за координирането на ефективното прилагане на тази процедура?",
+        "o": [
+          "Ръководителят на линията",
+          "Производственият мениджър",
+          "Всеки фабричен служител",
+          "Екипът по поддръжка"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru coordonarea implementării eficiente a acestei proceduri?",
+        "o": [
+          "Liderul de linie",
+          "Managerul de producție",
+          "Orice angajat al fabricii",
+          "Echipa de întreținere"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par šīs procedūras efektīvas ieviešanas koordinēšanu?",
+        "o": [
+          "Līnijas vadītājs",
+          "Ražošanas vadītājs",
+          "Jebkurš rūpnīcas darbinieks",
+          "Apkopes komanda"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for ensuring Line Leaders, Warehouse operatives, and Factory employees are trained in this procedure?",
+        "o": [
+          "The Team Leader",
+          "The HSE Department",
+          "The Maintenance team",
+          "The QC Operative"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za zapewnienie, że liderzy linii, pracownicy magazynu i pracownicy fabryki są przeszkoleni w zakresie tej procedury?",
+        "o": [
+          "Lider zespołu",
+          "Dział HSE",
+          "Zespół konserwacji",
+          "Pracownik QC"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за това ръководителите на линии, складовите оператори и фабричните служители да бъдат обучени по тази процедура?",
+        "o": [
+          "Ръководителят на екипа",
+          "Отдел HSE",
+          "Екипът по поддръжка",
+          "Операторът по качествен контрол"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru a se asigura că liderii de linie, operatorii de depozit și angajații fabricii sunt instruiți conform acestei proceduri?",
+        "o": [
+          "Liderul de echipă",
+          "Departamentul HSE",
+          "Echipa de întreținere",
+          "Operatorul de control al calității"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par to, lai līniju vadītāji, noliktavas operatori un rūpnīcas darbinieki būtu apmācīti šajā procedūrā?",
+        "o": [
+          "Komandas vadītājs",
+          "HSE nodaļa",
+          "Apkopes komanda",
+          "QC operators"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "Before loading, what must you check about the area around the baler?",
+        "o": [
+          "Nothing, just start loading",
+          "That it's safe to enter, with no spills, pallets, or waste causing a slip/trip hazard",
+          "That the hydraulic system is full",
+          "That the Team Leader is present"
+        ]
+      },
+      "pl": {
+        "q": "Co należy sprawdzić na temat obszaru wokół prasy przed załadunkiem?",
+        "o": [
+          "Nic, po prostu zacząć załadunek",
+          "Czy jest bezpieczny do wejścia, bez rozlań, palet lub odpadów powodujących ryzyko poślizgnięcia lub potknięcia",
+          "Czy układ hydrauliczny jest pełny",
+          "Czy obecny jest lider zespołu"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да проверите относно зоната около пресовача преди товарене?",
+        "o": [
+          "Нищо, просто започнете товаренето",
+          "Дали е безопасна за влизане, без разливи, палети или отпадъци, които могат да причинят подхлъзване или спъване",
+          "Дали хидравличната система е пълна",
+          "Дали ръководителят на екипа присъства"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să verificați cu privire la zona din jurul presei înainte de încărcare?",
+        "o": [
+          "Nimic, doar începeți încărcarea",
+          "Că este sigură pentru a intra, fără scurgeri, paleți sau deșeuri care pot cauza pericol de alunecare sau împiedicare",
+          "Că sistemul hidraulic este plin",
+          "Că liderul de echipă este prezent"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāpārbauda par zonu ap presi pirms iekraušanas?",
+        "o": [
+          "Nekas, vienkārši jāsāk iekraušana",
+          "Vai tā ir droša ieejai, bez izlijumiem, paletēm vai atkritumiem, kas var radīt paslīdēšanas vai paklupšanas risku",
+          "Vai hidrauliskā sistēma ir pilna",
+          "Vai komandas vadītājs ir klāt"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If a baler is closed by the main head, what should you do?",
+        "o": [
+          "Force it open",
+          "Ask for assistance",
+          "Wait until the next shift",
+          "Report it to HSE immediately"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić, jeśli prasa jest zamknięta przez główną głowicę?",
+        "o": [
+          "Otworzyć ją siłą",
+          "Poprosić o pomoc",
+          "Poczekać do następnej zmiany",
+          "Natychmiast zgłosić to do HSE"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направите, ако пресовачът е затворен от главата?",
+        "o": [
+          "Да го отворите насила",
+          "Да помолите за помощ",
+          "Да изчакате до следващата смяна",
+          "Незабавно да докладвате на HSE"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți dacă presa este închisă de capul principal?",
+        "o": [
+          "Să o forțați să se deschidă",
+          "Să cereți asistență",
+          "Să așteptați până la tura următoare",
+          "Să raportați imediat la HSE"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara, ja presi aizver galvenā galva?",
+        "o": [
+          "Piespiedu kārtā jāatver",
+          "Jālūdz palīdzība",
+          "Jāgaida līdz nākamajai maiņai",
+          "Nekavējoties jāziņo HSE"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If you're not trained and the baler is closed, what should you do with the waste?",
+        "o": [
+          "Leave it next to the baler, out of the walkway",
+          "Push it through the gap",
+          "Take it back to your workstation",
+          "Throw it into an open baler nearby"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli nie jesteś przeszkolony, a prasa jest zamknięta, co należy zrobić z odpadami?",
+        "o": [
+          "Zostawić je obok prasy, poza ciągiem komunikacyjnym",
+          "Przepchnąć je przez szczelinę",
+          "Zabrać je z powrotem na swoje stanowisko",
+          "Wrzucić je do innej otwartej prasy w pobliżu"
+        ]
+      },
+      "bg": {
+        "q": "Ако не сте обучени и пресовачът е затворен, какво трябва да направите с отпадъците?",
+        "o": [
+          "Да ги оставите до пресовача, извън пътеката",
+          "Да ги прекарате през пролуката",
+          "Да ги вземете обратно на работното си място",
+          "Да ги хвърлите в друг отворен пресовач наблизо"
+        ]
+      },
+      "ro": {
+        "q": "Dacă nu sunteți instruit și presa este închisă, ce trebuie să faceți cu deșeurile?",
+        "o": [
+          "Să le lăsați lângă presă, în afara culoarului de trecere",
+          "Să le împingeți prin deschizătură",
+          "Să le duceți înapoi la stația dumneavoastră de lucru",
+          "Să le aruncați într-o altă presă deschisă din apropiere"
+        ]
+      },
+      "lv": {
+        "q": "Ja neesat apmācīts un prese ir aizvērta, kas jādara ar atkritumiem?",
+        "o": [
+          "Jāatstāj tie blakus presei, ārpus ejas",
+          "Jāizspiež tie caur spraugu",
+          "Jāaiznes tie atpakaļ uz savu darba vietu",
+          "Jāiemet tie citā tuvējā atvērtā presē"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "When loading an open baler, are you allowed to enter the baler?",
+        "o": [
+          "Yes, if it's safe",
+          "No, never enter the baler at any time",
+          "Only briefly to push the waste down",
+          "Only with a supervisor present"
+        ]
+      },
+      "pl": {
+        "q": "Podczas załadunku otwartej prasy, czy wolno wchodzić do jej wnętrza?",
+        "o": [
+          "Tak, jeśli jest to bezpieczne",
+          "Nie, nigdy nie wolno wchodzić do wnętrza prasy",
+          "Tylko na chwilę, aby docisnąć odpady",
+          "Tylko w obecności przełożonego"
+        ]
+      },
+      "bg": {
+        "q": "При товарене на отворен пресовач, позволено ли е да влизате вътре в него?",
+        "o": [
+          "Да, ако е безопасно",
+          "Не, никога не влизайте вътре в пресовача",
+          "Само за кратко, за да натиснете отпадъците надолу",
+          "Само с присъствие на ръководител"
+        ]
+      },
+      "ro": {
+        "q": "La încărcarea unei prese deschise, aveți voie să intrați în interiorul presei?",
+        "o": [
+          "Da, dacă este sigur",
+          "Nu, nu intrați niciodată în interiorul presei",
+          "Doar pentru scurt timp, pentru a împinge deșeurile în jos",
+          "Doar cu un supervizor prezent"
+        ]
+      },
+      "lv": {
+        "q": "Iekraujot atvērtu presi, vai drīkst ieiet tās iekšpusē?",
+        "o": [
+          "Jā, ja tas ir droši",
+          "Nē, nekad nedrīkst ieiet preses iekšpusē",
+          "Tikai īsi, lai piespiestu atkritumus lejup",
+          "Tikai uzrauga klātbūtnē"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Are you allowed to move the main operational head or press any buttons while loading?",
+        "o": [
+          "Yes, if needed to fit more waste",
+          "No, never move the head or press any buttons",
+          "Only the emergency stop button",
+          "Only during the day shift"
+        ]
+      },
+      "pl": {
+        "q": "Czy wolno przesuwać główną głowicę roboczą lub naciskać jakiekolwiek przyciski podczas załadunku?",
+        "o": [
+          "Tak, jeśli trzeba zmieścić więcej odpadów",
+          "Nie, nigdy nie wolno przesuwać głowicy ani naciskać żadnych przycisków",
+          "Tylko przycisk zatrzymania awaryjnego",
+          "Tylko podczas zmiany dziennej"
+        ]
+      },
+      "bg": {
+        "q": "Позволено ли е да местите основната работна глава или да натискате бутони по време на товарене?",
+        "o": [
+          "Да, ако е необходимо да поберете повече отпадъци",
+          "Не, никога не местете главата и не натискайте никакви бутони",
+          "Само бутона за аварийно спиране",
+          "Само по време на дневната смяна"
+        ]
+      },
+      "ro": {
+        "q": "Aveți voie să mutați capul principal de operare sau să apăsați vreun buton în timpul încărcării?",
+        "o": [
+          "Da, dacă este necesar pentru a încăpea mai multe deșeuri",
+          "Nu, nu mutați niciodată capul și nu apăsați niciun buton",
+          "Doar butonul de oprire de urgență",
+          "Doar în timpul turei de zi"
+        ]
+      },
+      "lv": {
+        "q": "Vai iekraušanas laikā drīkst pārvietot galveno darba galvu vai nospiest kādas pogas?",
+        "o": [
+          "Jā, ja nepieciešams ietilpināt vairāk atkritumu",
+          "Nē, nekad nedrīkst pārvietot galvu vai nospiest jebkādas pogas",
+          "Tikai avārijas apturēšanas pogu",
+          "Tikai dienas maiņas laikā"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How should waste be placed in the baler?",
+        "o": [
+          "In one large pile in the centre",
+          "As evenly as possible",
+          "It doesn't matter how it's placed",
+          "Only at the edges"
+        ]
+      },
+      "pl": {
+        "q": "Jak należy umieszczać odpady w prasie?",
+        "o": [
+          "W jednym dużym stosie pośrodku",
+          "Możliwie równomiernie",
+          "Nie ma znaczenia, jak są umieszczone",
+          "Tylko przy krawędziach"
+        ]
+      },
+      "bg": {
+        "q": "Как трябва да се поставят отпадъците в пресовача?",
+        "o": [
+          "На една голяма купчина в центъра",
+          "Възможно най-равномерно",
+          "Няма значение как са поставени",
+          "Само по краищата"
+        ]
+      },
+      "ro": {
+        "q": "Cum trebuie așezate deșeurile în presă?",
+        "o": [
+          "Într-o grămadă mare în centru",
+          "Cât mai uniform posibil",
+          "Nu contează cum sunt așezate",
+          "Doar pe margini"
+        ]
+      },
+      "lv": {
+        "q": "Kā atkritumi jāievieto presē?",
+        "o": [
+          "Vienā lielā kaudzē centrā",
+          "Pēc iespējas vienmērīgāk",
+          "Nav svarīgi, kā tie tiek ievietoti",
+          "Tikai malās"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must be true about boxes before they are placed in the baler?",
+        "o": [
+          "They must be undone and flat",
+          "They can be placed in any state",
+          "They should be filled with more waste first",
+          "They must be wet"
+        ]
+      },
+      "pl": {
+        "q": "Co musi być prawdą w odniesieniu do kartonów przed umieszczeniem ich w prasie?",
+        "o": [
+          "Muszą być rozłożone i płaskie",
+          "Mogą być umieszczone w dowolnym stanie",
+          "Powinny być najpierw wypełnione większą ilością odpadów",
+          "Muszą być mokre"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да важи за кутиите, преди да бъдат поставени в пресовача?",
+        "o": [
+          "Трябва да са разгънати и плоски",
+          "Могат да бъдат поставени в какъвто и да е вид",
+          "Трябва първо да бъдат напълнени с повече отпадъци",
+          "Трябва да са мокри"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să fie adevărat despre cutii înainte de a fi puse în presă?",
+        "o": [
+          "Trebuie să fie desfăcute și plate",
+          "Pot fi puse în orice stare",
+          "Ar trebui umplute mai întâi cu mai multe deșeuri",
+          "Trebuie să fie ude"
+        ]
+      },
+      "lv": {
+        "q": "Kam jāatbilst kastēm pirms to ievietošanas presē?",
+        "o": [
+          "Tām jābūt izjauktām un plakanām",
+          "Tās var ievietot jebkādā stāvoklī",
+          "Tās vispirms jāpiepilda ar vairāk atkritumu",
+          "Tām jābūt mitrām"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "What should you do if the hydraulic system fails during operation?",
+        "o": [
+          "Try to fix it yourself",
+          "Immediately press the Emergency Stop button, and do not use the baler again until repaired",
+          "Keep loading until someone notices",
+          "Switch to a different baler and ignore the fault"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić, jeśli układ hydrauliczny ulegnie awarii podczas pracy?",
+        "o": [
+          "Spróbować naprawić to samodzielnie",
+          "Natychmiast nacisnąć przycisk zatrzymania awaryjnego i nie używać prasy ponownie, dopóki nie zostanie naprawiona",
+          "Kontynuować załadunek, aż ktoś to zauważy",
+          "Przełączyć się na inną prasę i zignorować usterkę"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направите, ако хидравличната система откаже по време на работа?",
+        "o": [
+          "Да опитате да я поправите сами",
+          "Незабавно да натиснете бутона за аварийно спиране и да не използвате пресовача отново, докато не бъде поправен",
+          "Да продължите товаренето, докато някой забележи",
+          "Да преминете към друг пресовач и да игнорирате повредата"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți dacă sistemul hidraulic cedează în timpul funcționării?",
+        "o": [
+          "Să încercați să îl reparați singur",
+          "Să apăsați imediat butonul de oprire de urgență și să nu mai folosiți presa până este reparată",
+          "Să continuați încărcarea până când cineva observă",
+          "Să treceți la o altă presă și să ignorați defecțiunea"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara, ja darbības laikā atsakās hidrauliskā sistēma?",
+        "o": [
+          "Jāmēģina to salabot pašam",
+          "Nekavējoties jānospiež avārijas apturēšanas poga, un prese nedrīkst tikt izmantota atkārtoti, kamēr nav salabota",
+          "Jāturpina iekraušana, kamēr kāds pamana",
+          "Jāpāriet uz citu presi un jāignorē bojājums"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If there is a spillage of hydraulic oil, what should you do?",
+        "o": [
+          "Clean it up yourself and continue",
+          "Isolate the area, contact the spill response team, and notify the HSE Department",
+          "Ignore it if it's a small amount",
+          "Wait until the end of the shift to deal with it"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić w przypadku rozlania oleju hydraulicznego?",
+        "o": [
+          "Posprzątać samodzielnie i kontynuować",
+          "Odizolować obszar, skontaktować się z zespołem reagowania na rozlania i powiadomić dział HSE",
+          "Zignorować, jeśli to niewielka ilość",
+          "Poczekać do końca zmiany, aby się tym zająć"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направите при разлив на хидравлично масло?",
+        "o": [
+          "Да почистите сами и да продължите",
+          "Да изолирате зоната, да се свържете с екипа за реакция при разливи и да уведомите отдел HSE",
+          "Да игнорирате, ако е малко количество",
+          "Да изчакате до края на смяната, за да се справите с това"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți în cazul unei scurgeri de ulei hidraulic?",
+        "o": [
+          "Să curățați singur și să continuați",
+          "Să izolați zona, să contactați echipa de răspuns la scurgeri și să notificați departamentul HSE",
+          "Să ignorați dacă este o cantitate mică",
+          "Să așteptați până la sfârșitul turei pentru a vă ocupa de asta"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara hidrauliskās eļļas noplūdes gadījumā?",
+        "o": [
+          "Pašam jāsatīra un jāturpina",
+          "Jāizolē zona, jāsazinās ar noplūžu reaģēšanas komandu un jāinformē HSE nodaļa",
+          "Jāignorē, ja tas ir neliels daudzums",
+          "Jāgaida līdz maiņas beigām, lai ar to tiktu galā"
+        ]
+      },
+      "correct": 1
+    }
+  ]
+}
