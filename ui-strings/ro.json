@@ -39,5 +39,10 @@
   "team_leader_signature": "Semnătura liderului de echipă",
   "content_not_translated_notice": "Această procedură nu este încă tradusă în această limbă — se afișează versiunea în engleză.",
   "search_placeholder": "Tastați pentru a căuta o procedură…",
-  "no_matches": "Nicio procedură nu corespunde căutării."
+  "no_matches": "Nicio procedură nu corespunde căutării.",
+  "edit_name_btn": "Editează",
+  "save_name_btn": "Salvează",
+  "download_pdf_btn": "⬇ Descarcă PDF",
+  "generating_pdf": "Se generează…",
+  "pdf_generation_failed": "Nu s-a putut genera fișierul PDF — încercați Printează și alegeți „Salvează ca PDF”."
 }
