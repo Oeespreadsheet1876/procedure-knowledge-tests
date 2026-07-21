@@ -39,5 +39,10 @@
   "team_leader_signature": "Team Leader signature",
   "content_not_translated_notice": "This procedure isn't translated into this language yet — showing English instead.",
   "search_placeholder": "Type to search procedures…",
-  "no_matches": "No procedures match your search."
+  "no_matches": "No procedures match your search.",
+  "edit_name_btn": "Edit",
+  "save_name_btn": "Save",
+  "download_pdf_btn": "⬇ Download PDF",
+  "generating_pdf": "Generating…",
+  "pdf_generation_failed": "Couldn't generate the PDF — try Print instead and choose \"Save as PDF\"."
 }
