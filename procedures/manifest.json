@@ -20,6 +20,18 @@
         "ro": "Mașină de umplere cu adeziv gata amestecat Karmelle",
         "lv": "Karmelle gatavā līmes maisījuma pildīšanas iekārta"
       }
+    },
+    {
+      "id": "wp09l",
+      "file": "wp09l.json",
+      "docRef": "WP09L",
+      "title": {
+        "en": "Tub Filling A004/A005",
+        "pl": "Napełnianie kubków A004/A005",
+        "bg": "Пълнене на кофички A004/A005",
+        "ro": "Umplere găleți A004/A005",
+        "lv": "Trauku pildīšana A004/A005"
+      }
     }
   ]
 }
