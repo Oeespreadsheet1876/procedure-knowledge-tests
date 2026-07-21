@@ -44,5 +44,9 @@
   "save_name_btn": "Save",
   "download_pdf_btn": "⬇ Download PDF",
   "generating_pdf": "Generating…",
-  "pdf_generation_failed": "Couldn't generate the PDF — try Print instead and choose \"Save as PDF\"."
+  "pdf_generation_failed": "Couldn't generate the PDF — try Print instead and choose \"Save as PDF\".",
+  "shift_manager_label": "Shift Manager / Team Leader (optional)",
+  "shift_manager_hint": "If filled in, this name appears on the certificate in place of a blank signature line.",
+  "add_shift_manager_btn": "+ Add shift manager",
+  "shift_manager_badge_prefix": "Shift Manager:"
 }
