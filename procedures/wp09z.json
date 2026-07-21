@@ -6,7 +6,8 @@
     "en": "General Safety & Emergency Equipment",
     "pl": "Bezpieczeństwo ogólne i wyposażenie awaryjne",
     "bg": "Обща безопасност и аварийно оборудване",
-    "ro": "Siguranță generală și echipamente de urgență"
+    "ro": "Siguranță generală și echipamente de urgență",
+    "lv": "Vispārīgā drošība un avārijas aprīkojums"
   },
   "passMark": 80,
   "questions": [
@@ -47,6 +48,15 @@
           "Contractorii fără înregistrare la intrare",
           "Doar șoferii de livrare"
         ]
+      },
+      "lv": {
+        "q": "Kam ir atļauta piekļuve ražošanas zonai?",
+        "o": [
+          "Jebkuram objekta apmeklētājam",
+          "Tikai pilnvarotam personālam",
+          "Darbuzņēmējiem bez reģistrēšanās",
+          "Tikai piegādes autovadītājiem"
+        ]
       }
     },
     {
@@ -85,6 +95,15 @@
           "Doar în zona desemnată pentru fumat",
           "În cantină",
           "Lângă linia de producție"
+        ]
+      },
+      "lv": {
+        "q": "Kur ir atļauts smēķēt un lietot elektroniskās cigaretes?",
+        "o": [
+          "Jebkur ārpus ēkas",
+          "Tikai norādītajā smēķēšanas zonā",
+          "Ēdnīcā",
+          "Blakus ražošanas līnijai"
         ]
       }
     },
@@ -125,6 +144,15 @@
           "Nu, nu este permis",
           "Doar în timpul pauzelor"
         ]
+      },
+      "lv": {
+        "q": "Vai ražošanas līnijās ir atļauts ēst vai dzert?",
+        "o": [
+          "Jā, jebkurā laikā",
+          "Tikai pudelēs iepildītu ūdeni",
+          "Nē, tas nav atļauts",
+          "Tikai pārtraukumu laikā"
+        ]
       }
     },
     {
@@ -163,6 +191,15 @@
           "Pe teritoriul unității și în parcare",
           "Doar în timpul programului de lucru",
           "Nu este interzis"
+        ]
+      },
+      "lv": {
+        "q": "Kur ir aizliegts lietot alkoholu vai narkotikas?",
+        "o": [
+          "Tikai ēkas iekšpusē",
+          "Uzņēmuma teritorijā un autostāvvietā",
+          "Tikai darba laikā",
+          "Tas nav aizliegts"
         ]
       }
     },
@@ -203,6 +240,15 @@
           "Doar îmbrăcămintea reflectorizantă",
           "Nimic suplimentar"
         ]
+      },
+      "lv": {
+        "q": "Kas ir ierobežots zonās ar potenciāli sprādzienbīstamu vidi?",
+        "o": [
+          "Tikai smēķēšana",
+          "Mobilie tālruņi un neapstiprināts elektriskais aprīkojums",
+          "Tikai signālkrāsu apģērbs",
+          "Nekas papildu"
+        ]
       }
     },
     {
@@ -241,6 +287,15 @@
           "Încălțăminte de protecție",
           "Sandale",
           "Nu este necesară o încălțăminte anume"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāvalkā ražošanas un noliktavas zonās?",
+        "o": [
+          "Ikdienas apavi",
+          "Aizsargapavi",
+          "Sandales",
+          "Nav konkrētu prasību apaviem"
         ]
       }
     },
@@ -281,6 +336,15 @@
           "În cantină",
           "Este opțională peste tot"
         ]
+      },
+      "lv": {
+        "q": "Kur jāvalkā signālkrāsu apģērbs?",
+        "o": [
+          "Tikai birojā",
+          "Noliktavā un ārējās zonās",
+          "Ēdnīcā",
+          "Tas ir brīvprātīgi visur"
+        ]
       }
     },
     {
@@ -319,6 +383,15 @@
           "Să se înregistreze la intrare și ieșire",
           "Să facă un control medical",
           "Doar să poarte un ecuson"
+        ]
+      },
+      "lv": {
+        "q": "Kas ikdienā jādara visiem darbiniekiem un apmeklētājiem?",
+        "o": [
+          "Jāpiedalās instruktāžā",
+          "Jāreģistrējas ienākot un izejot",
+          "Jāveic medicīniskā pārbaude",
+          "Tikai jāvalkā vārda zīme"
         ]
       }
     },
@@ -359,6 +432,15 @@
           "Prin linia de producție",
           "Doar prin zona de încărcare"
         ]
+      },
+      "lv": {
+        "q": "Kā cilvēkiem jāpārvietojas ēkas iekšpusē?",
+        "o": [
+          "Jebkurš maršruts ir piemērots",
+          "Jāievēro norādītie gājēju celiņi",
+          "Caur ražošanas līniju",
+          "Tikai caur iekraušanas zonu"
+        ]
       }
     },
     {
@@ -397,6 +479,15 @@
           "Instruire COSHH actualizată",
           "O uniformă",
           "Un permis de parcare"
+        ]
+      },
+      "lv": {
+        "q": "Kas jums jābūt apgūtam pirms darba sākšanas ražošanas zonā?",
+        "o": [
+          "Tikai objekta apskate",
+          "Aktuāla COSHH apmācība",
+          "Formas tērps",
+          "Autostāvvietas atļauja"
         ]
       }
     },
@@ -437,6 +528,15 @@
           "În cantină",
           "Doar pe avizier"
         ]
+      },
+      "lv": {
+        "q": "Kur atrodas COSHH rīcības kartes (B82)?",
+        "o": [
+          "Vadītāja kabinetā",
+          "Zilā mapē, pie sienas piestiprinātā paliktnī blakus QC laboratorijas paraugu lodziņam",
+          "Ēdnīcā",
+          "Tikai pie paziņojumu dēļa"
+        ]
       }
     },
     {
@@ -475,6 +575,15 @@
           "În meniul cantinei",
           "În planul de evacuare în caz de incendiu",
           "Nu sunt documentate"
+        ]
+      },
+      "lv": {
+        "q": "Kur var atrast PPE prasības konkrētam produktam?",
+        "o": [
+          "COSHH rīcības kartes apakšā sadaļā „Aizsardzības aprīkojums”",
+          "Ēdnīcas ēdienkartē",
+          "Ugunsdrošības evakuācijas plānā",
+          "Tās nav dokumentētas"
         ]
       }
     },
@@ -515,6 +624,15 @@
           "Să raportați abia la sfârșitul turei",
           "Să ignorați deteriorările minore"
         ]
+      },
+      "lv": {
+        "q": "Kas jādara ar bojātu PPE pirms darba sākšanas?",
+        "o": [
+          "Tik un tā izmantot to",
+          "Pārbaudīt to un nomainīt bojātās daļas",
+          "Ziņot par to tikai maiņas beigās",
+          "Ignorēt nelielus bojājumus"
+        ]
       }
     },
     {
@@ -553,6 +671,15 @@
           "Înainte și după folosirea toaletei, mâncat, băut sau fumat",
           "Doar după manipularea substanțelor chimice",
           "O dată pe zi este suficient"
+        ]
+      },
+      "lv": {
+        "q": "Kad jāmazgā rokas atbilstoši higiēnas noteikumiem?",
+        "o": [
+          "Tikai pirms maiņas sākuma",
+          "Pirms un pēc tualetes apmeklējuma, ēšanas, dzeršanas vai smēķēšanas",
+          "Tikai pēc darba ar ķimikālijām",
+          "Pietiek vienreiz dienā"
         ]
       }
     },
@@ -593,6 +720,15 @@
           "Pentru pornirea mașinii",
           "Pentru resetarea software-ului mașinii"
         ]
+      },
+      "lv": {
+        "q": "Kam paredzēta apturēšanas poga?",
+        "o": [
+          "Lai avārijas gadījumā nekavējoties apturētu iekārtu",
+          "Lai apturētu iekārtu darba cikla beigās",
+          "Lai iedarbinātu iekārtu",
+          "Lai atiestatītu iekārtas programmatūru"
+        ]
       }
     },
     {
@@ -631,6 +767,15 @@
           "Pentru oprirea imediată a mașinii într-o situație de urgență",
           "Pentru reglarea vitezei mașinii",
           "Pentru curățarea mașinii"
+        ]
+      },
+      "lv": {
+        "q": "Kam paredzēta avārijas apturēšanas poga?",
+        "o": [
+          "Ierastai apturēšanai cikla beigās",
+          "Lai nekavējoties apturētu iekārtu avārijas situācijā",
+          "Lai regulētu iekārtas ātrumu",
+          "Lai tīrītu iekārtu"
         ]
       }
     },
@@ -671,6 +816,15 @@
           "Doar nivelul uleiului",
           "Doar cablul de alimentare"
         ]
+      },
+      "lv": {
+        "q": "Kas jāpārbauda pirms darba ar iekārtu?",
+        "o": [
+          "Nekas, aizsargi ir pēc izvēles",
+          "Vai visi aizsargi un pārsegi ir pareizi uzstādīti un darbojas",
+          "Tikai eļļas līmenis",
+          "Tikai barošanas kabelis"
+        ]
       }
     },
     {
@@ -709,6 +863,15 @@
           "Să izolați alimentarea electrică de la separatorul principal (blocare)",
           "Să îndepărtați protecțiile",
           "Să rugați un coleg să țină apăsat butonul de oprire"
+        ]
+      },
+      "lv": {
+        "q": "Kas vienmēr jādara pirms iekārtas tīrīšanas?",
+        "o": [
+          "Jāatstāj tā darbojamies",
+          "Jāatslēdz elektrības padeve pie galvenā izolatora (bloķēšana)",
+          "Jānoņem aizsargi",
+          "Jālūdz kolēģim turēt apturēšanas pogu"
         ]
       }
     },
@@ -749,6 +912,15 @@
           "Doar supervizorul de tură",
           "Doar personalul de curățenie"
         ]
+      },
+      "lv": {
+        "q": "Kam ir atļauts veikt iekārtu apkopi un bojājumu meklēšanu?",
+        "o": [
+          "Jebkuram komandas dalībniekam",
+          "Tikai apmācītam un pilnvarotam personālam, piemēram, inženieriem",
+          "Tikai maiņas vadītājam",
+          "Tikai apkopes personālam"
+        ]
       }
     },
     {
@@ -787,6 +959,15 @@
           "Să întrebați întotdeauna liderul echipei",
           "Să ignorați",
           "Să așteptați până la următoarea tură"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara, ja par kaut ko rodas šaubas?",
+        "o": [
+          "Jāmin un jāturpina",
+          "Vienmēr jājautā savam komandas vadītājam",
+          "Jāignorē",
+          "Jāgaida līdz nākamajai maiņai"
         ]
       }
     }
