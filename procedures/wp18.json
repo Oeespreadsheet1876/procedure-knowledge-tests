@@ -1,0 +1,1359 @@
+{
+  "id": "wp18",
+  "docRef": "WP18",
+  "issue": "14",
+  "title": {
+    "en": "Fire Protection",
+    "pl": "Ochrona przeciwpożarowa",
+    "bg": "Противопожарна защита",
+    "ro": "Protecția împotriva incendiilor",
+    "lv": "Ugunsdrošība"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "en": {
+        "q": "Which site does this procedure apply to?",
+        "o": [
+          "All Tetrosyl sites",
+          "All departments at the Barmston Road site",
+          "Only the warehouse",
+          "Only the office building"
+        ]
+      },
+      "pl": {
+        "q": "Do którego zakładu odnosi się ta procedura?",
+        "o": [
+          "Wszystkich zakładów Tetrosyl",
+          "Wszystkich działów w zakładzie przy Barmston Road",
+          "Tylko magazynu",
+          "Tylko budynku biurowego"
+        ]
+      },
+      "bg": {
+        "q": "За кой обект се отнася тази процедура?",
+        "o": [
+          "Всички обекти на Tetrosyl",
+          "Всички отдели в обекта на Barmston Road",
+          "Само склада",
+          "Само офис сградата"
+        ]
+      },
+      "ro": {
+        "q": "Cărui site i se aplică această procedură?",
+        "o": [
+          "Tuturor site-urilor Tetrosyl",
+          "Tuturor departamentelor de la site-ul Barmston Road",
+          "Doar depozitului",
+          "Doar clădirii de birouri"
+        ]
+      },
+      "lv": {
+        "q": "Kurai vietai attiecas šī procedūra?",
+        "o": [
+          "Visām Tetrosyl vietām",
+          "Visām nodaļām Barmston Road objektā",
+          "Tikai noliktavai",
+          "Tikai biroja ēkai"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who has overall responsibility for this procedure?",
+        "o": [
+          "The Production Manager",
+          "The HSE Manager",
+          "The Team Leader",
+          "All Staff"
+        ]
+      },
+      "pl": {
+        "q": "Kto ponosi ogólną odpowiedzialność za tę procedurę?",
+        "o": [
+          "Kierownik produkcji",
+          "Kierownik HSE",
+          "Lider zespołu",
+          "Cały personel"
+        ]
+      },
+      "bg": {
+        "q": "Кой носи цялостна отговорност за тази процедура?",
+        "o": [
+          "Производственият мениджър",
+          "Мениджърът HSE",
+          "Ръководителят на екипа",
+          "Целият персонал"
+        ]
+      },
+      "ro": {
+        "q": "Cine are responsabilitatea generală pentru această procedură?",
+        "o": [
+          "Managerul de producție",
+          "Managerul HSE",
+          "Liderul de echipă",
+          "Tot personalul"
+        ]
+      },
+      "lv": {
+        "q": "Kam ir vispārējā atbildība par šo procedūru?",
+        "o": [
+          "Ražošanas vadītājam",
+          "HSE vadītājam",
+          "Komandas vadītājam",
+          "Visam personālam"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which document is the Employee Fire Precautions/Drills Instruction and Training Register?",
+        "o": [
+          "B72",
+          "B74",
+          "B75",
+          "B76"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to Rejestr Instruktażu i Szkoleń w zakresie Środków Ostrożności Przeciwpożarowej/Ćwiczeń Pracowników?",
+        "o": [
+          "B72",
+          "B74",
+          "B75",
+          "B76"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е Регистърът за инструктаж и обучение на служителите относно противопожарни мерки/учения?",
+        "o": [
+          "B72",
+          "B74",
+          "B75",
+          "B76"
+        ]
+      },
+      "ro": {
+        "q": "Care document este Registrul de instruire și exerciții privind măsurile de precauție împotriva incendiilor pentru angajați?",
+        "o": [
+          "B72",
+          "B74",
+          "B75",
+          "B76"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir Darbinieku ugunsdrošības pasākumu/mācību instrukciju un apmācības reģistrs?",
+        "o": [
+          "B72",
+          "B74",
+          "B75",
+          "B76"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which document is the Fire Equipment Fault/Concern Log?",
+        "o": [
+          "B73",
+          "B73A",
+          "B75",
+          "B76"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to Dziennik Usterek/Uwag dotyczących Sprzętu Przeciwpożarowego?",
+        "o": [
+          "B73",
+          "B73A",
+          "B75",
+          "B76"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е Дневникът за повреди/проблеми с противопожарното оборудване?",
+        "o": [
+          "B73",
+          "B73A",
+          "B75",
+          "B76"
+        ]
+      },
+      "ro": {
+        "q": "Care document este Registrul de defecțiuni/probleme privind echipamentul de incendiu?",
+        "o": [
+          "B73",
+          "B73A",
+          "B75",
+          "B76"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir Ugunsdzēsības aprīkojuma bojājumu/problēmu žurnāls?",
+        "o": [
+          "B73",
+          "B73A",
+          "B75",
+          "B76"
+        ]
+      },
+      "correct": 2
+    },
+    {
+      "en": {
+        "q": "Which of the following is a requirement for all employees?",
+        "o": [
+          "Smoking is permitted in designated indoor areas",
+          "Smoking is not permitted on site",
+          "Only managers need to know exit locations",
+          "Waste can be disposed of anywhere"
+        ]
+      },
+      "pl": {
+        "q": "Które z poniższych jest wymogiem dla wszystkich pracowników?",
+        "o": [
+          "Palenie jest dozwolone w wyznaczonych pomieszczeniach",
+          "Palenie jest zabronione na terenie zakładu",
+          "Tylko kierownicy muszą znać lokalizacje wyjść",
+          "Odpady można wyrzucać gdziekolwiek"
+        ]
+      },
+      "bg": {
+        "q": "Кое от следните е изискване за всички служители?",
+        "o": [
+          "Пушенето е разрешено в определени закрити зони",
+          "Пушенето не е разрешено на обекта",
+          "Само мениджърите трябва да знаят местоположението на изходите",
+          "Отпадъците могат да се изхвърлят навсякъде"
+        ]
+      },
+      "ro": {
+        "q": "Care dintre următoarele este o cerință pentru toți angajații?",
+        "o": [
+          "Fumatul este permis în zone interioare desemnate",
+          "Fumatul nu este permis pe șantier",
+          "Doar managerii trebuie să cunoască locațiile ieșirilor",
+          "Deșeurile pot fi aruncate oriunde"
+        ]
+      },
+      "lv": {
+        "q": "Kura no šīm ir prasība visiem darbiniekiem?",
+        "o": [
+          "Smēķēšana ir atļauta norādītajās telpās",
+          "Smēķēšana objektā nav atļauta",
+          "Tikai vadītājiem jāzina izeju atrašanās vietas",
+          "Atkritumus var izmest jebkur"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How many exits from your place of work should you know the location of, at minimum?",
+        "o": [
+          "One",
+          "At least two",
+          "Four",
+          "None, this isn't required"
+        ]
+      },
+      "pl": {
+        "q": "Znajomość lokalizacji ilu wyjść z miejsca pracy jest wymagana jako minimum?",
+        "o": [
+          "Jednego",
+          "Co najmniej dwóch",
+          "Czterech",
+          "Żadnych, nie jest to wymagane"
+        ]
+      },
+      "bg": {
+        "q": "Местоположението на колко изхода от работното си място трябва да знаете минимум?",
+        "o": [
+          "Един",
+          "Поне два",
+          "Четири",
+          "Нито един, не се изисква"
+        ]
+      },
+      "ro": {
+        "q": "Câte ieșiri din locul dumneavoastră de muncă trebuie să cunoașteți, cel puțin?",
+        "o": [
+          "Una",
+          "Cel puțin două",
+          "Patru",
+          "Niciuna, nu este necesar"
+        ]
+      },
+      "lv": {
+        "q": "Cik izeju atrašanās vietas no jūsu darba vietas jums jāzina, vismaz?",
+        "o": [
+          "Vienu",
+          "Vismaz divas",
+          "Četras",
+          "Nevienu, tas nav nepieciešams"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must you never obstruct?",
+        "o": [
+          "The canteen",
+          "Access to fire extinguishers, alarm call points, fire exits or routes to fire exits",
+          "The car park",
+          "Office doors"
+        ]
+      },
+      "pl": {
+        "q": "Czego nigdy nie wolno blokować?",
+        "o": [
+          "Stołówki",
+          "Dostępu do gaśnic, przycisków alarmowych, wyjść ewakuacyjnych lub dróg do wyjść ewakuacyjnych",
+          "Parkingu",
+          "Drzwi biurowych"
+        ]
+      },
+      "bg": {
+        "q": "Какво никога не трябва да блокирате?",
+        "o": [
+          "Стола",
+          "Достъпа до пожарогасители, аларми, пожарни изходи или маршрути към пожарни изходи",
+          "Паркинга",
+          "Офис врати"
+        ]
+      },
+      "ro": {
+        "q": "Ce nu trebuie niciodată blocat?",
+        "o": [
+          "Cantina",
+          "Accesul la stingătoare de incendiu, puncte de alarmă, ieșiri de urgență sau rutele către ieșirile de urgență",
+          "Parcarea",
+          "Ușile de birou"
+        ]
+      },
+      "lv": {
+        "q": "Ko nekad nedrīkst bloķēt?",
+        "o": [
+          "Ēdnīcu",
+          "Piekļuvi ugunsdzēšamajiem aparātiem, trauksmes pogām, ugunsdrošības izejām vai ceļiem uz tām",
+          "Autostāvvietu",
+          "Biroja durvis"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What should Managers and Team Leaders maintain during their shift?",
+        "o": [
+          "A log of all personnel on their shift",
+          "A log of coffee breaks",
+          "A log of parking spaces",
+          "Nothing specific"
+        ]
+      },
+      "pl": {
+        "q": "Co powinni prowadzić kierownicy i liderzy zespołów podczas swojej zmiany?",
+        "o": [
+          "Rejestr wszystkich pracowników na zmianie",
+          "Rejestr przerw na kawę",
+          "Rejestr miejsc parkingowych",
+          "Nic konkretnego"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да поддържат мениджърите и ръководителите на екипи по време на своята смяна?",
+        "o": [
+          "Списък на целия персонал на смяната",
+          "Списък на почивките за кафе",
+          "Списък на паркоместата",
+          "Нищо конкретно"
+        ]
+      },
+      "ro": {
+        "q": "Ce ar trebui să mențină managerii și liderii de echipă în timpul turei lor?",
+        "o": [
+          "Un registru al întregului personal din tura lor",
+          "Un registru al pauzelor de cafea",
+          "Un registru al locurilor de parcare",
+          "Nimic specific"
+        ]
+      },
+      "lv": {
+        "q": "Kas vadītājiem un komandas vadītājiem jāuztur savas maiņas laikā?",
+        "o": [
+          "Visa maiņā esošā personāla saraksts",
+          "Kafijas paužu saraksts",
+          "Autostāvvietu saraksts",
+          "Nekas konkrēts"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "If you discover a fire, what is the first thing you should do?",
+        "o": [
+          "Try to extinguish it immediately without raising the alarm",
+          "Sound the alarm at the nearest call point",
+          "Call the Environment Agency",
+          "Look for your personal belongings"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli odkryjesz pożar, co powinieneś zrobić najpierw?",
+        "o": [
+          "Spróbować go od razu ugasić bez włączania alarmu",
+          "Uruchomić alarm przy najbliższym przycisku",
+          "Zadzwonić do Agencji Ochrony Środowiska",
+          "Poszukać swoich rzeczy osobistych"
+        ]
+      },
+      "bg": {
+        "q": "Ако откриете пожар, кое е първото нещо, което трябва да направите?",
+        "o": [
+          "Да опитате незабавно да го изгасите, без да включите алармата",
+          "Да задействате алармата на най-близката точка за повикване",
+          "Да се обадите на Агенцията по околна среда",
+          "Да потърсите личните си вещи"
+        ]
+      },
+      "ro": {
+        "q": "Dacă descoperiți un incendiu, care este primul lucru pe care trebuie să îl faceți?",
+        "o": [
+          "Să încercați să-l stingeți imediat fără a declanșa alarma",
+          "Să declanșați alarma la cel mai apropiat punct de apel",
+          "Să sunați Agenția de Mediu",
+          "Să vă căutați obiectele personale"
+        ]
+      },
+      "lv": {
+        "q": "Ja atklājat ugunsgrēku, kas ir pirmā lieta, kas jādara?",
+        "o": [
+          "Jāmēģina to nekavējoties nodzēst, neieslēdzot trauksmi",
+          "Jāieslēdz trauksme pie tuvākā izsaukuma punkta",
+          "Jāzvana Vides aģentūrai",
+          "Jāmeklē savas personīgās mantas"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "When attacking a fire with an extinguisher, what must you always remember?",
+        "o": [
+          "Use any extinguisher regardless of type",
+          "Do not put yourself at risk",
+          "Wait for management approval first",
+          "Only attempt this if you are a manager"
+        ]
+      },
+      "pl": {
+        "q": "Podczas gaszenia pożaru gaśnicą, o czym zawsze należy pamiętać?",
+        "o": [
+          "Używać dowolnej gaśnicy niezależnie od typu",
+          "Nie narażać siebie na niebezpieczeństwo",
+          "Najpierw czekać na zgodę kierownictwa",
+          "Podejmować to działanie tylko jako kierownik"
+        ]
+      },
+      "bg": {
+        "q": "При гасене на пожар с пожарогасител, какво винаги трябва да помните?",
+        "o": [
+          "Да използвате какъвто и да е пожарогасител, независимо от вида",
+          "Да не се излагате на риск",
+          "Първо да изчакате одобрение от ръководството",
+          "Да предприемате това само ако сте мениджър"
+        ]
+      },
+      "ro": {
+        "q": "Când atacați un incendiu cu un stingător, ce trebuie să vă amintiți întotdeauna?",
+        "o": [
+          "Să folosiți orice stingător, indiferent de tip",
+          "Să nu vă puneți în pericol",
+          "Să așteptați mai întâi aprobarea conducerii",
+          "Să încercați acest lucru doar dacă sunteți manager"
+        ]
+      },
+      "lv": {
+        "q": "Dzēšot uguni ar ugunsdzēšamo aparātu, kas vienmēr jāatceras?",
+        "o": [
+          "Jāizmanto jebkurš ugunsdzēšamais aparāts neatkarīgi no veida",
+          "Nedrīkst pakļaut sevi riskam",
+          "Vispirms jāgaida vadības apstiprinājums",
+          "To drīkst mēģināt tikai vadītājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "On hearing the fire alarm, what must you NOT do?",
+        "o": [
+          "Evacuate the building",
+          "Stop to collect your personal belongings",
+          "Report to the assembly area",
+          "Follow instructions from the Shift Team Leader"
+        ]
+      },
+      "pl": {
+        "q": "Słysząc alarm pożarowy, czego NIE wolno robić?",
+        "o": [
+          "Ewakuować się z budynku",
+          "Zatrzymywać się, aby zabrać rzeczy osobiste",
+          "Zgłosić się w punkcie zbiórki",
+          "Postępować zgodnie z instrukcjami lidera zmiany"
+        ]
+      },
+      "bg": {
+        "q": "Чувайки пожарната аларма, какво НЕ трябва да правите?",
+        "o": [
+          "Да евакуирате сградата",
+          "Да спирате, за да вземете личните си вещи",
+          "Да се явите на мястото за събиране",
+          "Да следвате инструкциите на ръководителя на смяната"
+        ]
+      },
+      "ro": {
+        "q": "La auzul alarmei de incendiu, ce NU trebuie să faceți?",
+        "o": [
+          "Să evacuați clădirea",
+          "Să vă opriți pentru a vă lua obiectele personale",
+          "Să vă prezentați la punctul de adunare",
+          "Să urmați instrucțiunile liderului de tură"
+        ]
+      },
+      "lv": {
+        "q": "Dzirdot ugunsgrēka trauksmi, ko NEDRĪKST darīt?",
+        "o": [
+          "Evakuēt ēku",
+          "Apstāties, lai paņemtu personīgās mantas",
+          "Ierasties pulcēšanās vietā",
+          "Sekot maiņas vadītāja norādījumiem"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Where is the assembly area located?",
+        "o": [
+          "In the canteen",
+          "Outside the main gate",
+          "In the car park nearest reception",
+          "Wherever is most convenient"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie znajduje się punkt zbiórki?",
+        "o": [
+          "W stołówce",
+          "Poza główną bramą",
+          "Na parkingu najbliżej recepcji",
+          "Gdziekolwiek jest najwygodniej"
+        ]
+      },
+      "bg": {
+        "q": "Къде се намира мястото за събиране?",
+        "o": [
+          "В стола",
+          "Извън главната порта",
+          "На паркинга най-близо до рецепцията",
+          "Където е най-удобно"
+        ]
+      },
+      "ro": {
+        "q": "Unde este situat punctul de adunare?",
+        "o": [
+          "În cantină",
+          "În afara porții principale",
+          "În parcarea cea mai apropiată de recepție",
+          "Oriunde este mai convenabil"
+        ]
+      },
+      "lv": {
+        "q": "Kur atrodas pulcēšanās vieta?",
+        "o": [
+          "Ēdnīcā",
+          "Ārpus galvenajiem vārtiem",
+          "Autostāvvietā vistuvāk reģistratūrai",
+          "Kur vien ir ērtāk"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Can you return to the building after an evacuation?",
+        "o": [
+          "Yes, whenever you feel it's safe",
+          "Only if authorised to do so",
+          "Yes, after 5 minutes",
+          "Only senior managers can decide this on the spot"
+        ]
+      },
+      "pl": {
+        "q": "Czy można wrócić do budynku po ewakuacji?",
+        "o": [
+          "Tak, kiedy tylko uznasz, że jest bezpiecznie",
+          "Tylko jeśli uzyskasz na to zgodę",
+          "Tak, po 5 minutach",
+          "Tylko wyżsi kierownicy mogą to zdecydować na miejscu"
+        ]
+      },
+      "bg": {
+        "q": "Може ли да се върнете в сградата след евакуация?",
+        "o": [
+          "Да, когато прецените, че е безопасно",
+          "Само ако сте упълномощени за това",
+          "Да, след 5 минути",
+          "Само висшите мениджъри могат да решат това на място"
+        ]
+      },
+      "ro": {
+        "q": "Puteți reveni în clădire după o evacuare?",
+        "o": [
+          "Da, oricând considerați că este sigur",
+          "Doar dacă sunteți autorizat să faceți acest lucru",
+          "Da, după 5 minute",
+          "Doar managerii superiori pot decide asta pe loc"
+        ]
+      },
+      "lv": {
+        "q": "Vai pēc evakuācijas drīkst atgriezties ēkā?",
+        "o": [
+          "Jā, kad vien uzskatāt, ka tas ir droši",
+          "Tikai ja esat pilnvarots to darīt",
+          "Jā, pēc 5 minūtēm",
+          "To uz vietas var izlemt tikai vecākie vadītāji"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What should the Shift Team Leader do on route to the assembly point, if safe to do so?",
+        "o": [
+          "Nothing extra is required",
+          "Collect the booking in/out sheet",
+          "Search for missing colleagues",
+          "Call the fire brigade personally"
+        ]
+      },
+      "pl": {
+        "q": "Co powinien zrobić lider zmiany w drodze do punktu zbiórki, jeśli jest to bezpieczne?",
+        "o": [
+          "Nic dodatkowego nie jest wymagane",
+          "Zabrać arkusz rejestracji wejść/wyjść",
+          "Szukać brakujących kolegów",
+          "Osobiście zadzwonić do straży pożarnej"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направи ръководителят на смяната по пътя към мястото за събиране, ако е безопасно?",
+        "o": [
+          "Нищо допълнително не се изисква",
+          "Да вземе листа за регистрация на влизане/излизане",
+          "Да търси липсващи колеги",
+          "Лично да се обади на пожарната"
+        ]
+      },
+      "ro": {
+        "q": "Ce ar trebui să facă liderul de tură pe drum către punctul de adunare, dacă este sigur să facă acest lucru?",
+        "o": [
+          "Nu este necesar nimic în plus",
+          "Să ridice foaia de înregistrare intrare/ieșire",
+          "Să caute colegii lipsă",
+          "Să sune personal pompierii"
+        ]
+      },
+      "lv": {
+        "q": "Kas maiņas vadītājam jādara, dodoties uz pulcēšanās vietu, ja tas ir droši?",
+        "o": [
+          "Nekas papildu nav nepieciešams",
+          "Jāpaņem ienākšanas/iziešanas reģistrācijas lapa",
+          "Jāmeklē pazudušie kolēģi",
+          "Personīgi jāzvana ugunsdzēsējiem"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "At the assembly point, what is the Shift Team Leader responsible for?",
+        "o": [
+          "Making tea for everyone",
+          "Calling the roll to account for all personnel on their shift",
+          "Locking the building",
+          "Contacting the Environment Agency"
+        ]
+      },
+      "pl": {
+        "q": "Za co odpowiada lider zmiany w punkcie zbiórki?",
+        "o": [
+          "Robienie herbaty dla wszystkich",
+          "Sprawdzenie listy obecności całego personelu na zmianie",
+          "Zamknięcie budynku",
+          "Kontakt z Agencją Ochrony Środowiska"
+        ]
+      },
+      "bg": {
+        "q": "За какво отговаря ръководителят на смяната на мястото за събиране?",
+        "o": [
+          "Правене на чай за всички",
+          "Проверка на присъствието на целия персонал от смяната",
+          "Заключване на сградата",
+          "Свързване с Агенцията по околна среда"
+        ]
+      },
+      "ro": {
+        "q": "La punctul de adunare, de ce este responsabil liderul de tură?",
+        "o": [
+          "Să facă ceai pentru toată lumea",
+          "Să facă apelul pentru a verifica tot personalul din tura sa",
+          "Să încuie clădirea",
+          "Să contacteze Agenția de Mediu"
+        ]
+      },
+      "lv": {
+        "q": "Pulcēšanās vietā, par ko atbild maiņas vadītājs?",
+        "o": [
+          "Tējas gatavošanu visiem",
+          "Visa maiņā esošā personāla pārbaudi, saucot vārdus",
+          "Ēkas aizslēgšanu",
+          "Sazināšanos ar Vides aģentūru"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If the HSE Manager and Production Manager are both unavailable, who takes command?",
+        "o": [
+          "No one, wait for them to arrive",
+          "The Shift Team Leader assumes their role",
+          "Whoever shouts loudest",
+          "The fire brigade automatically takes over"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli kierownik HSE i kierownik produkcji są niedostępni, kto przejmuje dowodzenie?",
+        "o": [
+          "Nikt, należy czekać na ich przybycie",
+          "Lider zmiany przejmuje ich rolę",
+          "Kto najgłośniej krzyczy",
+          "Straż pożarna automatycznie przejmuje kontrolę"
+        ]
+      },
+      "bg": {
+        "q": "Ако мениджърът HSE и производственият мениджър са недостъпни, кой поема командването?",
+        "o": [
+          "Никой, изчакайте да пристигнат",
+          "Ръководителят на смяната поема тяхната роля",
+          "Който вика най-силно",
+          "Пожарната автоматично поема контрол"
+        ]
+      },
+      "ro": {
+        "q": "Dacă managerul HSE și managerul de producție sunt indisponibili, cine preia comanda?",
+        "o": [
+          "Nimeni, se așteaptă sosirea lor",
+          "Liderul de tură își asumă rolul lor",
+          "Oricine strigă mai tare",
+          "Pompierii preiau automat controlul"
+        ]
+      },
+      "lv": {
+        "q": "Ja HSE vadītājs un ražošanas vadītājs abi nav pieejami, kas pārņem vadību?",
+        "o": [
+          "Neviens, jāgaida, kamēr viņi ierodas",
+          "Maiņas vadītājs uzņemas viņu lomu",
+          "Kurš skaļāk kliedz",
+          "Ugunsdzēsēji automātiski pārņem kontroli"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What should the HSE Manager consider doing if there could be pollution of controlled waters?",
+        "o": [
+          "Nothing, this isn't their responsibility",
+          "Contact the Environment Agency",
+          "Ignore it until the fire is out",
+          "Wait for the fire brigade to raise it"
+        ]
+      },
+      "pl": {
+        "q": "Co powinien rozważyć kierownik HSE, jeśli może dojść do zanieczyszczenia kontrolowanych wód?",
+        "o": [
+          "Nic, to nie jest jego odpowiedzialność",
+          "Skontaktować się z Agencją Ochrony Środowiska",
+          "Zignorować to do czasu ugaszenia pożaru",
+          "Poczekać, aż zgłosi to straż pożarna"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да обмисли мениджърът HSE, ако може да има замърсяване на контролирани води?",
+        "o": [
+          "Нищо, това не е негова отговорност",
+          "Да се свърже с Агенцията по околна среда",
+          "Да го игнорира, докато пожарът бъде изгасен",
+          "Да изчака пожарната да го повдигне"
+        ]
+      },
+      "ro": {
+        "q": "Ce ar trebui să ia în considerare managerul HSE dacă ar putea exista poluare a apelor controlate?",
+        "o": [
+          "Nimic, aceasta nu este responsabilitatea lor",
+          "Să contacteze Agenția de Mediu",
+          "Să ignore până se stinge incendiul",
+          "Să aștepte ca pompierii să ridice problema"
+        ]
+      },
+      "lv": {
+        "q": "Kas HSE vadītājam jāapsver, ja varētu notikt kontrolēto ūdeņu piesārņojums?",
+        "o": [
+          "Nekas, tas nav viņa pienākums",
+          "Jāsazinās ar Vides aģentūru",
+          "Jāignorē, kamēr uguns tiek dzēsta",
+          "Jāgaida, kamēr to izceļ ugunsdzēsēji"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which document/plan does the HSE Manager use to liaise with the Fire and Rescue Service?",
+        "o": [
+          "The Batch Card",
+          "The Fire Emergency Plan",
+          "The B19 form",
+          "The COSHH Action Card"
+        ]
+      },
+      "pl": {
+        "q": "Którego dokumentu/planu używa kierownik HSE do współpracy ze strażą pożarną?",
+        "o": [
+          "Karty partii",
+          "Planu Awaryjnego na Wypadek Pożaru",
+          "Formularza B19",
+          "Karty Postępowania COSHH"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ/план използва мениджърът HSE, за да си взаимодейства с пожарната служба?",
+        "o": [
+          "Партидната карта",
+          "Аварийния план за пожар",
+          "Формуляр B19",
+          "Картата за действие COSHH"
+        ]
+      },
+      "ro": {
+        "q": "Ce document/plan folosește managerul HSE pentru a colabora cu Serviciul de Pompieri?",
+        "o": [
+          "Fișa de lot",
+          "Planul de urgență pentru incendiu",
+          "Formularul B19",
+          "Fișa de acțiune COSHH"
+        ]
+      },
+      "lv": {
+        "q": "Kuru dokumentu/plānu HSE vadītājs izmanto, lai sadarbotos ar ugunsdzēsības dienestu?",
+        "o": [
+          "Partijas karti",
+          "Ugunsgrēka avārijas plānu",
+          "B19 veidlapu",
+          "COSHH rīcības karti"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Outside normal working hours, who is typically first contacted about a fire?",
+        "o": [
+          "The Production Manager directly",
+          "SCAMP Security or the Emergency Services, who then contact the HSE Manager or a Key Holder",
+          "No one, the system handles it automatically",
+          "The nearest employee's mobile phone"
+        ]
+      },
+      "pl": {
+        "q": "Poza normalnymi godzinami pracy, kto zwykle jest pierwszą osobą kontaktowaną w sprawie pożaru?",
+        "o": [
+          "Bezpośrednio kierownik produkcji",
+          "Ochrona SCAMP lub służby ratunkowe, które następnie kontaktują się z kierownikiem HSE lub osobą posiadającą klucze",
+          "Nikt, system obsługuje to automatycznie",
+          "Telefon komórkowy najbliższego pracownika"
+        ]
+      },
+      "bg": {
+        "q": "Извън нормалното работно време, кой обикновено е първо уведомен за пожар?",
+        "o": [
+          "Директно производственият мениджър",
+          "Охраната SCAMP или спешните служби, които след това се свързват с мениджъра HSE или носителя на ключове",
+          "Никой, системата се справя автоматично",
+          "Мобилният телефон на най-близкия служител"
+        ]
+      },
+      "ro": {
+        "q": "În afara programului normal de lucru, cine este de obicei contactat mai întâi despre un incendiu?",
+        "o": [
+          "Managerul de producție direct",
+          "Securitatea SCAMP sau Serviciile de Urgență, care apoi contactează managerul HSE sau un deținător de chei",
+          "Nimeni, sistemul se ocupă automat",
+          "Telefonul mobil al celui mai apropiat angajat"
+        ]
+      },
+      "lv": {
+        "q": "Ārpus parastā darba laika, kurš parasti tiek informēts pirmais par ugunsgrēku?",
+        "o": [
+          "Tieši ražošanas vadītājs",
+          "SCAMP apsardze vai neatliekamie dienesti, kas pēc tam sazinās ar HSE vadītāju vai atslēgu turētāju",
+          "Neviens, sistēma to automātiski novērš",
+          "Tuvākā darbinieka mobilais tālrunis"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which plan does the HSE Manager/Key Holder use outside normal hours?",
+        "o": [
+          "WP09Z",
+          "WP39 Emergency and Disaster Recovery Plan",
+          "WP03",
+          "There is no specific plan"
+        ]
+      },
+      "pl": {
+        "q": "Którego planu używa kierownik HSE/osoba posiadająca klucze poza normalnymi godzinami pracy?",
+        "o": [
+          "WP09Z",
+          "WP39 Planu Awaryjnego i Odzyskiwania po Katastrofie",
+          "WP03",
+          "Nie ma konkretnego planu"
+        ]
+      },
+      "bg": {
+        "q": "Кой план използва мениджърът HSE/носителят на ключове извън нормалното работно време?",
+        "o": [
+          "WP09Z",
+          "WP39 Авариен план и план за възстановяване след бедствие",
+          "WP03",
+          "Няма конкретен план"
+        ]
+      },
+      "ro": {
+        "q": "Ce plan folosește managerul HSE/deținătorul de chei în afara programului normal?",
+        "o": [
+          "WP09Z",
+          "WP39 Planul de urgență și recuperare în caz de dezastru",
+          "WP03",
+          "Nu există un plan specific"
+        ]
+      },
+      "lv": {
+        "q": "Kuru plānu HSE vadītājs/atslēgu turētājs izmanto ārpus parastā darba laika?",
+        "o": [
+          "WP09Z",
+          "WP39 Avārijas un katastrofu seku novēršanas plānu",
+          "WP03",
+          "Nav konkrēta plāna"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "During a weekly fire alarm test, is there a requirement to evacuate the building?",
+        "o": [
+          "Yes, always",
+          "No, but all staff should be on increased vigilance for signs of fire",
+          "Only if the alarm sounds twice",
+          "Only on Mondays"
+        ]
+      },
+      "pl": {
+        "q": "Podczas cotygodniowego testu alarmu pożarowego, czy istnieje wymóg ewakuacji budynku?",
+        "o": [
+          "Tak, zawsze",
+          "Nie, ale cały personel powinien zachować zwiększoną czujność na oznaki pożaru",
+          "Tylko jeśli alarm zabrzmi dwukrotnie",
+          "Tylko w poniedziałki"
+        ]
+      },
+      "bg": {
+        "q": "По време на седмичния тест на пожарната аларма, има ли изискване за евакуация на сградата?",
+        "o": [
+          "Да, винаги",
+          "Не, но целият персонал трябва да бъде с повишена бдителност за признаци на пожар",
+          "Само ако алармата прозвучи два пъти",
+          "Само в понеделник"
+        ]
+      },
+      "ro": {
+        "q": "În timpul testului săptămânal al alarmei de incendiu, există o cerință de evacuare a clădirii?",
+        "o": [
+          "Da, întotdeauna",
+          "Nu, dar tot personalul trebuie să fie în alertă sporită pentru semne de incendiu",
+          "Doar dacă alarma sună de două ori",
+          "Doar lunea"
+        ]
+      },
+      "lv": {
+        "q": "Iknedēļas ugunsgrēka trauksmes testa laikā, vai ir jāevakuē ēka?",
+        "o": [
+          "Jā, vienmēr",
+          "Nē, bet visam personālam jābūt paaugstinātā modrībā par ugunsgrēka pazīmēm",
+          "Tikai ja trauksme atskan divreiz",
+          "Tikai pirmdienās"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If you discover a fire during a maintenance test period, how should you raise the alarm?",
+        "o": [
+          "Wait for the test to finish first",
+          "Manually, shouting \"FIRE, FIRE, FIRE\" and informing personnel in each area",
+          "Only use the telephone",
+          "Do nothing, it will be detected automatically"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli odkryjesz pożar podczas okresu testu konserwacyjnego, jak powinieneś podnieść alarm?",
+        "o": [
+          "Najpierw poczekać na zakończenie testu",
+          "Ręcznie, krzycząc „POŻAR, POŻAR, POŻAR” i informując personel w każdym obszarze",
+          "Używać wyłącznie telefonu",
+          "Nic nie robić, zostanie to wykryte automatycznie"
+        ]
+      },
+      "bg": {
+        "q": "Ако откриете пожар по време на период на тестова поддръжка, как трябва да вдигнете тревога?",
+        "o": [
+          "Първо да изчакате края на теста",
+          "Ръчно, викайки „ПОЖАР, ПОЖАР, ПОЖАР“ и информирайки персонала във всяка зона",
+          "Само по телефона",
+          "Нищо не правете, ще бъде открито автоматично"
+        ]
+      },
+      "ro": {
+        "q": "Dacă descoperiți un incendiu în timpul unei perioade de testare de întreținere, cum trebuie să dați alarma?",
+        "o": [
+          "Așteptați mai întâi finalizarea testului",
+          "Manual, strigând „FOC, FOC, FOC” și informând personalul din fiecare zonă",
+          "Folosiți doar telefonul",
+          "Nu faceți nimic, va fi detectat automat"
+        ]
+      },
+      "lv": {
+        "q": "Ja ugunsgrēku atklājat apkopes testēšanas perioda laikā, kā jāceļ trauksme?",
+        "o": [
+          "Vispirms jāgaida testa beigas",
+          "Manuāli, kliedzot „UGUNS, UGUNS, UGUNS” un informējot personālu katrā zonā",
+          "Jāizmanto tikai tālrunis",
+          "Nekas nav jādara, tas tiks atklāts automātiski"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Before carrying out the weekly fire alarm test, what must you do first?",
+        "o": [
+          "Nothing, just start the test",
+          "Call the External Monitoring Station and request the alarm be put on test",
+          "Turn off all fire extinguishers",
+          "Inform the Environment Agency"
+        ]
+      },
+      "pl": {
+        "q": "Przed wykonaniem cotygodniowego testu alarmu pożarowego, co należy zrobić najpierw?",
+        "o": [
+          "Nic, po prostu rozpocząć test",
+          "Zadzwonić do Zewnętrznej Stacji Monitorowania i poprosić o przełączenie alarmu w tryb testowy",
+          "Wyłączyć wszystkie gaśnice",
+          "Poinformować Agencję Ochrony Środowiska"
+        ]
+      },
+      "bg": {
+        "q": "Преди извършване на седмичния тест на пожарната аларма, какво трябва да направите първо?",
+        "o": [
+          "Нищо, просто започнете теста",
+          "Да се обадите на Външната мониторингова станция и да поискате алармата да бъде поставена на тест",
+          "Да изключите всички пожарогасители",
+          "Да уведомите Агенцията по околна среда"
+        ]
+      },
+      "ro": {
+        "q": "Înainte de a efectua testul săptămânal al alarmei de incendiu, ce trebuie să faceți mai întâi?",
+        "o": [
+          "Nimic, doar începeți testul",
+          "Sunați Stația de Monitorizare Externă și cereți ca alarma să fie pusă în test",
+          "Opriți toate stingătoarele de incendiu",
+          "Informați Agenția de Mediu"
+        ]
+      },
+      "lv": {
+        "q": "Pirms iknedēļas ugunsgrēka trauksmes testa veikšanas, kas jādara vispirms?",
+        "o": [
+          "Nekas, vienkārši jāsāk tests",
+          "Jāzvana Ārējai Monitoringa Stacijai un jālūdz trauksmi pārslēgt testa režīmā",
+          "Jāizslēdz visi ugunsdzēšamie aparāti",
+          "Jāinformē Vides aģentūra"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What key code is entered at the main alarm panel during testing?",
+        "o": [
+          "1965",
+          "2214",
+          "1001148593",
+          "1000792205"
+        ]
+      },
+      "pl": {
+        "q": "Jaki kod klucza wprowadza się na głównym panelu alarmowym podczas testu?",
+        "o": [
+          "1965",
+          "2214",
+          "1001148593",
+          "1000792205"
+        ]
+      },
+      "bg": {
+        "q": "Кой код се въвежда на главния алармен панел по време на тестване?",
+        "o": [
+          "1965",
+          "2214",
+          "1001148593",
+          "1000792205"
+        ]
+      },
+      "ro": {
+        "q": "Ce cod cheie se introduce la panoul principal de alarmă în timpul testării?",
+        "o": [
+          "1965",
+          "2214",
+          "1001148593",
+          "1000792205"
+        ]
+      },
+      "lv": {
+        "q": "Kāds kods jāievada galvenajā trauksmes panelī testēšanas laikā?",
+        "o": [
+          "1965",
+          "2214",
+          "1001148593",
+          "1000792205"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "During the weekly Fire Appliance Check, what should you verify?",
+        "o": [
+          "Only that extinguishers exist",
+          "That extinguishers are present, serviceable and unobstructed",
+          "Only the extinguisher colour",
+          "Nothing specific"
+        ]
+      },
+      "pl": {
+        "q": "Podczas cotygodniowej kontroli sprzętu przeciwpożarowego, co należy sprawdzić?",
+        "o": [
+          "Tylko czy gaśnice istnieją",
+          "Czy gaśnice są obecne, sprawne i niezasłonięte",
+          "Tylko kolor gaśnicy",
+          "Nic konkretnego"
+        ]
+      },
+      "bg": {
+        "q": "По време на седмичната проверка на противопожарното оборудване, какво трябва да проверите?",
+        "o": [
+          "Само дали пожарогасителите съществуват",
+          "Дали пожарогасителите присъстват, са изправни и недостъпни за препятствия",
+          "Само цвета на пожарогасителя",
+          "Нищо конкретно"
+        ]
+      },
+      "ro": {
+        "q": "În timpul verificării săptămânale a stingătoarelor, ce trebuie verificat?",
+        "o": [
+          "Doar dacă stingătoarele există",
+          "Că stingătoarele sunt prezente, funcționale și neobstrucționate",
+          "Doar culoarea stingătorului",
+          "Nimic specific"
+        ]
+      },
+      "lv": {
+        "q": "Iknedēļas ugunsdzēšamo aparātu pārbaudes laikā, kas jāpārbauda?",
+        "o": [
+          "Tikai vai ugunsdzēšamie aparāti eksistē",
+          "Vai ugunsdzēšamie aparāti ir klāt, darba kārtībā un nekas tos nebloķē",
+          "Tikai ugunsdzēšamā aparāta krāsu",
+          "Nekas konkrēts"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How often is the Emergency Lighting Duration Test conducted, and for how long should the lighting be left on?",
+        "o": [
+          "Weekly, for 10 minutes",
+          "Annually, for 3 hours",
+          "Monthly, for 30 minutes",
+          "Six-monthly, for 1 hour"
+        ]
+      },
+      "pl": {
+        "q": "Jak często przeprowadzany jest Test Czasu Trwania Oświetlenia Awaryjnego i jak długo powinno być ono włączone?",
+        "o": [
+          "Co tydzień, przez 10 minut",
+          "Co roku, przez 3 godziny",
+          "Co miesiąc, przez 30 minut",
+          "Co pół roku, przez 1 godzinę"
+        ]
+      },
+      "bg": {
+        "q": "Колко често се провежда Тестът за продължителност на аварийното осветление и колко дълго то трябва да остане включено?",
+        "o": [
+          "Седмично, за 10 минути",
+          "Годишно, за 3 часа",
+          "Месечно, за 30 минути",
+          "На всеки шест месеца, за 1 час"
+        ]
+      },
+      "ro": {
+        "q": "Cât de des se efectuează Testul de durată a iluminatului de urgență și cât timp trebuie lăsat aprins iluminatul?",
+        "o": [
+          "Săptămânal, timp de 10 minute",
+          "Anual, timp de 3 ore",
+          "Lunar, timp de 30 de minute",
+          "La șase luni, timp de 1 oră"
+        ]
+      },
+      "lv": {
+        "q": "Cik bieži tiek veikts Avārijas apgaismojuma ilguma tests un cik ilgi apgaismojums jāatstāj ieslēgts?",
+        "o": [
+          "Katru nedēļu, uz 10 minūtēm",
+          "Katru gadu, uz 3 stundām",
+          "Katru mēnesi, uz 30 minūtēm",
+          "Ik pēc sešiem mēnešiem, uz 1 stundu"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What happens during the six-monthly fire alarm test?",
+        "o": [
+          "Nothing different from the weekly test",
+          "The EVACUATE button is pressed and a full evacuation drill is followed",
+          "Only the lights are checked",
+          "Only management take part"
+        ]
+      },
+      "pl": {
+        "q": "Co dzieje się podczas testu alarmu pożarowego przeprowadzanego co pół roku?",
+        "o": [
+          "Nic innego niż podczas testu cotygodniowego",
+          "Naciskany jest przycisk EVACUATE i przeprowadzane jest pełne ćwiczenie ewakuacyjne",
+          "Sprawdzane są tylko światła",
+          "Uczestniczy tylko kierownictwo"
+        ]
+      },
+      "bg": {
+        "q": "Какво се случва по време на теста на пожарната аларма, провеждан на всеки шест месеца?",
+        "o": [
+          "Нищо различно от седмичния тест",
+          "Натиска се бутонът EVACUATE и се провежда пълно учение по евакуация",
+          "Проверяват се само осветителните тела",
+          "Участва само ръководството"
+        ]
+      },
+      "ro": {
+        "q": "Ce se întâmplă în timpul testului alarmei de incendiu efectuat la șase luni?",
+        "o": [
+          "Nimic diferit față de testul săptămânal",
+          "Se apasă butonul EVACUATE și se urmează un exercițiu complet de evacuare",
+          "Se verifică doar luminile",
+          "Participă doar conducerea"
+        ]
+      },
+      "lv": {
+        "q": "Kas notiek reizi sešos mēnešos veiktā ugunsgrēka trauksmes testa laikā?",
+        "o": [
+          "Nekas cits kā iknedēļas testā",
+          "Tiek nospiesta poga EVACUATE un tiek veikta pilna evakuācijas mācība",
+          "Tiek pārbaudīti tikai apgaismes ķermeņi",
+          "Piedalās tikai vadība"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "For the six-monthly Emergency Lighting One Third Rating Functionality Check, how long should lighting be left on for a 3-hour rated system?",
+        "o": [
+          "10 minutes",
+          "At least 1 hour",
+          "3 hours",
+          "30 seconds"
+        ]
+      },
+      "pl": {
+        "q": "Podczas przeprowadzanej co pół roku kontroli funkcjonalności oświetlenia awaryjnego (jedna trzecia znamionowego czasu), jak długo powinno być włączone oświetlenie dla systemu o znamionowym czasie 3 godzin?",
+        "o": [
+          "10 minut",
+          "Co najmniej 1 godzinę",
+          "3 godziny",
+          "30 sekund"
+        ]
+      },
+      "bg": {
+        "q": "За провежданата на всеки шест месеца проверка на функционалността на аварийното осветление (една трета от номиналния капацитет), колко дълго трябва да остане включено осветлението за система с номинален капацитет 3 часа?",
+        "o": [
+          "10 минути",
+          "Поне 1 час",
+          "3 часа",
+          "30 секунди"
+        ]
+      },
+      "ro": {
+        "q": "Pentru verificarea funcționalității iluminatului de urgență la o treime din capacitate, efectuată la șase luni, cât timp trebuie lăsat aprins iluminatul pentru un sistem cu autonomie de 3 ore?",
+        "o": [
+          "10 minute",
+          "Cel puțin 1 oră",
+          "3 ore",
+          "30 de secunde"
+        ]
+      },
+      "lv": {
+        "q": "Reizi sešos mēnešos veicot avārijas apgaismojuma vienas trešdaļas jaudas funkcionalitātes pārbaudi, cik ilgi jāatstāj ieslēgts apgaismojums 3 stundu sistēmai?",
+        "o": [
+          "10 minūtes",
+          "Vismaz 1 stundu",
+          "3 stundas",
+          "30 sekundes"
+        ]
+      },
+      "correct": 1
+    }
+  ]
+}

@@ -68,6 +68,18 @@
         "ro": "Activități de încărcare/descărcare",
         "lv": "Iekraušanas/izkraušanas darbības"
       }
+    },
+    {
+      "id": "wp18",
+      "file": "wp18.json",
+      "docRef": "WP18",
+      "title": {
+        "en": "Fire Protection",
+        "pl": "Ochrona przeciwpożarowa",
+        "bg": "Противопожарна защита",
+        "ro": "Protecția împotriva incendiilor",
+        "lv": "Ugunsdrošība"
+      }
     }
   ]
 }
