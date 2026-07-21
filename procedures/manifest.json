@@ -8,6 +8,18 @@
         "en": "General Safety & Emergency Equipment",
         "pl": "Bezpieczeństwo ogólne i wyposażenie awaryjne"
       }
+    },
+    {
+      "id": "wp09g",
+      "file": "wp09g.json",
+      "docRef": "WP09G",
+      "title": {
+        "en": "Karmelle Ready Mixed Adhesive Filling Machine",
+        "pl": "Maszyna do napełniania klejem gotowym Karmelle",
+        "bg": "Машина за пълнене с готово смесен адхезив Karmelle",
+        "ro": "Mașină de umplere cu adeziv gata amestecat Karmelle",
+        "lv": "Karmelle gatavā līmes maisījuma pildīšanas iekārta"
+      }
     }
   ]
 }

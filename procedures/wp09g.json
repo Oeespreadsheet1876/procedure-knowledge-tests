@@ -1,0 +1,975 @@
+{
+  "id": "wp09g",
+  "docRef": "WP09G",
+  "issue": "9",
+  "title": {
+    "en": "Karmelle Ready Mixed Adhesive Filling Machine",
+    "pl": "Maszyna do napełniania klejem gotowym Karmelle",
+    "bg": "Машина за пълнене с готово смесен адхезив Karmelle",
+    "ro": "Mașină de umplere cu adeziv gata amestecat Karmelle",
+    "lv": "Karmelle gatavā līmes maisījuma pildīšanas iekārta"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "en": {
+        "q": "What must you have received training in before using this machine?",
+        "o": [
+          "Only this WP09G procedure",
+          "WP09Z Production General Safety & Emergency Equipment",
+          "Forklift training",
+          "No training required"
+        ]
+      },
+      "pl": {
+        "q": "Jakie szkolenie musisz odbyć przed rozpoczęciem pracy z tą maszyną?",
+        "o": [
+          "Tylko procedurę WP09G",
+          "WP09Z Produkcja – Bezpieczeństwo ogólne i wyposażenie awaryjne",
+          "Szkolenie na wózek widłowy",
+          "Żadne szkolenie nie jest wymagane"
+        ]
+      },
+      "bg": {
+        "q": "В какво обучение трябва да сте преминали, преди да използвате тази машина?",
+        "o": [
+          "Само процедура WP09G",
+          "WP09Z Производство – Обща безопасност и авариен инвентар",
+          "Обучение за мотокар",
+          "Не се изисква обучение"
+        ]
+      },
+      "ro": {
+        "q": "Ce instruire trebuie să fi urmat înainte de a folosi această mașină?",
+        "o": [
+          "Doar procedura WP09G",
+          "WP09Z Producție – Siguranță generală și echipamente de urgență",
+          "Instruire pentru stivuitor",
+          "Nu este necesară nicio instruire"
+        ]
+      },
+      "lv": {
+        "q": "Kāda apmācība jums jābūt apgūtai pirms šīs iekārtas lietošanas?",
+        "o": [
+          "Tikai WP09G procedūra",
+          "WP09Z Ražošana – Vispārīgā drošība un avārijas aprīkojums",
+          "Autoiekrāvēja apmācība",
+          "Apmācība nav nepieciešama"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for coordinating the effective implementation of this procedure?",
+        "o": [
+          "The Production Manager",
+          "The QC Operative",
+          "Any operative on shift",
+          "The forklift driver"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za koordynację skutecznego wdrożenia tej procedury?",
+        "o": [
+          "Kierownik produkcji",
+          "Pracownik QC",
+          "Dowolny pracownik na zmianie",
+          "Kierowca wózka widłowego"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за координирането на ефективното прилагане на тази процедура?",
+        "o": [
+          "Производственият мениджър",
+          "Операторът по качествен контрол",
+          "Всеки служител на смяна",
+          "Шофьорът на мотокар"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru coordonarea implementării eficiente a acestei proceduri?",
+        "o": [
+          "Managerul de producție",
+          "Operatorul de control al calității",
+          "Orice angajat din tură",
+          "Șoferul de stivuitor"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par šīs procedūras efektīvas ieviešanas koordinēšanu?",
+        "o": [
+          "Ražošanas vadītājs",
+          "QC operators",
+          "Jebkurš darbinieks maiņā",
+          "Autoiekrāvēja vadītājs"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "Who is responsible for providing training to operatives against this procedure?",
+        "o": [
+          "Only the Production Manager",
+          "The Team Leader in conjunction with the Night Shift Manager",
+          "The QC Operative",
+          "HR department"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za zapewnienie szkolenia operatorom w ramach tej procedury?",
+        "o": [
+          "Wyłącznie kierownik produkcji",
+          "Lider zespołu wspólnie z kierownikiem zmiany nocnej",
+          "Pracownik QC",
+          "Dział HR"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за осигуряване на обучение на операторите по тази процедура?",
+        "o": [
+          "Само производственият мениджър",
+          "Ръководителят на екипа заедно с нощния мениджър на смяната",
+          "Операторът по качествен контрол",
+          "Отдел „Човешки ресурси“"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru furnizarea instruirii operatorilor conform acestei proceduri?",
+        "o": [
+          "Doar managerul de producție",
+          "Liderul de echipă împreună cu managerul turei de noapte",
+          "Operatorul de control al calității",
+          "Departamentul de resurse umane"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par operatoru apmācības nodrošināšanu atbilstoši šai procedūrai?",
+        "o": [
+          "Tikai ražošanas vadītājs",
+          "Komandas vadītājs kopā ar nakts maiņas vadītāju",
+          "QC operators",
+          "Personāla nodaļa"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for cleaning the line and surrounding area?",
+        "o": [
+          "The QC Operative",
+          "The Production Manager",
+          "The Production Operatives",
+          "The forklift operator"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za czyszczenie linii i otaczającego obszaru?",
+        "o": [
+          "Pracownik QC",
+          "Kierownik produkcji",
+          "Operatorzy produkcji",
+          "Operator wózka widłowego"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за почистването на линията и околната зона?",
+        "o": [
+          "Операторът по качествен контрол",
+          "Производственият мениджър",
+          "Производствените оператори",
+          "Операторът на мотокар"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru curățarea liniei și a zonei înconjurătoare?",
+        "o": [
+          "Operatorul de control al calității",
+          "Managerul de producție",
+          "Operatorii de producție",
+          "Operatorul de stivuitor"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par līnijas un tās apkārtnes tīrīšanu?",
+        "o": [
+          "QC operators",
+          "Ražošanas vadītājs",
+          "Ražošanas operatori",
+          "Autoiekrāvēja operators"
+        ]
+      },
+      "correct": 2
+    },
+    {
+      "en": {
+        "q": "Which document is the COSHH Action Card?",
+        "o": [
+          "B61d",
+          "B82",
+          "B19",
+          "Batch Card"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to Karta Postępowania COSHH?",
+        "o": [
+          "B61d",
+          "B82",
+          "B19",
+          "Karta partii"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е Картата за действие COSHH?",
+        "o": [
+          "B61d",
+          "B82",
+          "B19",
+          "Партидна карта"
+        ]
+      },
+      "ro": {
+        "q": "Care document este Fișa de acțiune COSHH?",
+        "o": [
+          "B61d",
+          "B82",
+          "B19",
+          "Fișa de lot"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir COSHH rīcības karte?",
+        "o": [
+          "B61d",
+          "B82",
+          "B19",
+          "Partijas karte"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which document is the Production Line Start up and cleaning Check List?",
+        "o": [
+          "B61d",
+          "B82",
+          "B19",
+          "Batch Card"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to lista kontrolna uruchomienia i czyszczenia linii produkcyjnej?",
+        "o": [
+          "B61d",
+          "B82",
+          "B19",
+          "Karta partii"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е контролният списък за пускане в експлоатация и почистване на производствената линия?",
+        "o": [
+          "B61d",
+          "B82",
+          "B19",
+          "Партидна карта"
+        ]
+      },
+      "ro": {
+        "q": "Care document este lista de verificare pentru pornirea și curățarea liniei de producție?",
+        "o": [
+          "B61d",
+          "B82",
+          "B19",
+          "Fișa de lot"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir ražošanas līnijas palaišanas un tīrīšanas kontrolsaraksts?",
+        "o": [
+          "B61d",
+          "B82",
+          "B19",
+          "Partijas karte"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "Before commencing any filling task, what must be completed first?",
+        "o": [
+          "The B19 works order",
+          "The B61d production line start up and cleaning checklist",
+          "Only the batch card",
+          "Nothing, you can start immediately"
+        ]
+      },
+      "pl": {
+        "q": "Co musi zostać ukończone przed rozpoczęciem jakiegokolwiek zadania napełniania?",
+        "o": [
+          "Zlecenie produkcyjne B19",
+          "Lista kontrolna uruchomienia i czyszczenia linii B61d",
+          "Tylko karta partii",
+          "Nic, można zacząć od razu"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да бъде завършено преди започване на каквато и да е задача за пълнене?",
+        "o": [
+          "Работна поръчка B19",
+          "Контролен списък за пускане и почистване B61d",
+          "Само партидната карта",
+          "Нищо, можете да започнете веднага"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie finalizat înainte de a începe orice sarcină de umplere?",
+        "o": [
+          "Comanda de lucru B19",
+          "Lista de verificare pentru pornire și curățare B61d",
+          "Doar fișa de lot",
+          "Nimic, puteți începe imediat"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāpabeidz pirms jebkura pildīšanas uzdevuma sākšanas?",
+        "o": [
+          "B19 darba pasūtījums",
+          "B61d palaišanas un tīrīšanas kontrolsaraksts",
+          "Tikai partijas karte",
+          "Nekas, var sākt uzreiz"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must you do before starting the pump?",
+        "o": [
+          "Open the air valve and press the green button",
+          "Press the red button",
+          "Close all valves and leave them closed",
+          "Call the team leader"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić przed uruchomieniem pompy?",
+        "o": [
+          "Otworzyć zawór powietrza i nacisnąć zielony przycisk",
+          "Nacisnąć czerwony przycisk",
+          "Zamknąć wszystkie zawory i pozostawić je zamknięte",
+          "Zadzwonić do lidera zespołu"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направите, преди да стартирате помпата?",
+        "o": [
+          "Да отворите въздушния клапан и да натиснете зеления бутон",
+          "Да натиснете червения бутон",
+          "Да затворите всички клапани и да ги оставите затворени",
+          "Да се обадите на ръководителя на екипа"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți înainte de a porni pompa?",
+        "o": [
+          "Să deschideți supapa de aer și să apăsați butonul verde",
+          "Să apăsați butonul roșu",
+          "Să închideți toate supapele și să le lăsați închise",
+          "Să sunați liderul de echipă"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara pirms sūkņa iedarbināšanas?",
+        "o": [
+          "Jāatver gaisa vārsts un jānospiež zaļā poga",
+          "Jānospiež sarkanā poga",
+          "Jāaizver visi vārsti un jāatstāj tie aizvērti",
+          "Jāzvana komandas vadītājam"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "What should you check inside the buckets before filling?",
+        "o": [
+          "The bucket's weight only",
+          "That no contaminant such as dust or dirt is present",
+          "The bucket's serial number",
+          "Nothing needs checking"
+        ]
+      },
+      "pl": {
+        "q": "Co należy sprawdzić wewnątrz wiader przed napełnieniem?",
+        "o": [
+          "Tylko wagę wiadra",
+          "Czy nie ma zanieczyszczeń, np. kurzu lub brudu",
+          "Numer seryjny wiadra",
+          "Nic nie trzeba sprawdzać"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да проверите вътре в кофите преди пълнене?",
+        "o": [
+          "Само теглото на кофата",
+          "Дали няма замърсители, напр. прах или мръсотия",
+          "Серийния номер на кофата",
+          "Нищо не трябва да се проверява"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să verificați în interiorul găleților înainte de umplere?",
+        "o": [
+          "Doar greutatea găleții",
+          "Că nu există contaminanți, de ex. praf sau murdărie",
+          "Numărul de serie al găleții",
+          "Nu trebuie verificat nimic"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāpārbauda spaiņu iekšpusē pirms pildīšanas?",
+        "o": [
+          "Tikai spaiņa svars",
+          "Vai nav piesārņotāju, piemēram, putekļu vai netīrumu",
+          "Spaiņa sērijas numurs",
+          "Nekas nav jāpārbauda"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What should you do with the scales before filling the first bucket?",
+        "o": [
+          "Tare (zero) the scales",
+          "Leave them uncalibrated",
+          "Remove the scales entirely",
+          "Set them to a fixed random value"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić z wagą przed napełnieniem pierwszego wiadra?",
+        "o": [
+          "Wytarować (wyzerować) wagę",
+          "Pozostawić ją nieskalibrowaną",
+          "Całkowicie usunąć wagę",
+          "Ustawić na stałą losową wartość"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направите с везната преди пълнене на първата кофа?",
+        "o": [
+          "Да тарирате (нулирате) везната",
+          "Да я оставите некалибрирана",
+          "Да премахнете везната напълно",
+          "Да я настроите на фиксирана случайна стойност"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți cu cântarul înainte de a umple prima găleată?",
+        "o": [
+          "Să tarați (aduceți la zero) cântarul",
+          "Să îl lăsați necalibrat",
+          "Să îndepărtați complet cântarul",
+          "Să îl setați la o valoare aleatorie fixă"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara ar svariem pirms pirmā spaiņa pildīšanas?",
+        "o": [
+          "Jātarē (jānulē) svari",
+          "Jāatstāj nekalibrēti",
+          "Pilnībā jānoņem svari",
+          "Jāiestata uz fiksētu nejaušu vērtību"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "What happens when you press the green button on the filling nozzle?",
+        "o": [
+          "The machine stops",
+          "Product begins to dispense",
+          "The lid closes automatically",
+          "The scales reset"
+        ]
+      },
+      "pl": {
+        "q": "Co się dzieje po naciśnięciu zielonego przycisku na dyszy napełniającej?",
+        "o": [
+          "Maszyna się zatrzymuje",
+          "Produkt zaczyna być dozowany",
+          "Pokrywka zamyka się automatycznie",
+          "Waga się resetuje"
+        ]
+      },
+      "bg": {
+        "q": "Какво се случва, когато натиснете зеления бутон на дюзата за пълнене?",
+        "o": [
+          "Машината спира",
+          "Продуктът започва да се дозира",
+          "Капакът се затваря автоматично",
+          "Везната се нулира"
+        ]
+      },
+      "ro": {
+        "q": "Ce se întâmplă când apăsați butonul verde de pe duza de umplere?",
+        "o": [
+          "Mașina se oprește",
+          "Produsul începe să fie dozat",
+          "Capacul se închide automat",
+          "Cântarul se resetează"
+        ]
+      },
+      "lv": {
+        "q": "Kas notiek, nospiežot zaļo pogu uz pildīšanas sprauslas?",
+        "o": [
+          "Iekārta apstājas",
+          "Produkts sāk tikt dozēts",
+          "Vāks aizveras automātiski",
+          "Svari tiek atiestatīti"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What happens when you press the red button during filling?",
+        "o": [
+          "Product continues to dispense faster",
+          "Product stops dispensing",
+          "The bucket is automatically replaced",
+          "The vessel is cleaned"
+        ]
+      },
+      "pl": {
+        "q": "Co się dzieje po naciśnięciu czerwonego przycisku podczas napełniania?",
+        "o": [
+          "Produkt jest dozowany szybciej",
+          "Produkt przestaje być dozowany",
+          "Wiadro jest automatycznie wymieniane",
+          "Zbiornik jest czyszczony"
+        ]
+      },
+      "bg": {
+        "q": "Какво се случва, когато натиснете червения бутон по време на пълнене?",
+        "o": [
+          "Продуктът се дозира по-бързо",
+          "Продуктът спира да се дозира",
+          "Кофата се сменя автоматично",
+          "Съдът се почиства"
+        ]
+      },
+      "ro": {
+        "q": "Ce se întâmplă când apăsați butonul roșu în timpul umplerii?",
+        "o": [
+          "Produsul este dozat mai repede",
+          "Produsul nu mai este dozat",
+          "Găleata este înlocuită automat",
+          "Vasul este curățat"
+        ]
+      },
+      "lv": {
+        "q": "Kas notiek, nospiežot sarkano pogu pildīšanas laikā?",
+        "o": [
+          "Produkts tiek dozēts ātrāk",
+          "Produkts pārtrauc tikt dozēts",
+          "Spainis tiek automātiski nomainīts",
+          "Trauks tiek iztīrīts"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must you do once the lid is placed on a full bucket?",
+        "o": [
+          "Leave it loose for easy reopening",
+          "Use the rubber mallet to firmly close it",
+          "Place it back under the nozzle",
+          "Nothing further is needed"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić po założeniu pokrywki na pełne wiadro?",
+        "o": [
+          "Zostawić ją luźno, by łatwo ją zdjąć",
+          "Użyć gumowego młotka, aby mocno ją zamknąć",
+          "Umieścić wiadro z powrotem pod dyszą",
+          "Nic więcej nie jest potrzebne"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направите, след като поставите капака на пълна кофа?",
+        "o": [
+          "Да го оставите хлабав за лесно отваряне",
+          "Да използвате гумен чук, за да го затворите здраво",
+          "Да поставите кофата обратно под дюзата",
+          "Нищо друго не е необходимо"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți după ce puneți capacul pe o găleată plină?",
+        "o": [
+          "Să îl lăsați slăbit pentru a-l deschide ușor",
+          "Să folosiți ciocanul de cauciuc pentru a-l închide bine",
+          "Să puneți găleata înapoi sub duză",
+          "Nu mai este nevoie de nimic altceva"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara, kad vākam ir uzlikts pilnam spainim?",
+        "o": [
+          "Jāatstāj vaļīgs, lai to varētu viegli atvērt",
+          "Jāizmanto gumijas āmurs, lai to cieši aizvērtu",
+          "Jānoliek spainis atpakaļ zem sprauslas",
+          "Nekas cits nav nepieciešams"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How often must a filled container be weighed with the weight recorded on the B19?",
+        "o": [
+          "Every 10 minutes",
+          "Every 30 minutes",
+          "Once per shift",
+          "Only at the end of the batch"
+        ]
+      },
+      "pl": {
+        "q": "Jak często należy ważyć napełniony pojemnik i zapisywać wagę na formularzu B19?",
+        "o": [
+          "Co 10 minut",
+          "Co 30 minut",
+          "Raz na zmianę",
+          "Tylko na koniec partii"
+        ]
+      },
+      "bg": {
+        "q": "Колко често трябва да се претегля напълнен контейнер и теглото да се записва във формуляр B19?",
+        "o": [
+          "На всеки 10 минути",
+          "На всеки 30 минути",
+          "Веднъж на смяна",
+          "Само в края на партидата"
+        ]
+      },
+      "ro": {
+        "q": "Cât de des trebuie cântărit un container umplut, cu greutatea înregistrată în formularul B19?",
+        "o": [
+          "La fiecare 10 minute",
+          "La fiecare 30 de minute",
+          "O dată pe tură",
+          "Doar la sfârșitul lotului"
+        ]
+      },
+      "lv": {
+        "q": "Cik bieži piepildīts konteiners jāsver, un svars jāreģistrē B19 veidlapā?",
+        "o": [
+          "Ik pēc 10 minūtēm",
+          "Ik pēc 30 minūtēm",
+          "Vienreiz maiņā",
+          "Tikai partijas beigās"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What should happen if the QC Operator is not available for the First Pallet Check?",
+        "o": [
+          "The pallet should be sent out without checking",
+          "A Red Quarantine Sticker should be applied stating the reason, and the forklift operator informed",
+          "The line operative performs the QC check themselves",
+          "The pallet should be destroyed"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić, jeśli pracownik QC nie jest dostępny do kontroli pierwszej palety?",
+        "o": [
+          "Wysłać paletę bez kontroli",
+          "Nakleić czerwoną naklejkę kwarantanny z podaniem powodu i poinformować operatora wózka widłowego",
+          "Operator linii sam wykonuje kontrolę QC",
+          "Zniszczyć paletę"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се направи, ако операторът по качествен контрол не е наличен за проверката на първата палета?",
+        "o": [
+          "Да се изпрати палетата без проверка",
+          "Да се постави червен стикер за карантина с посочена причина и да се информира операторът на мотокара",
+          "Операторът на линията сам да извърши проверката",
+          "Да се унищожи палетата"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie făcut dacă operatorul de control al calității nu este disponibil pentru verificarea primului palet?",
+        "o": [
+          "Se trimite paletul fără verificare",
+          "Se aplică o etichetă roșie de carantină cu motivul și se informează operatorul de stivuitor",
+          "Operatorul de linie efectuează el însuși verificarea",
+          "Se distruge paletul"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara, ja QC operators nav pieejams pirmās paletes pārbaudei?",
+        "o": [
+          "Paletei jāļauj doties tālāk bez pārbaudes",
+          "Jāuzlīmē sarkana karantīnas uzlīme ar iemeslu un jāinformē autoiekrāvēja operators",
+          "Līnijas operators pats veic QC pārbaudi",
+          "Palete jāiznīcina"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must be done when no filling is taking place, e.g. during a break?",
+        "o": [
+          "Leave the buckets open",
+          "Place a lid on the top bucket of any exposed stack",
+          "Turn off all power in the building",
+          "Remove all buckets from the area"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić, gdy napełnianie nie jest prowadzone, np. podczas przerwy?",
+        "o": [
+          "Zostawić wiadra otwarte",
+          "Założyć pokrywkę na górne wiadro każdego odsłoniętego stosu",
+          "Wyłączyć całe zasilanie w budynku",
+          "Usunąć wszystkie wiadra z obszaru"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се направи, когато не се извършва пълнене, напр. по време на почивка?",
+        "o": [
+          "Да се оставят кофите отворени",
+          "Да се постави капак на горната кофа на всеки изложен на въздух комплект",
+          "Да се изключи цялото захранване в сградата",
+          "Да се премахнат всички кофи от зоната"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie făcut când nu se efectuează umplerea, de ex. în timpul pauzelor?",
+        "o": [
+          "Se lasă găletile deschise",
+          "Se pune un capac pe găleata de deasupra oricărui teanc expus la aer",
+          "Se oprește toată alimentarea electrică din clădire",
+          "Se îndepărtează toate găletile din zonă"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara, kad pildīšana netiek veikta, piemēram, pārtraukuma laikā?",
+        "o": [
+          "Jāatstāj spaiņi vaļēji",
+          "Jāuzliek vāks uz jebkuras gaisam pakļautas kaudzes augšējā spaiņa",
+          "Jāizslēdz visa ēkas strāva",
+          "Jāaizvāc visi spaiņi no zonas"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What should happen at the end of every shift, or when the batch appears empty?",
+        "o": [
+          "Leave the valves and air on for the next shift",
+          "Turn off all the valves and the air",
+          "Only turn off the air, leave valves open",
+          "Nothing needs to be done"
+        ]
+      },
+      "pl": {
+        "q": "Co powinno się stać na koniec każdej zmiany lub gdy partia wydaje się pusta?",
+        "o": [
+          "Zostawić zawory i powietrze włączone dla następnej zmiany",
+          "Wyłączyć wszystkie zawory i powietrze",
+          "Wyłączyć tylko powietrze, zostawić zawory otwarte",
+          "Nic nie trzeba robić"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се случи в края на всяка смяна или когато партидата изглежда празна?",
+        "o": [
+          "Да се оставят клапаните и въздухът включени за следващата смяна",
+          "Да се изключат всички клапани и въздухът",
+          "Да се изключи само въздухът, клапаните да останат отворени",
+          "Нищо не трябва да се прави"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să se întâmple la sfârșitul fiecărei ture sau când lotul pare gol?",
+        "o": [
+          "Se lasă supapele și aerul pornite pentru tura următoare",
+          "Se opresc toate supapele și aerul",
+          "Se oprește doar aerul, supapele rămân deschise",
+          "Nu trebuie făcut nimic"
+        ]
+      },
+      "lv": {
+        "q": "Kas jānotiek katras maiņas beigās vai kad partija šķiet tukša?",
+        "o": [
+          "Jāatstāj vārsti un gaiss ieslēgti nākamajai maiņai",
+          "Jāizslēdz visi vārsti un gaiss",
+          "Jāizslēdz tikai gaiss, vārstiem jāpaliek atvērtiem",
+          "Nekas nav jādara"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which form must be completed at the end of the shift for cleaning?",
+        "o": [
+          "B19",
+          "B82",
+          "B61d",
+          "Batch Card"
+        ]
+      },
+      "pl": {
+        "q": "Który formularz należy wypełnić na koniec zmiany w celu czyszczenia?",
+        "o": [
+          "B19",
+          "B82",
+          "B61d",
+          "Karta partii"
+        ]
+      },
+      "bg": {
+        "q": "Кой формуляр трябва да се попълни в края на смяната за почистване?",
+        "o": [
+          "B19",
+          "B82",
+          "B61d",
+          "Партидна карта"
+        ]
+      },
+      "ro": {
+        "q": "Ce formular trebuie completat la sfârșitul turei pentru curățare?",
+        "o": [
+          "B19",
+          "B82",
+          "B61d",
+          "Fișa de lot"
+        ]
+      },
+      "lv": {
+        "q": "Kura veidlapa jāaizpilda maiņas beigās tīrīšanai?",
+        "o": [
+          "B19",
+          "B82",
+          "B61d",
+          "Partijas karte"
+        ]
+      },
+      "correct": 2
+    },
+    {
+      "en": {
+        "q": "In an emergency, what is the first action to take?",
+        "o": [
+          "Press the green button",
+          "Suspend filling by closing the product dispensing valve",
+          "Call the team leader before doing anything",
+          "Leave the area immediately without stopping the machine"
+        ]
+      },
+      "pl": {
+        "q": "Jakie jest pierwsze działanie w sytuacji awaryjnej?",
+        "o": [
+          "Nacisnąć zielony przycisk",
+          "Zawiesić napełnianie, zamykając zawór dozujący produkt",
+          "Zadzwonić do lidera zespołu przed jakimkolwiek działaniem",
+          "Opuścić obszar bez zatrzymywania maszyny"
+        ]
+      },
+      "bg": {
+        "q": "Кое е първото действие в случай на авария?",
+        "o": [
+          "Да се натисне зеленият бутон",
+          "Да се спре пълненето, като се затвори клапанът за дозиране на продукта",
+          "Да се обадите на ръководителя на екипа преди каквото и да е действие",
+          "Да напуснете зоната, без да спирате машината"
+        ]
+      },
+      "ro": {
+        "q": "Care este prima acțiune într-o situație de urgență?",
+        "o": [
+          "Se apasă butonul verde",
+          "Se suspendă umplerea prin închiderea supapei de dozare a produsului",
+          "Se sună liderul de echipă înainte de orice acțiune",
+          "Se părăsește zona fără a opri mașina"
+        ]
+      },
+      "lv": {
+        "q": "Kāda ir pirmā darbība avārijas situācijā?",
+        "o": [
+          "Jānospiež zaļā poga",
+          "Jāaptur pildīšana, aizverot produkta dozēšanas vārstu",
+          "Jāzvana komandas vadītājam pirms jebkādas darbības",
+          "Jāpamet zona, neapturot iekārtu"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "In an emergency, which button switches off the pump?",
+        "o": [
+          "GREEN",
+          "RED",
+          "BLUE",
+          "There is no such button"
+        ]
+      },
+      "pl": {
+        "q": "Który przycisk wyłącza pompę w sytuacji awaryjnej?",
+        "o": [
+          "ZIELONY",
+          "CZERWONY",
+          "NIEBIESKI",
+          "Nie ma takiego przycisku"
+        ]
+      },
+      "bg": {
+        "q": "Кой бутон изключва помпата в случай на авария?",
+        "o": [
+          "ЗЕЛЕН",
+          "ЧЕРВЕН",
+          "СИН",
+          "Няма такъв бутон"
+        ]
+      },
+      "ro": {
+        "q": "Care buton oprește pompa într-o situație de urgență?",
+        "o": [
+          "VERDE",
+          "ROȘU",
+          "ALBASTRU",
+          "Nu există un astfel de buton"
+        ]
+      },
+      "lv": {
+        "q": "Kura poga izslēdz sūkni avārijas situācijā?",
+        "o": [
+          "ZAĻĀ",
+          "SARKANĀ",
+          "ZILĀ",
+          "Šādas pogas nav"
+        ]
+      },
+      "correct": 1
+    }
+  ]
+}
