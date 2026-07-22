@@ -1,0 +1,1167 @@
+{
+  "id": "wp26",
+  "docRef": "WP26",
+  "issue": "9",
+  "title": {
+    "en": "Communication and Consultation",
+    "pl": "Komunikacja i konsultacje",
+    "bg": "Комуникация и консултации",
+    "ro": "Comunicare și consultare",
+    "lv": "Komunikācija un konsultācijas"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "en": {
+        "q": "What is the purpose of this procedure?",
+        "o": [
+          "To reduce paperwork",
+          "To set out roles and responsibilities about communication and consultation, both internal and external, regarding IMS policy and practices",
+          "To manage payroll",
+          "To track employee attendance"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest cel tej procedury?",
+        "o": [
+          "Zmniejszenie ilości dokumentacji",
+          "Określenie ról i zakresów odpowiedzialności w zakresie komunikacji i konsultacji, zarówno wewnętrznej, jak i zewnętrznej, dotyczących polityki i praktyk IMS",
+          "Zarządzanie listą płac",
+          "Śledzenie obecności pracowników"
+        ]
+      },
+      "bg": {
+        "q": "Каква е целта на тази процедура?",
+        "o": [
+          "Намаляване на документооборота",
+          "Определяне на роли и отговорности относно комуникацията и консултациите, както вътрешни, така и външни, свързани с политиката и практиките на IMS",
+          "Управление на заплатите",
+          "Проследяване на присъствието на служителите"
+        ]
+      },
+      "ro": {
+        "q": "Care este scopul acestei proceduri?",
+        "o": [
+          "Reducerea documentelor",
+          "Stabilirea rolurilor și responsabilităților privind comunicarea și consultarea, atât internă, cât și externă, referitoare la politica și practicile IMS",
+          "Gestionarea salarizării",
+          "Urmărirea prezenței angajaților"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir šīs procedūras mērķis?",
+        "o": [
+          "Dokumentu apjoma samazināšana",
+          "Lomu un pienākumu noteikšana attiecībā uz komunikāciju un konsultācijām, gan iekšējām, gan ārējām, saistībā ar IMS politiku un praksi",
+          "Algu pārvaldība",
+          "Darbinieku apmeklējuma izsekošana"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What does the scope of this procedure cover?",
+        "o": [
+          "Only communication with customers",
+          "Communicating with employees and external interested parties on health, safety and environmental matters, and receiving/responding to relevant external communications",
+          "Only marketing communications",
+          "Only social media posts"
+        ]
+      },
+      "pl": {
+        "q": "Co obejmuje zakres tej procedury?",
+        "o": [
+          "Tylko komunikację z klientami",
+          "Komunikację z pracownikami i zewnętrznymi zainteresowanymi stronami w sprawach zdrowia, bezpieczeństwa i środowiska oraz odbieranie i odpowiadanie na istotną korespondencję zewnętrzną",
+          "Tylko komunikację marketingową",
+          "Tylko posty w mediach społecznościowych"
+        ]
+      },
+      "bg": {
+        "q": "Какво обхваща обхватът на тази процедура?",
+        "o": [
+          "Само комуникация с клиенти",
+          "Комуникация със служители и външни заинтересовани страни по въпроси на здравето, безопасността и околната среда, както и получаване/отговаряне на съответната външна кореспонденция",
+          "Само маркетингова комуникация",
+          "Само публикации в социалните медии"
+        ]
+      },
+      "ro": {
+        "q": "Ce acoperă domeniul de aplicare al acestei proceduri?",
+        "o": [
+          "Doar comunicarea cu clienții",
+          "Comunicarea cu angajații și părțile interesate externe privind aspecte de sănătate, siguranță și mediu, precum și primirea/răspunsul la corespondența externă relevantă",
+          "Doar comunicările de marketing",
+          "Doar postările pe rețelele sociale"
+        ]
+      },
+      "lv": {
+        "q": "Ko aptver šīs procedūras darbības joma?",
+        "o": [
+          "Tikai komunikāciju ar klientiem",
+          "Komunikāciju ar darbiniekiem un ārējām ieinteresētajām pusēm par veselības, drošības un vides jautājumiem, kā arī attiecīgās ārējās korespondences saņemšanu/atbildēšanu",
+          "Tikai mārketinga komunikāciju",
+          "Tikai sociālo mediju ierakstus"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What does \"IMS\" stand for?",
+        "o": [
+          "Internal Management Standard",
+          "Integrated Management System",
+          "Individual Monitoring Scheme",
+          "Incident Management Service"
+        ]
+      },
+      "pl": {
+        "q": "Co oznacza skrót „IMS”?",
+        "o": [
+          "Wewnętrzny Standard Zarządzania",
+          "Zintegrowany System Zarządzania",
+          "Indywidualny Program Monitorowania",
+          "Usługa Zarządzania Zdarzeniami"
+        ]
+      },
+      "bg": {
+        "q": "Какво означава „IMS“?",
+        "o": [
+          "Вътрешен стандарт за управление",
+          "Интегрирана система за управление",
+          "Индивидуална схема за наблюдение",
+          "Услуга за управление на инциденти"
+        ]
+      },
+      "ro": {
+        "q": "Ce înseamnă „IMS”?",
+        "o": [
+          "Standard intern de management",
+          "Sistem integrat de management",
+          "Schemă individuală de monitorizare",
+          "Serviciu de gestionare a incidentelor"
+        ]
+      },
+      "lv": {
+        "q": "Ko nozīmē „IMS”?",
+        "o": [
+          "Iekšējais vadības standarts",
+          "Integrētā vadības sistēma",
+          "Individuālā uzraudzības shēma",
+          "Incidentu vadības pakalpojums"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is an \"Elected Safety Representative\"?",
+        "o": [
+          "Any employee who volunteers spontaneously",
+          "A person who has been elected to represent a group of employees for health and safety matters",
+          "A member of senior management only",
+          "An external auditor"
+        ]
+      },
+      "pl": {
+        "q": "Kim jest „wybrany przedstawiciel ds. bezpieczeństwa”?",
+        "o": [
+          "Dowolny pracownik, który zgłosi się spontanicznie",
+          "Osoba, która została wybrana do reprezentowania grupy pracowników w sprawach zdrowia i bezpieczeństwa",
+          "Wyłącznie członek wyższego kierownictwa",
+          "Zewnętrzny audytor"
+        ]
+      },
+      "bg": {
+        "q": "Кой е „избран представител по безопасност“?",
+        "o": [
+          "Всеки служител, който доброволно се предложи",
+          "Лице, което е избрано да представлява група служители по въпроси на здравето и безопасността",
+          "Само член на висшето ръководство",
+          "Външен одитор"
+        ]
+      },
+      "ro": {
+        "q": "Cine este un „Reprezentant de siguranță ales”?",
+        "o": [
+          "Orice angajat care se oferă voluntar spontan",
+          "O persoană aleasă pentru a reprezenta un grup de angajați în chestiuni de sănătate și siguranță",
+          "Doar un membru al conducerii superioare",
+          "Un auditor extern"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir „Ievēlēts drošības pārstāvis”?",
+        "o": [
+          "Jebkurš darbinieks, kas brīvprātīgi piesakās",
+          "Persona, kas ievēlēta, lai pārstāvētu darbinieku grupu veselības un drošības jautājumos",
+          "Tikai augstākās vadības loceklis",
+          "Ārējs revidents"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What is a \"Regulatory Body\" in the context of this procedure?",
+        "o": [
+          "Any customer",
+          "The Environment Agency or Health and Safety Executive",
+          "A trade union",
+          "A supplier"
+        ]
+      },
+      "pl": {
+        "q": "Czym jest „organ regulacyjny” w kontekście tej procedury?",
+        "o": [
+          "Dowolny klient",
+          "Agencja Ochrony Środowiska lub Urząd ds. Bezpieczeństwa i Higieny Pracy",
+          "Związek zawodowy",
+          "Dostawca"
+        ]
+      },
+      "bg": {
+        "q": "Какво е „регулаторен орган“ в контекста на тази процедура?",
+        "o": [
+          "Всеки клиент",
+          "Агенцията по околна среда или Инспекцията по здраве и безопасност при работа",
+          "Синдикат",
+          "Доставчик"
+        ]
+      },
+      "ro": {
+        "q": "Ce este un „Organism de reglementare” în contextul acestei proceduri?",
+        "o": [
+          "Orice client",
+          "Agenția de Mediu sau Autoritatea pentru Sănătate și Siguranță",
+          "Un sindicat",
+          "Un furnizor"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir „Regulējošā institūcija” šīs procedūras kontekstā?",
+        "o": [
+          "Jebkurš klients",
+          "Vides aģentūra vai Veselības un drošības izpildinstitūcija",
+          "Arodbiedrība",
+          "Piegādātājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for authorising and maintaining a record of official correspondence relating to IMS issues?",
+        "o": [
+          "The Production Manager",
+          "The HSE Safety Manager",
+          "Elected Safety Representatives",
+          "Any employee"
+        ]
+      },
+      "pl": {
+        "q": "Kto odpowiada za zatwierdzanie i prowadzenie rejestru oficjalnej korespondencji dotyczącej kwestii IMS?",
+        "o": [
+          "Kierownik produkcji",
+          "Kierownik ds. bezpieczeństwa HSE",
+          "Wybrani przedstawiciele ds. bezpieczeństwa",
+          "Dowolny pracownik"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за упълномощаването и поддържането на регистър на официалната кореспонденция, свързана с въпроси на IMS?",
+        "o": [
+          "Производственият мениджър",
+          "Мениджърът по безопасност HSE",
+          "Избраните представители по безопасност",
+          "Всеки служител"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru autorizarea și menținerea unei evidențe a corespondenței oficiale privind aspectele IMS?",
+        "o": [
+          "Managerul de producție",
+          "Managerul de siguranță HSE",
+          "Reprezentanții de siguranță aleși",
+          "Orice angajat"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par oficiālās korespondences, kas saistīta ar IMS jautājumiem, apstiprināšanu un uzskaiti?",
+        "o": [
+          "Ražošanas vadītājs",
+          "HSE drošības vadītājs",
+          "Ievēlētie drošības pārstāvji",
+          "Jebkurš darbinieks"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who arranges and conducts the regular safety representative meetings?",
+        "o": [
+          "Elected Safety Representatives",
+          "The HSE Safety Manager",
+          "The Managing Director",
+          "External regulators"
+        ]
+      },
+      "pl": {
+        "q": "Kto organizuje i prowadzi regularne spotkania z przedstawicielami ds. bezpieczeństwa?",
+        "o": [
+          "Wybrani przedstawiciele ds. bezpieczeństwa",
+          "Kierownik ds. bezpieczeństwa HSE",
+          "Dyrektor zarządzający",
+          "Zewnętrzni regulatorzy"
+        ]
+      },
+      "bg": {
+        "q": "Кой организира и провежда редовните срещи с представителите по безопасност?",
+        "o": [
+          "Избраните представители по безопасност",
+          "Мениджърът по безопасност HSE",
+          "Управляващият директор",
+          "Външни регулаторни органи"
+        ]
+      },
+      "ro": {
+        "q": "Cine organizează și conduce ședințele periodice cu reprezentanții de siguranță?",
+        "o": [
+          "Reprezentanții de siguranță aleși",
+          "Managerul de siguranță HSE",
+          "Directorul general",
+          "Autoritățile de reglementare externe"
+        ]
+      },
+      "lv": {
+        "q": "Kas organizē un vada regulārās drošības pārstāvju sanāksmes?",
+        "o": [
+          "Ievēlētie drošības pārstāvji",
+          "HSE drošības vadītājs",
+          "Ģenerāldirektors",
+          "Ārējās regulējošās institūcijas"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How often are the safety representative meetings scheduled?",
+        "o": [
+          "Weekly",
+          "Bi-monthly (with additional meetings possible if serious/imminent dangers are identified)",
+          "Annually",
+          "Only when requested by employees"
+        ]
+      },
+      "pl": {
+        "q": "Jak często zaplanowane są spotkania z przedstawicielami ds. bezpieczeństwa?",
+        "o": [
+          "Co tydzień",
+          "Co dwa miesiące (z możliwością dodatkowych spotkań w przypadku zidentyfikowania poważnych lub bezpośrednich zagrożeń)",
+          "Raz w roku",
+          "Tylko na wniosek pracowników"
+        ]
+      },
+      "bg": {
+        "q": "Колко често се провеждат срещите с представителите по безопасност?",
+        "o": [
+          "Седмично",
+          "На всеки два месеца (с възможност за допълнителни срещи при установяване на сериозни или непосредствени опасности)",
+          "Годишно",
+          "Само по искане на служителите"
+        ]
+      },
+      "ro": {
+        "q": "Cât de des sunt programate ședințele cu reprezentanții de siguranță?",
+        "o": [
+          "Săptămânal",
+          "La fiecare două luni (cu posibilitatea unor ședințe suplimentare dacă sunt identificate pericole grave sau iminente)",
+          "Anual",
+          "Doar la cererea angajaților"
+        ]
+      },
+      "lv": {
+        "q": "Cik bieži tiek plānotas drošības pārstāvju sanāksmes?",
+        "o": [
+          "Katru nedēļu",
+          "Reizi divos mēnešos (ar iespēju rīkot papildu sanāksmes, ja tiek konstatēti nopietni vai tieši draudi)",
+          "Reizi gadā",
+          "Tikai pēc darbinieku pieprasījuma"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for ensuring employee responsibilities under the IMS system are communicated to employees within their line management function?",
+        "o": [
+          "The HSE Safety Manager",
+          "The Production Manager",
+          "Elected Safety Representatives",
+          "The Managing Director only"
+        ]
+      },
+      "pl": {
+        "q": "Kto odpowiada za zapewnienie, że obowiązki pracowników w ramach systemu IMS są komunikowane pracownikom w ramach ich struktury zarządzania liniowego?",
+        "o": [
+          "Kierownik ds. bezpieczeństwa HSE",
+          "Kierownik produkcji",
+          "Wybrani przedstawiciele ds. bezpieczeństwa",
+          "Wyłącznie dyrektor zarządzający"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за гарантирането, че отговорностите на служителите съгласно системата IMS се съобщават на служителите в рамките на тяхната линейна управленска функция?",
+        "o": [
+          "Мениджърът по безопасност HSE",
+          "Производственият мениджър",
+          "Избраните представители по безопасност",
+          "Само управляващият директор"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru a se asigura că responsabilitățile angajaților conform sistemului IMS sunt comunicate angajaților în cadrul funcției lor de management de linie?",
+        "o": [
+          "Managerul de siguranță HSE",
+          "Managerul de producție",
+          "Reprezentanții de siguranță aleși",
+          "Doar directorul general"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par to, lai darbinieku pienākumi saskaņā ar IMS sistēmu tiktu paziņoti darbiniekiem viņu tiešās vadības ietvaros?",
+        "o": [
+          "HSE drošības vadītājs",
+          "Ražošanas vadītājs",
+          "Ievēlētie drošības pārstāvji",
+          "Tikai ģenerāldirektors"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for ensuring contractors are informed of HSE requirements and the IMS system before starting work?",
+        "o": [
+          "The contractors themselves",
+          "The Production Manager",
+          "The HSE Safety Manager only",
+          "No one, it's assumed knowledge"
+        ]
+      },
+      "pl": {
+        "q": "Kto odpowiada za zapewnienie, że wykonawcy są poinformowani o wymogach HSE i systemie IMS przed rozpoczęciem pracy?",
+        "o": [
+          "Sami wykonawcy",
+          "Kierownik produkcji",
+          "Wyłącznie kierownik ds. bezpieczeństwa HSE",
+          "Nikt, zakłada się, że to wiedza powszechna"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за гарантирането, че изпълнителите са информирани за изискванията на HSE и системата IMS преди започване на работа?",
+        "o": [
+          "Самите изпълнители",
+          "Производственият мениджър",
+          "Само мениджърът по безопасност HSE",
+          "Никой, приема се, че е известно"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru a se asigura că contractorii sunt informați despre cerințele HSE și sistemul IMS înainte de a începe lucrul?",
+        "o": [
+          "Contractorii înșiși",
+          "Managerul de producție",
+          "Doar managerul de siguranță HSE",
+          "Nimeni, se presupune că este cunoscut"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par to, lai darbuzņēmēji tiktu informēti par HSE prasībām un IMS sistēmu pirms darba sākšanas?",
+        "o": [
+          "Paši darbuzņēmēji",
+          "Ražošanas vadītājs",
+          "Tikai HSE drošības vadītājs",
+          "Neviens, tas tiek pieņemts kā zināms"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who reports relevant site-based environmental performance information to the HSE Manager?",
+        "o": [
+          "External regulators",
+          "The Production Manager or Nominated Deputies",
+          "Elected Safety Representatives",
+          "Any employee"
+        ]
+      },
+      "pl": {
+        "q": "Kto zgłasza kierownikowi HSE odpowiednie informacje o wynikach środowiskowych na terenie zakładu?",
+        "o": [
+          "Zewnętrzni regulatorzy",
+          "Kierownik produkcji lub wyznaczeni zastępcy",
+          "Wybrani przedstawiciele ds. bezpieczeństwa",
+          "Dowolny pracownik"
+        ]
+      },
+      "bg": {
+        "q": "Кой докладва съответната информация за екологичните показатели на обекта на мениджъра HSE?",
+        "o": [
+          "Външни регулаторни органи",
+          "Производственият мениджър или назначените заместници",
+          "Избраните представители по безопасност",
+          "Всеки служител"
+        ]
+      },
+      "ro": {
+        "q": "Cine raportează managerului HSE informațiile relevante privind performanța de mediu la nivel de șantier?",
+        "o": [
+          "Autoritățile de reglementare externe",
+          "Managerul de producție sau adjuncții desemnați",
+          "Reprezentanții de siguranță aleși",
+          "Orice angajat"
+        ]
+      },
+      "lv": {
+        "q": "Kas ziņo HSE vadītājam attiecīgo objekta vides veiktspējas informāciju?",
+        "o": [
+          "Ārējās regulējošās institūcijas",
+          "Ražošanas vadītājs vai norīkotie vietnieki",
+          "Ievēlētie drošības pārstāvji",
+          "Jebkurš darbinieks"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What can Elected Safety Representatives make representations to the employer about?",
+        "o": [
+          "Only pay and conditions",
+          "Potential hazards, dangerous occurrences, and general matters affecting the health and safety of employees they represent",
+          "Only company social events",
+          "Marketing strategy"
+        ]
+      },
+      "pl": {
+        "q": "O czym wybrani przedstawiciele ds. bezpieczeństwa mogą zgłaszać uwagi pracodawcy?",
+        "o": [
+          "Tylko o wynagrodzeniu i warunkach pracy",
+          "O potencjalnych zagrożeniach, niebezpiecznych zdarzeniach oraz ogólnych sprawach wpływających na zdrowie i bezpieczeństwo reprezentowanych pracowników",
+          "Tylko o firmowych imprezach integracyjnych",
+          "O strategii marketingowej"
+        ]
+      },
+      "bg": {
+        "q": "За какво могат избраните представители по безопасност да правят изявления пред работодателя?",
+        "o": [
+          "Само за заплащане и условия на труд",
+          "За потенциални опасности, опасни събития и общи въпроси, засягащи здравето и безопасността на служителите, които представляват",
+          "Само за фирмени социални събития",
+          "За маркетингова стратегия"
+        ]
+      },
+      "ro": {
+        "q": "Despre ce pot face reprezentanții de siguranță aleși reprezentări către angajator?",
+        "o": [
+          "Doar despre salariu și condiții",
+          "Despre pericole potențiale, evenimente periculoase și aspecte generale care afectează sănătatea și siguranța angajaților pe care îi reprezintă",
+          "Doar despre evenimentele sociale ale companiei",
+          "Despre strategia de marketing"
+        ]
+      },
+      "lv": {
+        "q": "Par ko ievēlētie drošības pārstāvji var izteikt priekšlikumus darba devējam?",
+        "o": [
+          "Tikai par atalgojumu un darba apstākļiem",
+          "Par iespējamiem apdraudējumiem, bīstamiem notikumiem un vispārīgiem jautājumiem, kas ietekmē pārstāvēto darbinieku veselību un drošību",
+          "Tikai par uzņēmuma sabiedriskajiem pasākumiem",
+          "Par mārketinga stratēģiju"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How can employees make suggestions or comments for improvement?",
+        "o": [
+          "Only by speaking to the Managing Director directly",
+          "Using the \"Have Your Say!\" feedback process, the feedback form, or by consulting their site elected safety representative",
+          "Only via a formal written letter to head office",
+          "There is no formal process for this"
+        ]
+      },
+      "pl": {
+        "q": "W jaki sposób pracownicy mogą zgłaszać sugestie lub uwagi dotyczące usprawnień?",
+        "o": [
+          "Tylko rozmawiając bezpośrednio z dyrektorem zarządzającym",
+          "Korzystając z procesu opinii „Have Your Say!”, formularza opinii lub konsultując się z wybranym przedstawicielem ds. bezpieczeństwa na terenie zakładu",
+          "Tylko poprzez formalny list do siedziby głównej",
+          "Nie ma formalnego procesu w tym zakresie"
+        ]
+      },
+      "bg": {
+        "q": "Как служителите могат да правят предложения или коментари за подобрения?",
+        "o": [
+          "Само като говорят директно с управляващия директор",
+          "Чрез процеса за обратна връзка „Have Your Say!“, формуляра за обратна връзка или консултация с избрания представител по безопасност на обекта",
+          "Само чрез официално писмо до централния офис",
+          "Няма официален процес за това"
+        ]
+      },
+      "ro": {
+        "q": "Cum pot angajații să facă sugestii sau comentarii pentru îmbunătățire?",
+        "o": [
+          "Doar vorbind direct cu directorul general",
+          "Folosind procesul de feedback „Have Your Say!”, formularul de feedback sau consultând reprezentantul de siguranță ales al site-ului lor",
+          "Doar printr-o scrisoare oficială scrisă către sediul central",
+          "Nu există un proces oficial pentru aceasta"
+        ]
+      },
+      "lv": {
+        "q": "Kā darbinieki var sniegt ieteikumus vai komentārus uzlabojumiem?",
+        "o": [
+          "Tikai runājot tieši ar ģenerāldirektoru",
+          "Izmantojot „Have Your Say!” atgriezeniskās saites procesu, atgriezeniskās saites veidlapu vai konsultējoties ar sava objekta ievēlēto drošības pārstāvi",
+          "Tikai ar oficiālu rakstisku vēstuli galvenajam birojam",
+          "Šim nolūkam nav oficiāla procesa"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "According to this procedure, what must consultation with the workforce generally include?",
+        "o": [
+          "Only financial matters",
+          "Changes with a substantial effect on health and safety, risks and precautions, health and safety training planning, and the consequences of new technology",
+          "Only marketing decisions",
+          "Nothing specific is required"
+        ]
+      },
+      "pl": {
+        "q": "Zgodnie z tą procedurą, co musi ogólnie obejmować konsultacja z pracownikami?",
+        "o": [
+          "Tylko kwestie finansowe",
+          "Zmiany mające istotny wpływ na zdrowie i bezpieczeństwo, zagrożenia i środki ostrożności, planowanie szkoleń BHP oraz skutki wprowadzenia nowej technologii",
+          "Tylko decyzje marketingowe",
+          "Nic konkretnego nie jest wymagane"
+        ]
+      },
+      "bg": {
+        "q": "Съгласно тази процедура, какво трябва като цяло да включва консултацията с работната сила?",
+        "o": [
+          "Само финансови въпроси",
+          "Промени със съществено въздействие върху здравето и безопасността, рисковете и предпазните мерки, планирането на обучение по здраве и безопасност, и последствията от въвеждането на нова технология",
+          "Само маркетингови решения",
+          "Нищо конкретно не се изисква"
+        ]
+      },
+      "ro": {
+        "q": "Conform acestei proceduri, ce trebuie să includă în general consultarea cu forța de muncă?",
+        "o": [
+          "Doar aspecte financiare",
+          "Schimbări cu un efect substanțial asupra sănătății și siguranței, riscuri și precauții, planificarea instruirii de sănătate și siguranță, și consecințele noii tehnologii",
+          "Doar decizii de marketing",
+          "Nu este necesar nimic specific"
+        ]
+      },
+      "lv": {
+        "q": "Saskaņā ar šo procedūru, kas parasti jāiekļauj konsultācijās ar darbaspēku?",
+        "o": [
+          "Tikai finanšu jautājumus",
+          "Izmaiņas ar būtisku ietekmi uz veselību un drošību, riskus un piesardzības pasākumus, veselības un drošības apmācības plānošanu, un jaunu tehnoloģiju ieviešanas sekas",
+          "Tikai mārketinga lēmumus",
+          "Nekas konkrēts nav nepieciešams"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Must all formal HSE communications be authorised before being sent?",
+        "o": [
+          "No, anyone can send them freely",
+          "Yes, all formal HSE communications must be authorised",
+          "Only if they are sent externally",
+          "Only if requested by a customer"
+        ]
+      },
+      "pl": {
+        "q": "Czy wszystkie formalne komunikaty HSE muszą być zatwierdzone przed wysłaniem?",
+        "o": [
+          "Nie, każdy może je swobodnie wysyłać",
+          "Tak, wszystkie formalne komunikaty HSE muszą być zatwierdzone",
+          "Tylko jeśli są wysyłane na zewnątrz",
+          "Tylko na żądanie klienta"
+        ]
+      },
+      "bg": {
+        "q": "Трябва ли всички официални HSE комуникации да бъдат одобрени, преди да бъдат изпратени?",
+        "o": [
+          "Не, всеки може свободно да ги изпраща",
+          "Да, всички официални HSE комуникации трябва да бъдат одобрени",
+          "Само ако се изпращат навън",
+          "Само ако бъде поискано от клиент"
+        ]
+      },
+      "ro": {
+        "q": "Toate comunicările oficiale HSE trebuie autorizate înainte de a fi trimise?",
+        "o": [
+          "Nu, oricine le poate trimite liber",
+          "Da, toate comunicările oficiale HSE trebuie autorizate",
+          "Doar dacă sunt trimise extern",
+          "Doar dacă este solicitat de un client"
+        ]
+      },
+      "lv": {
+        "q": "Vai visai oficiālajai HSE korespondencei jābūt apstiprinātai pirms nosūtīšanas?",
+        "o": [
+          "Nē, jebkurš var to brīvi nosūtīt",
+          "Jā, visai oficiālajai HSE korespondencei jābūt apstiprinātai",
+          "Tikai tad, ja tā tiek sūtīta ārēji",
+          "Tikai tad, ja to pieprasa klients"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which of the following is listed as a means of communicating HSE information to employees?",
+        "o": [
+          "Only notice boards",
+          "Safety representative meetings, townhall/toolbox talks, Team Leader meetings, notice boards, newsletters, handbooks, training events, and the intranet",
+          "Only the company website",
+          "Only word of mouth"
+        ]
+      },
+      "pl": {
+        "q": "Które z poniższych jest wymienione jako środek komunikowania informacji HSE pracownikom?",
+        "o": [
+          "Tylko tablice ogłoszeń",
+          "Spotkania z przedstawicielami ds. bezpieczeństwa, spotkania ogólnofirmowe/toolbox talks, spotkania liderów zespołu, tablice ogłoszeń, biuletyny, podręczniki, wydarzenia szkoleniowe oraz intranet",
+          "Tylko strona internetowa firmy",
+          "Tylko przekaz ustny"
+        ]
+      },
+      "bg": {
+        "q": "Кое от следните е посочено като средство за комуникиране на HSE информация на служителите?",
+        "o": [
+          "Само информационни табла",
+          "Срещи с представители по безопасност, общи събрания/кратки инструктажи, срещи на ръководителите на екипи, информационни табла, бюлетини, наръчници, обучителни събития и интранет",
+          "Само уебсайтът на компанията",
+          "Само устна информация"
+        ]
+      },
+      "ro": {
+        "q": "Care dintre următoarele este listat ca mijloc de comunicare a informațiilor HSE angajaților?",
+        "o": [
+          "Doar avizierele",
+          "Ședințe cu reprezentanții de siguranță, întâlniri generale/discuții scurte, ședințe ale liderilor de echipă, avizierele, buletine informative, manuale, evenimente de instruire și intranetul",
+          "Doar site-ul web al companiei",
+          "Doar comunicarea verbală"
+        ]
+      },
+      "lv": {
+        "q": "Kurš no šiem ir minēts kā līdzeklis HSE informācijas paziņošanai darbiniekiem?",
+        "o": [
+          "Tikai paziņojumu dēļi",
+          "Drošības pārstāvju sanāksmes, kopsapulces/īsās instruktāžas, komandas vadītāju sanāksmes, paziņojumu dēļi, biļeteni, rokasgrāmatas, apmācību pasākumi un intranets",
+          "Tikai uzņēmuma tīmekļa vietne",
+          "Tikai mutiska informācija"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who reviews the \"Have Your Say!\" feedback at regular intervals?",
+        "o": [
+          "Only the HSE Manager",
+          "The Managing Director, Operations Director and Business Systems Manager",
+          "External auditors only",
+          "No one reviews it"
+        ]
+      },
+      "pl": {
+        "q": "Kto regularnie przegląda opinie „Have Your Say!”?",
+        "o": [
+          "Wyłącznie kierownik HSE",
+          "Dyrektor zarządzający, dyrektor operacyjny i kierownik ds. systemów biznesowych",
+          "Wyłącznie zewnętrzni audytorzy",
+          "Nikt tego nie przegląda"
+        ]
+      },
+      "bg": {
+        "q": "Кой преглежда обратната връзка „Have Your Say!“ през редовни интервали?",
+        "o": [
+          "Само мениджърът HSE",
+          "Управляващият директор, оперативният директор и мениджърът на бизнес системи",
+          "Само външни одитори",
+          "Никой не я преглежда"
+        ]
+      },
+      "ro": {
+        "q": "Cine revizuiește feedback-ul „Have Your Say!” la intervale regulate?",
+        "o": [
+          "Doar managerul HSE",
+          "Directorul general, directorul de operațiuni și managerul de sisteme de afaceri",
+          "Doar auditorii externi",
+          "Nimeni nu îl revizuiește"
+        ]
+      },
+      "lv": {
+        "q": "Kas regulāri pārskata „Have Your Say!” atgriezenisko saiti?",
+        "o": [
+          "Tikai HSE vadītājs",
+          "Ģenerāldirektors, operāciju direktors un biznesa sistēmu vadītājs",
+          "Tikai ārējie revidenti",
+          "Neviens to nepārskata"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Where is a summary of the \"Have Your Say!\" feedback review posted?",
+        "o": [
+          "Nowhere, it remains confidential",
+          "On company noticeboards",
+          "Only sent by private email",
+          "Only discussed verbally"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie publikowane jest podsumowanie przeglądu opinii „Have Your Say!”?",
+        "o": [
+          "Nigdzie, pozostaje poufne",
+          "Na firmowych tablicach ogłoszeń",
+          "Wysyłane tylko prywatnym e-mailem",
+          "Omawiane wyłącznie ustnie"
+        ]
+      },
+      "bg": {
+        "q": "Къде се публикува обобщение на прегледа на обратната връзка „Have Your Say!“?",
+        "o": [
+          "Никъде, остава поверително",
+          "На фирмените информационни табла",
+          "Изпраща се само по личен имейл",
+          "Обсъжда се само устно"
+        ]
+      },
+      "ro": {
+        "q": "Unde este afișat un rezumat al revizuirii feedback-ului „Have Your Say!”?",
+        "o": [
+          "Nicăieri, rămâne confidențial",
+          "Pe avizierele companiei",
+          "Trimis doar prin e-mail privat",
+          "Discutat doar verbal"
+        ]
+      },
+      "lv": {
+        "q": "Kur tiek publicēts „Have Your Say!” atgriezeniskās saites pārskata kopsavilkums?",
+        "o": [
+          "Nekur, tas paliek konfidenciāls",
+          "Uzņēmuma paziņojumu dēļos",
+          "Nosūtīts tikai privātā e-pastā",
+          "Pārrunāts tikai mutiski"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If the Production Manager receives information from employee safety representatives, what must happen to it?",
+        "o": [
+          "It is discarded",
+          "It must be communicated to the safety committee at the next meeting",
+          "It is only shared with the HSE Manager",
+          "Nothing further needs to happen"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli kierownik produkcji otrzyma informacje od przedstawicieli ds. bezpieczeństwa pracowników, co musi się z nimi stać?",
+        "o": [
+          "Zostają odrzucone",
+          "Muszą zostać przekazane komitetowi ds. bezpieczeństwa na następnym spotkaniu",
+          "Są udostępniane wyłącznie kierownikowi HSE",
+          "Nic więcej nie musi się wydarzyć"
+        ]
+      },
+      "bg": {
+        "q": "Ако производственият мениджър получи информация от представителите по безопасност на служителите, какво трябва да се случи с нея?",
+        "o": [
+          "Изхвърля се",
+          "Трябва да бъде съобщена на комитета по безопасност на следващата среща",
+          "Споделя се само с мениджъра HSE",
+          "Нищо повече не трябва да се случва"
+        ]
+      },
+      "ro": {
+        "q": "Dacă managerul de producție primește informații de la reprezentanții de siguranță ai angajaților, ce trebuie să se întâmple cu acestea?",
+        "o": [
+          "Sunt aruncate",
+          "Trebuie comunicate comitetului de siguranță la următoarea ședință",
+          "Sunt împărtășite doar cu managerul HSE",
+          "Nu mai este nevoie de nimic"
+        ]
+      },
+      "lv": {
+        "q": "Ja ražošanas vadītājs saņem informāciju no darbinieku drošības pārstāvjiem, kas ar to jādara?",
+        "o": [
+          "Tā tiek izmesta",
+          "Tā jāpaziņo drošības komitejai nākamajā sanāksmē",
+          "Tā tiek koplietota tikai ar HSE vadītāju",
+          "Nekas vairāk nav jādara"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How is correspondence from regulatory authorities relating to suspected HSE offences treated?",
+        "o": [
+          "As routine mail",
+          "As a complaint, prioritised for urgent action, with the HSE Manager informed immediately and action taken within 24 hours",
+          "It is filed for review at the next annual meeting",
+          "It is forwarded to external legal counsel only"
+        ]
+      },
+      "pl": {
+        "q": "Jak traktowana jest korespondencja od organów regulacyjnych dotycząca podejrzewanych naruszeń HSE?",
+        "o": [
+          "Jako zwykła korespondencja",
+          "Jako skarga, traktowana priorytetowo w celu pilnego działania, z natychmiastowym poinformowaniem kierownika HSE i podjęciem działań w ciągu 24 godzin",
+          "Jest archiwizowana do przeglądu na następnym corocznym spotkaniu",
+          "Jest przekazywana wyłącznie zewnętrznemu radcy prawnemu"
+        ]
+      },
+      "bg": {
+        "q": "Как се третира кореспонденцията от регулаторни органи, свързана с подозирани нарушения на HSE?",
+        "o": [
+          "Като обикновена поща",
+          "Като жалба, приоритизирана за спешно действие, като мениджърът HSE се информира незабавно и се предприемат действия в рамките на 24 часа",
+          "Съхранява се за преглед на следващата годишна среща",
+          "Препраща се само на външен юрисконсулт"
+        ]
+      },
+      "ro": {
+        "q": "Cum este tratată corespondența de la autoritățile de reglementare privind suspiciuni de încălcări HSE?",
+        "o": [
+          "Ca poștă obișnuită",
+          "Ca o reclamație, prioritizată pentru acțiune urgentă, cu informarea imediată a managerului HSE și acțiune întreprinsă în 24 de ore",
+          "Este arhivată pentru revizuire la următoarea ședință anuală",
+          "Este transmisă doar consilierului juridic extern"
+        ]
+      },
+      "lv": {
+        "q": "Kā tiek izskatīta regulējošo institūciju korespondence, kas saistīta ar iespējamiem HSE pārkāpumiem?",
+        "o": [
+          "Kā parasta korespondence",
+          "Kā sūdzība, kas prioritizēta steidzamai rīcībai, nekavējoties informējot HSE vadītāju un veicot darbības 24 stundu laikā",
+          "Tā tiek arhivēta izskatīšanai nākamajā ikgadējā sanāksmē",
+          "Tā tiek pārsūtīta tikai ārējam juridiskajam konsultantam"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Within what timescale must a response typically be made to relevant external communications, where necessary?",
+        "o": [
+          "Within 28 days, or the specified timescale",
+          "Within 24 hours always",
+          "Within 1 year",
+          "There is no expected timescale"
+        ]
+      },
+      "pl": {
+        "q": "W jakim terminie zazwyczaj należy odpowiedzieć na istotną korespondencję zewnętrzną, jeśli jest to konieczne?",
+        "o": [
+          "W ciągu 28 dni lub w określonym terminie",
+          "Zawsze w ciągu 24 godzin",
+          "W ciągu 1 roku",
+          "Nie ma oczekiwanego terminu"
+        ]
+      },
+      "bg": {
+        "q": "В какъв срок обикновено трябва да се отговори на съответната външна кореспонденция, когато е необходимо?",
+        "o": [
+          "В рамките на 28 дни или в определения срок",
+          "Винаги в рамките на 24 часа",
+          "В рамките на 1 година",
+          "Няма очакван срок"
+        ]
+      },
+      "ro": {
+        "q": "În ce interval de timp trebuie să se răspundă, de obicei, la corespondența externă relevantă, atunci când este necesar?",
+        "o": [
+          "În termen de 28 de zile, sau intervalul de timp specificat",
+          "Întotdeauna în 24 de ore",
+          "În termen de 1 an",
+          "Nu există un interval de timp așteptat"
+        ]
+      },
+      "lv": {
+        "q": "Kādā laika periodā parasti jāatbild uz attiecīgo ārējo korespondenci, ja nepieciešams?",
+        "o": [
+          "28 dienu laikā vai noteiktajā termiņā",
+          "Vienmēr 24 stundu laikā",
+          "1 gada laikā",
+          "Nav paredzēta termiņa"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "What must the Production Manager keep records of?",
+        "o": [
+          "Nothing specific",
+          "Minutes from the bi-monthly Safety Representative meetings and any complaints or responses to/from employees",
+          "Only personal notes",
+          "Only financial records"
+        ]
+      },
+      "pl": {
+        "q": "Czego rejestr musi prowadzić kierownik produkcji?",
+        "o": [
+          "Nic konkretnego",
+          "Protokołów ze spotkań z przedstawicielami ds. bezpieczeństwa odbywających się co dwa miesiące oraz wszelkich skarg lub odpowiedzi do/od pracowników",
+          "Tylko prywatnych notatek",
+          "Tylko dokumentacji finansowej"
+        ]
+      },
+      "bg": {
+        "q": "Какви записи трябва да поддържа производственият мениджър?",
+        "o": [
+          "Нищо конкретно",
+          "Протоколи от срещите с представителите по безопасност на всеки два месеца и всякакви жалби или отговори до/от служители",
+          "Само лични бележки",
+          "Само финансови записи"
+        ]
+      },
+      "ro": {
+        "q": "Ce evidențe trebuie să păstreze managerul de producție?",
+        "o": [
+          "Nimic specific",
+          "Procesele-verbale ale ședințelor bilunare cu reprezentanții de siguranță și orice reclamații sau răspunsuri către/de la angajați",
+          "Doar note personale",
+          "Doar evidențe financiare"
+        ]
+      },
+      "lv": {
+        "q": "Kādus ierakstus jāuztur ražošanas vadītājam?",
+        "o": [
+          "Nekas konkrēts",
+          "Protokolus no reizi divos mēnešos notiekošajām drošības pārstāvju sanāksmēm un jebkādas sūdzības vai atbildes uz/no darbiniekiem",
+          "Tikai personīgas piezīmes",
+          "Tikai finanšu ierakstus"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Where are copies of the safety representative meeting minutes given and displayed?",
+        "o": [
+          "Only kept privately by the Production Manager",
+          "Given to the HSE Manager and displayed on the notice boards",
+          "Sent only to external regulators",
+          "Destroyed after the meeting"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie przekazywane i wyświetlane są kopie protokołów ze spotkań z przedstawicielami ds. bezpieczeństwa?",
+        "o": [
+          "Przechowywane wyłącznie prywatnie przez kierownika produkcji",
+          "Przekazywane kierownikowi HSE i wyświetlane na tablicach ogłoszeń",
+          "Wysyłane wyłącznie do zewnętrznych organów regulacyjnych",
+          "Niszczone po spotkaniu"
+        ]
+      },
+      "bg": {
+        "q": "Къде се предават и показват копия от протоколите от срещите с представителите по безопасност?",
+        "o": [
+          "Съхраняват се само лично от производствения мениджър",
+          "Предават се на мениджъра HSE и се показват на информационните табла",
+          "Изпращат се само до външни регулаторни органи",
+          "Унищожават се след срещата"
+        ]
+      },
+      "ro": {
+        "q": "Unde sunt date și afișate copiile proceselor-verbale ale ședințelor cu reprezentanții de siguranță?",
+        "o": [
+          "Păstrate doar privat de managerul de producție",
+          "Date managerului HSE și afișate pe avizierele companiei",
+          "Trimise doar autorităților de reglementare externe",
+          "Distruse după ședință"
+        ]
+      },
+      "lv": {
+        "q": "Kur tiek nodotas un izliktas drošības pārstāvju sanāksmju protokolu kopijas?",
+        "o": [
+          "Tās glabā tikai privāti ražošanas vadītājs",
+          "Nodotas HSE vadītājam un izliktas paziņojumu dēļos",
+          "Nosūtītas tikai ārējām regulējošām institūcijām",
+          "Iznīcinātas pēc sanāksmes"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who maintains records of all complaints and responses received/sent to external parties?",
+        "o": [
+          "The Production Manager only",
+          "The HSE Manager",
+          "Any employee who receives them",
+          "External auditors"
+        ]
+      },
+      "pl": {
+        "q": "Kto prowadzi rejestr wszystkich skarg i odpowiedzi otrzymanych/wysłanych do stron zewnętrznych?",
+        "o": [
+          "Wyłącznie kierownik produkcji",
+          "Kierownik HSE",
+          "Dowolny pracownik, który je otrzyma",
+          "Zewnętrzni audytorzy"
+        ]
+      },
+      "bg": {
+        "q": "Кой поддържа записи на всички жалби и отговори, получени/изпратени до външни страни?",
+        "o": [
+          "Само производственият мениджър",
+          "Мениджърът HSE",
+          "Всеки служител, който ги получи",
+          "Външни одитори"
+        ]
+      },
+      "ro": {
+        "q": "Cine menține evidența tuturor reclamațiilor și răspunsurilor primite/trimise către părți externe?",
+        "o": [
+          "Doar managerul de producție",
+          "Managerul HSE",
+          "Orice angajat care le primește",
+          "Auditorii externi"
+        ]
+      },
+      "lv": {
+        "q": "Kas uztur visu sūdzību un atbilžu uzskaiti, kas saņemtas/nosūtītas ārējām pusēm?",
+        "o": [
+          "Tikai ražošanas vadītājs",
+          "HSE vadītājs",
+          "Jebkurš darbinieks, kas tās saņem",
+          "Ārējie revidenti"
+        ]
+      },
+      "correct": 1
+    }
+  ]
+}
