@@ -80,6 +80,30 @@
         "ro": "Protecția împotriva incendiilor",
         "lv": "Ugunsdrošība"
       }
+    },
+    {
+      "id": "wp09c",
+      "file": "wp09c.json",
+      "docRef": "WP09C",
+      "title": {
+        "en": "Blending (Powder/Sugar Soap Blender)",
+        "pl": "Mieszanie (blender do proszku/mydła w płatkach)",
+        "bg": "Смесване (блендер за прах/сапунен сапун)",
+        "ro": "Amestecare (mixer de pudră/săpun cu zahăr)",
+        "lv": "Maisīšana (pulvera/cukura ziepju maisītājs)"
+      }
+    },
+    {
+      "id": "wp21a",
+      "file": "wp21a.json",
+      "docRef": "WP21A",
+      "title": {
+        "en": "Housekeeping & Workplace Inspections",
+        "pl": "Utrzymanie porządku i inspekcje miejsca pracy",
+        "bg": "Поддържане на реда и проверки на работното място",
+        "ro": "Menaj și inspecții la locul de muncă",
+        "lv": "Kārtības uzturēšana un darba vietas pārbaudes"
+      }
     }
   ]
 }

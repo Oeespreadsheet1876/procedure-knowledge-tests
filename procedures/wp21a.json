@@ -1,0 +1,1359 @@
+{
+  "id": "wp21a",
+  "docRef": "WP21A",
+  "issue": "14",
+  "title": {
+    "en": "Housekeeping & Workplace Inspections",
+    "pl": "Utrzymanie porządku i inspekcje miejsca pracy",
+    "bg": "Поддържане на реда и проверки на работното място",
+    "ro": "Menaj și inspecții la locul de muncă",
+    "lv": "Kārtības uzturēšana un darba vietas pārbaudes"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "en": {
+        "q": "What is the purpose of this procedure?",
+        "o": [
+          "To reduce production costs",
+          "To demonstrate the company's commitment to good manufacturing practice through workplace inspections, managing deviations to minimise risk to health, safety and welfare",
+          "To track employee attendance",
+          "To manage stock levels"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest cel tej procedury?",
+        "o": [
+          "Zmniejszenie kosztów produkcji",
+          "Wykazanie zaangażowania firmy w dobre praktyki produkcyjne poprzez inspekcje miejsca pracy, zarządzanie odchyleniami w celu zminimalizowania ryzyka dla zdrowia, bezpieczeństwa i dobrostanu",
+          "Śledzenie obecności pracowników",
+          "Zarządzanie poziomem zapasów"
+        ]
+      },
+      "bg": {
+        "q": "Каква е целта на тази процедура?",
+        "o": [
+          "Намаляване на производствените разходи",
+          "Демонстриране на ангажимента на компанията към добрите производствени практики чрез инспекции на работното място, управление на отклоненията с цел минимизиране на риска за здравето, безопасността и благосъстоянието",
+          "Проследяване на присъствието на служителите",
+          "Управление на нивата на запасите"
+        ]
+      },
+      "ro": {
+        "q": "Care este scopul acestei proceduri?",
+        "o": [
+          "Reducerea costurilor de producție",
+          "Demonstrarea angajamentului companiei față de bunele practici de fabricație prin inspecții la locul de muncă, gestionarea abaterilor pentru a minimiza riscul pentru sănătate, siguranță și bunăstare",
+          "Urmărirea prezenței angajaților",
+          "Gestionarea nivelurilor de stoc"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir šīs procedūras mērķis?",
+        "o": [
+          "Ražošanas izmaksu samazināšana",
+          "Uzņēmuma apņemšanās demonstrēšana labai ražošanas praksei, veicot darba vietas pārbaudes un pārvaldot novirzes, lai samazinātu risku veselībai, drošībai un labklājībai",
+          "Darbinieku apmeklējuma izsekošana",
+          "Krājumu līmeņu pārvaldība"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which section does this procedure apply to?",
+        "o": [
+          "Only the office",
+          "Fillers & Adhesives Section",
+          "Only Engineering",
+          "The whole company globally"
+        ]
+      },
+      "pl": {
+        "q": "Do którego działu odnosi się ta procedura?",
+        "o": [
+          "Tylko do biura",
+          "Sekcji Fillers & Adhesives",
+          "Tylko do działu inżynieryjnego",
+          "Całej firmy globalnie"
+        ]
+      },
+      "bg": {
+        "q": "За кой отдел се отнася тази процедура?",
+        "o": [
+          "Само за офиса",
+          "Секция Fillers & Adhesives",
+          "Само за инженерния отдел",
+          "Цялата компания в световен мащаб"
+        ]
+      },
+      "ro": {
+        "q": "Cărei secții i se aplică această procedură?",
+        "o": [
+          "Doar biroului",
+          "Secției Fillers & Adhesives",
+          "Doar departamentului de inginerie",
+          "Întregii companii la nivel global"
+        ]
+      },
+      "lv": {
+        "q": "Kurai nodaļai attiecas šī procedūra?",
+        "o": [
+          "Tikai birojam",
+          "Fillers & Adhesives sekcijai",
+          "Tikai inženierijas nodaļai",
+          "Visam uzņēmumam globāli"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for maintaining and monitoring completed B forms and organising corrective action?",
+        "o": [
+          "The Team Leader",
+          "The Production Manager",
+          "The QC Operative",
+          "Any employee"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za utrzymywanie i monitorowanie wypełnionych formularzy B oraz organizowanie działań naprawczych?",
+        "o": [
+          "Lider zespołu",
+          "Kierownik produkcji",
+          "Pracownik QC",
+          "Dowolny pracownik"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за поддържането и наблюдението на попълнените формуляри B и организирането на коригиращи действия?",
+        "o": [
+          "Ръководителят на екипа",
+          "Производственият мениджър",
+          "Операторът по качествен контрол",
+          "Всеки служител"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru menținerea și monitorizarea formularelor B completate și organizarea acțiunilor corective?",
+        "o": [
+          "Liderul de echipă",
+          "Managerul de producție",
+          "Operatorul de control al calității",
+          "Orice angajat"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par aizpildīto B veidlapu uzturēšanu un uzraudzību un koriģējošo darbību organizēšanu?",
+        "o": [
+          "Komandas vadītājs",
+          "Ražošanas vadītājs",
+          "QC operators",
+          "Jebkurš darbinieks"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which form do Team Leaders or the Production Manager complete for periodic IMS inspections?",
+        "o": [
+          "B36A",
+          "B35A",
+          "B61G",
+          "B92"
+        ]
+      },
+      "pl": {
+        "q": "Który formularz wypełniają liderzy zespołu lub kierownik produkcji podczas okresowych inspekcji IMS?",
+        "o": [
+          "B36A",
+          "B35A",
+          "B61G",
+          "B92"
+        ]
+      },
+      "bg": {
+        "q": "Кой формуляр попълват ръководителите на екипи или производственият мениджър при периодичните IMS проверки?",
+        "o": [
+          "B36A",
+          "B35A",
+          "B61G",
+          "B92"
+        ]
+      },
+      "ro": {
+        "q": "Ce formular completează liderii de echipă sau managerul de producție pentru inspecțiile IMS periodice?",
+        "o": [
+          "B36A",
+          "B35A",
+          "B61G",
+          "B92"
+        ]
+      },
+      "lv": {
+        "q": "Kuru veidlapu aizpilda komandas vadītāji vai ražošanas vadītājs periodiskajām IMS pārbaudēm?",
+        "o": [
+          "B36A",
+          "B35A",
+          "B61G",
+          "B92"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who performs Weekly Inspections and records defects on the B36A form?",
+        "o": [
+          "Forklift operatives",
+          "Safety Representative and/or Production Manager",
+          "Engineers",
+          "Blenders"
+        ]
+      },
+      "pl": {
+        "q": "Kto przeprowadza cotygodniowe inspekcje i zapisuje usterki na formularzu B36A?",
+        "o": [
+          "Operatorzy wózków widłowych",
+          "Przedstawiciel ds. bezpieczeństwa i/lub kierownik produkcji",
+          "Inżynierowie",
+          "Operatorzy mieszania"
+        ]
+      },
+      "bg": {
+        "q": "Кой извършва седмичните проверки и записва дефектите във формуляр B36A?",
+        "o": [
+          "Операторите на мотокари",
+          "Представителят по безопасност и/или производственият мениджър",
+          "Инженерите",
+          "Операторите по смесване"
+        ]
+      },
+      "ro": {
+        "q": "Cine efectuează inspecțiile săptămânale și înregistrează defectele în formularul B36A?",
+        "o": [
+          "Operatorii de stivuitoare",
+          "Reprezentantul pentru siguranță și/sau managerul de producție",
+          "Inginerii",
+          "Operatorii de amestecare"
+        ]
+      },
+      "lv": {
+        "q": "Kas veic iknedēļas pārbaudes un reģistrē defektus B36A veidlapā?",
+        "o": [
+          "Autoiekrāvēju operatori",
+          "Drošības pārstāvis un/vai ražošanas vadītājs",
+          "Inženieri",
+          "Maisīšanas operatori"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must Team Leaders complete as part of workplace inspections/audits?",
+        "o": [
+          "Only B35A",
+          "B61G, B133, B134, and B135",
+          "Nothing, it's optional",
+          "Only the batch card"
+        ]
+      },
+      "pl": {
+        "q": "Co muszą wypełnić liderzy zespołu w ramach inspekcji/audytów miejsca pracy?",
+        "o": [
+          "Tylko B35A",
+          "B61G, B133, B134 i B135",
+          "Nic, jest to opcjonalne",
+          "Tylko kartę partii"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да попълват ръководителите на екипи като част от проверките/одитите на работното място?",
+        "o": [
+          "Само B35A",
+          "B61G, B133, B134 и B135",
+          "Нищо, това е незадължително",
+          "Само партидната карта"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să completeze liderii de echipă ca parte a inspecțiilor/auditurilor la locul de muncă?",
+        "o": [
+          "Doar B35A",
+          "B61G, B133, B134 și B135",
+          "Nimic, este opțional",
+          "Doar fișa de lot"
+        ]
+      },
+      "lv": {
+        "q": "Kas komandas vadītājiem jāaizpilda darba vietas pārbaužu/auditu ietvaros?",
+        "o": [
+          "Tikai B35A",
+          "B61G, B133, B134 un B135",
+          "Nekas, tas nav obligāti",
+          "Tikai partijas karte"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must Forklift operatives do regarding their work area?",
+        "o": [
+          "Nothing specific",
+          "Keep areas organised and tidy, report deviations to their immediate supervisor, and complete forms B92, B148, B153 & B154",
+          "Only report to the Production Manager",
+          "Complete the COSHH Action Card only"
+        ]
+      },
+      "pl": {
+        "q": "Co muszą robić operatorzy wózków widłowych w odniesieniu do swojego obszaru pracy?",
+        "o": [
+          "Nic konkretnego",
+          "Utrzymywać porządek w obszarach, zgłaszać odchylenia bezpośredniemu przełożonemu oraz wypełniać formularze B92, B148, B153 i B154",
+          "Zgłaszać się wyłącznie do kierownika produkcji",
+          "Wypełniać wyłącznie Kartę Postępowania COSHH"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да правят операторите на мотокари по отношение на работната си зона?",
+        "o": [
+          "Нищо конкретно",
+          "Да поддържат зоните организирани и подредени, да докладват отклонения на прекия си ръководител и да попълват формуляри B92, B148, B153 и B154",
+          "Да докладват само на производствения мениджър",
+          "Да попълват само Картата за действие COSHH"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să facă operatorii de stivuitoare în ceea ce privește zona lor de lucru?",
+        "o": [
+          "Nimic specific",
+          "Să păstreze zonele organizate și ordonate, să raporteze abaterile supervizorului direct și să completeze formularele B92, B148, B153 și B154",
+          "Să raporteze doar managerului de producție",
+          "Să completeze doar Fișa de acțiune COSHH"
+        ]
+      },
+      "lv": {
+        "q": "Kas autoiekrāvēju operatoriem jādara attiecībā uz savu darba zonu?",
+        "o": [
+          "Nekas konkrēts",
+          "Jāuztur zonas kārtīgas un sakoptas, jāziņo par novirzēm savam tiešajam vadītājam un jāaizpilda veidlapas B92, B148, B153 un B154",
+          "Jāziņo tikai ražošanas vadītājam",
+          "Jāaizpilda tikai COSHH rīcības karte"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which form do Blenders complete as part of housekeeping responsibilities?",
+        "o": [
+          "B92",
+          "B61C",
+          "B151",
+          "B152"
+        ]
+      },
+      "pl": {
+        "q": "Który formularz wypełniają operatorzy mieszania w ramach obowiązków porządkowych?",
+        "o": [
+          "B92",
+          "B61C",
+          "B151",
+          "B152"
+        ]
+      },
+      "bg": {
+        "q": "Кой формуляр попълват операторите по смесване като част от задълженията си за поддържане на реда?",
+        "o": [
+          "B92",
+          "B61C",
+          "B151",
+          "B152"
+        ]
+      },
+      "ro": {
+        "q": "Ce formular completează operatorii de amestecare ca parte a responsabilităților de menaj?",
+        "o": [
+          "B92",
+          "B61C",
+          "B151",
+          "B152"
+        ]
+      },
+      "lv": {
+        "q": "Kuru veidlapu aizpilda maisīšanas operatori kā daļu no kārtības uzturēšanas pienākumiem?",
+        "o": [
+          "B92",
+          "B61C",
+          "B151",
+          "B152"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which form do Filling Line Operatives complete?",
+        "o": [
+          "B61C only",
+          "B61D & B61E",
+          "B35A only",
+          "B152"
+        ]
+      },
+      "pl": {
+        "q": "Który formularz wypełniają operatorzy linii napełniania?",
+        "o": [
+          "Tylko B61C",
+          "B61D i B61E",
+          "Tylko B35A",
+          "B152"
+        ]
+      },
+      "bg": {
+        "q": "Кой формуляр попълват операторите на линиите за пълнене?",
+        "o": [
+          "Само B61C",
+          "B61D и B61E",
+          "Само B35A",
+          "B152"
+        ]
+      },
+      "ro": {
+        "q": "Ce formular completează operatorii liniei de umplere?",
+        "o": [
+          "Doar B61C",
+          "B61D și B61E",
+          "Doar B35A",
+          "B152"
+        ]
+      },
+      "lv": {
+        "q": "Kuru veidlapu aizpilda pildīšanas līnijas operatori?",
+        "o": [
+          "Tikai B61C",
+          "B61D un B61E",
+          "Tikai B35A",
+          "B152"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which document is the Factory Lock up Checklist?",
+        "o": [
+          "B35A",
+          "B92",
+          "B129",
+          "B148"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to Lista kontrolna zamykania fabryki?",
+        "o": [
+          "B35A",
+          "B92",
+          "B129",
+          "B148"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е Контролният списък за заключване на фабриката?",
+        "o": [
+          "B35A",
+          "B92",
+          "B129",
+          "B148"
+        ]
+      },
+      "ro": {
+        "q": "Care document este Lista de verificare pentru închiderea fabricii?",
+        "o": [
+          "B35A",
+          "B92",
+          "B129",
+          "B148"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir Rūpnīcas slēgšanas kontrolsaraksts?",
+        "o": [
+          "B35A",
+          "B92",
+          "B129",
+          "B148"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which document is the Cleaning Schedule?",
+        "o": [
+          "B92",
+          "B129",
+          "B133",
+          "B148"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to Harmonogram czyszczenia?",
+        "o": [
+          "B92",
+          "B129",
+          "B133",
+          "B148"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е Графикът за почистване?",
+        "o": [
+          "B92",
+          "B129",
+          "B133",
+          "B148"
+        ]
+      },
+      "ro": {
+        "q": "Care document este Programul de curățenie?",
+        "o": [
+          "B92",
+          "B129",
+          "B133",
+          "B148"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir Tīrīšanas grafiks?",
+        "o": [
+          "B92",
+          "B129",
+          "B133",
+          "B148"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Under the Factory Rules, what must always be kept clear?",
+        "o": [
+          "Only the canteen",
+          "Gangways, fire exits and pedestrian routes",
+          "Only the office corridors",
+          "Nothing specific is required"
+        ]
+      },
+      "pl": {
+        "q": "Zgodnie z zasadami fabrycznymi, co zawsze musi być utrzymywane w stanie niezastawionym?",
+        "o": [
+          "Tylko stołówka",
+          "Przejścia, wyjścia ewakuacyjne i ciągi piesze",
+          "Tylko korytarze biurowe",
+          "Nic konkretnego nie jest wymagane"
+        ]
+      },
+      "bg": {
+        "q": "Съгласно фабричните правила, какво винаги трябва да остава свободно?",
+        "o": [
+          "Само столът",
+          "Пътеките, пожарните изходи и пешеходните маршрути",
+          "Само офис коридорите",
+          "Нищо конкретно не се изисква"
+        ]
+      },
+      "ro": {
+        "q": "Conform Regulilor fabricii, ce trebuie păstrat întotdeauna liber?",
+        "o": [
+          "Doar cantina",
+          "Culoarele, ieșirile de incendiu și rutele pietonale",
+          "Doar coridoarele de birou",
+          "Nu este necesar nimic specific"
+        ]
+      },
+      "lv": {
+        "q": "Saskaņā ar rūpnīcas noteikumiem, kam vienmēr jābūt brīvam?",
+        "o": [
+          "Tikai ēdnīcai",
+          "Ejām, ugunsdrošības izejām un gājēju maršrutiem",
+          "Tikai biroja koridoriem",
+          "Nekas konkrēts nav nepieciešams"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How often must waste bins be emptied into the internal waste tipping skip?",
+        "o": [
+          "Weekly",
+          "Daily",
+          "Monthly",
+          "Only when full to overflowing"
+        ]
+      },
+      "pl": {
+        "q": "Jak często pojemniki na odpady muszą być opróżniane do wewnętrznego kontenera na odpady?",
+        "o": [
+          "Co tydzień",
+          "Codziennie",
+          "Co miesiąc",
+          "Tylko gdy są przepełnione"
+        ]
+      },
+      "bg": {
+        "q": "Колко често кофите за отпадъци трябва да се изпразват във вътрешния контейнер за отпадъци?",
+        "o": [
+          "Седмично",
+          "Ежедневно",
+          "Месечно",
+          "Само когато прелеят"
+        ]
+      },
+      "ro": {
+        "q": "Cât de des trebuie golite pubelele de deșeuri în containerul intern de deșeuri?",
+        "o": [
+          "Săptămânal",
+          "Zilnic",
+          "Lunar",
+          "Doar când sunt pline până la refuz"
+        ]
+      },
+      "lv": {
+        "q": "Cik bieži atkritumu tvertnes jāiztukšo iekšējā atkritumu izgāšanas konteinerā?",
+        "o": [
+          "Katru nedēļu",
+          "Katru dienu",
+          "Katru mēnesi",
+          "Tikai tad, kad tās ir pilnas līdz malām"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "After every production run, what must be done with packaging removed from the line?",
+        "o": [
+          "Left uncovered for the next shift",
+          "All components correctly covered up, and signed off on the B19 sheet",
+          "Immediately disposed of in general waste",
+          "Nothing needs to be done"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić z opakowaniami usuniętymi z linii po każdym cyklu produkcyjnym?",
+        "o": [
+          "Zostawić nieprzykryte na następną zmianę",
+          "Wszystkie elementy prawidłowo przykryte i podpisane na arkuszu B19",
+          "Natychmiast wyrzucić do odpadów ogólnych",
+          "Nic nie trzeba robić"
+        ]
+      },
+      "bg": {
+        "q": "След всеки производствен цикъл, какво трябва да се направи с опаковките, свалени от линията?",
+        "o": [
+          "Да се оставят непокрити за следващата смяна",
+          "Всички компоненти правилно покрити и подписани в листа B19",
+          "Незабавно да се изхвърлят в общите отпадъци",
+          "Нищо не трябва да се прави"
+        ]
+      },
+      "ro": {
+        "q": "După fiecare rulaj de producție, ce trebuie făcut cu ambalajele scoase de pe linie?",
+        "o": [
+          "Lăsate neacoperite pentru tura următoare",
+          "Toate componentele acoperite corect și semnate pe fișa B19",
+          "Aruncate imediat la deșeuri generale",
+          "Nu trebuie făcut nimic"
+        ]
+      },
+      "lv": {
+        "q": "Pēc katra ražošanas cikla, kas jādara ar iepakojumu, kas noņemts no līnijas?",
+        "o": [
+          "Jāatstāj nesegts nākamajai maiņai",
+          "Visas sastāvdaļas pareizi jānosedz un jāparaksta B19 lapā",
+          "Nekavējoties jāizmet vispārējos atkritumos",
+          "Nekas nav jādara"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Why must spill trays be positioned under dispensing machinery or conveyor systems?",
+        "o": [
+          "To improve appearance",
+          "To collect any spills",
+          "To reduce noise",
+          "They are optional"
+        ]
+      },
+      "pl": {
+        "q": "Dlaczego tace na wycieki muszą być umieszczone pod maszynami dozującymi lub systemami przenośników?",
+        "o": [
+          "Aby poprawić wygląd",
+          "Aby zbierać wszelkie wycieki",
+          "Aby zmniejszyć hałas",
+          "Są opcjonalne"
+        ]
+      },
+      "bg": {
+        "q": "Защо тавите за разливи трябва да се поставят под дозиращите машини или транспортните системи?",
+        "o": [
+          "За да подобрят външния вид",
+          "За да събират всякакви разливи",
+          "За да намалят шума",
+          "Те са по избор"
+        ]
+      },
+      "ro": {
+        "q": "De ce trebuie poziționate tăvile de scurgere sub utilajele de dozare sau sistemele de transport?",
+        "o": [
+          "Pentru a îmbunătăți aspectul",
+          "Pentru a colecta orice scurgeri",
+          "Pentru a reduce zgomotul",
+          "Sunt opționale"
+        ]
+      },
+      "lv": {
+        "q": "Kāpēc noplūdes paplātes jānovieto zem dozēšanas iekārtām vai konveijeru sistēmām?",
+        "o": [
+          "Lai uzlabotu izskatu",
+          "Lai savāktu jebkādas noplūdes",
+          "Lai samazinātu troksni",
+          "Tās ir izvēles"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How should hand operated pallet trolleys be stored when not in use?",
+        "o": [
+          "Left anywhere convenient",
+          "Inside a pallet, to avoid tripping hazards",
+          "Outside the building",
+          "Stacked against a wall"
+        ]
+      },
+      "pl": {
+        "q": "Jak należy przechowywać ręczne wózki paletowe, gdy nie są używane?",
+        "o": [
+          "Zostawiane w dowolnym wygodnym miejscu",
+          "Wewnątrz palety, aby uniknąć ryzyka potknięcia",
+          "Na zewnątrz budynku",
+          "Ustawione przy ścianie"
+        ]
+      },
+      "bg": {
+        "q": "Как трябва да се съхраняват ръчните палетни колички, когато не се използват?",
+        "o": [
+          "Оставени където е удобно",
+          "Вътре в палет, за да се избегне риск от спъване",
+          "Извън сградата",
+          "Подредени до стена"
+        ]
+      },
+      "ro": {
+        "q": "Cum trebuie depozitate cărucioarele de paleți manuale când nu sunt folosite?",
+        "o": [
+          "Lăsate oriunde este convenabil",
+          "În interiorul unui palet, pentru a evita pericolul de împiedicare",
+          "În afara clădirii",
+          "Stivuite lângă un perete"
+        ]
+      },
+      "lv": {
+        "q": "Kā jāuzglabā manuālie paleškrāvēji, kad tie netiek izmantoti?",
+        "o": [
+          "Atstāti jebkur, kur ērti",
+          "Paletes iekšpusē, lai izvairītos no paklupšanas riska",
+          "Ārpus ēkas",
+          "Sakrauti pie sienas"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Under the Outside Area Rules, how far from the building must combustible materials be stored?",
+        "o": [
+          "At least 1 metre",
+          "At least 10 metres",
+          "At least 50 centimetres",
+          "There is no minimum distance"
+        ]
+      },
+      "pl": {
+        "q": "Zgodnie z zasadami dotyczącymi terenu zewnętrznego, w jakiej odległości od budynku należy przechowywać materiały łatwopalne?",
+        "o": [
+          "Co najmniej 1 metr",
+          "Co najmniej 10 metrów",
+          "Co najmniej 50 centymetrów",
+          "Nie ma minimalnej odległości"
+        ]
+      },
+      "bg": {
+        "q": "Съгласно правилата за външната зона, на какво разстояние от сградата трябва да се съхраняват горими материали?",
+        "o": [
+          "Поне 1 метър",
+          "Поне 10 метра",
+          "Поне 50 сантиметра",
+          "Няма минимално разстояние"
+        ]
+      },
+      "ro": {
+        "q": "Conform Regulilor pentru zona exterioară, la ce distanță de clădire trebuie depozitate materialele combustibile?",
+        "o": [
+          "Cel puțin 1 metru",
+          "Cel puțin 10 metri",
+          "Cel puțin 50 de centimetri",
+          "Nu există o distanță minimă"
+        ]
+      },
+      "lv": {
+        "q": "Saskaņā ar āra teritorijas noteikumiem, kādā attālumā no ēkas jāuzglabā degtspējīgi materiāli?",
+        "o": [
+          "Vismaz 1 metru",
+          "Vismaz 10 metrus",
+          "Vismaz 50 centimetrus",
+          "Nav noteikts minimālais attālums"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What is the maximum stack height for pallets stored outside?",
+        "o": [
+          "10 pallets high",
+          "35 pallets high",
+          "Unlimited",
+          "5 pallets high"
+        ]
+      },
+      "pl": {
+        "q": "Jaka jest maksymalna wysokość stosu dla palet przechowywanych na zewnątrz?",
+        "o": [
+          "10 palet wysokości",
+          "35 palet wysokości",
+          "Bez ograniczeń",
+          "5 palet wysokości"
+        ]
+      },
+      "bg": {
+        "q": "Каква е максималната височина на стека за палети, съхранявани навън?",
+        "o": [
+          "10 палета височина",
+          "35 палета височина",
+          "Неограничена",
+          "5 палета височина"
+        ]
+      },
+      "ro": {
+        "q": "Care este înălțimea maximă a stivei pentru paleții depozitați afară?",
+        "o": [
+          "Înălțime de 10 paleți",
+          "Înălțime de 35 de paleți",
+          "Nelimitată",
+          "Înălțime de 5 paleți"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir maksimālais paletes kaudzes augstums, uzglabājot ārā?",
+        "o": [
+          "10 paletes augstumā",
+          "35 paletes augstumā",
+          "Neierobežots",
+          "5 paletes augstumā"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Are liquid raw materials allowed to be stored in the yard area?",
+        "o": [
+          "Yes, always",
+          "No",
+          "Only on Fridays",
+          "Only if under 10 litres"
+        ]
+      },
+      "pl": {
+        "q": "Czy surowce płynne mogą być przechowywane na terenie zewnętrznym?",
+        "o": [
+          "Tak, zawsze",
+          "Nie",
+          "Tylko w piątki",
+          "Tylko jeśli jest ich mniej niż 10 litrów"
+        ]
+      },
+      "bg": {
+        "q": "Разрешено ли е съхраняването на течни суровини в двора?",
+        "o": [
+          "Да, винаги",
+          "Не",
+          "Само в петък",
+          "Само ако са под 10 литра"
+        ]
+      },
+      "ro": {
+        "q": "Sunt permise materiile prime lichide depozitate în zona curții?",
+        "o": [
+          "Da, întotdeauna",
+          "Nu",
+          "Doar vinerea",
+          "Doar dacă sunt sub 10 litri"
+        ]
+      },
+      "lv": {
+        "q": "Vai šķidras izejvielas drīkst uzglabāt pagalma teritorijā?",
+        "o": [
+          "Jā, vienmēr",
+          "Nē",
+          "Tikai piektdienās",
+          "Tikai, ja mazāk par 10 litriem"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Where must all liquid waste be stored?",
+        "o": [
+          "Anywhere convenient",
+          "Within the self-bunded container",
+          "In the general waste skip",
+          "In the warehouse racking"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie muszą być przechowywane wszystkie odpady płynne?",
+        "o": [
+          "W dowolnym wygodnym miejscu",
+          "W samouszczelniającym się kontenerze",
+          "W ogólnym kontenerze na odpady",
+          "W regałach magazynowych"
+        ]
+      },
+      "bg": {
+        "q": "Къде трябва да се съхраняват всички течни отпадъци?",
+        "o": [
+          "Където е удобно",
+          "В самобункериран контейнер",
+          "В общия контейнер за отпадъци",
+          "В складовите стелажи"
+        ]
+      },
+      "ro": {
+        "q": "Unde trebuie depozitate toate deșeurile lichide?",
+        "o": [
+          "Oriunde este convenabil",
+          "Într-un container auto-digat",
+          "În containerul general de deșeuri",
+          "În rafturile depozitului"
+        ]
+      },
+      "lv": {
+        "q": "Kur jāuzglabā visi šķidrie atkritumi?",
+        "o": [
+          "Jebkur, kur ērti",
+          "Pašnorobežotā konteinerā",
+          "Vispārējā atkritumu konteinerā",
+          "Noliktavas plauktos"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Under the Warehouse Rules, is double stacking allowed in the racking?",
+        "o": [
+          "Yes, always",
+          "No, under no circumstances",
+          "Only for light items",
+          "Only with supervisor approval"
+        ]
+      },
+      "pl": {
+        "q": "Zgodnie z zasadami magazynowymi, czy podwójne piętrowanie jest dozwolone w regałach?",
+        "o": [
+          "Tak, zawsze",
+          "Nie, pod żadnym pozorem",
+          "Tylko dla lekkich przedmiotów",
+          "Tylko za zgodą przełożonego"
+        ]
+      },
+      "bg": {
+        "q": "Съгласно складовите правила, разрешено ли е двойно нареждане в стелажите?",
+        "o": [
+          "Да, винаги",
+          "Не, при никакви обстоятелства",
+          "Само за леки предмети",
+          "Само с одобрение на ръководителя"
+        ]
+      },
+      "ro": {
+        "q": "Conform Regulilor depozitului, este permisă stivuirea dublă în rafturi?",
+        "o": [
+          "Da, întotdeauna",
+          "Nu, în nicio circumstanță",
+          "Doar pentru articole ușoare",
+          "Doar cu aprobarea supervizorului"
+        ]
+      },
+      "lv": {
+        "q": "Saskaņā ar noliktavas noteikumiem, vai plauktos ir atļauta dubultā krautne?",
+        "o": [
+          "Jā, vienmēr",
+          "Nē, nekādā gadījumā",
+          "Tikai vieglām precēm",
+          "Tikai ar vadītāja apstiprinājumu"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Where is double stacking permitted?",
+        "o": [
+          "Nowhere at all",
+          "On ground level only",
+          "In the racking only",
+          "Anywhere in the warehouse"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie dozwolone jest podwójne piętrowanie?",
+        "o": [
+          "Nigdzie",
+          "Tylko na poziomie podłogi",
+          "Tylko w regałach",
+          "Wszędzie w magazynie"
+        ]
+      },
+      "bg": {
+        "q": "Къде е разрешено двойното нареждане?",
+        "o": [
+          "Никъде",
+          "Само на приземно ниво",
+          "Само в стелажите",
+          "Навсякъде в склада"
+        ]
+      },
+      "ro": {
+        "q": "Unde este permisă stivuirea dublă?",
+        "o": [
+          "Nicăieri",
+          "Doar la nivelul solului",
+          "Doar în rafturi",
+          "Oriunde în depozit"
+        ]
+      },
+      "lv": {
+        "q": "Kur ir atļauta dubultā krautne?",
+        "o": [
+          "Nekur",
+          "Tikai grīdas līmenī",
+          "Tikai plauktos",
+          "Jebkur noliktavā"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "In the event of a spillage, what is the first action to take?",
+        "o": [
+          "Call the Environment Agency immediately",
+          "Shut off the machine valve and suspend filling",
+          "Continue working and clean up later",
+          "Evacuate the building"
+        ]
+      },
+      "pl": {
+        "q": "W przypadku rozlania, jakie jest pierwsze działanie?",
+        "o": [
+          "Natychmiast zadzwonić do Agencji Ochrony Środowiska",
+          "Zamknąć zawór maszyny i zawiesić napełnianie",
+          "Kontynuować pracę i posprzątać później",
+          "Ewakuować budynek"
+        ]
+      },
+      "bg": {
+        "q": "В случай на разлив, кое е първото действие?",
+        "o": [
+          "Незабавно да се обадите на Агенцията по околна среда",
+          "Да се затвори клапанът на машината и да се спре пълненето",
+          "Да продължите работа и да почистите по-късно",
+          "Да евакуирате сградата"
+        ]
+      },
+      "ro": {
+        "q": "În cazul unei scurgeri, care este prima acțiune de întreprins?",
+        "o": [
+          "Sunați imediat Agenția de Mediu",
+          "Închideți supapa mașinii și suspendați umplerea",
+          "Continuați lucrul și curățați mai târziu",
+          "Evacuați clădirea"
+        ]
+      },
+      "lv": {
+        "q": "Noplūdes gadījumā, kāda ir pirmā veicamā darbība?",
+        "o": [
+          "Nekavējoties jāzvana Vides aģentūrai",
+          "Jāaizver iekārtas vārsts un jāaptur pildīšana",
+          "Jāturpina darbs un jāsatīra vēlāk",
+          "Jāevakuē ēka"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What should be used to prevent a spillage from entering drains?",
+        "o": [
+          "Nothing is needed",
+          "Booms",
+          "A mop",
+          "Sandbags only"
+        ]
+      },
+      "pl": {
+        "q": "Czego należy użyć, aby zapobiec przedostaniu się rozlania do kanalizacji?",
+        "o": [
+          "Nic nie jest potrzebne",
+          "Zapór (boomów)",
+          "Mopa",
+          "Tylko worków z piaskiem"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се използва, за да се предотврати навлизането на разлива в канализацията?",
+        "o": [
+          "Нищо не е необходимо",
+          "Заграждения (booms)",
+          "Парцал",
+          "Само чували с пясък"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie folosit pentru a preveni pătrunderea unei scurgeri în canalizare?",
+        "o": [
+          "Nu este nevoie de nimic",
+          "Baraje absorbante",
+          "Un mop",
+          "Doar saci de nisip"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāizmanto, lai novērstu noplūdes iekļūšanu drenāžā?",
+        "o": [
+          "Nekas nav vajadzīgs",
+          "Aizsprosti (booms)",
+          "Pārtikas lupata",
+          "Tikai smilšu maisi"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who must be informed immediately in the event of a spillage?",
+        "o": [
+          "No one, deal with it yourself",
+          "The shift supervisor",
+          "The Environment Agency only",
+          "HR department"
+        ]
+      },
+      "pl": {
+        "q": "Kto musi zostać natychmiast poinformowany w przypadku rozlania?",
+        "o": [
+          "Nikt, poradź sobie sam",
+          "Przełożony zmiany",
+          "Wyłącznie Agencja Ochrony Środowiska",
+          "Dział HR"
+        ]
+      },
+      "bg": {
+        "q": "Кой трябва да бъде уведомен незабавно в случай на разлив?",
+        "o": [
+          "Никой, справете се сами",
+          "Ръководителят на смяната",
+          "Само Агенцията по околна среда",
+          "Отдел HR"
+        ]
+      },
+      "ro": {
+        "q": "Cine trebuie informat imediat în cazul unei scurgeri?",
+        "o": [
+          "Nimeni, rezolvați singur",
+          "Supervizorul de tură",
+          "Doar Agenția de Mediu",
+          "Departamentul de resurse umane"
+        ]
+      },
+      "lv": {
+        "q": "Kas nekavējoties jāinformē noplūdes gadījumā?",
+        "o": [
+          "Neviens, jātiek galā pašam",
+          "Maiņas vadītājs",
+          "Tikai Vides aģentūra",
+          "Personāla nodaļa"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who conducts the daily start of shift inspection and completes form B61G?",
+        "o": [
+          "The Production Manager only",
+          "The day shift Team Leader",
+          "Any available employee",
+          "The Safety Representative only"
+        ]
+      },
+      "pl": {
+        "q": "Kto przeprowadza codzienną inspekcję na początku zmiany i wypełnia formularz B61G?",
+        "o": [
+          "Wyłącznie kierownik produkcji",
+          "Lider zmiany dziennej",
+          "Dowolny dostępny pracownik",
+          "Wyłącznie przedstawiciel ds. bezpieczeństwa"
+        ]
+      },
+      "bg": {
+        "q": "Кой извършва ежедневната проверка в началото на смяната и попълва формуляр B61G?",
+        "o": [
+          "Само производственият мениджър",
+          "Ръководителят на дневната смяна",
+          "Всеки наличен служител",
+          "Само представителят по безопасност"
+        ]
+      },
+      "ro": {
+        "q": "Cine efectuează inspecția zilnică de început de tură și completează formularul B61G?",
+        "o": [
+          "Doar managerul de producție",
+          "Liderul de tură de zi",
+          "Orice angajat disponibil",
+          "Doar reprezentantul pentru siguranță"
+        ]
+      },
+      "lv": {
+        "q": "Kas veic ikdienas maiņas sākuma pārbaudi un aizpilda veidlapu B61G?",
+        "o": [
+          "Tikai ražošanas vadītājs",
+          "Dienas maiņas komandas vadītājs",
+          "Jebkurš pieejamais darbinieks",
+          "Tikai drošības pārstāvis"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "When must the machines and ancillary equipment be fully cleaned after a spillage?",
+        "o": [
+          "Never, it's not required",
+          "Before commencement of production",
+          "Only at the end of the week",
+          "Only if instructed by QC"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy maszyny i sprzęt pomocniczy muszą zostać w pełni wyczyszczone po rozlaniu?",
+        "o": [
+          "Nigdy, nie jest to wymagane",
+          "Przed rozpoczęciem produkcji",
+          "Tylko na koniec tygodnia",
+          "Tylko na polecenie QC"
+        ]
+      },
+      "bg": {
+        "q": "Кога машините и допълнителното оборудване трябва да бъдат напълно почистени след разлив?",
+        "o": [
+          "Никога, не се изисква",
+          "Преди започване на производството",
+          "Само в края на седмицата",
+          "Само по указание на QC"
+        ]
+      },
+      "ro": {
+        "q": "Când trebuie curățate complet mașinile și echipamentele auxiliare după o scurgere?",
+        "o": [
+          "Niciodată, nu este necesar",
+          "Înainte de începerea producției",
+          "Doar la sfârșitul săptămânii",
+          "Doar la instrucțiunile QC"
+        ]
+      },
+      "lv": {
+        "q": "Kad iekārtas un palīgaprīkojums pilnībā jāiztīra pēc noplūdes?",
+        "o": [
+          "Nekad, tas nav nepieciešams",
+          "Pirms ražošanas sākšanas",
+          "Tikai nedēļas beigās",
+          "Tikai pēc QC norādījuma"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What should happen after an inspection identifies defects?",
+        "o": [
+          "Nothing further is needed",
+          "The inspector should go through the findings with the person responsible and agree corrective action",
+          "The area should be closed permanently",
+          "Only the Production Manager needs to know"
+        ]
+      },
+      "pl": {
+        "q": "Co powinno się stać po tym, jak inspekcja wykaże usterki?",
+        "o": [
+          "Nic więcej nie jest potrzebne",
+          "Inspektor powinien omówić ustalenia z osobą odpowiedzialną i uzgodnić działania naprawcze",
+          "Obszar powinien zostać trwale zamknięty",
+          "Wystarczy poinformować tylko kierownika produkcji"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се случи, след като проверка установи дефекти?",
+        "o": [
+          "Нищо повече не е необходимо",
+          "Инспекторът трябва да обсъди констатациите с отговорното лице и да съгласува коригиращи действия",
+          "Зоната трябва да бъде затворена постоянно",
+          "Трябва да знае само производственият мениджър"
+        ]
+      },
+      "ro": {
+        "q": "Ce ar trebui să se întâmple după ce o inspecție identifică defecte?",
+        "o": [
+          "Nu mai este nevoie de nimic",
+          "Inspectorul ar trebui să discute constatările cu persoana responsabilă și să convină asupra acțiunii corective",
+          "Zona ar trebui închisă permanent",
+          "Doar managerul de producție trebuie să știe"
+        ]
+      },
+      "lv": {
+        "q": "Kam jānotiek pēc tam, kad pārbaudē konstatēti defekti?",
+        "o": [
+          "Nekas vairāk nav nepieciešams",
+          "Inspektoram jāpārrunā konstatējumi ar atbildīgo personu un jāvienojas par koriģējošo darbību",
+          "Zona jāslēdz uz visiem laikiem",
+          "Jāzina jābūt tikai ražošanas vadītājam"
+        ]
+      },
+      "correct": 1
+    }
+  ]
+}
