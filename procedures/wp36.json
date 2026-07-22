@@ -1,0 +1,1263 @@
+{
+  "id": "wp36",
+  "docRef": "WP36",
+  "issue": "11",
+  "title": {
+    "en": "Control of Substances Hazardous to Health",
+    "pl": "Kontrola substancji niebezpiecznych dla zdrowia",
+    "bg": "Контрол на веществата, опасни за здравето",
+    "ro": "Controlul substanțelor periculoase pentru sănătate",
+    "lv": "Veselībai bīstamo vielu kontrole"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "en": {
+        "q": "What is the scope of this procedure?",
+        "o": [
+          "Only fire safety",
+          "All operations involving the safe handling and use of substances hazardous to health",
+          "Only vehicle maintenance",
+          "Only office equipment"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest zakres tej procedury?",
+        "o": [
+          "Tylko bezpieczeństwo przeciwpożarowe",
+          "Wszystkie operacje związane z bezpiecznym obchodzeniem się i stosowaniem substancji niebezpiecznych dla zdrowia",
+          "Tylko konserwacja pojazdów",
+          "Tylko sprzęt biurowy"
+        ]
+      },
+      "bg": {
+        "q": "Какъв е обхватът на тази процедура?",
+        "o": [
+          "Само противопожарна безопасност",
+          "Всички операции, включващи безопасно боравене и използване на вещества, опасни за здравето",
+          "Само поддръжка на превозни средства",
+          "Само офис оборудване"
+        ]
+      },
+      "ro": {
+        "q": "Care este domeniul de aplicare al acestei proceduri?",
+        "o": [
+          "Doar siguranța la incendiu",
+          "Toate operațiunile care implică manipularea și utilizarea sigură a substanțelor periculoase pentru sănătate",
+          "Doar întreținerea vehiculelor",
+          "Doar echipamentul de birou"
+        ]
+      },
+      "lv": {
+        "q": "Kāda ir šīs procedūras darbības joma?",
+        "o": [
+          "Tikai ugunsdrošība",
+          "Visas darbības, kas saistītas ar veselībai bīstamu vielu drošu apstrādi un lietošanu",
+          "Tikai transportlīdzekļu apkope",
+          "Tikai biroja aprīkojums"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for ensuring this procedure is adopted in consultation with staff?",
+        "o": [
+          "Team Leaders",
+          "The HSE Manager",
+          "The QHSE Technician",
+          "Any employee"
+        ]
+      },
+      "pl": {
+        "q": "Kto odpowiada za zapewnienie, że ta procedura jest przyjmowana w konsultacji z personelem?",
+        "o": [
+          "Liderzy zespołu",
+          "Kierownik HSE",
+          "Technik QHSE",
+          "Dowolny pracownik"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за гарантирането, че тази процедура се приема в консултация с персонала?",
+        "o": [
+          "Ръководителите на екипи",
+          "Мениджърът HSE",
+          "Техникът QHSE",
+          "Всеки служител"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru a se asigura că această procedură este adoptată în consultare cu personalul?",
+        "o": [
+          "Liderii de echipă",
+          "Managerul HSE",
+          "Tehnicianul QHSE",
+          "Orice angajat"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par to, lai šī procedūra tiktu pieņemta, konsultējoties ar personālu?",
+        "o": [
+          "Komandas vadītāji",
+          "HSE vadītājs",
+          "QHSE tehniķis",
+          "Jebkurš darbinieks"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who carries out RPE face fit testing?",
+        "o": [
+          "The HSE Manager",
+          "The QHSE Technician",
+          "Team Leaders",
+          "External contractors only"
+        ]
+      },
+      "pl": {
+        "q": "Kto przeprowadza testy dopasowania masek (RPE)?",
+        "o": [
+          "Kierownik HSE",
+          "Technik QHSE",
+          "Liderzy zespołu",
+          "Wyłącznie zewnętrzni wykonawcy"
+        ]
+      },
+      "bg": {
+        "q": "Кой извършва тестове за прилягане на дихателна защита (RPE)?",
+        "o": [
+          "Мениджърът HSE",
+          "Техникът QHSE",
+          "Ръководителите на екипи",
+          "Само външни изпълнители"
+        ]
+      },
+      "ro": {
+        "q": "Cine efectuează testarea de etanșeitate a echipamentului de protecție respiratorie (RPE)?",
+        "o": [
+          "Managerul HSE",
+          "Tehnicianul QHSE",
+          "Liderii de echipă",
+          "Doar contractorii externi"
+        ]
+      },
+      "lv": {
+        "q": "Kas veic RPE sejas piegulšanas testēšanu?",
+        "o": [
+          "HSE vadītājs",
+          "QHSE tehniķis",
+          "Komandas vadītāji",
+          "Tikai ārējie darbuzņēmēji"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which document is the COSHH Action Cards?",
+        "o": [
+          "B70",
+          "B82",
+          "B112",
+          "B208"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to Karty Postępowania COSHH?",
+        "o": [
+          "B70",
+          "B82",
+          "B112",
+          "B208"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е Картите за действие COSHH?",
+        "o": [
+          "B70",
+          "B82",
+          "B112",
+          "B208"
+        ]
+      },
+      "ro": {
+        "q": "Care document este Fișele de acțiune COSHH?",
+        "o": [
+          "B70",
+          "B82",
+          "B112",
+          "B208"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir COSHH rīcības kartes?",
+        "o": [
+          "B70",
+          "B82",
+          "B112",
+          "B208"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which document/procedure must be implemented before any new substances are introduced into the company?",
+        "o": [
+          "WP09Z",
+          "WP38 Management of Change",
+          "WP93",
+          "WP18"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument/procedura musi zostać wdrożona przed wprowadzeniem jakichkolwiek nowych substancji do firmy?",
+        "o": [
+          "WP09Z",
+          "WP38 Zarządzanie zmianą",
+          "WP93",
+          "WP18"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ/процедура трябва да се приложи, преди да бъдат въведени нови вещества в компанията?",
+        "o": [
+          "WP09Z",
+          "WP38 Управление на промените",
+          "WP93",
+          "WP18"
+        ]
+      },
+      "ro": {
+        "q": "Ce document/procedură trebuie implementat(ă) înainte de introducerea oricăror substanțe noi în companie?",
+        "o": [
+          "WP09Z",
+          "WP38 Managementul schimbării",
+          "WP93",
+          "WP18"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments/procedūra jāievieš, pirms uzņēmumā tiek ieviestas jaunas vielas?",
+        "o": [
+          "WP09Z",
+          "WP38 Izmaiņu vadība",
+          "WP93",
+          "WP18"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How does the HSE Manager devise methods for controlling exposure to hazardous substances?",
+        "o": [
+          "By guesswork",
+          "Using the guidance approach in the HSE 'COSHH Essentials' Publication",
+          "Only by asking employees",
+          "There is no defined method"
+        ]
+      },
+      "pl": {
+        "q": "W jaki sposób kierownik HSE opracowuje metody kontroli narażenia na substancje niebezpieczne?",
+        "o": [
+          "Metodą prób i błędów",
+          "Korzystając z podejścia opartego na wytycznych zawartych w publikacji HSE „COSHH Essentials”",
+          "Wyłącznie pytając pracowników",
+          "Nie ma określonej metody"
+        ]
+      },
+      "bg": {
+        "q": "Как мениджърът HSE разработва методи за контролиране на експозицията на опасни вещества?",
+        "o": [
+          "Чрез гадаене",
+          "Като използва подхода за насоки в публикацията на HSE „COSHH Essentials“",
+          "Само като пита служителите",
+          "Няма определен метод"
+        ]
+      },
+      "ro": {
+        "q": "Cum elaborează managerul HSE metode de control al expunerii la substanțe periculoase?",
+        "o": [
+          "Prin ghicire",
+          "Folosind abordarea de îndrumare din publicația HSE „COSHH Essentials”",
+          "Doar întrebând angajații",
+          "Nu există o metodă definită"
+        ]
+      },
+      "lv": {
+        "q": "Kā HSE vadītājs izstrādā metodes bīstamu vielu iedarbības kontrolei?",
+        "o": [
+          "Ar minējumiem",
+          "Izmantojot HSE „COSHH Essentials” publikācijas vadlīniju pieeju",
+          "Tikai jautājot darbiniekiem",
+          "Nav noteiktas metodes"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must Team Leaders ensure regarding containers of substances or preparations?",
+        "o": [
+          "Nothing specific",
+          "That they are not left unmarked, in accordance with the Classification, Labelling and Packaging of Chemicals Regulations",
+          "That they are hidden from view",
+          "That they are stored outdoors only"
+        ]
+      },
+      "pl": {
+        "q": "Co muszą zapewnić liderzy zespołu w odniesieniu do pojemników z substancjami lub preparatami?",
+        "o": [
+          "Nic konkretnego",
+          "Że nie pozostają nieoznakowane, zgodnie z Rozporządzeniem w sprawie klasyfikacji, oznakowania i pakowania chemikaliów",
+          "Że są ukryte przed wzrokiem",
+          "Że są przechowywane wyłącznie na zewnątrz"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да гарантират ръководителите на екипи относно контейнерите с вещества или препарати?",
+        "o": [
+          "Нищо конкретно",
+          "Че не остават немаркирани, съгласно Регламента за класифициране, етикетиране и опаковане на химикали",
+          "Че са скрити от поглед",
+          "Че се съхраняват само на открито"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să se asigure liderii de echipă cu privire la containerele de substanțe sau preparate?",
+        "o": [
+          "Nimic specific",
+          "Că nu sunt lăsate nemarcate, în conformitate cu Regulamentul privind clasificarea, etichetarea și ambalarea substanțelor chimice",
+          "Că sunt ascunse din vedere",
+          "Că sunt depozitate doar în exterior"
+        ]
+      },
+      "lv": {
+        "q": "Kas komandas vadītājiem jānodrošina attiecībā uz vielu vai preparātu konteineriem?",
+        "o": [
+          "Nekas konkrēts",
+          "Ka tie netiek atstāti nemarķēti, saskaņā ar Ķimikāliju klasifikācijas, marķēšanas un iepakošanas noteikumiem",
+          "Ka tie ir paslēpti no redzesloka",
+          "Ka tie tiek uzglabāti tikai ārpus telpām"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must all staff be issued and wear as per the B82?",
+        "o": [
+          "Any PPE of their choosing",
+          "The correct PPE, in accordance with WP32",
+          "No PPE is required",
+          "Only safety glasses"
+        ]
+      },
+      "pl": {
+        "q": "Co musi być wydane wszystkim pracownikom i noszone zgodnie z B82?",
+        "o": [
+          "Dowolne ŚOI według własnego wyboru",
+          "Prawidłowe ŚOI, zgodnie z WP32",
+          "Żadne ŚOI nie jest wymagane",
+          "Tylko okulary ochronne"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да бъде издадено и носено от целия персонал съгласно B82?",
+        "o": [
+          "Всякакви PPE по техен избор",
+          "Правилните PPE, съгласно WP32",
+          "Не се изисква PPE",
+          "Само предпазни очила"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie eliberat și purtat de tot personalul conform B82?",
+        "o": [
+          "Orice echipament de protecție la alegere",
+          "Echipamentul de protecție corect, conform WP32",
+          "Nu este necesar niciun echipament",
+          "Doar ochelari de protecție"
+        ]
+      },
+      "lv": {
+        "q": "Kas visam personālam jāizsniedz un jāvalkā saskaņā ar B82?",
+        "o": [
+          "Jebkurš PPE pēc izvēles",
+          "Pareizais PPE, atbilstoši WP32",
+          "PPE nav nepieciešams",
+          "Tikai aizsargbrilles"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "When would the QHSE Technician measure the concentration of hazardous substances in the air?",
+        "o": [
+          "Never, this isn't part of the role",
+          "Where the HSE Manager's assessment concludes there could be serious risks if controls fail, workplace exposure limits might be exceeded, or controls might not be working properly",
+          "Only once per year regardless of risk",
+          "Only if requested by an external body"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy technik QHSE mierzy stężenie substancji niebezpiecznych w powietrzu?",
+        "o": [
+          "Nigdy, nie należy to do jego obowiązków",
+          "Gdy ocena kierownika HSE wykaże, że mogą wystąpić poważne zagrożenia w przypadku awarii zabezpieczeń, mogą zostać przekroczone dopuszczalne limity narażenia w miejscu pracy lub zabezpieczenia mogą nie działać prawidłowo",
+          "Tylko raz w roku, niezależnie od ryzyka",
+          "Tylko na żądanie organu zewnętrznego"
+        ]
+      },
+      "bg": {
+        "q": "Кога техникът QHSE измерва концентрацията на опасни вещества във въздуха?",
+        "o": [
+          "Никога, това не е част от ролята му",
+          "Когато оценката на мениджъра HSE заключи, че може да има сериозни рискове при отказ на контролите, работните лимити на експозиция могат да бъдат надвишени или контролите може да не работят правилно",
+          "Само веднъж годишно, независимо от риска",
+          "Само ако бъде поискано от външен орган"
+        ]
+      },
+      "ro": {
+        "q": "Când măsoară tehnicianul QHSE concentrația substanțelor periculoase din aer?",
+        "o": [
+          "Niciodată, nu face parte din rolul său",
+          "Când evaluarea managerului HSE concluzionează că ar putea exista riscuri grave dacă măsurile de control eșuează, limitele de expunere la locul de muncă ar putea fi depășite, sau măsurile de control ar putea să nu funcționeze corect",
+          "Doar o dată pe an, indiferent de risc",
+          "Doar dacă este solicitat de un organism extern"
+        ]
+      },
+      "lv": {
+        "q": "Kad QHSE tehniķis mēra bīstamo vielu koncentrāciju gaisā?",
+        "o": [
+          "Nekad, tas nav viņa pienākums",
+          "Kad HSE vadītāja novērtējums secina, ka varētu būt nopietns risks, ja kontroles atteiktos, darba vietas iedarbības robežas varētu tikt pārsniegtas, vai kontroles varētu nedarboties pareizi",
+          "Tikai reizi gadā, neatkarīgi no riska",
+          "Tikai ja to pieprasa ārēja institūcija"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Where are all B82 forms available?",
+        "o": [
+          "Only as paper copies locked in a safe",
+          "Via Q-Pulse, with a hard copy held in files where they are used",
+          "Only via email request",
+          "They are not tracked at all"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie dostępne są wszystkie formularze B82?",
+        "o": [
+          "Tylko jako papierowe kopie zamknięte w sejfie",
+          "Za pośrednictwem Q-Pulse, z papierową kopią przechowywaną w miejscach ich użytkowania",
+          "Tylko na żądanie e-mailowe",
+          "Nie są w ogóle śledzone"
+        ]
+      },
+      "bg": {
+        "q": "Къде са налични всички формуляри B82?",
+        "o": [
+          "Само като хартиени копия, заключени в сейф",
+          "Чрез Q-Pulse, с хартиено копие, съхранявано в папки на местата, където се използват",
+          "Само по имейл заявка",
+          "Изобщо не се проследяват"
+        ]
+      },
+      "ro": {
+        "q": "Unde sunt disponibile toate formularele B82?",
+        "o": [
+          "Doar ca copii pe hârtie închise într-un seif",
+          "Prin Q-Pulse, cu o copie fizică păstrată în dosare unde sunt utilizate",
+          "Doar prin cerere prin e-mail",
+          "Nu sunt urmărite deloc"
+        ]
+      },
+      "lv": {
+        "q": "Kur ir pieejamas visas B82 veidlapas?",
+        "o": [
+          "Tikai kā papīra kopijas, kas ieslēgtas seifā",
+          "Izmantojot Q-Pulse, ar papīra kopiju, kas glabājas mapēs, kur tās tiek izmantotas",
+          "Tikai pēc e-pasta pieprasījuma",
+          "Tās vispār netiek izsekotas"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "In Q-Pulse, what does \"Inactive\" mean for a substance's status?",
+        "o": [
+          "The substance is in active daily use",
+          "The substance is no longer in use but a quantity is in stock awaiting disposal",
+          "The substance has never been used",
+          "The substance is banned"
+        ]
+      },
+      "pl": {
+        "q": "Co w systemie Q-Pulse oznacza status substancji „Nieaktywna”?",
+        "o": [
+          "Substancja jest w codziennym aktywnym użyciu",
+          "Substancja nie jest już używana, ale pewna jej ilość znajduje się w magazynie oczekując na utylizację",
+          "Substancja nigdy nie była używana",
+          "Substancja jest zakazana"
+        ]
+      },
+      "bg": {
+        "q": "Какво означава „Неактивно“ за статуса на вещество в Q-Pulse?",
+        "o": [
+          "Веществото е в активна ежедневна употреба",
+          "Веществото вече не се използва, но количество от него е на склад, очакващо обезвреждане",
+          "Веществото никога не е било използвано",
+          "Веществото е забранено"
+        ]
+      },
+      "ro": {
+        "q": "Ce înseamnă „Inactiv” pentru statutul unei substanțe în Q-Pulse?",
+        "o": [
+          "Substanța este în uz zilnic activ",
+          "Substanța nu mai este utilizată, dar o cantitate se află în stoc, așteptând eliminarea",
+          "Substanța nu a fost niciodată utilizată",
+          "Substanța este interzisă"
+        ]
+      },
+      "lv": {
+        "q": "Ko Q-Pulse sistēmā nozīmē vielas statuss „Neaktīvs”?",
+        "o": [
+          "Viela tiek aktīvi lietota katru dienu",
+          "Viela vairs netiek lietota, bet noteikts daudzums ir krājumos, gaidot likvidēšanu",
+          "Viela nekad nav lietota",
+          "Viela ir aizliegta"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "In Q-Pulse, what does \"Obsolete\" mean for a substance's status?",
+        "o": [
+          "The substance is in active use",
+          "The substance is no longer in use and no stock is held",
+          "The substance is only used occasionally",
+          "The substance is on order"
+        ]
+      },
+      "pl": {
+        "q": "Co w systemie Q-Pulse oznacza status substancji „Wycofana”?",
+        "o": [
+          "Substancja jest w aktywnym użyciu",
+          "Substancja nie jest już używana i nie posiada się żadnego jej zapasu",
+          "Substancja jest używana tylko okazjonalnie",
+          "Substancja jest zamówiona"
+        ]
+      },
+      "bg": {
+        "q": "Какво означава „Изведено от употреба“ за статуса на вещество в Q-Pulse?",
+        "o": [
+          "Веществото е в активна употреба",
+          "Веществото вече не се използва и не се държи наличност",
+          "Веществото се използва само от време на време",
+          "Веществото е поръчано"
+        ]
+      },
+      "ro": {
+        "q": "Ce înseamnă „Perimat” pentru statutul unei substanțe în Q-Pulse?",
+        "o": [
+          "Substanța este în uz activ",
+          "Substanța nu mai este utilizată și nu se deține niciun stoc",
+          "Substanța este utilizată doar ocazional",
+          "Substanța este comandată"
+        ]
+      },
+      "lv": {
+        "q": "Ko Q-Pulse sistēmā nozīmē vielas statuss „Novecojis”?",
+        "o": [
+          "Viela tiek aktīvi lietota",
+          "Viela vairs netiek lietota, un krājumu nav",
+          "Viela tiek lietota tikai reizēm",
+          "Viela ir pasūtīta"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What is the purpose of skin health surveillance?",
+        "o": [
+          "To track employee productivity",
+          "To safeguard staff safety, health and welfare by identifying any adverse skin effects from workplace exposure at the earliest opportunity and taking remedial action",
+          "To reduce insurance premiums",
+          "To monitor employee attendance"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest cel nadzoru zdrowia skóry?",
+        "o": [
+          "Śledzenie wydajności pracowników",
+          "Ochrona bezpieczeństwa, zdrowia i dobrostanu personelu poprzez jak najwcześniejsze identyfikowanie wszelkich niekorzystnych skutków dla skóry wynikających z narażenia w miejscu pracy oraz podejmowanie działań naprawczych",
+          "Zmniejszenie składek ubezpieczeniowych",
+          "Monitorowanie obecności pracowników"
+        ]
+      },
+      "bg": {
+        "q": "Каква е целта на наблюдението на здравето на кожата?",
+        "o": [
+          "Проследяване на продуктивността на служителите",
+          "Опазване на безопасността, здравето и благосъстоянието на персонала чрез идентифициране на всякакви неблагоприятни ефекти върху кожата от работна експозиция възможно най-рано и предприемане на коригиращи действия",
+          "Намаляване на застрахователните премии",
+          "Проследяване на присъствието на служителите"
+        ]
+      },
+      "ro": {
+        "q": "Care este scopul supravegherii sănătății pielii?",
+        "o": [
+          "Urmărirea productivității angajaților",
+          "Protejarea siguranței, sănătății și bunăstării personalului prin identificarea oricăror efecte adverse asupra pielii cauzate de expunerea la locul de muncă cât mai devreme posibil și luarea de măsuri corective",
+          "Reducerea primelor de asigurare",
+          "Monitorizarea prezenței angajaților"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir ādas veselības uzraudzības mērķis?",
+        "o": [
+          "Darbinieku produktivitātes izsekošana",
+          "Personāla drošības, veselības un labklājības aizsardzība, identificējot jebkādu nelabvēlīgu ādas ietekmi no darba vietas iedarbības pēc iespējas agrāk un veicot koriģējošu darbību",
+          "Apdrošināšanas prēmiju samazināšana",
+          "Darbinieku apmeklējuma uzraudzība"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How long must completed B81 series and B208 forms be retained?",
+        "o": [
+          "1 year",
+          "At least 40 years",
+          "5 years",
+          "They can be discarded after review"
+        ]
+      },
+      "pl": {
+        "q": "Jak długo należy przechowywać wypełnione formularze z serii B81 i B208?",
+        "o": [
+          "1 rok",
+          "Co najmniej 40 lat",
+          "5 lat",
+          "Można je wyrzucić po przeglądzie"
+        ]
+      },
+      "bg": {
+        "q": "Колко дълго трябва да се съхраняват попълнените формуляри от серия B81 и B208?",
+        "o": [
+          "1 година",
+          "Поне 40 години",
+          "5 години",
+          "Могат да се изхвърлят след преглед"
+        ]
+      },
+      "ro": {
+        "q": "Cât timp trebuie păstrate formularele completate din seria B81 și B208?",
+        "o": [
+          "1 an",
+          "Cel puțin 40 de ani",
+          "5 ani",
+          "Pot fi eliminate după revizuire"
+        ]
+      },
+      "lv": {
+        "q": "Cik ilgi jāsaglabā aizpildītās B81 sērijas un B208 veidlapas?",
+        "o": [
+          "1 gadu",
+          "Vismaz 40 gadus",
+          "5 gadus",
+          "Tās var izmest pēc pārskatīšanas"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What is one of the employee's responsibilities under the skin health surveillance system?",
+        "o": [
+          "Nothing, it's entirely the company's responsibility",
+          "Adherence to skin health surveillance procedures, accurate completion of questionnaires, and reporting any skin problems",
+          "Only attending an annual meeting",
+          "Only completing a form once at the start of employment"
+        ]
+      },
+      "pl": {
+        "q": "Jaka jest jedna z odpowiedzialności pracownika w ramach systemu nadzoru zdrowia skóry?",
+        "o": [
+          "Żadna, jest to całkowicie odpowiedzialność firmy",
+          "Przestrzeganie procedur nadzoru zdrowia skóry, dokładne wypełnianie kwestionariuszy oraz zgłaszanie wszelkich problemów skórnych",
+          "Tylko uczestnictwo w corocznym spotkaniu",
+          "Tylko jednorazowe wypełnienie formularza na początku zatrudnienia"
+        ]
+      },
+      "bg": {
+        "q": "Коя е една от отговорностите на служителя съгласно системата за наблюдение на здравето на кожата?",
+        "o": [
+          "Никаква, това е изцяло отговорност на компанията",
+          "Спазване на процедурите за наблюдение на здравето на кожата, точно попълване на въпросници и докладване на всякакви кожни проблеми",
+          "Само присъствие на годишна среща",
+          "Само еднократно попълване на формуляр в началото на трудовия договор"
+        ]
+      },
+      "ro": {
+        "q": "Care este una dintre responsabilitățile angajatului conform sistemului de supraveghere a sănătății pielii?",
+        "o": [
+          "Niciuna, este exclusiv responsabilitatea companiei",
+          "Aderarea la procedurile de supraveghere a sănătății pielii, completarea corectă a chestionarelor și raportarea oricăror probleme ale pielii",
+          "Doar participarea la o ședință anuală",
+          "Doar completarea unui formular o dată, la începutul angajării"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir viens no darbinieka pienākumiem saskaņā ar ādas veselības uzraudzības sistēmu?",
+        "o": [
+          "Nekas, tā ir pilnībā uzņēmuma atbildība",
+          "Ādas veselības uzraudzības procedūru ievērošana, precīza aptauju aizpildīšana un jebkādu ādas problēmu ziņošana",
+          "Tikai ikgadējas sanāksmes apmeklēšana",
+          "Tikai vienreizēja veidlapas aizpildīšana darba attiecību sākumā"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "When should new staff ideally be tested for skin health surveillance?",
+        "o": [
+          "After 6 months of employment",
+          "Before any work is performed, or within the first five working days",
+          "Only if they report a problem",
+          "Testing is not required for new staff"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy nowi pracownicy powinni być idealnie przetestowani w ramach nadzoru zdrowia skóry?",
+        "o": [
+          "Po 6 miesiącach zatrudnienia",
+          "Przed wykonaniem jakiejkolwiek pracy lub w ciągu pierwszych pięciu dni roboczych",
+          "Tylko jeśli zgłoszą problem",
+          "Testowanie nie jest wymagane dla nowych pracowników"
+        ]
+      },
+      "bg": {
+        "q": "Кога в идеалния случай новите служители трябва да бъдат тествани за наблюдение на здравето на кожата?",
+        "o": [
+          "След 6 месеца трудов договор",
+          "Преди извършване на каквато и да е работа или в рамките на първите пет работни дни",
+          "Само ако докладват проблем",
+          "Тестването не е необходимо за нови служители"
+        ]
+      },
+      "ro": {
+        "q": "Când ar trebui, în mod ideal, testat personalul nou pentru supravegherea sănătății pielii?",
+        "o": [
+          "După 6 luni de angajare",
+          "Înainte de efectuarea oricărei activități, sau în primele cinci zile lucrătoare",
+          "Doar dacă raportează o problemă",
+          "Testarea nu este necesară pentru personalul nou"
+        ]
+      },
+      "lv": {
+        "q": "Kad jaunajiem darbiniekiem ideālā gadījumā jāveic ādas veselības uzraudzības tests?",
+        "o": [
+          "Pēc 6 nodarbinātības mēnešiem",
+          "Pirms jebkāda darba veikšanas vai pirmo piecu darba dienu laikā",
+          "Tikai ja viņi ziņo par problēmu",
+          "Jaunajiem darbiniekiem testēšana nav nepieciešama"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "For employees employed through approved agencies, who conducts a visual skin test at induction?",
+        "o": [
+          "The employee themselves",
+          "Team Leaders and Supervisors",
+          "An external medical professional only",
+          "No visual test is required at induction"
+        ]
+      },
+      "pl": {
+        "q": "Dla pracowników zatrudnionych przez zatwierdzone agencje, kto przeprowadza wizualny test skóry podczas wdrożenia?",
+        "o": [
+          "Sam pracownik",
+          "Liderzy zespołu i przełożeni",
+          "Wyłącznie zewnętrzny specjalista medyczny",
+          "Żaden test wizualny nie jest wymagany podczas wdrożenia"
+        ]
+      },
+      "bg": {
+        "q": "За служители, наети чрез одобрени агенции, кой извършва визуален тест на кожата при въвеждането в длъжност?",
+        "o": [
+          "Самият служител",
+          "Ръководителите на екипи и надзорниците",
+          "Само външен медицински специалист",
+          "Не се изисква визуален тест при въвеждането"
+        ]
+      },
+      "ro": {
+        "q": "Pentru angajații angajați prin agenții aprobate, cine efectuează un test vizual al pielii la inducție?",
+        "o": [
+          "Angajatul însuși",
+          "Liderii de echipă și supervizorii",
+          "Doar un profesionist medical extern",
+          "Nu este necesar niciun test vizual la inducție"
+        ]
+      },
+      "lv": {
+        "q": "Darbiniekiem, kas nodarbināti caur apstiprinātām aģentūrām, kas veic vizuālu ādas testu ievadapmācības laikā?",
+        "o": [
+          "Pats darbinieks",
+          "Komandas vadītāji un uzraugi",
+          "Tikai ārējs medicīnas speciālists",
+          "Ievadapmācības laikā vizuāls tests nav nepieciešams"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "For agency employees, within what timeframe must a full skin health surveillance test be completed?",
+        "o": [
+          "Within 1 week",
+          "Within 1 month of the start date, or earlier if problems are identified at induction",
+          "Within 1 year",
+          "There is no specific timeframe"
+        ]
+      },
+      "pl": {
+        "q": "Dla pracowników agencyjnych, w jakim terminie musi zostać przeprowadzony pełny test nadzoru zdrowia skóry?",
+        "o": [
+          "W ciągu 1 tygodnia",
+          "W ciągu 1 miesiąca od daty rozpoczęcia pracy lub wcześniej, jeśli problemy zostaną zidentyfikowane podczas wdrożenia",
+          "W ciągu 1 roku",
+          "Nie ma określonego terminu"
+        ]
+      },
+      "bg": {
+        "q": "За служителите на агенции, в какъв срок трябва да се завърши пълен тест за наблюдение на здравето на кожата?",
+        "o": [
+          "В рамките на 1 седмица",
+          "В рамките на 1 месец от началната дата, или по-рано, ако бъдат установени проблеми при въвеждането",
+          "В рамките на 1 година",
+          "Няма определен срок"
+        ]
+      },
+      "ro": {
+        "q": "Pentru angajații agenției, în ce interval de timp trebuie finalizat un test complet de supraveghere a sănătății pielii?",
+        "o": [
+          "În termen de 1 săptămână",
+          "În termen de 1 lună de la data începerii, sau mai devreme dacă sunt identificate probleme la inducție",
+          "În termen de 1 an",
+          "Nu există un interval de timp specific"
+        ]
+      },
+      "lv": {
+        "q": "Aģentūras darbiniekiem, kādā laika periodā jāpabeidz pilns ādas veselības uzraudzības tests?",
+        "o": [
+          "1 nedēļas laikā",
+          "1 mēneša laikā no sākuma datuma, vai agrāk, ja ievadapmācības laikā tiek konstatētas problēmas",
+          "1 gada laikā",
+          "Nav noteikta konkrēta termiņa"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How often is periodic skin surveillance carried out for Team Leaders and Forklift Drivers?",
+        "o": [
+          "Monthly",
+          "Yearly",
+          "Every 5 years",
+          "Never, only initial testing is required"
+        ]
+      },
+      "pl": {
+        "q": "Jak często przeprowadzany jest okresowy nadzór zdrowia skóry dla liderów zespołu i operatorów wózków widłowych?",
+        "o": [
+          "Co miesiąc",
+          "Co roku",
+          "Co 5 lat",
+          "Nigdy, wymagane jest tylko testowanie początkowe"
+        ]
+      },
+      "bg": {
+        "q": "Колко често се извършва периодично наблюдение на кожата за ръководителите на екипи и операторите на мотокари?",
+        "o": [
+          "Месечно",
+          "Годишно",
+          "На всеки 5 години",
+          "Никога, изисква се само първоначално тестване"
+        ]
+      },
+      "ro": {
+        "q": "Cât de des se efectuează supravegherea periodică a pielii pentru liderii de echipă și operatorii de stivuitoare?",
+        "o": [
+          "Lunar",
+          "Anual",
+          "La fiecare 5 ani",
+          "Niciodată, este necesară doar testarea inițială"
+        ]
+      },
+      "lv": {
+        "q": "Cik bieži tiek veikta periodiskā ādas uzraudzība komandas vadītājiem un autoiekrāvēju operatoriem?",
+        "o": [
+          "Katru mēnesi",
+          "Katru gadu",
+          "Ik pēc 5 gadiem",
+          "Nekad, nepieciešama tikai sākotnējā testēšana"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How often is periodic skin surveillance carried out for Blenders, Engineers, QC Operators, Line Operators, Line Leaders, Tanker Off Loaders and the Technical Manager?",
+        "o": [
+          "Yearly",
+          "Twice yearly",
+          "Every 3 years",
+          "Only once, at the start of employment"
+        ]
+      },
+      "pl": {
+        "q": "Jak często przeprowadzany jest okresowy nadzór zdrowia skóry dla operatorów mieszania, inżynierów, operatorów QC, operatorów linii, liderów linii, osób rozładowujących cysterny oraz kierownika technicznego?",
+        "o": [
+          "Co roku",
+          "Dwa razy w roku",
+          "Co 3 lata",
+          "Tylko raz, na początku zatrudnienia"
+        ]
+      },
+      "bg": {
+        "q": "Колко често се извършва периодично наблюдение на кожата за операторите по смесване, инженерите, операторите по качествен контрол, операторите на линии, ръководителите на линии, разтоварващите цистерни и техническия мениджър?",
+        "o": [
+          "Годишно",
+          "Два пъти годишно",
+          "На всеки 3 години",
+          "Само веднъж, в началото на трудовия договор"
+        ]
+      },
+      "ro": {
+        "q": "Cât de des se efectuează supravegherea periodică a pielii pentru operatorii de amestecare, ingineri, operatorii de control al calității, operatorii de linie, liderii de linie, descărcătorii de cisterne și managerul tehnic?",
+        "o": [
+          "Anual",
+          "De două ori pe an",
+          "La fiecare 3 ani",
+          "Doar o dată, la începutul angajării"
+        ]
+      },
+      "lv": {
+        "q": "Cik bieži tiek veikta periodiskā ādas uzraudzība maisīšanas operatoriem, inženieriem, QC operatoriem, līnijas operatoriem, līniju vadītājiem, cisternu izkraušanas operatoriem un tehniskajam vadītājam?",
+        "o": [
+          "Katru gadu",
+          "Divreiz gadā",
+          "Ik pēc 3 gadiem",
+          "Tikai vienreiz, darba attiecību sākumā"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If a skin problem is identified during surveillance, what must happen?",
+        "o": [
+          "Nothing, it's noted and filed",
+          "Remedial action may be required, a follow-up inspection conducted, and the HSE Manager informed immediately",
+          "The employee is dismissed",
+          "Only the employee's line manager needs to know"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli podczas nadzoru zostanie zidentyfikowany problem skórny, co musi się stać?",
+        "o": [
+          "Nic, jest to odnotowywane i archiwizowane",
+          "Może być wymagane działanie naprawcze, przeprowadzona kontrola kontrolna, a kierownik HSE natychmiast poinformowany",
+          "Pracownik zostaje zwolniony",
+          "Wystarczy, że wie o tym tylko bezpośredni przełożony pracownika"
+        ]
+      },
+      "bg": {
+        "q": "Ако бъде установен кожен проблем по време на наблюдението, какво трябва да се случи?",
+        "o": [
+          "Нищо, отбелязва се и се архивира",
+          "Може да се наложи коригиращо действие, последваща проверка и незабавно информиране на мениджъра HSE",
+          "Служителят се уволнява",
+          "Достатъчно е само прекият ръководител на служителя да знае"
+        ]
+      },
+      "ro": {
+        "q": "Dacă se identifică o problemă a pielii în timpul supravegherii, ce trebuie să se întâmple?",
+        "o": [
+          "Nimic, este notată și arhivată",
+          "Poate fi necesară o acțiune corectivă, o inspecție de urmărire și informarea imediată a managerului HSE",
+          "Angajatul este concediat",
+          "Doar managerul de linie al angajatului trebuie să știe"
+        ]
+      },
+      "lv": {
+        "q": "Ja uzraudzības laikā tiek konstatēta ādas problēma, kam jānotiek?",
+        "o": [
+          "Nekam, tas tiek atzīmēts un arhivēts",
+          "Var būt nepieciešama koriģējoša darbība, turpmāka pārbaude un nekavējoties jāinformē HSE vadītājs",
+          "Darbinieks tiek atlaists",
+          "Pietiek, ka par to zina tikai darbinieka tiešais vadītājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What does the HSE suggest regarding Qualitative Face Fit Testing?",
+        "o": [
+          "It should never be conducted",
+          "It should be conducted on all \"tight fitting\" filtering face pieces and half mask respirators",
+          "It is only required for management",
+          "It is optional and rarely necessary"
+        ]
+      },
+      "pl": {
+        "q": "Co sugeruje HSE w odniesieniu do jakościowego testu dopasowania maski?",
+        "o": [
+          "Nigdy nie powinien być przeprowadzany",
+          "Powinien być przeprowadzany na wszystkich „ściśle przylegających” półmaskach filtrujących i półmaskach oddechowych",
+          "Jest wymagany tylko dla kierownictwa",
+          "Jest opcjonalny i rzadko konieczny"
+        ]
+      },
+      "bg": {
+        "q": "Какво предлага HSE относно качествения тест за прилягане на маска?",
+        "o": [
+          "Никога не трябва да се провежда",
+          "Трябва да се провежда на всички „плътно прилягащи“ филтриращи полумаски и полумаски респиратори",
+          "Изисква се само за ръководството",
+          "По избор е и рядко необходим"
+        ]
+      },
+      "ro": {
+        "q": "Ce sugerează HSE cu privire la Testarea Calitativă de Etanșeitate a Măștii?",
+        "o": [
+          "Nu ar trebui efectuată niciodată",
+          "Ar trebui efectuată pe toate piesele faciale filtrante „etanșe” și semimăștile respiratorii",
+          "Este necesară doar pentru conducere",
+          "Este opțională și rareori necesară"
+        ]
+      },
+      "lv": {
+        "q": "Ko HSE iesaka attiecībā uz kvalitatīvo sejas piegulšanas testēšanu?",
+        "o": [
+          "Tā nekad nav jāveic",
+          "Tā jāveic visām „cieši pieguļošajām” filtrējošajām sejas daļām un pusmaskas respiratoriem",
+          "Tā ir nepieciešama tikai vadībai",
+          "Tā ir izvēles un reti nepieciešama"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which Test Method is followed for Face Fit Testing?",
+        "o": [
+          "Test Method 14",
+          "Test Method 22",
+          "Test Method 19",
+          "Test Method 21"
+        ]
+      },
+      "pl": {
+        "q": "Która Metoda Testowa jest stosowana do testu dopasowania maski?",
+        "o": [
+          "Metoda Testowa 14",
+          "Metoda Testowa 22",
+          "Metoda Testowa 19",
+          "Metoda Testowa 21"
+        ]
+      },
+      "bg": {
+        "q": "Кой тестов метод се следва за теста за прилягане на маска?",
+        "o": [
+          "Тестов метод 14",
+          "Тестов метод 22",
+          "Тестов метод 19",
+          "Тестов метод 21"
+        ]
+      },
+      "ro": {
+        "q": "Ce Metodă de Testare este urmată pentru Testarea de Etanșeitate a Măștii?",
+        "o": [
+          "Metoda de testare 14",
+          "Metoda de testare 22",
+          "Metoda de testare 19",
+          "Metoda de testare 21"
+        ]
+      },
+      "lv": {
+        "q": "Kura testēšanas metode tiek ievērota sejas piegulšanas testēšanai?",
+        "o": [
+          "19. testēšanas metode",
+          "22. testēšanas metode",
+          "19. testēšanas metode",
+          "21. testēšanas metode"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which Test Method is followed for skin health surveillance testing?",
+        "o": [
+          "Test Method 22",
+          "Test Method 14",
+          "Test Method 24",
+          "Test Method 26"
+        ]
+      },
+      "pl": {
+        "q": "Która Metoda Testowa jest stosowana do testu nadzoru zdrowia skóry?",
+        "o": [
+          "Metoda Testowa 22",
+          "Metoda Testowa 14",
+          "Metoda Testowa 24",
+          "Metoda Testowa 26"
+        ]
+      },
+      "bg": {
+        "q": "Кой тестов метод се следва за теста за наблюдение на здравето на кожата?",
+        "o": [
+          "Тестов метод 22",
+          "Тестов метод 14",
+          "Тестов метод 24",
+          "Тестов метод 26"
+        ]
+      },
+      "ro": {
+        "q": "Ce Metodă de Testare este urmată pentru testarea de supraveghere a sănătății pielii?",
+        "o": [
+          "Metoda de testare 22",
+          "Metoda de testare 14",
+          "Metoda de testare 24",
+          "Metoda de testare 26"
+        ]
+      },
+      "lv": {
+        "q": "Kura testēšanas metode tiek ievērota ādas veselības uzraudzības testēšanai?",
+        "o": [
+          "22. testēšanas metode",
+          "14. testēšanas metode",
+          "24. testēšanas metode",
+          "26. testēšanas metode"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "All information collected through skin health surveillance is regarded as:",
+        "o": [
+          "Public and openly shared",
+          "Confidential, with controlled access in the computer system once scanned in",
+          "Only relevant for a maximum of one week",
+          "Not stored at all"
+        ]
+      },
+      "pl": {
+        "q": "Wszystkie informacje zbierane w ramach nadzoru zdrowia skóry są traktowane jako:",
+        "o": [
+          "Publiczne i swobodnie udostępniane",
+          "Poufne, z kontrolowanym dostępem w systemie komputerowym po zeskanowaniu",
+          "Istotne tylko przez maksymalnie tydzień",
+          "W ogóle nieprzechowywane"
+        ]
+      },
+      "bg": {
+        "q": "Цялата информация, събрана чрез наблюдението на здравето на кожата, се счита за:",
+        "o": [
+          "Публична и свободно споделяна",
+          "Поверителна, с контролиран достъп в компютърната система след сканиране",
+          "Актуална само за максимум една седмица",
+          "Изобщо не се съхранява"
+        ]
+      },
+      "ro": {
+        "q": "Toate informațiile colectate prin supravegherea sănătății pielii sunt considerate:",
+        "o": [
+          "Publice și partajate deschis",
+          "Confidențiale, cu acces controlat în sistemul informatic odată scanate",
+          "Relevante doar pentru maximum o săptămână",
+          "Deloc stocate"
+        ]
+      },
+      "lv": {
+        "q": "Visa informācija, kas iegūta ādas veselības uzraudzības laikā, tiek uzskatīta par:",
+        "o": [
+          "Publisku un brīvi pieejamu",
+          "Konfidenciālu, ar kontrolētu piekļuvi datorsistēmā pēc ieskenēšanas",
+          "Aktuālu tikai vienu nedēļu",
+          "Vispār netiek uzglabāta"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What has been a common form of misuse of Respiratory Protective Equipment (RPE) historically?",
+        "o": [
+          "Wearing it too often",
+          "Facial hair interfering with the seal, tearing off the bottom strap, or burning holes in the filter to smoke through it",
+          "Cleaning it too frequently",
+          "Storing it too carefully"
+        ]
+      },
+      "pl": {
+        "q": "Jaka była historycznie powszechna forma niewłaściwego użytkowania sprzętu ochrony dróg oddechowych (RPE)?",
+        "o": [
+          "Zbyt częste noszenie",
+          "Zarost twarzy zakłócający uszczelnienie, zrywanie dolnego paska lub wypalanie dziur w filtrze, aby przez niego palić",
+          "Zbyt częste czyszczenie",
+          "Zbyt staranne przechowywanie"
+        ]
+      },
+      "bg": {
+        "q": "Каква е била историческа често срещана форма на злоупотреба с дихателна защита (RPE)?",
+        "o": [
+          "Носенето му твърде често",
+          "Брада, пречеща на уплътнението, откъсване на долната лента или прогаряне на дупки във филтъра, за да се пуши през него",
+          "Твърде честото му почистване",
+          "Твърде внимателното му съхранение"
+        ]
+      },
+      "ro": {
+        "q": "Care a fost istoric o formă comună de utilizare abuzivă a echipamentului de protecție respiratorie (RPE)?",
+        "o": [
+          "Purtarea prea frecventă",
+          "Barba care interferează cu etanșarea, ruperea curelei inferioare sau arderea de găuri în filtru pentru a fuma prin el",
+          "Curățarea prea frecventă",
+          "Depozitarea prea atentă"
+        ]
+      },
+      "lv": {
+        "q": "Kas vēsturiski bijis izplatīts respiratorās aizsardzības aprīkojuma (RPE) ļaunprātīgas izmantošanas veids?",
+        "o": [
+          "Pārāk biežā valkāšana",
+          "Sejas apmatojums, kas traucē blīvējumam, apakšējās siksnas noraušana vai caurumu izdedzināšana filtrā, lai caur to smēķētu",
+          "Pārāk biežā tīrīšana",
+          "Pārāk rūpīgā uzglabāšana"
+        ]
+      },
+      "correct": 1
+    }
+  ]
+}

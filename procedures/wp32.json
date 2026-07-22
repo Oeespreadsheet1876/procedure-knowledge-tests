@@ -1,0 +1,783 @@
+{
+  "id": "wp32",
+  "docRef": "WP32",
+  "issue": "5",
+  "title": {
+    "en": "OHS - PPE Assessment & Control",
+    "pl": "BHP – Ocena i kontrola ŚOI",
+    "bg": "ЗБУТ – Оценка и контрол на PPE",
+    "ro": "SSM – Evaluarea și controlul echipamentului de protecție",
+    "lv": "DDS – PPE novērtēšana un kontrole"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "en": {
+        "q": "What is the scope of this procedure?",
+        "o": [
+          "Only fire safety",
+          "Ensuring the use of all types of PPE are adequately controlled, including selection, use, maintenance and provision of training/instruction",
+          "Only vehicle safety",
+          "Only chemical storage"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest zakres tej procedury?",
+        "o": [
+          "Tylko bezpieczeństwo przeciwpożarowe",
+          "Zapewnienie odpowiedniej kontroli stosowania wszystkich rodzajów ŚOI, w tym doboru, użytkowania, konserwacji i zapewnienia szkolenia/instruktażu",
+          "Tylko bezpieczeństwo pojazdów",
+          "Tylko przechowywanie chemikaliów"
+        ]
+      },
+      "bg": {
+        "q": "Какъв е обхватът на тази процедура?",
+        "o": [
+          "Само противопожарна безопасност",
+          "Гарантиране, че използването на всички видове PPE е адекватно контролирано, включително избор, употреба, поддръжка и осигуряване на обучение/инструктаж",
+          "Само безопасност на превозните средства",
+          "Само съхранение на химикали"
+        ]
+      },
+      "ro": {
+        "q": "Care este domeniul de aplicare al acestei proceduri?",
+        "o": [
+          "Doar siguranța la incendiu",
+          "Asigurarea faptului că utilizarea tuturor tipurilor de echipament de protecție este controlată adecvat, inclusiv selecția, utilizarea, întreținerea și furnizarea de instruire/instrucțiuni",
+          "Doar siguranța vehiculelor",
+          "Doar depozitarea chimicalelor"
+        ]
+      },
+      "lv": {
+        "q": "Kāda ir šīs procedūras darbības joma?",
+        "o": [
+          "Tikai ugunsdrošība",
+          "Nodrošināt, ka visu veidu PPE izmantošana tiek atbilstoši kontrolēta, tostarp izvēle, lietošana, uzturēšana un apmācības/instruktāžas nodrošināšana",
+          "Tikai transportlīdzekļu drošība",
+          "Tikai ķimikāliju uzglabāšana"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who determines whether intended PPE is suitable for use against current H&S regulations?",
+        "o": [
+          "Team Leaders",
+          "The HSE Manager",
+          "PPE Users",
+          "The Production Manager only"
+        ]
+      },
+      "pl": {
+        "q": "Kto określa, czy planowane ŚOI są odpowiednie do stosowania zgodnie z aktualnymi przepisami BHP?",
+        "o": [
+          "Liderzy zespołu",
+          "Kierownik HSE",
+          "Użytkownicy ŚOI",
+          "Wyłącznie kierownik produkcji"
+        ]
+      },
+      "bg": {
+        "q": "Кой определя дали планираните PPE са подходящи за употреба съгласно текущите регламенти за здраве и безопасност?",
+        "o": [
+          "Ръководителите на екипи",
+          "Мениджърът HSE",
+          "Потребителите на PPE",
+          "Само производственият мениджър"
+        ]
+      },
+      "ro": {
+        "q": "Cine determină dacă echipamentul de protecție propus este adecvat pentru utilizare conform reglementărilor actuale de sănătate și siguranță?",
+        "o": [
+          "Liderii de echipă",
+          "Managerul HSE",
+          "Utilizatorii de echipament de protecție",
+          "Doar managerul de producție"
+        ]
+      },
+      "lv": {
+        "q": "Kas nosaka, vai paredzētais PPE ir piemērots lietošanai atbilstoši pašreizējiem veselības un drošības noteikumiem?",
+        "o": [
+          "Komandas vadītāji",
+          "HSE vadītājs",
+          "PPE lietotāji",
+          "Tikai ražošanas vadītājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who ensures that all PPE issued is recorded on the B70 and signed off by the receiver?",
+        "o": [
+          "The HSE Manager",
+          "Team Leaders/Line Manager",
+          "PPE Users themselves",
+          "The Technical Manager"
+        ]
+      },
+      "pl": {
+        "q": "Kto zapewnia, że wszystkie wydane ŚOI są rejestrowane na formularzu B70 i podpisywane przez odbiorcę?",
+        "o": [
+          "Kierownik HSE",
+          "Liderzy zespołu/kierownik liniowy",
+          "Sami użytkownicy ŚOI",
+          "Kierownik techniczny"
+        ]
+      },
+      "bg": {
+        "q": "Кой гарантира, че всички издадени PPE се записват във формуляр B70 и се подписват от получателя?",
+        "o": [
+          "Мениджърът HSE",
+          "Ръководителите на екипи/линейният мениджър",
+          "Самите потребители на PPE",
+          "Техническият мениджър"
+        ]
+      },
+      "ro": {
+        "q": "Cine se asigură că tot echipamentul de protecție eliberat este înregistrat în B70 și semnat de primitor?",
+        "o": [
+          "Managerul HSE",
+          "Liderii de echipă/managerul de linie",
+          "Utilizatorii de echipament de protecție înșiși",
+          "Managerul tehnic"
+        ]
+      },
+      "lv": {
+        "q": "Kas nodrošina, ka viss izsniegtais PPE tiek reģistrēts B70 veidlapā un to paraksta saņēmējs?",
+        "o": [
+          "HSE vadītājs",
+          "Komandas vadītāji/tiešais vadītājs",
+          "Paši PPE lietotāji",
+          "Tehniskais vadītājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must PPE Users do if any PPE becomes defective?",
+        "o": [
+          "Continue using it until it fully breaks",
+          "Inform the Team Leader/Line Manager",
+          "Repair it themselves",
+          "Throw it away without telling anyone"
+        ]
+      },
+      "pl": {
+        "q": "Co muszą zrobić użytkownicy ŚOI, jeśli sprzęt stanie się wadliwy?",
+        "o": [
+          "Kontynuować jego użytkowanie, aż całkowicie się zepsuje",
+          "Poinformować lidera zespołu/kierownika liniowego",
+          "Naprawić go samodzielnie",
+          "Wyrzucić go, nie informując nikogo"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направят потребителите на PPE, ако оборудването стане дефектно?",
+        "o": [
+          "Да продължат да го използват, докато напълно се повреди",
+          "Да информират ръководителя на екипа/линейния мениджър",
+          "Да го поправят сами",
+          "Да го изхвърлят, без да казват на никого"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să facă utilizatorii de echipament de protecție dacă acesta devine defect?",
+        "o": [
+          "Să continue să îl folosească până se strică complet",
+          "Să informeze liderul de echipă/managerul de linie",
+          "Să îl repare ei înșiși",
+          "Să îl arunce fără să spună nimănui"
+        ]
+      },
+      "lv": {
+        "q": "Kas PPE lietotājiem jādara, ja aprīkojums kļūst bojāts?",
+        "o": [
+          "Jāturpina to lietot, līdz tas pilnībā salūst",
+          "Jāinformē komandas vadītājs/tiešais vadītājs",
+          "Pašiem tas jāsalabo",
+          "Jāizmet, nevienam nesakot"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which document is the PPE Issue Register?",
+        "o": [
+          "B82",
+          "B70",
+          "B57",
+          "B111"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to Rejestr Wydawania ŚOI?",
+        "o": [
+          "B82",
+          "B70",
+          "B57",
+          "B111"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е Регистърът за издаване на PPE?",
+        "o": [
+          "B82",
+          "B70",
+          "B57",
+          "B111"
+        ]
+      },
+      "ro": {
+        "q": "Care document este Registrul de eliberare a echipamentului de protecție?",
+        "o": [
+          "B82",
+          "B70",
+          "B57",
+          "B111"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir PPE izsniegšanas reģistrs?",
+        "o": [
+          "B82",
+          "B70",
+          "B57",
+          "B111"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How is PPE (Personal Protective Equipment) defined in this procedure?",
+        "o": [
+          "Only clothing items",
+          "Equipment that will protect the user against health or safety risks at work",
+          "Only equipment used by management",
+          "Only equipment for outdoor use"
+        ]
+      },
+      "pl": {
+        "q": "Jak zdefiniowane jest ŚOI (Środki Ochrony Indywidualnej) w tej procedurze?",
+        "o": [
+          "Tylko elementy odzieży",
+          "Sprzęt, który chroni użytkownika przed zagrożeniami dla zdrowia lub bezpieczeństwa w pracy",
+          "Tylko sprzęt używany przez kierownictwo",
+          "Tylko sprzęt do użytku na zewnątrz"
+        ]
+      },
+      "bg": {
+        "q": "Как е дефинирано PPE (лични предпазни средства) в тази процедура?",
+        "o": [
+          "Само облекло",
+          "Оборудване, което ще защити потребителя от рискове за здравето или безопасността на работа",
+          "Само оборудване, използвано от ръководството",
+          "Само оборудване за използване на открито"
+        ]
+      },
+      "ro": {
+        "q": "Cum este definit echipamentul de protecție (PPE) în această procedură?",
+        "o": [
+          "Doar articole de îmbrăcăminte",
+          "Echipament care va proteja utilizatorul împotriva riscurilor pentru sănătate sau siguranță la locul de muncă",
+          "Doar echipament folosit de conducere",
+          "Doar echipament pentru uz în exterior"
+        ]
+      },
+      "lv": {
+        "q": "Kā šajā procedūrā tiek definēts PPE (individuālie aizsardzības līdzekļi)?",
+        "o": [
+          "Tikai apģērba priekšmeti",
+          "Aprīkojums, kas aizsargās lietotāju pret veselības vai drošības riskiem darbā",
+          "Tikai vadības izmantots aprīkojums",
+          "Tikai āra lietošanai paredzēts aprīkojums"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Does every employer have a duty to provide suitable PPE?",
+        "o": [
+          "No, it's optional",
+          "Yes, except where risks have been adequately controlled by other equally or more effective means",
+          "Only for permanent employees",
+          "Only if requested by the employee"
+        ]
+      },
+      "pl": {
+        "q": "Czy każdy pracodawca ma obowiązek zapewnienia odpowiednich ŚOI?",
+        "o": [
+          "Nie, jest to opcjonalne",
+          "Tak, z wyjątkiem sytuacji, gdy zagrożenia zostały odpowiednio opanowane innymi, równie skutecznymi lub skuteczniejszymi środkami",
+          "Tylko dla stałych pracowników",
+          "Tylko na wniosek pracownika"
+        ]
+      },
+      "bg": {
+        "q": "Всеки работодател има ли задължение да осигурява подходящи PPE?",
+        "o": [
+          "Не, това е по избор",
+          "Да, освен когато рисковете са адекватно контролирани с други еднакво или по-ефективни средства",
+          "Само за постоянните служители",
+          "Само ако служителят го поиска"
+        ]
+      },
+      "ro": {
+        "q": "Fiecare angajator are datoria de a furniza echipament de protecție adecvat?",
+        "o": [
+          "Nu, este opțional",
+          "Da, cu excepția cazurilor în care riscurile au fost controlate adecvat prin alte mijloace la fel de eficiente sau mai eficiente",
+          "Doar pentru angajații permanenți",
+          "Doar dacă este solicitat de angajat"
+        ]
+      },
+      "lv": {
+        "q": "Vai katram darba devējam ir pienākums nodrošināt piemērotu PPE?",
+        "o": [
+          "Nē, tas ir izvēles",
+          "Jā, izņemot gadījumus, kad riski ir atbilstoši kontrolēti ar citiem vienlīdz vai vēl efektīvākiem līdzekļiem",
+          "Tikai pastāvīgajiem darbiniekiem",
+          "Tikai ja to pieprasa darbinieks"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which of the following must PPE take into account?",
+        "o": [
+          "Only cost",
+          "Ergonomic requirements and the state of health of the person who may wear it",
+          "Only colour preference",
+          "Only availability"
+        ]
+      },
+      "pl": {
+        "q": "Co z poniższych musi uwzględniać ŚOI?",
+        "o": [
+          "Tylko koszt",
+          "Wymagania ergonomiczne oraz stan zdrowia osoby, która może je nosić",
+          "Tylko preferencje kolorystyczne",
+          "Tylko dostępność"
+        ]
+      },
+      "bg": {
+        "q": "Кое от следните трябва да отчита PPE?",
+        "o": [
+          "Само разходите",
+          "Ергономичните изисквания и здравословното състояние на лицето, което може да го носи",
+          "Само предпочитание за цвят",
+          "Само наличност"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să ia în considerare echipamentul de protecție?",
+        "o": [
+          "Doar costul",
+          "Cerințele ergonomice și starea de sănătate a persoanei care îl poate purta",
+          "Doar preferința de culoare",
+          "Doar disponibilitatea"
+        ]
+      },
+      "lv": {
+        "q": "Kas no šiem PPE jāņem vērā?",
+        "o": [
+          "Tikai izmaksas",
+          "Ergonomiskās prasības un tās personas veselības stāvokli, kas to varētu valkāt",
+          "Tikai krāsu izvēli",
+          "Tikai pieejamību"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Must PPE be capable of being fitted correctly by the user?",
+        "o": [
+          "No, this isn't a requirement",
+          "Yes",
+          "Only for management-level staff",
+          "Only for external visitors"
+        ]
+      },
+      "pl": {
+        "q": "Czy ŚOI muszą umożliwiać prawidłowe dopasowanie przez użytkownika?",
+        "o": [
+          "Nie, nie jest to wymóg",
+          "Tak",
+          "Tylko dla pracowników na stanowiskach kierowniczych",
+          "Tylko dla gości zewnętrznych"
+        ]
+      },
+      "bg": {
+        "q": "Трябва ли PPE да могат да бъдат правилно поставени от потребителя?",
+        "o": [
+          "Не, това не е изискване",
+          "Да",
+          "Само за персонал на ръководни позиции",
+          "Само за външни посетители"
+        ]
+      },
+      "ro": {
+        "q": "Echipamentul de protecție trebuie să poată fi ajustat corect de către utilizator?",
+        "o": [
+          "Nu, aceasta nu este o cerință",
+          "Da",
+          "Doar pentru personalul de conducere",
+          "Doar pentru vizitatorii externi"
+        ]
+      },
+      "lv": {
+        "q": "Vai PPE jābūt tādam, lai lietotājs to varētu pareizi uzvilkt/pielāgot?",
+        "o": [
+          "Nē, tā nav prasība",
+          "Jā",
+          "Tikai vadošajam personālam",
+          "Tikai ārējiem apmeklētājiem"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What principle governs how far PPE must prevent or control the risks involved?",
+        "o": [
+          "At any cost, regardless of practicality",
+          "As far as is reasonably practicable, without increasing overall risk",
+          "Only if requested by the HSE Manager",
+          "There is no defined principle"
+        ]
+      },
+      "pl": {
+        "q": "Jaka zasada określa, w jakim stopniu ŚOI musi zapobiegać lub kontrolować związane z nimi zagrożenia?",
+        "o": [
+          "Za wszelką cenę, niezależnie od wykonalności",
+          "Na tyle, na ile jest to rozsądnie wykonalne, bez zwiększania ogólnego ryzyka",
+          "Tylko na żądanie kierownika HSE",
+          "Nie ma określonej zasady"
+        ]
+      },
+      "bg": {
+        "q": "Кой принцип определя доколко PPE трябва да предотврати или контролира съответните рискове?",
+        "o": [
+          "На всяка цена, независимо от практичността",
+          "Доколкото е разумно осъществимо, без да се увеличава общото ниво на риск",
+          "Само ако бъде поискано от мениджъра HSE",
+          "Няма определен принцип"
+        ]
+      },
+      "ro": {
+        "q": "Ce principiu guvernează măsura în care echipamentul de protecție trebuie să prevină sau să controleze riscurile implicate?",
+        "o": [
+          "Cu orice preț, indiferent de practicabilitate",
+          "Atât cât este rezonabil posibil, fără a crește nivelul general de risc",
+          "Doar dacă este solicitat de managerul HSE",
+          "Nu există un principiu definit"
+        ]
+      },
+      "lv": {
+        "q": "Kāds princips nosaka, cik lielā mērā PPE jānovērš vai jākontrolē attiecīgie riski?",
+        "o": [
+          "Par jebkuru cenu, neatkarīgi no praktiskuma",
+          "Cik vien saprātīgi iespējams, nepalielinot vispārējo riska līmeni",
+          "Tikai ja to pieprasa HSE vadītājs",
+          "Nav noteikta principa"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who ensures an assessment is made to determine whether intended PPE is suitable?",
+        "o": [
+          "PPE Users",
+          "The HSE Manager",
+          "External auditors",
+          "The Production Manager only"
+        ]
+      },
+      "pl": {
+        "q": "Kto zapewnia przeprowadzenie oceny w celu ustalenia, czy planowane ŚOI są odpowiednie?",
+        "o": [
+          "Użytkownicy ŚOI",
+          "Kierownik HSE",
+          "Zewnętrzni audytorzy",
+          "Wyłącznie kierownik produkcji"
+        ]
+      },
+      "bg": {
+        "q": "Кой гарантира, че се извършва оценка, за да се определи дали планираните PPE са подходящи?",
+        "o": [
+          "Потребителите на PPE",
+          "Мениджърът HSE",
+          "Външни одитори",
+          "Само производственият мениджър"
+        ]
+      },
+      "ro": {
+        "q": "Cine se asigură că se face o evaluare pentru a determina dacă echipamentul de protecție propus este adecvat?",
+        "o": [
+          "Utilizatorii de echipament de protecție",
+          "Managerul HSE",
+          "Auditorii externi",
+          "Doar managerul de producție"
+        ]
+      },
+      "lv": {
+        "q": "Kas nodrošina, ka tiek veikts novērtējums, lai noteiktu, vai paredzētais PPE ir piemērots?",
+        "o": [
+          "PPE lietotāji",
+          "HSE vadītājs",
+          "Ārējie revidenti",
+          "Tikai ražošanas vadītājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What are PPE Users responsible for regarding the condition of their equipment?",
+        "o": [
+          "Nothing, it's someone else's job",
+          "Ensuring their PPE is stored correctly, cared for and kept clean and hygienic for future use",
+          "Only returning it at the end of employment",
+          "Only using it during specific hours"
+        ]
+      },
+      "pl": {
+        "q": "Za co odpowiadają użytkownicy ŚOI w odniesieniu do stanu swojego sprzętu?",
+        "o": [
+          "Za nic, to zadanie kogoś innego",
+          "Za zapewnienie, że ich ŚOI są prawidłowo przechowywane, dbane oraz utrzymywane w czystości i higienie do dalszego użytku",
+          "Tylko za zwrócenie go na koniec zatrudnienia",
+          "Tylko za używanie go w określonych godzinach"
+        ]
+      },
+      "bg": {
+        "q": "За какво отговарят потребителите на PPE по отношение на състоянието на своето оборудване?",
+        "o": [
+          "За нищо, това е работа на някой друг",
+          "Да гарантират, че PPE се съхранява правилно, поддържа се и се пази чисто и хигиенично за бъдеща употреба",
+          "Само за връщането му в края на трудовия договор",
+          "Само за използването му в определени часове"
+        ]
+      },
+      "ro": {
+        "q": "De ce sunt responsabili utilizatorii de echipament de protecție cu privire la starea echipamentului lor?",
+        "o": [
+          "De nimic, este responsabilitatea altcuiva",
+          "Să se asigure că echipamentul lor este depozitat corect, îngrijit și păstrat curat și igienic pentru utilizare ulterioară",
+          "Doar să îl returneze la sfârșitul angajării",
+          "Doar să îl folosească în anumite ore"
+        ]
+      },
+      "lv": {
+        "q": "Par ko PPE lietotāji ir atbildīgi attiecībā uz sava aprīkojuma stāvokli?",
+        "o": [
+          "Par neko, tas ir kāda cita darbs",
+          "Nodrošināt, ka viņu PPE tiek pareizi uzglabāts, kopts un uzturēts tīrs un higiēnisks turpmākai lietošanai",
+          "Tikai to atgriezt darba attiecību beigās",
+          "Tikai to lietot noteiktās stundās"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who ensures that all users of PPE are adequately trained in its use?",
+        "o": [
+          "PPE Users train themselves",
+          "The Team Leader/Line Manager",
+          "The HSE Manager only",
+          "External training providers only"
+        ]
+      },
+      "pl": {
+        "q": "Kto zapewnia, że wszyscy użytkownicy ŚOI są odpowiednio przeszkoleni w ich użytkowaniu?",
+        "o": [
+          "Użytkownicy ŚOI szkolą się sami",
+          "Lider zespołu/kierownik liniowy",
+          "Wyłącznie kierownik HSE",
+          "Wyłącznie zewnętrzni dostawcy szkoleń"
+        ]
+      },
+      "bg": {
+        "q": "Кой гарантира, че всички потребители на PPE са адекватно обучени за употребата им?",
+        "o": [
+          "Потребителите на PPE се обучават сами",
+          "Ръководителят на екипа/линейният мениджър",
+          "Само мениджърът HSE",
+          "Само външни доставчици на обучение"
+        ]
+      },
+      "ro": {
+        "q": "Cine se asigură că toți utilizatorii de echipament de protecție sunt instruiți adecvat în utilizarea acestuia?",
+        "o": [
+          "Utilizatorii se instruiesc singuri",
+          "Liderul de echipă/managerul de linie",
+          "Doar managerul HSE",
+          "Doar furnizorii externi de instruire"
+        ]
+      },
+      "lv": {
+        "q": "Kas nodrošina, ka visi PPE lietotāji ir atbilstoši apmācīti tā lietošanā?",
+        "o": [
+          "PPE lietotāji apmācās paši",
+          "Komandas vadītājs/tiešais vadītājs",
+          "Tikai HSE vadītājs",
+          "Tikai ārējie apmācības sniedzēji"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which of the following might training on PPE cover?",
+        "o": [
+          "Only the price of the equipment",
+          "The risks the PPE controls, how it's used, how to maintain it, and what to do if damaged/defective",
+          "Only the manufacturer's name",
+          "Nothing specific is required"
+        ]
+      },
+      "pl": {
+        "q": "Co może obejmować szkolenie dotyczące ŚOI?",
+        "o": [
+          "Tylko cenę sprzętu",
+          "Zagrożenia, przed którymi chronią ŚOI, sposób ich użytkowania, sposób konserwacji oraz postępowanie w przypadku uszkodzenia/wady",
+          "Tylko nazwę producenta",
+          "Nic konkretnego nie jest wymagane"
+        ]
+      },
+      "bg": {
+        "q": "Кое от следните може да обхваща обучението за PPE?",
+        "o": [
+          "Само цената на оборудването",
+          "Рисковете, които PPE контролира, как се използва, как се поддържа и какво да се прави при повреда/дефект",
+          "Само името на производителя",
+          "Нищо конкретно не се изисква"
+        ]
+      },
+      "ro": {
+        "q": "Ce ar putea acoperi instruirea privind echipamentul de protecție?",
+        "o": [
+          "Doar prețul echipamentului",
+          "Riscurile pe care le controlează echipamentul, modul de utilizare, modul de întreținere și ce trebuie făcut în caz de deteriorare/defect",
+          "Doar numele producătorului",
+          "Nu este necesar nimic specific"
+        ]
+      },
+      "lv": {
+        "q": "Ko varētu aptvert apmācība par PPE?",
+        "o": [
+          "Tikai aprīkojuma cenu",
+          "Riskus, ko PPE kontrolē, kā to lieto, kā to uzturēt un ko darīt bojājuma/defekta gadījumā",
+          "Tikai ražotāja nosaukumu",
+          "Nekas konkrēts nav nepieciešams"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who must sign the B70 form?",
+        "o": [
+          "Only the Team Leader/Line Manager",
+          "The Team Leader/Line Manager must initial it, and the PPE User must sign it",
+          "Only the HSE Manager",
+          "No signature is required"
+        ]
+      },
+      "pl": {
+        "q": "Kto musi podpisać formularz B70?",
+        "o": [
+          "Wyłącznie lider zespołu/kierownik liniowy",
+          "Lider zespołu/kierownik liniowy musi go parafować, a użytkownik ŚOI musi go podpisać",
+          "Wyłącznie kierownik HSE",
+          "Podpis nie jest wymagany"
+        ]
+      },
+      "bg": {
+        "q": "Кой трябва да подпише формуляр B70?",
+        "o": [
+          "Само ръководителят на екипа/линейният мениджър",
+          "Ръководителят на екипа/линейният мениджър трябва да парафира, а потребителят на PPE трябва да подпише",
+          "Само мениджърът HSE",
+          "Не се изисква подпис"
+        ]
+      },
+      "ro": {
+        "q": "Cine trebuie să semneze formularul B70?",
+        "o": [
+          "Doar liderul de echipă/managerul de linie",
+          "Liderul de echipă/managerul de linie trebuie să îl parafeze, iar utilizatorul echipamentului de protecție trebuie să îl semneze",
+          "Doar managerul HSE",
+          "Nu este necesară nicio semnătură"
+        ]
+      },
+      "lv": {
+        "q": "Kam jāparaksta B70 veidlapa?",
+        "o": [
+          "Tikai komandas vadītājam/tiešajam vadītājam",
+          "Komandas vadītājam/tiešajam vadītājam tā jāparafē, un PPE lietotājam tā jāparaksta",
+          "Tikai HSE vadītājam",
+          "Paraksts nav nepieciešams"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must Team Leaders/Line Manager provide information about regarding PPE?",
+        "o": [
+          "Nothing specific",
+          "When and where to use and store PPE",
+          "Only how to purchase PPE",
+          "Only the manufacturer's contact details"
+        ]
+      },
+      "pl": {
+        "q": "O czym muszą przekazywać informacje liderzy zespołu/kierownik liniowy w odniesieniu do ŚOI?",
+        "o": [
+          "Nic konkretnego",
+          "Kiedy i gdzie używać oraz przechowywać ŚOI",
+          "Tylko jak kupować ŚOI",
+          "Tylko dane kontaktowe producenta"
+        ]
+      },
+      "bg": {
+        "q": "За какво трябва да предоставят информация ръководителите на екипи/линейният мениджър относно PPE?",
+        "o": [
+          "Нищо конкретно",
+          "Кога и къде да се използва и съхранява PPE",
+          "Само как да се закупи PPE",
+          "Само данните за контакт с производителя"
+        ]
+      },
+      "ro": {
+        "q": "Despre ce trebuie să ofere informații liderii de echipă/managerul de linie cu privire la echipamentul de protecție?",
+        "o": [
+          "Nimic specific",
+          "Când și unde să folosească și să depoziteze echipamentul de protecție",
+          "Doar cum să achiziționeze echipamentul",
+          "Doar detaliile de contact ale producătorului"
+        ]
+      },
+      "lv": {
+        "q": "Par ko komandas vadītājiem/tiešajam vadītājam jāsniedz informācija attiecībā uz PPE?",
+        "o": [
+          "Nekas konkrēts",
+          "Kad un kur lietot un uzglabāt PPE",
+          "Tikai kā iegādāties PPE",
+          "Tikai ražotāja kontaktinformāciju"
+        ]
+      },
+      "correct": 1
+    }
+  ]
+}
