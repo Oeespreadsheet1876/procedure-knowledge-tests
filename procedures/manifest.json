@@ -128,6 +128,42 @@
         "ro": "Raportarea și investigarea accidentelor/incidentelor și a defecțiunilor sistemelor de protecție",
         "lv": "Negadījumu/incidentu un aizsardzības sistēmu atteiču ziņošana un izmeklēšana"
       }
+    },
+    {
+      "id": "wp26",
+      "file": "wp26.json",
+      "docRef": "WP26",
+      "title": {
+        "en": "Communication and Consultation",
+        "pl": "Komunikacja i konsultacje",
+        "bg": "Комуникация и консултации",
+        "ro": "Comunicare și consultare",
+        "lv": "Komunikācija un konsultācijas"
+      }
+    },
+    {
+      "id": "wp32",
+      "file": "wp32.json",
+      "docRef": "WP32",
+      "title": {
+        "en": "OHS - PPE Assessment & Control",
+        "pl": "BHP – Ocena i kontrola ŚOI",
+        "bg": "ЗБУТ – Оценка и контрол на PPE",
+        "ro": "SSM – Evaluarea și controlul echipamentului de protecție",
+        "lv": "DDS – PPE novērtēšana un kontrole"
+      }
+    },
+    {
+      "id": "wp36",
+      "file": "wp36.json",
+      "docRef": "WP36",
+      "title": {
+        "en": "Control of Substances Hazardous to Health",
+        "pl": "Kontrola substancji niebezpiecznych dla zdrowia",
+        "bg": "Контрол на веществата, опасни за здравето",
+        "ro": "Controlul substanțelor periculoase pentru sănătate",
+        "lv": "Veselībai bīstamo vielu kontrole"
+      }
     }
   ]
 }
