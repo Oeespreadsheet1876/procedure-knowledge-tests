@@ -1,0 +1,1071 @@
+{
+  "id": "wp09c",
+  "docRef": "WP09C",
+  "issue": "5",
+  "title": {
+    "en": "Blending (Powder/Sugar Soap Blender)",
+    "pl": "Mieszanie (blender do proszku/mydła w płatkach)",
+    "bg": "Смесване (блендер за прах/сапунен сапун)",
+    "ro": "Amestecare (mixer de pudră/săpun cu zahăr)",
+    "lv": "Maisīšana (pulvera/cukura ziepju maisītājs)"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "en": {
+        "q": "When must this procedure be followed?",
+        "o": [
+          "Only during night shift",
+          "Whenever a batch of powder or sugar soap is being produced",
+          "Only during machine breakdowns",
+          "Only at the start of the week"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy należy przestrzegać tej procedury?",
+        "o": [
+          "Tylko podczas zmiany nocnej",
+          "Zawsze, gdy produkowana jest partia proszku lub mydła w płatkach",
+          "Tylko podczas awarii maszyny",
+          "Tylko na początku tygodnia"
+        ]
+      },
+      "bg": {
+        "q": "Кога трябва да се спазва тази процедура?",
+        "o": [
+          "Само по време на нощна смяна",
+          "Винаги, когато се произвежда партида прах или сапунен сапун",
+          "Само по време на повреда на машината",
+          "Само в началото на седмицата"
+        ]
+      },
+      "ro": {
+        "q": "Când trebuie respectată această procedură?",
+        "o": [
+          "Doar în timpul turei de noapte",
+          "Oricând se produce un lot de pudră sau săpun cu zahăr",
+          "Doar în timpul defecțiunilor mașinii",
+          "Doar la începutul săptămânii"
+        ]
+      },
+      "lv": {
+        "q": "Kad jāievēro šī procedūra?",
+        "o": [
+          "Tikai nakts maiņas laikā",
+          "Vienmēr, kad tiek ražota pulvera vai cukura ziepju partija",
+          "Tikai iekārtas darbības traucējumu laikā",
+          "Tikai nedēļas sākumā"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What training must you have received before using the powder/sugar soap blender?",
+        "o": [
+          "Only this WP09C procedure",
+          "WP09Y Blending Area - General Safety & Emergency Equipment",
+          "Forklift training",
+          "No training is required"
+        ]
+      },
+      "pl": {
+        "q": "Jakie szkolenie musisz odbyć przed użyciem blendera do proszku/mydła w płatkach?",
+        "o": [
+          "Tylko tę procedurę WP09C",
+          "WP09Y Obszar mieszania – Bezpieczeństwo ogólne i wyposażenie awaryjne",
+          "Szkolenie na wózek widłowy",
+          "Żadne szkolenie nie jest wymagane"
+        ]
+      },
+      "bg": {
+        "q": "В какво обучение трябва да сте преминали, преди да използвате блендера за прах/сапунен сапун?",
+        "o": [
+          "Само тази процедура WP09C",
+          "WP09Y Зона за смесване – Обща безопасност и авариен инвентар",
+          "Обучение за мотокар",
+          "Не се изисква обучение"
+        ]
+      },
+      "ro": {
+        "q": "Ce instruire trebuie să fi urmat înainte de a folosi mixerul de pudră/săpun cu zahăr?",
+        "o": [
+          "Doar această procedură WP09C",
+          "WP09Y Zona de amestecare – Siguranță generală și echipamente de urgență",
+          "Instruire pentru stivuitor",
+          "Nu este necesară nicio instruire"
+        ]
+      },
+      "lv": {
+        "q": "Kāda apmācība jums jābūt apgūtai, pirms izmantojat pulvera/cukura ziepju maisītāju?",
+        "o": [
+          "Tikai šī WP09C procedūra",
+          "WP09Y Maisīšanas zona – Vispārīgā drošība un avārijas aprīkojums",
+          "Autoiekrāvēja apmācība",
+          "Apmācība nav nepieciešama"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for providing training to blending operatives against this procedure?",
+        "o": [
+          "Only the QC Operative",
+          "The Blending Charge Hand in conjunction with the Night Shift Manager",
+          "HR department",
+          "Only the Production Manager"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za zapewnienie szkolenia operatorom mieszania w ramach tej procedury?",
+        "o": [
+          "Wyłącznie pracownik QC",
+          "Brygadzista mieszania wspólnie z kierownikiem zmiany nocnej",
+          "Dział HR",
+          "Wyłącznie kierownik produkcji"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за осигуряване на обучение на операторите по смесване по тази процедура?",
+        "o": [
+          "Само операторът по качествен контрол",
+          "Бригадирът по смесване заедно с нощния мениджър на смяната",
+          "Отдел HR",
+          "Само производственият мениджър"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru furnizarea instruirii operatorilor de amestecare conform acestei proceduri?",
+        "o": [
+          "Doar operatorul de control al calității",
+          "Șeful de echipă de amestecare împreună cu managerul turei de noapte",
+          "Departamentul de resurse umane",
+          "Doar managerul de producție"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par maisīšanas operatoru apmācības nodrošināšanu atbilstoši šai procedūrai?",
+        "o": [
+          "Tikai QC operators",
+          "Maisīšanas brigadieris kopā ar nakts maiņas vadītāju",
+          "Personāla nodaļa",
+          "Tikai ražošanas vadītājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for cleaning the mixing vessels and surrounding area?",
+        "o": [
+          "The QC Operative",
+          "The Blending Operatives",
+          "The Production Manager",
+          "Only the Charge Hand"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za czyszczenie zbiorników mieszających i otaczającego obszaru?",
+        "o": [
+          "Pracownik QC",
+          "Operatorzy mieszania",
+          "Kierownik produkcji",
+          "Wyłącznie brygadzista"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за почистването на смесителните съдове и околната зона?",
+        "o": [
+          "Операторът по качествен контрол",
+          "Операторите по смесване",
+          "Производственият мениджър",
+          "Само бригадирът"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru curățarea vaselor de amestecare și a zonei înconjurătoare?",
+        "o": [
+          "Operatorul de control al calității",
+          "Operatorii de amestecare",
+          "Managerul de producție",
+          "Doar șeful de echipă"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par maisīšanas trauku un apkārtējās zonas tīrīšanu?",
+        "o": [
+          "QC operators",
+          "Maisīšanas operatori",
+          "Ražošanas vadītājs",
+          "Tikai brigadieris"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for ensuring manufacturing samples are evaluated before the batch is dropped for packing?",
+        "o": [
+          "The Blending Operatives",
+          "The QC Operative",
+          "The Production Manager",
+          "The Night Shift Manager"
+        ]
+      },
+      "pl": {
+        "q": "Kto jest odpowiedzialny za zapewnienie, że próbki produkcyjne są oceniane przed zrzuceniem partii do pakowania?",
+        "o": [
+          "Operatorzy mieszania",
+          "Pracownik QC",
+          "Kierownik produkcji",
+          "Kierownik zmiany nocnej"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за гарантирането, че производствените проби се оценяват преди партидата да бъде пусната за опаковане?",
+        "o": [
+          "Операторите по смесване",
+          "Операторът по качествен контрол",
+          "Производственият мениджър",
+          "Нощният мениджър на смяната"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru a se asigura că probele de fabricație sunt evaluate înainte ca lotul să fie eliberat pentru ambalare?",
+        "o": [
+          "Operatorii de amestecare",
+          "Operatorul de control al calității",
+          "Managerul de producție",
+          "Managerul turei de noapte"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par to, lai ražošanas paraugi tiktu novērtēti pirms partijas nodošanas iepakošanai?",
+        "o": [
+          "Maisīšanas operatori",
+          "QC operators",
+          "Ražošanas vadītājs",
+          "Nakts maiņas vadītājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which document is the Blending Start Up & Cleaning Check List?",
+        "o": [
+          "B61c",
+          "COSHH Action Card",
+          "Batch Card",
+          "B82"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to Lista kontrolna uruchomienia i czyszczenia mieszania?",
+        "o": [
+          "B61c",
+          "Karta Postępowania COSHH",
+          "Karta partii",
+          "B82"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е контролният списък за пускане и почистване на смесването?",
+        "o": [
+          "B61c",
+          "Картата за действие COSHH",
+          "Партидната карта",
+          "B82"
+        ]
+      },
+      "ro": {
+        "q": "Care document este Lista de verificare pentru pornirea și curățarea amestecării?",
+        "o": [
+          "B61c",
+          "Fișa de acțiune COSHH",
+          "Fișa de lot",
+          "B82"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir Maisīšanas palaišanas un tīrīšanas kontrolsaraksts?",
+        "o": [
+          "B61c",
+          "COSHH rīcības karte",
+          "Partijas karte",
+          "B82"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "Who prints out the relevant batch card from the company's operational software?",
+        "o": [
+          "The Blending Operative",
+          "The Charge Hand or Team Leader",
+          "The QC Operative",
+          "The Production Manager"
+        ]
+      },
+      "pl": {
+        "q": "Kto drukuje odpowiednią kartę partii z oprogramowania operacyjnego firmy?",
+        "o": [
+          "Operator mieszania",
+          "Brygadzista lub lider zespołu",
+          "Pracownik QC",
+          "Kierownik produkcji"
+        ]
+      },
+      "bg": {
+        "q": "Кой отпечатва съответната партидна карта от оперативния софтуер на компанията?",
+        "o": [
+          "Операторът по смесване",
+          "Бригадирът или ръководителят на екипа",
+          "Операторът по качествен контрол",
+          "Производственият мениджър"
+        ]
+      },
+      "ro": {
+        "q": "Cine printează fișa de lot relevantă din software-ul operațional al companiei?",
+        "o": [
+          "Operatorul de amestecare",
+          "Șeful de echipă sau liderul de echipă",
+          "Operatorul de control al calității",
+          "Managerul de producție"
+        ]
+      },
+      "lv": {
+        "q": "Kas izdrukā attiecīgo partijas karti no uzņēmuma darbības programmatūras?",
+        "o": [
+          "Maisīšanas operators",
+          "Brigadieris vai komandas vadītājs",
+          "QC operators",
+          "Ražošanas vadītājs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Before starting the mixer, what must Blenders ensure?",
+        "o": [
+          "The isolator switch is on",
+          "The isolator switch is off, the access door is open, and the mixer is empty and clean",
+          "The batch card is destroyed",
+          "The safety key is removed and hidden"
+        ]
+      },
+      "pl": {
+        "q": "Co muszą zapewnić blenderzy przed uruchomieniem mieszalnika?",
+        "o": [
+          "Że wyłącznik izolacyjny jest włączony",
+          "Że wyłącznik izolacyjny jest wyłączony, drzwi dostępowe są otwarte, a mieszalnik jest pusty i czysty",
+          "Że karta partii jest zniszczona",
+          "Że klucz bezpieczeństwa jest usunięty i ukryty"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да гарантират операторите по смесване, преди да стартират миксера?",
+        "o": [
+          "Че изолаторният прекъсвач е включен",
+          "Че изолаторният прекъсвач е изключен, вратата за достъп е отворена, а миксерът е празен и чист",
+          "Че партидната карта е унищожена",
+          "Че ключът за безопасност е премахнат и скрит"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să se asigure operatorii de amestecare înainte de a porni mixerul?",
+        "o": [
+          "Că întrerupătorul separator este pornit",
+          "Că întrerupătorul separator este oprit, ușa de acces este deschisă, iar mixerul este gol și curat",
+          "Că fișa de lot este distrusă",
+          "Că cheia de siguranță este scoasă și ascunsă"
+        ]
+      },
+      "lv": {
+        "q": "Kas maisītājiem jānodrošina pirms maisītāja iedarbināšanas?",
+        "o": [
+          "Ka izolators ir ieslēgts",
+          "Ka izolators ir izslēgts, piekļuves durvis ir atvērtas un maisītājs ir tukšs un tīrs",
+          "Ka partijas karte ir iznīcināta",
+          "Ka drošības atslēga ir izņemta un paslēpta"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What are the three steps to start the mixer?",
+        "o": [
+          "Turn isolator OFF to ON; press TIMED OUT RESET; press START MIXER",
+          "Press START MIXER only",
+          "Turn isolator ON to OFF; press STOP; press RESET",
+          "Call the Charge Hand first"
+        ]
+      },
+      "pl": {
+        "q": "Jakie są trzy kroki uruchomienia mieszalnika?",
+        "o": [
+          "Przełącz izolator z OFF na ON; naciśnij TIMED OUT RESET; naciśnij START MIXER",
+          "Naciśnij tylko START MIXER",
+          "Przełącz izolator z ON na OFF; naciśnij STOP; naciśnij RESET",
+          "Najpierw zadzwoń do brygadzisty"
+        ]
+      },
+      "bg": {
+        "q": "Кои са трите стъпки за стартиране на миксера?",
+        "o": [
+          "Превключете изолатора от OFF на ON; натиснете TIMED OUT RESET; натиснете START MIXER",
+          "Натиснете само START MIXER",
+          "Превключете изолатора от ON на OFF; натиснете STOP; натиснете RESET",
+          "Първо се обадете на бригадира"
+        ]
+      },
+      "ro": {
+        "q": "Care sunt cei trei pași pentru pornirea mixerului?",
+        "o": [
+          "Comutați întrerupătorul separator de la OFF la ON; apăsați TIMED OUT RESET; apăsați START MIXER",
+          "Apăsați doar START MIXER",
+          "Comutați întrerupătorul separator de la ON la OFF; apăsați STOP; apăsați RESET",
+          "Sunați mai întâi șeful de echipă"
+        ]
+      },
+      "lv": {
+        "q": "Kādi ir trīs soļi maisītāja iedarbināšanai?",
+        "o": [
+          "Pārslēdziet izolatoru no OFF uz ON; nospiediet TIMED OUT RESET; nospiediet START MIXER",
+          "Nospiediet tikai START MIXER",
+          "Pārslēdziet izolatoru no ON uz OFF; nospiediet STOP; nospiediet RESET",
+          "Vispirms zvaniet brigadierim"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "What must always be closed before loading ingredients into the mixer?",
+        "o": [
+          "The rear entry door",
+          "The bomb door",
+          "The filling hopper",
+          "The waste skip"
+        ]
+      },
+      "pl": {
+        "q": "Co zawsze musi być zamknięte przed załadowaniem składników do mieszalnika?",
+        "o": [
+          "Tylne drzwi wejściowe",
+          "Drzwi bombowe",
+          "Lej zasypowy",
+          "Kontener na odpady"
+        ]
+      },
+      "bg": {
+        "q": "Какво винаги трябва да бъде затворено, преди да заредите съставките в миксера?",
+        "o": [
+          "Задната входна врата",
+          "Бомбената врата",
+          "Пълначният бункер",
+          "Контейнерът за отпадъци"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să fie întotdeauna închis înainte de a încărca ingredientele în mixer?",
+        "o": [
+          "Ușa de intrare din spate",
+          "Ușa de tip bombă",
+          "Buncărul de umplere",
+          "Containerul de deșeuri"
+        ]
+      },
+      "lv": {
+        "q": "Kam vienmēr jābūt aizvērtam pirms sastāvdaļu ielādēšanas maisītājā?",
+        "o": [
+          "Aizmugurējām ieejas durvīm",
+          "Bumbas durvīm",
+          "Pildīšanas piltuvei",
+          "Atkritumu konteineram"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Once the blend has been prepared as per the batch card, what should you do first?",
+        "o": [
+          "Immediately open the mixer door",
+          "Press STOP MIXER on the control panel, then turn the isolator switch to OFF",
+          "Remove all 4 clamps without stopping the mixer",
+          "Call QC before stopping the mixer"
+        ]
+      },
+      "pl": {
+        "q": "Po przygotowaniu mieszanki zgodnie z kartą partii, co należy zrobić najpierw?",
+        "o": [
+          "Natychmiast otworzyć drzwi mieszalnika",
+          "Nacisnąć STOP MIXER na panelu sterowania, a następnie przełączyć izolator na OFF",
+          "Zdjąć wszystkie 4 zaciski bez zatrzymywania mieszalnika",
+          "Zadzwonić do QC przed zatrzymaniem mieszalnika"
+        ]
+      },
+      "bg": {
+        "q": "След като смесването е приготвено съгласно партидната карта, какво трябва да направите първо?",
+        "o": [
+          "Незабавно да отворите вратата на миксера",
+          "Да натиснете STOP MIXER на контролния панел, след което да превключите изолатора на OFF",
+          "Да свалите всичките 4 скоби, без да спирате миксера",
+          "Да се обадите на QC, преди да спрете миксера"
+        ]
+      },
+      "ro": {
+        "q": "Odată ce amestecul a fost preparat conform fișei de lot, ce trebuie făcut mai întâi?",
+        "o": [
+          "Deschideți imediat ușa mixerului",
+          "Apăsați STOP MIXER pe panoul de control, apoi comutați întrerupătorul separator pe OFF",
+          "Scoateți toate cele 4 cleme fără a opri mixerul",
+          "Sunați QC înainte de a opri mixerul"
+        ]
+      },
+      "lv": {
+        "q": "Kad maisījums ir sagatavots saskaņā ar partijas karti, kas jādara vispirms?",
+        "o": [
+          "Nekavējoties jāatver maisītāja durvis",
+          "Jānospiež STOP MIXER vadības panelī, pēc tam jāpārslēdz izolators uz OFF",
+          "Jānoņem visas 4 skavas, neapturot maisītāju",
+          "Jāzvana QC pirms maisītāja apturēšanas"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Where should the safety key be inserted after being removed from the control panel?",
+        "o": [
+          "Into your pocket",
+          "Into the mixer rear entry door",
+          "Into the waste skip",
+          "Into the filling hopper"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie należy włożyć klucz bezpieczeństwa po wyjęciu go z panelu sterowania?",
+        "o": [
+          "Do kieszeni",
+          "Do tylnych drzwi wejściowych mieszalnika",
+          "Do kontenera na odpady",
+          "Do leja zasypowego"
+        ]
+      },
+      "bg": {
+        "q": "Къде трябва да се постави ключът за безопасност след изваждането му от контролния панел?",
+        "o": [
+          "В джоба ви",
+          "В задната входна врата на миксера",
+          "В контейнера за отпадъци",
+          "В пълначния бункер"
+        ]
+      },
+      "ro": {
+        "q": "Unde trebuie introdusă cheia de siguranță după ce a fost scoasă din panoul de control?",
+        "o": [
+          "În buzunar",
+          "În ușa de intrare din spate a mixerului",
+          "În containerul de deșeuri",
+          "În buncărul de umplere"
+        ]
+      },
+      "lv": {
+        "q": "Kur jāievieto drošības atslēga pēc tam, kad tā izņemta no vadības paneļa?",
+        "o": [
+          "Kabatā",
+          "Maisītāja aizmugurējās ieejas durvīs",
+          "Atkritumu konteinerā",
+          "Pildīšanas piltuvē"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What must be done with the blended sample before the batch can proceed?",
+        "o": [
+          "Nothing, just continue",
+          "Take the sample and batch card to the QC operator for analysis and passing",
+          "Dispose of the sample immediately",
+          "Only the Production Manager can check it"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić z pobraną próbką mieszanki, zanim partia będzie mogła być kontynuowana?",
+        "o": [
+          "Nic, po prostu kontynuować",
+          "Zabrać próbkę i kartę partii do pracownika QC w celu analizy i zatwierdzenia",
+          "Natychmiast wyrzucić próbkę",
+          "Tylko kierownik produkcji może to sprawdzić"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се направи с взетата проба от сместа, преди партидата да може да продължи?",
+        "o": [
+          "Нищо, просто продължете",
+          "Да занесете пробата и партидната карта на оператора по качествен контрол за анализ и одобрение",
+          "Незабавно да изхвърлите пробата",
+          "Само производственият мениджър може да провери това"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie făcut cu proba de amestec prelevată înainte ca lotul să poată continua?",
+        "o": [
+          "Nimic, doar continuați",
+          "Duceți proba și fișa de lot la operatorul de control al calității pentru analiză și aprobare",
+          "Aruncați imediat proba",
+          "Doar managerul de producție poate verifica acest lucru"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara ar ņemto maisījuma paraugu, pirms partija var turpināties?",
+        "o": [
+          "Nekas, vienkārši jāturpina",
+          "Jāaiznes paraugs un partijas karte QC operatoram analīzei un apstiprināšanai",
+          "Nekavējoties jāizmet paraugs",
+          "Tikai ražošanas vadītājs var to pārbaudīt"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If the QC operator or Technical Manager requires adjustments, what should you do?",
+        "o": [
+          "Ignore the request and drop the batch anyway",
+          "Make the necessary adjustments and repeat the procedure until a satisfactory sample is obtained",
+          "Report it to HR",
+          "Replace the entire batch"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli pracownik QC lub kierownik techniczny wymaga korekt, co należy zrobić?",
+        "o": [
+          "Zignorować prośbę i mimo to zrzucić partię",
+          "Wprowadzić niezbędne korekty i powtarzać procedurę, aż do uzyskania zadowalającej próbki",
+          "Zgłosić to do działu HR",
+          "Wymienić całą partię"
+        ]
+      },
+      "bg": {
+        "q": "Ако операторът по качествен контрол или техническият мениджър изисква корекции, какво трябва да направите?",
+        "o": [
+          "Да игнорирате искането и въпреки това да пуснете партидата",
+          "Да направите необходимите корекции и да повторите процедурата, докато се получи задоволителна проба",
+          "Да докладвате на отдел HR",
+          "Да замените цялата партида"
+        ]
+      },
+      "ro": {
+        "q": "Dacă operatorul de control al calității sau managerul tehnic solicită ajustări, ce trebuie să faceți?",
+        "o": [
+          "Ignorați cererea și eliberați lotul oricum",
+          "Faceți ajustările necesare și repetați procedura până se obține o probă satisfăcătoare",
+          "Raportați la departamentul de resurse umane",
+          "Înlocuiți întregul lot"
+        ]
+      },
+      "lv": {
+        "q": "Ja QC operators vai tehniskais vadītājs pieprasa korekcijas, kas jādara?",
+        "o": [
+          "Jāignorē pieprasījums un tik un tā jānodod partija",
+          "Jāveic nepieciešamās korekcijas un jāatkārto procedūra, līdz tiek iegūts apmierinošs paraugs",
+          "Jāziņo personāla nodaļai",
+          "Jānomaina visa partija"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Before dropping the batch, what must be secured?",
+        "o": [
+          "Only 1 clamp",
+          "The door to the mixing vessel with 2 clamps each side",
+          "Nothing needs securing",
+          "Only the rear door"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zabezpieczyć przed zrzuceniem partii?",
+        "o": [
+          "Tylko 1 zacisk",
+          "Drzwi do zbiornika mieszającego, po 2 zaciski z każdej strony",
+          "Nic nie trzeba zabezpieczać",
+          "Tylko tylne drzwi"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се обезопаси, преди партидата да бъде пусната?",
+        "o": [
+          "Само 1 скоба",
+          "Вратата на смесителния съд, с по 2 скоби от всяка страна",
+          "Нищо не трябва да се обезопасява",
+          "Само задната врата"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie fixat înainte de eliberarea lotului?",
+        "o": [
+          "Doar 1 clemă",
+          "Ușa vasului de amestecare, cu câte 2 cleme pe fiecare parte",
+          "Nimic nu trebuie fixat",
+          "Doar ușa din spate"
+        ]
+      },
+      "lv": {
+        "q": "Kas jānostiprina pirms partijas nodošanas?",
+        "o": [
+          "Tikai 1 skava",
+          "Maisīšanas trauka durvis, ar 2 skavām katrā pusē",
+          "Nekas nav jānostiprina",
+          "Tikai aizmugurējās durvis"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "To drop the batch, what is the correct sequence?",
+        "o": [
+          "Press OPEN OUTLET directly, no need to lift anything",
+          "Lift the button guard, press OPEN OUTLET, then close the button guard immediately after",
+          "Leave the button guard open permanently",
+          "Press STOP MIXER instead"
+        ]
+      },
+      "pl": {
+        "q": "Jaka jest prawidłowa kolejność zrzucania partii?",
+        "o": [
+          "Nacisnąć OPEN OUTLET bezpośrednio, bez potrzeby podnoszenia czegokolwiek",
+          "Podnieść osłonę przycisku, nacisnąć OPEN OUTLET, a następnie natychmiast zamknąć osłonę przycisku",
+          "Zostawić osłonę przycisku na stałe otwartą",
+          "Nacisnąć STOP MIXER zamiast tego"
+        ]
+      },
+      "bg": {
+        "q": "Каква е правилната последователност за пускане на партидата?",
+        "o": [
+          "Да натиснете директно OPEN OUTLET, без да е нужно да повдигате нищо",
+          "Да повдигнете предпазителя на бутона, да натиснете OPEN OUTLET, след което незабавно да затворите предпазителя на бутона",
+          "Да оставите предпазителя на бутона постоянно отворен",
+          "Да натиснете STOP MIXER вместо това"
+        ]
+      },
+      "ro": {
+        "q": "Care este secvența corectă pentru eliberarea lotului?",
+        "o": [
+          "Apăsați direct OPEN OUTLET, fără a fi nevoie să ridicați ceva",
+          "Ridicați apărătoarea butonului, apăsați OPEN OUTLET, apoi închideți imediat apărătoarea butonului",
+          "Lăsați apărătoarea butonului permanent deschisă",
+          "Apăsați STOP MIXER în schimb"
+        ]
+      },
+      "lv": {
+        "q": "Kāda ir pareizā secība partijas nodošanai?",
+        "o": [
+          "Tieši jānospiež OPEN OUTLET, nekas nav jāpaceļ",
+          "Jāpaceļ pogas aizsargs, jānospiež OPEN OUTLET, pēc tam nekavējoties jāaizver pogas aizsargs",
+          "Pogas aizsargs jāatstāj pastāvīgi atvērts",
+          "Tā vietā jānospiež STOP MIXER"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Why must the button guard be closed immediately after pressing OPEN OUTLET?",
+        "o": [
+          "It's not important",
+          "To prevent the next batch from being accidentally dropped",
+          "To save electricity",
+          "It has no functional purpose"
+        ]
+      },
+      "pl": {
+        "q": "Dlaczego osłona przycisku musi zostać natychmiast zamknięta po naciśnięciu OPEN OUTLET?",
+        "o": [
+          "To nie jest ważne",
+          "Aby zapobiec przypadkowemu zrzuceniu następnej partii",
+          "Aby oszczędzać energię elektryczną",
+          "Nie ma żadnego funkcjonalnego celu"
+        ]
+      },
+      "bg": {
+        "q": "Защо предпазителят на бутона трябва да се затвори незабавно след натискане на OPEN OUTLET?",
+        "o": [
+          "Това не е важно",
+          "За да се предотврати случайно пускане на следващата партида",
+          "За да се пести електроенергия",
+          "Няма функционална цел"
+        ]
+      },
+      "ro": {
+        "q": "De ce trebuie închisă imediat apărătoarea butonului după apăsarea OPEN OUTLET?",
+        "o": [
+          "Nu este important",
+          "Pentru a preveni eliberarea accidentală a lotului următor",
+          "Pentru a economisi energie electrică",
+          "Nu are niciun scop funcțional"
+        ]
+      },
+      "lv": {
+        "q": "Kāpēc pogas aizsargs jāaizver nekavējoties pēc OPEN OUTLET nospiešanas?",
+        "o": [
+          "Tas nav svarīgi",
+          "Lai novērstu nejaušu nākamās partijas nodošanu",
+          "Lai taupītu elektroenerģiju",
+          "Tam nav funkcionāla mērķa"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Before cleaning the mixer, what must have happened to the previous mix?",
+        "o": [
+          "Nothing specific",
+          "It must have been dumped into the filling hopper",
+          "It must be left inside the mixer",
+          "It must be returned to the blending charge hand"
+        ]
+      },
+      "pl": {
+        "q": "Co musi się stać z poprzednią mieszanką przed czyszczeniem mieszalnika?",
+        "o": [
+          "Nic konkretnego",
+          "Musi zostać zrzucona do leja zasypowego",
+          "Musi zostać pozostawiona wewnątrz mieszalnika",
+          "Musi zostać zwrócona brygadziście mieszania"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се случи с предишната смес, преди почистване на миксера?",
+        "o": [
+          "Нищо конкретно",
+          "Трябва да бъде изсипана в пълначния бункер",
+          "Трябва да остане вътре в миксера",
+          "Трябва да бъде върната на бригадира по смесване"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să se întâmple cu amestecul anterior înainte de curățarea mixerului?",
+        "o": [
+          "Nimic specific",
+          "Trebuie golit în buncărul de umplere",
+          "Trebuie lăsat în interiorul mixerului",
+          "Trebuie returnat șefului de echipă de amestecare"
+        ]
+      },
+      "lv": {
+        "q": "Kam jānotiek ar iepriekšējo maisījumu pirms maisītāja tīrīšanas?",
+        "o": [
+          "Nekas konkrēts",
+          "Tas jāizber pildīšanas piltuvē",
+          "Tas jāatstāj maisītāja iekšpusē",
+          "Tas jāatdod maisīšanas brigadierim"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What is used to sweep out the mixer during cleaning?",
+        "o": [
+          "A vacuum cleaner",
+          "A small sweeping brush",
+          "Compressed air",
+          "A mop"
+        ]
+      },
+      "pl": {
+        "q": "Czego używa się do wymiatania mieszalnika podczas czyszczenia?",
+        "o": [
+          "Odkurzacza",
+          "Małej szczotki do zamiatania",
+          "Sprężonego powietrza",
+          "Mopa"
+        ]
+      },
+      "bg": {
+        "q": "Какво се използва за измитане на миксера по време на почистване?",
+        "o": [
+          "Прахосмукачка",
+          "Малка метла",
+          "Сгъстен въздух",
+          "Парцал"
+        ]
+      },
+      "ro": {
+        "q": "Ce se folosește pentru a mătura mixerul în timpul curățării?",
+        "o": [
+          "Un aspirator",
+          "O perie mică de măturat",
+          "Aer comprimat",
+          "Un mop"
+        ]
+      },
+      "lv": {
+        "q": "Kas tiek izmantots, lai izslaucītu maisītāju tīrīšanas laikā?",
+        "o": [
+          "Putekļu sūcējs",
+          "Maza slaukāmā birste",
+          "Saspiests gaiss",
+          "Lupata"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "At the end of shift, what should the Charge Hand or Team Leader do?",
+        "o": [
+          "Nothing specific",
+          "Walk around the blending area and highlight any faults to the blenders for correction",
+          "Lock all doors and leave immediately",
+          "Complete the batch card only"
+        ]
+      },
+      "pl": {
+        "q": "Co powinien zrobić brygadzista lub lider zespołu na koniec zmiany?",
+        "o": [
+          "Nic konkretnego",
+          "Obejść obszar mieszania i wskazać blenderom wszelkie usterki do naprawy",
+          "Zamknąć wszystkie drzwi i natychmiast wyjść",
+          "Uzupełnić tylko kartę partii"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направи бригадирът или ръководителят на екипа в края на смяната?",
+        "o": [
+          "Нищо конкретно",
+          "Да обиколи зоната за смесване и да посочи на операторите всякакви неизправности за отстраняване",
+          "Да заключи всички врати и незабавно да си тръгне",
+          "Да попълни само партидната карта"
+        ]
+      },
+      "ro": {
+        "q": "Ce ar trebui să facă șeful de echipă sau liderul de echipă la sfârșitul turei?",
+        "o": [
+          "Nimic specific",
+          "Să facă un tur al zonei de amestecare și să indice operatorilor orice defecțiune pentru corectare",
+          "Să încuie toate ușile și să plece imediat",
+          "Să completeze doar fișa de lot"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara brigadierim vai komandas vadītājam maiņas beigās?",
+        "o": [
+          "Nekas konkrēts",
+          "Jāapstaigā maisīšanas zona un jānorāda maisītājiem uz jebkādiem trūkumiem labošanai",
+          "Jāaizslēdz visas durvis un nekavējoties jāaiziet",
+          "Jāaizpilda tikai partijas karte"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "In an emergency, what should you do regarding the entry doors?",
+        "o": [
+          "Leave them open for ventilation",
+          "Ensure all entry doors are closed and secure, and switch off the machine",
+          "Ignore the doors and evacuate immediately",
+          "Only close them if instructed by QC"
+        ]
+      },
+      "pl": {
+        "q": "W sytuacji awaryjnej, co należy zrobić z drzwiami wejściowymi?",
+        "o": [
+          "Zostawić je otwarte dla wentylacji",
+          "Upewnić się, że wszystkie drzwi wejściowe są zamknięte i zabezpieczone, oraz wyłączyć maszynę",
+          "Zignorować drzwi i natychmiast ewakuować się",
+          "Zamykać je tylko na polecenie QC"
+        ]
+      },
+      "bg": {
+        "q": "При авария, какво трябва да се направи с входните врати?",
+        "o": [
+          "Да се оставят отворени за вентилация",
+          "Да се уверите, че всички входни врати са затворени и обезопасени, и да изключите машината",
+          "Да игнорирате вратите и незабавно да евакуирате",
+          "Да ги затваряте само по указание на QC"
+        ]
+      },
+      "ro": {
+        "q": "Într-o situație de urgență, ce trebuie făcut cu ușile de intrare?",
+        "o": [
+          "Lăsați-le deschise pentru ventilație",
+          "Asigurați-vă că toate ușile de intrare sunt închise și securizate și opriți mașina",
+          "Ignorați ușile și evacuați imediat",
+          "Închideți-le doar la instrucțiunile QC"
+        ]
+      },
+      "lv": {
+        "q": "Avārijas gadījumā, kas jādara ar ieejas durvīm?",
+        "o": [
+          "Jāatstāj atvērtas ventilācijai",
+          "Jāpārliecinās, ka visas ieejas durvis ir aizvērtas un nostiprinātas, un jāizslēdz iekārta",
+          "Jāignorē durvis un nekavējoties jāevakuējas",
+          "Jāaizver tikai pēc QC norādījuma"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "In an emergency, who should you inform of the status of the blend?",
+        "o": [
+          "No one, it's not necessary",
+          "The Blending Charge Hand/Team Leader, or in their absence, another Blender",
+          "The Production Manager only",
+          "The Environment Agency"
+        ]
+      },
+      "pl": {
+        "q": "W sytuacji awaryjnej, kogo należy poinformować o stanie mieszanki?",
+        "o": [
+          "Nikogo, nie jest to konieczne",
+          "Brygadzistę mieszania/lidera zespołu, a w ich nieobecności innego blendera",
+          "Wyłącznie kierownika produkcji",
+          "Agencję Ochrony Środowiska"
+        ]
+      },
+      "bg": {
+        "q": "При авария, кой трябва да бъде информиран за състоянието на сместа?",
+        "o": [
+          "Никой, не е необходимо",
+          "Бригадирът по смесване/ръководителят на екипа, а в тяхно отсъствие друг оператор по смесване",
+          "Само производственият мениджър",
+          "Агенцията по околна среда"
+        ]
+      },
+      "ro": {
+        "q": "Într-o situație de urgență, cine trebuie informat despre starea amestecului?",
+        "o": [
+          "Nimeni, nu este necesar",
+          "Șeful de echipă de amestecare/liderul de echipă, sau în absența lor, un alt operator de amestecare",
+          "Doar managerul de producție",
+          "Agenția de Mediu"
+        ]
+      },
+      "lv": {
+        "q": "Avārijas gadījumā, kas jāinformē par maisījuma stāvokli?",
+        "o": [
+          "Neviens, tas nav nepieciešams",
+          "Maisīšanas brigadieris/komandas vadītājs, vai viņu prombūtnē cits maisītājs",
+          "Tikai ražošanas vadītājs",
+          "Vides aģentūra"
+        ]
+      },
+      "correct": 1
+    }
+  ]
+}
