@@ -1,0 +1,581 @@
+{
+  "docRef": "WP59",
+  "questions": [
+    {
+      "correct": 0,
+      "en": {
+        "q": "Which of the following jewellery items is permitted under WP59?",
+        "o": [
+          "A plain wedding band with no stones",
+          "Dangling earrings",
+          "A fob watch",
+          "An exposed necklace worn openly outside clothing"
+        ]
+      },
+      "pl": {
+        "q": "Która z poniższych ozdób jest dozwolona zgodnie z procedurą WP59?",
+        "o": [
+          "Zwykła obrączka ślubna bez kamieni",
+          "Kolczyki wiszące",
+          "Zegarek kieszonkowy (dewizka)",
+          "Odkryty, jawnie noszony naszyjnik na zewnątrz odzieży"
+        ]
+      },
+      "bg": {
+        "q": "Кой от следните бижута е разрешен съгласно процедура WP59?",
+        "o": [
+          "Обикновена венчална халка без камъни",
+          "Висящи обеци",
+          "Джобен часовник (fob watch)",
+          "Изложена огърлица, носена явно върху дрехите"
+        ]
+      },
+      "ro": {
+        "q": "Care dintre următoarele bijuterii este permisă conform procedurii WP59?",
+        "o": [
+          "O verighetă simplă, fără pietre",
+          "Cercei pandantiv (dangling)",
+          "Ceas de buzunar (fob watch)",
+          "Un lănțișor purtat vizibil, peste haine"
+        ]
+      },
+      "lv": {
+        "q": "Kurš no šiem rotaslietu veidiem ir atļauts saskaņā ar WP59?",
+        "o": [
+          "Vienkāršs laulības gredzens bez akmeņiem",
+          "Karājošies auskari",
+          "Kabatas pulkstenis (fob watch)",
+          "Kaklarota, kas atklāti nēsāta virs apģērba"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Which type of earring is permitted?",
+        "o": [
+          "Dangling design earrings",
+          "Stud earrings",
+          "Sleeper style earrings",
+          "Large hoop earrings"
+        ]
+      },
+      "pl": {
+        "q": "Jaki rodzaj kolczyków jest dozwolony?",
+        "o": [
+          "Kolczyki wiszące",
+          "Kolczyki sztyftowe",
+          "Kolczyki typu \"sleeper\" (małe kółka)",
+          "Duże kolczyki typu kółka (hoop)"
+        ]
+      },
+      "bg": {
+        "q": "Какъв тип обеци е разрешен?",
+        "o": [
+          "Висящи обеци",
+          "Обеци тип \"пусета\" (stud)",
+          "Обеци тип \"sleeper\" (малки халки)",
+          "Големи обеци тип обръч"
+        ]
+      },
+      "ro": {
+        "q": "Ce tip de cercei este permis?",
+        "o": [
+          "Cercei pandantiv",
+          "Cercei tip \"stud\"",
+          "Cercei tip \"sleeper\" (inele mici)",
+          "Cercei mari tip \"hoop\""
+        ]
+      },
+      "lv": {
+        "q": "Kāda veida auskari ir atļauti?",
+        "o": [
+          "Karājošies auskari",
+          "Auskari-pogas (stud)",
+          "\"Sleeper\" tipa auskari (mazi gredzeni)",
+          "Lieli riņķa formas auskari"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "According to WP59, hands must be washed on which occasions?",
+        "o": [
+          "Before handling food and after visiting the toilet",
+          "Only before starting a shift",
+          "Only after handling raw materials",
+          "Once per day at a fixed time"
+        ]
+      },
+      "pl": {
+        "q": "Zgodnie z WP59, kiedy należy myć ręce?",
+        "o": [
+          "Przed kontaktem z żywnością i po skorzystaniu z toalety",
+          "Tylko na początku zmiany",
+          "Tylko po pracy z surowcami",
+          "Raz dziennie, o stałej porze"
+        ]
+      },
+      "bg": {
+        "q": "Съгласно WP59, кога трябва да се мият ръцете?",
+        "o": [
+          "Преди работа с храна и след посещение на тоалетна",
+          "Само в началото на смяната",
+          "Само след работа със суровини",
+          "Веднъж дневно, в определен час"
+        ]
+      },
+      "ro": {
+        "q": "Conform WP59, când trebuie spălate mâinile?",
+        "o": [
+          "Înainte de a manipula alimente și după folosirea toaletei",
+          "Doar la începutul turei",
+          "Doar după manipularea materiilor prime",
+          "O dată pe zi, la o oră fixă"
+        ]
+      },
+      "lv": {
+        "q": "Saskaņā ar WP59, kad jāmazgā rokas?",
+        "o": [
+          "Pirms pārtikas apstrādes un pēc tualetes apmeklējuma",
+          "Tikai maiņas sākumā",
+          "Tikai pēc darba ar izejvielām",
+          "Vienreiz dienā, noteiktā laikā"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "How must cuts and grazes on exposed skin be managed?",
+        "o": [
+          "Left uncovered to allow healing",
+          "Covered with a Company- or Medical Centre-provided plaster/wound dressing",
+          "Covered only if bleeding heavily",
+          "Reported to HR but no dressing required"
+        ]
+      },
+      "pl": {
+        "q": "Jak należy zabezpieczać skaleczenia i otarcia na odsłoniętej skórze?",
+        "o": [
+          "Pozostawić bez opatrunku, aby się goiły",
+          "Zakryć plastrem/opatrunkiem dostarczonym przez firmę lub przychodnię",
+          "Zakryć tylko przy silnym krwawieniu",
+          "Zgłosić do działu HR, opatrunek nie jest wymagany"
+        ]
+      },
+      "bg": {
+        "q": "Как трябва да се третират порязвания и ожулвания на открита кожа?",
+        "o": [
+          "Да се оставят непокрити, за да заздравеят",
+          "Да се покрият с лепенка/превръзка, осигурена от компанията или медицински център",
+          "Да се покрият само при силно кървене",
+          "Да се докладват на отдел „Човешки ресурси“, без превръзка"
+        ]
+      },
+      "ro": {
+        "q": "Cum trebuie tratate tăieturile și zgârieturile pe pielea expusă?",
+        "o": [
+          "Lăsate neacoperite pentru a se vindeca",
+          "Acoperite cu un plasture/pansament furnizat de companie sau de un centru medical",
+          "Acoperite doar dacă sângerează abundent",
+          "Raportate la HR, fără pansament necesar"
+        ]
+      },
+      "lv": {
+        "q": "Kā jārīkojas ar griezumiem un nobrāzumiem uz atklātas ādas?",
+        "o": [
+          "Atstāt neaizsegtus, lai tie sadzīst",
+          "Jāapsedz ar uzņēmuma vai medicīnas centra nodrošinātu plāksteri/pārsēju",
+          "Jāapsedz tikai spēcīgas asiņošanas gadījumā",
+          "Jāziņo personāla nodaļai, pārsējs nav nepieciešams"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Which personal item is explicitly prohibited under this procedure?",
+        "o": [
+          "Wallets",
+          "Knives",
+          "Mobile phones",
+          "Keys"
+        ]
+      },
+      "pl": {
+        "q": "Który przedmiot osobisty jest wyraźnie zabroniony w tej procedurze?",
+        "o": [
+          "Portfele",
+          "Noże",
+          "Telefony komórkowe",
+          "Klucze"
+        ]
+      },
+      "bg": {
+        "q": "Кой личен предмет е изрично забранен в тази процедура?",
+        "o": [
+          "Портфейли",
+          "Ножове",
+          "Мобилни телефони",
+          "Ключове"
+        ]
+      },
+      "ro": {
+        "q": "Ce obiect personal este interzis explicit prin această procedură?",
+        "o": [
+          "Portofele",
+          "Cuțite",
+          "Telefoane mobile",
+          "Chei"
+        ]
+      },
+      "lv": {
+        "q": "Kurš personīgais priekšmets ir tieši aizliegts šajā procedūrā?",
+        "o": [
+          "Maki",
+          "Naži",
+          "Mobilie tālruņi",
+          "Atslēgas"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "In which areas is consumption of food and drink (including chewing gum and sweets) prohibited?",
+        "o": [
+          "Warehouse, Blending area, Production area",
+          "Office areas only",
+          "Canteen only",
+          "Car park"
+        ]
+      },
+      "pl": {
+        "q": "W których obszarach zabronione jest spożywanie jedzenia i napojów (w tym gumy do żucia i cukierków)?",
+        "o": [
+          "Magazyn, obszar mieszania, obszar produkcji",
+          "Tylko pomieszczenia biurowe",
+          "Tylko stołówka",
+          "Parking"
+        ]
+      },
+      "bg": {
+        "q": "В кои зони е забранена консумацията на храна и напитки (включително дъвки и бонбони)?",
+        "o": [
+          "Склад, зона за смесване, производствена зона",
+          "Само офис зони",
+          "Само стола",
+          "Паркинг"
+        ]
+      },
+      "ro": {
+        "q": "În ce zone este interzis consumul de alimente și băuturi (inclusiv gumă de mestecat și dulciuri)?",
+        "o": [
+          "Depozit, zona de amestecare, zona de producție",
+          "Doar zonele de birouri",
+          "Doar cantina",
+          "Parcare"
+        ]
+      },
+      "lv": {
+        "q": "Kurās zonās ir aizliegts lietot pārtiku un dzērienus (tostarp košļājamo gumiju un konfektes)?",
+        "o": [
+          "Noliktava, maisīšanas zona, ražošanas zona",
+          "Tikai biroja zonas",
+          "Tikai ēdnīca",
+          "Autostāvvieta"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Is it permitted to carry food and drink from the canteen through the production hall to the offices?",
+        "o": [
+          "No, it is never permitted",
+          "Yes, but only if it is not consumed on the way",
+          "Yes, without any restriction",
+          "Only for management staff"
+        ]
+      },
+      "pl": {
+        "q": "Czy można przenosić jedzenie i napoje ze stołówki przez halę produkcyjną do biur?",
+        "o": [
+          "Nie, nigdy nie jest to dozwolone",
+          "Tak, ale pod warunkiem, że nie są spożywane po drodze",
+          "Tak, bez żadnych ograniczeń",
+          "Tylko dla kadry kierowniczej"
+        ]
+      },
+      "bg": {
+        "q": "Разрешено ли е пренасянето на храна и напитки от столовата през производствената зала до офисите?",
+        "o": [
+          "Не, никога не е разрешено",
+          "Да, но само ако не се консумират по пътя",
+          "Да, без никакви ограничения",
+          "Само за ръководния персонал"
+        ]
+      },
+      "ro": {
+        "q": "Este permis transportul alimentelor și băuturilor din cantină prin hala de producție către birouri?",
+        "o": [
+          "Nu, nu este niciodată permis",
+          "Da, dar doar dacă nu sunt consumate pe drum",
+          "Da, fără nicio restricție",
+          "Doar pentru personalul de conducere"
+        ]
+      },
+      "lv": {
+        "q": "Vai ir atļauts pārnest pārtiku un dzērienus no ēdnīcas caur ražošanas telpu uz birojiem?",
+        "o": [
+          "Nē, tas nekad nav atļauts",
+          "Jā, bet tikai tad, ja tie netiek lietoti pa ceļam",
+          "Jā, bez jebkādiem ierobežojumiem",
+          "Tikai vadības personālam"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Where is consumption of food and drink (including chewing gum and sweets) permitted?",
+        "o": [
+          "Nowhere on site",
+          "Blending area",
+          "Office areas",
+          "Warehouse"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie dozwolone jest spożywanie jedzenia i napojów (w tym gumy do żucia i cukierków)?",
+        "o": [
+          "Nigdzie na terenie zakładu",
+          "W obszarze mieszania",
+          "W pomieszczeniach biurowych",
+          "W magazynie"
+        ]
+      },
+      "bg": {
+        "q": "Къде е разрешена консумацията на храна и напитки (включително дъвки и бонбони)?",
+        "o": [
+          "Никъде на територията",
+          "В зоната за смесване",
+          "В офис зоните",
+          "В склада"
+        ]
+      },
+      "ro": {
+        "q": "Unde este permis consumul de alimente și băuturi (inclusiv gumă de mestecat și dulciuri)?",
+        "o": [
+          "Nicăieri pe site",
+          "În zona de amestecare",
+          "În zonele de birouri",
+          "În depozit"
+        ]
+      },
+      "lv": {
+        "q": "Kur ir atļauts lietot pārtiku un dzērienus (tostarp košļājamo gumiju un konfektes)?",
+        "o": [
+          "Nekur teritorijā",
+          "Maisīšanas zonā",
+          "Biroja zonās",
+          "Noliktavā"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "What must happen to protective clothing before entering the canteen or toilet areas?",
+        "o": [
+          "It must be removed",
+          "It must be worn at all times",
+          "It must be replaced with a clean set",
+          "No action is required"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić z odzieżą ochronną przed wejściem do stołówki lub toalet?",
+        "o": [
+          "Zdjąć ją",
+          "Nosić ją przez cały czas",
+          "Wymienić na czysty komplet",
+          "Nie jest wymagane żadne działanie"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се направи с работното облекло преди влизане в стола или тоалетните?",
+        "o": [
+          "Да се свали",
+          "Да се носи през цялото време",
+          "Да се смени с чист комплект",
+          "Не се изисква никакво действие"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie făcut cu echipamentul de protecție înainte de a intra în cantină sau la toaletă?",
+        "o": [
+          "Trebuie scos",
+          "Trebuie purtat tot timpul",
+          "Trebuie înlocuit cu un set curat",
+          "Nu este necesară nicio acțiune"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara ar aizsargapģērbu pirms iešanas ēdnīcā vai tualetē?",
+        "o": [
+          "Tas jānovelk",
+          "Tas jāvalkā visu laiku",
+          "Tas jānomaina pret tīru komplektu",
+          "Nekāda darbība nav nepieciešama"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "How is Company-issued protective clothing laundered?",
+        "o": [
+          "Staff must launder it at home",
+          "It is regularly laundered via the Company contractor",
+          "It is discarded after each use",
+          "It is never laundered"
+        ]
+      },
+      "pl": {
+        "q": "W jaki sposób prana jest odzież ochronna dostarczana przez firmę?",
+        "o": [
+          "Pracownicy muszą prać ją samodzielnie w domu",
+          "Jest regularnie prana przez firmowego kontrahenta",
+          "Jest wyrzucana po każdym użyciu",
+          "Nigdy nie jest prana"
+        ]
+      },
+      "bg": {
+        "q": "Как се пере работното облекло, предоставено от компанията?",
+        "o": [
+          "Служителите трябва да го перат сами вкъщи",
+          "Пере се редовно от фирмения подизпълнител",
+          "Изхвърля се след всяка употреба",
+          "Никога не се пере"
+        ]
+      },
+      "ro": {
+        "q": "Cum este spălat echipamentul de protecție furnizat de companie?",
+        "o": [
+          "Angajații trebuie să îl spele acasă",
+          "Este spălat regulat printr-un contractor al companiei",
+          "Este aruncat după fiecare utilizare",
+          "Nu este spălat niciodată"
+        ]
+      },
+      "lv": {
+        "q": "Kā tiek mazgāts uzņēmuma nodrošinātais aizsargapģērbs?",
+        "o": [
+          "Darbiniekiem tas jāmazgā pašiem mājās",
+          "To regulāri mazgā uzņēmuma līgumpartneris",
+          "To izmet pēc katras lietošanas reizes",
+          "Tas nekad netiek mazgāts"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Under WP59, when is personal medication (prescribed or non-prescribed) permitted in work areas?",
+        "o": [
+          "Never under any circumstances",
+          "Freely, without restriction",
+          "Only with the written consent of your line manager",
+          "Only if stored in a locker"
+        ]
+      },
+      "pl": {
+        "q": "Zgodnie z WP59, kiedy dozwolone jest przyjmowanie osobistych leków (na receptę lub bez recepty) w obszarach pracy?",
+        "o": [
+          "Nigdy, pod żadnym pozorem",
+          "Swobodnie, bez ograniczeń",
+          "Tylko za pisemną zgodą przełożonego",
+          "Tylko jeśli są przechowywane w szafce"
+        ]
+      },
+      "bg": {
+        "q": "Съгласно WP59, кога е разрешено приемането на лични лекарства (по лекарско предписание или без) в работните зони?",
+        "o": [
+          "Никога, при никакви обстоятелства",
+          "Свободно, без ограничения",
+          "Само с писмено съгласие на прекия ръководител",
+          "Само ако се съхраняват в шкафче"
+        ]
+      },
+      "ro": {
+        "q": "Conform WP59, când este permisă administrarea medicației personale (prescrisă sau nu) în zonele de lucru?",
+        "o": [
+          "Niciodată, în nicio circumstanță",
+          "Liber, fără restricții",
+          "Doar cu acordul scris al managerului direct",
+          "Doar dacă este păstrată într-un dulap"
+        ]
+      },
+      "lv": {
+        "q": "Saskaņā ar WP59, kad darba zonās ir atļauta personīgo medikamentu (recepšu vai bezrecepšu) lietošana?",
+        "o": [
+          "Nekad, ne pie kādiem apstākļiem",
+          "Brīvi, bez ierobežojumiem",
+          "Tikai ar tiešā vadītāja rakstisku piekrišanu",
+          "Tikai tad, ja tie tiek glabāti skapītī"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Which behaviour is explicitly prohibited under the 'Basics' section of WP59?",
+        "o": [
+          "Talking during work",
+          "Spitting",
+          "Wearing gloves",
+          "Drinking water"
+        ]
+      },
+      "pl": {
+        "q": "Jakie zachowanie jest wyraźnie zabronione w sekcji \"Podstawy\" procedury WP59?",
+        "o": [
+          "Rozmawianie podczas pracy",
+          "Plucie",
+          "Noszenie rękawic",
+          "Picie wody"
+        ]
+      },
+      "bg": {
+        "q": "Кое поведение е изрично забранено в раздел „Основни правила“ на WP59?",
+        "o": [
+          "Разговор по време на работа",
+          "Плюене",
+          "Носене на ръкавици",
+          "Пиене на вода"
+        ]
+      },
+      "ro": {
+        "q": "Ce comportament este interzis explicit în secțiunea „Reguli de bază” din WP59?",
+        "o": [
+          "Vorbitul în timpul lucrului",
+          "Scuipatul",
+          "Purtarea mănușilor",
+          "Consumul de apă"
+        ]
+      },
+      "lv": {
+        "q": "Kāda uzvedība ir tieši aizliegta WP59 sadaļā „Pamatnoteikumi”?",
+        "o": [
+          "Runāšana darba laikā",
+          "Spļaušana",
+          "Cimdu valkāšana",
+          "Ūdens dzeršana"
+        ]
+      }
+    }
+  ]
+}

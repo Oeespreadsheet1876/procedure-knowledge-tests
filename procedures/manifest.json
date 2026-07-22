@@ -164,6 +164,18 @@
         "ro": "Controlul substanțelor periculoase pentru sănătate",
         "lv": "Veselībai bīstamo vielu kontrole"
       }
+    },
+    {
+      "id": "wp59",
+      "file": "wp59.json",
+      "docRef": "WP59",
+      "title": {
+        "en": "Personal Hygiene",
+        "pl": "Higiena osobista",
+        "bg": "Лична хигиена",
+        "ro": "Igienă personală",
+        "lv": "Personīgā higiēna"
+      }
     }
   ]
 }
