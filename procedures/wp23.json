@@ -1,0 +1,1215 @@
+{
+  "id": "wp23",
+  "docRef": "WP23",
+  "issue": "11",
+  "title": {
+    "en": "Accident/Incident & Protective Systems Failures Reporting & Investigation",
+    "pl": "Zgłaszanie i badanie wypadków/zdarzeń oraz awarii systemów zabezpieczających",
+    "bg": "Докладване и разследване на инциденти/произшествия и повреди на защитни системи",
+    "ro": "Raportarea și investigarea accidentelor/incidentelor și a defecțiunilor sistemelor de protecție",
+    "lv": "Negadījumu/incidentu un aizsardzības sistēmu atteiču ziņošana un izmeklēšana"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "en": {
+        "q": "Do all accidents/incidents require reporting, no matter how minor?",
+        "o": [
+          "No, only serious ones",
+          "Yes, all accidents/incidents require reporting and investigating however minor",
+          "Only if someone is injured",
+          "Only if a machine is damaged"
+        ]
+      },
+      "pl": {
+        "q": "Czy wszystkie wypadki/zdarzenia wymagają zgłoszenia, niezależnie od tego, jak drobne są?",
+        "o": [
+          "Nie, tylko poważne",
+          "Tak, wszystkie wypadki/zdarzenia wymagają zgłoszenia i zbadania, niezależnie od tego, jak drobne są",
+          "Tylko jeśli ktoś został ranny",
+          "Tylko jeśli maszyna została uszkodzona"
+        ]
+      },
+      "bg": {
+        "q": "Всички инциденти/произшествия трябва ли да се докладват, независимо колко незначителни са?",
+        "o": [
+          "Не, само сериозните",
+          "Да, всички инциденти/произшествия трябва да се докладват и разследват, колкото и незначителни да са",
+          "Само ако някой е пострадал",
+          "Само ако машина е повредена"
+        ]
+      },
+      "ro": {
+        "q": "Toate accidentele/incidentele necesită raportare, indiferent cât de minore sunt?",
+        "o": [
+          "Nu, doar cele grave",
+          "Da, toate accidentele/incidentele necesită raportare și investigare, oricât de minore ar fi",
+          "Doar dacă cineva este rănit",
+          "Doar dacă o mașină este deteriorată"
+        ]
+      },
+      "lv": {
+        "q": "Vai visi negadījumi/incidenti jāziņo, neatkarīgi no tā, cik nelieli tie ir?",
+        "o": [
+          "Nē, tikai nopietni",
+          "Jā, visi negadījumi/incidenti jāziņo un jāizmeklē, lai cik nelieli tie būtu",
+          "Tikai ja kāds ir guvis traumas",
+          "Tikai ja iekārta ir bojāta"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What is the purpose of this procedure?",
+        "o": [
+          "To assign blame for accidents",
+          "To effectively manage all accidents/incidents, allowing remedial action and protective systems failures vital in maintaining a safe working environment",
+          "To reduce insurance costs",
+          "To track employee performance"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest cel tej procedury?",
+        "o": [
+          "Przypisanie winy za wypadki",
+          "Skuteczne zarządzanie wszystkimi wypadkami/zdarzeniami, umożliwiające działania naprawcze oraz reagowanie na awarie systemów zabezpieczających, kluczowe dla utrzymania bezpiecznego środowiska pracy",
+          "Zmniejszenie kosztów ubezpieczenia",
+          "Śledzenie wydajności pracowników"
+        ]
+      },
+      "bg": {
+        "q": "Каква е целта на тази процедура?",
+        "o": [
+          "Приписване на вина за инцидентите",
+          "Ефективно управление на всички инциденти/произшествия, позволяващо коригиращи действия и справяне с повреди на защитните системи, жизненоважни за поддържането на безопасна работна среда",
+          "Намаляване на застрахователните разходи",
+          "Проследяване на representación на служителите"
+        ]
+      },
+      "ro": {
+        "q": "Care este scopul acestei proceduri?",
+        "o": [
+          "Atribuirea vinovăției pentru accidente",
+          "Gestionarea eficientă a tuturor accidentelor/incidentelor, permițând acțiuni corective și gestionarea defecțiunilor sistemelor de protecție, vitale pentru menținerea unui mediu de lucru sigur",
+          "Reducerea costurilor de asigurare",
+          "Urmărirea performanței angajaților"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir šīs procedūras mērķis?",
+        "o": [
+          "Vainas noteikšana par negadījumiem",
+          "Efektīva visu negadījumu/incidentu pārvaldība, ļaujot veikt koriģējošas darbības un risināt aizsardzības sistēmu atteices, kas ir būtiskas drošas darba vides uzturēšanai",
+          "Apdrošināšanas izmaksu samazināšana",
+          "Darbinieku veiktspējas izsekošana"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who does this procedure apply to?",
+        "o": [
+          "Only permanent employees",
+          "Any employee, visitor or contractor involved in an accident or incident on the premises",
+          "Only management",
+          "Only maintenance engineers"
+        ]
+      },
+      "pl": {
+        "q": "Kogo dotyczy ta procedura?",
+        "o": [
+          "Tylko stałych pracowników",
+          "Każdego pracownika, gościa lub wykonawcy zaangażowanego w wypadek lub zdarzenie na terenie zakładu",
+          "Tylko kierownictwa",
+          "Tylko inżynierów utrzymania ruchu"
+        ]
+      },
+      "bg": {
+        "q": "За кого се отнася тази процедура?",
+        "o": [
+          "Само за постоянните служители",
+          "Всеки служител, посетител или изпълнител, участващ в инцидент или произшествие на територията",
+          "Само за ръководството",
+          "Само за инженерите по поддръжка"
+        ]
+      },
+      "ro": {
+        "q": "Cui i se aplică această procedură?",
+        "o": [
+          "Doar angajaților permanenți",
+          "Oricărui angajat, vizitator sau contractor implicat într-un accident sau incident pe proprietate",
+          "Doar conducerii",
+          "Doar inginerilor de întreținere"
+        ]
+      },
+      "lv": {
+        "q": "Uz ko attiecas šī procedūra?",
+        "o": [
+          "Tikai pastāvīgajiem darbiniekiem",
+          "Jebkuru darbinieku, apmeklētāju vai darbuzņēmēju, kas iesaistīts negadījumā vai incidentā objektā",
+          "Tikai vadību",
+          "Tikai apkopes inženierus"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who has overall responsibility for this procedure?",
+        "o": [
+          "The Production Manager",
+          "The HSE Manager",
+          "Team Leaders",
+          "First Aiders"
+        ]
+      },
+      "pl": {
+        "q": "Kto ma ogólną odpowiedzialność za tę procedurę?",
+        "o": [
+          "Kierownik produkcji",
+          "Kierownik HSE",
+          "Liderzy zespołu",
+          "Ratownicy pierwszej pomocy"
+        ]
+      },
+      "bg": {
+        "q": "Кой носи цялостна отговорност за тази процедура?",
+        "o": [
+          "Производственият мениджър",
+          "Мениджърът HSE",
+          "Ръководителите на екипи",
+          "Оказващите първа помощ"
+        ]
+      },
+      "ro": {
+        "q": "Cine are responsabilitatea generală pentru această procedură?",
+        "o": [
+          "Managerul de producție",
+          "Managerul HSE",
+          "Liderii de echipă",
+          "Persoanele acreditate pentru prim ajutor"
+        ]
+      },
+      "lv": {
+        "q": "Kam ir vispārējā atbildība par šo procedūru?",
+        "o": [
+          "Ražošanas vadītājam",
+          "HSE vadītājam",
+          "Komandas vadītājiem",
+          "Pirmās palīdzības sniedzējiem"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How is an \"Accident\" defined in this procedure?",
+        "o": [
+          "Any event, whether or not it causes harm",
+          "An unplanned event which results in injury to persons, damage to or loss of property, or a combination of both",
+          "Only events involving machinery",
+          "Only events reported to RIDDOR"
+        ]
+      },
+      "pl": {
+        "q": "Jak zdefiniowany jest „wypadek” w tej procedurze?",
+        "o": [
+          "Dowolne zdarzenie, niezależnie od tego, czy powoduje szkodę",
+          "Niezaplanowane zdarzenie, które skutkuje obrażeniami osób, uszkodzeniem lub utratą mienia, albo połączeniem obu",
+          "Tylko zdarzenia z udziałem maszyn",
+          "Tylko zdarzenia zgłaszane do RIDDOR"
+        ]
+      },
+      "bg": {
+        "q": "Как е дефиниран „инцидент“ в тази процедура?",
+        "o": [
+          "Всяко събитие, независимо дали причинява вреда",
+          "Непланирано събитие, което води до нараняване на хора, повреда или загуба на имущество, или комбинация от двете",
+          "Само събития, свързани с машини",
+          "Само събития, докладвани по RIDDOR"
+        ]
+      },
+      "ro": {
+        "q": "Cum este definit un „accident” în această procedură?",
+        "o": [
+          "Orice eveniment, indiferent dacă provoacă daune sau nu",
+          "Un eveniment neplanificat care are ca rezultat vătămarea persoanelor, deteriorarea sau pierderea proprietății, sau o combinație a ambelor",
+          "Doar evenimente care implică utilaje",
+          "Doar evenimente raportate la RIDDOR"
+        ]
+      },
+      "lv": {
+        "q": "Kā šajā procedūrā tiek definēts „negadījums”?",
+        "o": [
+          "Jebkurš notikums, neatkarīgi no tā, vai tas rada kaitējumu",
+          "Neplānots notikums, kura rezultātā tiek savainotas personas, bojāts vai zaudēts īpašums, vai abu kombinācija",
+          "Tikai notikumi, kas saistīti ar iekārtām",
+          "Tikai notikumi, par kuriem ziņots RIDDOR"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How is an \"Incident\" defined in this procedure?",
+        "o": [
+          "The same as an accident",
+          "An unplanned event which does not cause injury or damage, but could do so",
+          "Only events involving visitors",
+          "Any event causing more than £1000 of damage"
+        ]
+      },
+      "pl": {
+        "q": "Jak zdefiniowane jest „zdarzenie” w tej procedurze?",
+        "o": [
+          "Tak samo jak wypadek",
+          "Niezaplanowane zdarzenie, które nie powoduje obrażeń ani szkód, ale mogłoby to zrobić",
+          "Tylko zdarzenia z udziałem gości",
+          "Dowolne zdarzenie powodujące szkody powyżej 1000 funtów"
+        ]
+      },
+      "bg": {
+        "q": "Как е дефинирано „произшествие“ в тази процедура?",
+        "o": [
+          "Същото като инцидент",
+          "Непланирано събитие, което не причинява нараняване или щета, но би могло да го направи",
+          "Само събития, свързани с посетители",
+          "Всяко събитие, причиняващо щети над 1000 паунда"
+        ]
+      },
+      "ro": {
+        "q": "Cum este definit un „incident” în această procedură?",
+        "o": [
+          "La fel ca un accident",
+          "Un eveniment neplanificat care nu provoacă vătămare sau daune, dar ar putea face acest lucru",
+          "Doar evenimente care implică vizitatori",
+          "Orice eveniment care provoacă daune de peste 1000 de lire"
+        ]
+      },
+      "lv": {
+        "q": "Kā šajā procedūrā tiek definēts „starpgadījums”?",
+        "o": [
+          "Tas pats, kas negadījums",
+          "Neplānots notikums, kas nerada savainojumus vai bojājumus, bet varētu to izraisīt",
+          "Tikai notikumi, kas saistīti ar apmeklētājiem",
+          "Jebkurš notikums, kas rada bojājumus vairāk nekā 1000 mārciņu apmērā"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If you are involved in an accident/incident and are physically able to do so, what must you do?",
+        "o": [
+          "Wait until the end of your shift to report it",
+          "Report it to your Team Leader immediately",
+          "Only report it if someone was injured",
+          "Complete the paperwork yourself with no need to tell anyone"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli jesteś uczestnikiem wypadku/zdarzenia i jesteś w stanie fizycznie to zrobić, co musisz zrobić?",
+        "o": [
+          "Poczekać do końca zmiany, aby to zgłosić",
+          "Natychmiast zgłosić to swojemu liderowi zespołu",
+          "Zgłosić tylko, jeśli ktoś został ranny",
+          "Samodzielnie wypełnić dokumentację bez informowania kogokolwiek"
+        ]
+      },
+      "bg": {
+        "q": "Ако участвате в инцидент/произшествие и сте физически способни да го направите, какво трябва да направите?",
+        "o": [
+          "Да изчакате края на смяната, за да го докладвате",
+          "Незабавно да го докладвате на ръководителя на екипа си",
+          "Да го докладвате само ако някой е пострадал",
+          "Сами да попълните документацията, без да казвате на никого"
+        ]
+      },
+      "ro": {
+        "q": "Dacă sunteți implicat într-un accident/incident și sunteți capabil fizic să faceți acest lucru, ce trebuie să faceți?",
+        "o": [
+          "Așteptați până la sfârșitul turei pentru a-l raporta",
+          "Raportați-l imediat liderului dumneavoastră de echipă",
+          "Raportați-l doar dacă cineva a fost rănit",
+          "Completați singur documentele fără să spuneți cuiva"
+        ]
+      },
+      "lv": {
+        "q": "Ja esat iesaistīts negadījumā/incidentā un fiziski to spējat, kas jādara?",
+        "o": [
+          "Jāgaida līdz maiņas beigām, lai par to ziņotu",
+          "Nekavējoties jāziņo savam komandas vadītājam",
+          "Jāziņo tikai tad, ja kāds ir cietis",
+          "Pašam jāaizpilda dokumenti, nevienam nesakot"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If an injury renders someone unable to report an incident themselves, what should happen?",
+        "o": [
+          "It goes unreported until they recover",
+          "Anyone who witnessed the incident should report it",
+          "Only a manager can report it",
+          "It should never be reported after the fact"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli obrażenia uniemożliwiają komuś samodzielne zgłoszenie zdarzenia, co powinno się stać?",
+        "o": [
+          "Pozostaje niezgłoszone do czasu wyzdrowienia",
+          "Powinna to zgłosić dowolna osoba, która była świadkiem zdarzenia",
+          "Może to zgłosić tylko kierownik",
+          "Nigdy nie powinno się tego zgłaszać po fakcie"
+        ]
+      },
+      "bg": {
+        "q": "Ако нараняване прави някого неспособен сам да докладва инцидент, какво трябва да се случи?",
+        "o": [
+          "Остава недокладвано, докато той се възстанови",
+          "Всеки, който е бил свидетел на инцидента, трябва да го докладва",
+          "Само мениджър може да го докладва",
+          "Никога не трябва да се докладва след факта"
+        ]
+      },
+      "ro": {
+        "q": "Dacă o vătămare face pe cineva incapabil să raporteze singur un incident, ce ar trebui să se întâmple?",
+        "o": [
+          "Rămâne neraportat până se recuperează",
+          "Oricine a fost martor la incident ar trebui să îl raporteze",
+          "Doar un manager îl poate raporta",
+          "Nu ar trebui raportat niciodată ulterior"
+        ]
+      },
+      "lv": {
+        "q": "Ja savainojums padara kādu nespējīgu pašam ziņot par incidentu, kas jādara?",
+        "o": [
+          "Tas paliek nepaziņots, kamēr viņš atveseļojas",
+          "Ikvienam, kas bija incidenta liecinieks, par to jāziņo",
+          "Tikai vadītājs var par to ziņot",
+          "Par to nekad nedrīkst ziņot pēc fakta"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If an accident occurs while carrying out work duties off-site, what must also happen?",
+        "o": [
+          "Nothing additional is required",
+          "It must be reported in the same way, and the occupier of the site advised accordingly",
+          "It doesn't need to be reported at all",
+          "Only the HSE Manager needs to know eventually"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli wypadek zdarzy się podczas wykonywania obowiązków służbowych poza terenem zakładu, co dodatkowo musi się stać?",
+        "o": [
+          "Nic dodatkowego nie jest wymagane",
+          "Musi zostać zgłoszony w ten sam sposób, a użytkownik terenu musi zostać odpowiednio poinformowany",
+          "W ogóle nie trzeba go zgłaszać",
+          "Wystarczy, że w końcu dowie się o tym tylko kierownik HSE"
+        ]
+      },
+      "bg": {
+        "q": "Ако инцидент възникне по време на изпълнение на служебни задължения извън обекта, какво трябва да се случи допълнително?",
+        "o": [
+          "Нищо допълнително не се изисква",
+          "Трябва да се докладва по същия начин, а собственикът на обекта да бъде уведомен съответно",
+          "Изобщо не трябва да се докладва",
+          "Само мениджърът HSE трябва в крайна сметка да разбере"
+        ]
+      },
+      "ro": {
+        "q": "Dacă un accident are loc în timpul îndeplinirii sarcinilor de serviciu în afara șantierului, ce trebuie să se mai întâmple?",
+        "o": [
+          "Nu este necesar nimic suplimentar",
+          "Trebuie raportat în același mod, iar ocupantul site-ului trebuie informat corespunzător",
+          "Nu trebuie raportat deloc",
+          "Doar managerul HSE trebuie să afle în cele din urmă"
+        ]
+      },
+      "lv": {
+        "q": "Ja negadījums notiek, veicot darba pienākumus ārpus objekta, kas vēl jānotiek?",
+        "o": [
+          "Nekas papildu nav nepieciešams",
+          "Par to jāziņo tāpat, un objekta īpašnieks attiecīgi jāinformē",
+          "Par to vispār nav jāziņo",
+          "Galu galā par to jāzina tikai HSE vadītājam"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which form(s) are used if an accident results in an injury?",
+        "o": [
+          "Only the B111 form",
+          "The Company Accident Book and B57",
+          "Only a verbal report",
+          "The F2508A only"
+        ]
+      },
+      "pl": {
+        "q": "Który formularz(e) należy użyć, jeśli wypadek skutkuje obrażeniami?",
+        "o": [
+          "Tylko formularz B111",
+          "Firmowa Księga Wypadków oraz B57",
+          "Tylko zgłoszenie ustne",
+          "Tylko F2508A"
+        ]
+      },
+      "bg": {
+        "q": "Кой формуляр(и) се използват, ако инцидент доведе до нараняване?",
+        "o": [
+          "Само формуляр B111",
+          "Фирмената книга за инциденти и B57",
+          "Само устен доклад",
+          "Само F2508A"
+        ]
+      },
+      "ro": {
+        "q": "Ce formular(e) sunt utilizate dacă un accident are ca rezultat o vătămare?",
+        "o": [
+          "Doar formularul B111",
+          "Registrul de accidente al companiei și B57",
+          "Doar un raport verbal",
+          "Doar F2508A"
+        ]
+      },
+      "lv": {
+        "q": "Kuras veidlapas izmanto, ja negadījuma rezultātā rodas savainojums?",
+        "o": [
+          "Tikai B111 veidlapu",
+          "Uzņēmuma Negadījumu grāmatu un B57",
+          "Tikai mutisku ziņojumu",
+          "Tikai F2508A"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which form is used to report an incident or near miss (with no injury)?",
+        "o": [
+          "B57 only",
+          "B57B",
+          "F2508",
+          "B111"
+        ]
+      },
+      "pl": {
+        "q": "Który formularz służy do zgłaszania zdarzenia lub sytuacji „o mało nie doszło do wypadku” (bez obrażeń)?",
+        "o": [
+          "Tylko B57",
+          "B57B",
+          "F2508",
+          "B111"
+        ]
+      },
+      "bg": {
+        "q": "Кой формуляр се използва за докладване на произшествие или инцидент „на косъм“ (без нараняване)?",
+        "o": [
+          "Само B57",
+          "B57B",
+          "F2508",
+          "B111"
+        ]
+      },
+      "ro": {
+        "q": "Ce formular este utilizat pentru a raporta un incident sau un eveniment care aproape a devenit accident (fără vătămare)?",
+        "o": [
+          "Doar B57",
+          "B57B",
+          "F2508",
+          "B111"
+        ]
+      },
+      "lv": {
+        "q": "Kuru veidlapu izmanto, lai ziņotu par starpgadījumu vai gandrīz notikušu negadījumu (bez savainojuma)?",
+        "o": [
+          "Tikai B57",
+          "B57B",
+          "F2508",
+          "B111"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "In the event of a major accident (e.g. fracture, amputation, fall from height, trapped in machinery), what must happen to the area?",
+        "o": [
+          "It should be cleaned up immediately",
+          "It must not be disturbed, other than administering first aid, until authorised by the HSE Manager",
+          "It should be reopened for work right away",
+          "Only the Production Manager needs to inspect it"
+        ]
+      },
+      "pl": {
+        "q": "W przypadku poważnego wypadku (np. złamanie, amputacja, upadek z wysokości, uwięzienie w maszynie), co musi się stać z obszarem?",
+        "o": [
+          "Powinien zostać natychmiast posprzątany",
+          "Nie wolno go naruszać, poza udzieleniem pierwszej pomocy, dopóki nie zostanie to zatwierdzone przez kierownika HSE",
+          "Powinien zostać od razu ponownie otwarty do pracy",
+          "Wystarczy, że skontroluje go tylko kierownik produkcji"
+        ]
+      },
+      "bg": {
+        "q": "В случай на сериозен инцидент (напр. фрактура, ампутация, падане от височина, заклещване в машина), какво трябва да се случи със зоната?",
+        "o": [
+          "Трябва незабавно да се почисти",
+          "Не трябва да се нарушава, освен за оказване на първа помощ, докато не бъде разрешено от мениджъра HSE",
+          "Трябва веднага да се отвори отново за работа",
+          "Само производственият мениджър трябва да я инспектира"
+        ]
+      },
+      "ro": {
+        "q": "În cazul unui accident major (de ex. fractură, amputare, cădere de la înălțime, blocare în utilaj), ce trebuie să se întâmple cu zona?",
+        "o": [
+          "Ar trebui curățată imediat",
+          "Nu trebuie deranjată, cu excepția acordării primului ajutor, până la autorizarea managerului HSE",
+          "Ar trebui redeschisă pentru lucru imediat",
+          "Doar managerul de producție trebuie să o inspecteze"
+        ]
+      },
+      "lv": {
+        "q": "Nopietna negadījuma gadījumā (piemēram, lūzums, amputācija, kritiens no augstuma, iesprūšana iekārtā), kas jānotiek ar zonu?",
+        "o": [
+          "Tā nekavējoties jāsakopj",
+          "To nedrīkst traucēt, izņemot pirmās palīdzības sniegšanu, kamēr to neatļauj HSE vadītājs",
+          "Tā nekavējoties jāatver atkārtotai darbībai",
+          "Tā jāpārbauda tikai ražošanas vadītājam"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who is responsible for conducting a preliminary investigation of accidents/incidents within their area of responsibility?",
+        "o": [
+          "The HSE Manager only",
+          "The Team Leader or Manager",
+          "Any available employee",
+          "The Maintenance Engineer only"
+        ]
+      },
+      "pl": {
+        "q": "Kto odpowiada za przeprowadzenie wstępnego dochodzenia w sprawie wypadków/zdarzeń w swoim obszarze odpowiedzialności?",
+        "o": [
+          "Wyłącznie kierownik HSE",
+          "Lider zespołu lub kierownik",
+          "Dowolny dostępny pracownik",
+          "Wyłącznie inżynier utrzymania ruchu"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за провеждането на предварително разследване на инциденти/произшествия в своята зона на отговорност?",
+        "o": [
+          "Само мениджърът HSE",
+          "Ръководителят на екипа или мениджърът",
+          "Всеки наличен служител",
+          "Само инженерът по поддръжка"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru efectuarea unei investigații preliminare a accidentelor/incidentelor din zona lor de responsabilitate?",
+        "o": [
+          "Doar managerul HSE",
+          "Liderul de echipă sau managerul",
+          "Orice angajat disponibil",
+          "Doar inginerul de întreținere"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par sākotnējas izmeklēšanas veikšanu par negadījumiem/incidentiem savā atbildības zonā?",
+        "o": [
+          "Tikai HSE vadītājs",
+          "Komandas vadītājs vai vadītājs",
+          "Jebkurš pieejamais darbinieks",
+          "Tikai apkopes inženieris"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Within what timeframe must a completed Form B57 and Accident Book entry be given to the HSE Manager?",
+        "o": [
+          "Within 24 hours",
+          "Within 1 week",
+          "Within 1 month",
+          "There is no specific timeframe"
+        ]
+      },
+      "pl": {
+        "q": "W jakim terminie wypełniony formularz B57 i wpis do Księgi Wypadków należy przekazać kierownikowi HSE?",
+        "o": [
+          "W ciągu 24 godzin",
+          "W ciągu 1 tygodnia",
+          "W ciągu 1 miesiąca",
+          "Nie ma określonego terminu"
+        ]
+      },
+      "bg": {
+        "q": "В какъв срок попълненият формуляр B57 и записът в книгата за инциденти трябва да се предадат на мениджъра HSE?",
+        "o": [
+          "В рамките на 24 часа",
+          "В рамките на 1 седмица",
+          "В рамките на 1 месец",
+          "Няма определен срок"
+        ]
+      },
+      "ro": {
+        "q": "În ce interval de timp trebuie predate managerului HSE formularul B57 completat și înregistrarea din registrul de accidente?",
+        "o": [
+          "În termen de 24 de ore",
+          "În termen de 1 săptămână",
+          "În termen de 1 lună",
+          "Nu există un interval de timp specific"
+        ]
+      },
+      "lv": {
+        "q": "Kādā laika periodā aizpildīta B57 veidlapa un ieraksts Negadījumu grāmatā jānodod HSE vadītājam?",
+        "o": [
+          "24 stundu laikā",
+          "1 nedēļas laikā",
+          "1 mēneša laikā",
+          "Nav noteikta konkrēta termiņa"
+        ]
+      },
+      "correct": 0
+    },
+    {
+      "en": {
+        "q": "What must the Engineer do if they discover a protective system failure?",
+        "o": [
+          "Fix it themselves without reporting it",
+          "Report it to their Manager using form B111 and give a copy to the HSE Manager",
+          "Ignore it if it seems minor",
+          "Wait until the next scheduled maintenance check"
+        ]
+      },
+      "pl": {
+        "q": "Co musi zrobić inżynier, jeśli odkryje awarię systemu zabezpieczającego?",
+        "o": [
+          "Naprawić ją samodzielnie bez zgłaszania",
+          "Zgłosić ją swojemu kierownikowi za pomocą formularza B111 i przekazać kopię kierownikowi HSE",
+          "Zignorować, jeśli wydaje się drobna",
+          "Poczekać do następnej zaplanowanej kontroli konserwacyjnej"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направи инженерът, ако открие повреда на защитна система?",
+        "o": [
+          "Да я поправи сам, без да докладва за нея",
+          "Да я докладва на своя мениджър с формуляр B111 и да предаде копие на мениджъра HSE",
+          "Да я игнорира, ако изглежда незначителна",
+          "Да изчака следващата планова проверка"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să facă inginerul dacă descoperă o defecțiune a unui sistem de protecție?",
+        "o": [
+          "Să o repare singur fără să o raporteze",
+          "Să o raporteze managerului său folosind formularul B111 și să dea o copie managerului HSE",
+          "Să o ignore dacă pare minoră",
+          "Să aștepte următoarea verificare de întreținere programată"
+        ]
+      },
+      "lv": {
+        "q": "Kas inženierim jādara, ja viņš atklāj aizsardzības sistēmas atteici?",
+        "o": [
+          "Pašam to jāsalabo, nesniedzot ziņojumu",
+          "Jāziņo savam vadītājam, izmantojot B111 veidlapu, un jāiesniedz kopija HSE vadītājam",
+          "Jāignorē, ja tā šķiet nenozīmīga",
+          "Jāgaida līdz nākamajai plānotajai apkopes pārbaudei"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which types of investigation analysis does the HSE Manager conduct on all incident reports?",
+        "o": [
+          "Only a cost analysis",
+          "A Root Cause Analysis (RCA) and a Human Error Analysis (HEA)",
+          "Only a legal review",
+          "No further analysis is required"
+        ]
+      },
+      "pl": {
+        "q": "Jakie rodzaje analizy dochodzeniowej przeprowadza kierownik HSE dla wszystkich raportów zdarzeń?",
+        "o": [
+          "Tylko analizę kosztów",
+          "Analizę Przyczyn Źródłowych (RCA) i Analizę Błędu Ludzkiego (HEA)",
+          "Tylko przegląd prawny",
+          "Żadna dalsza analiza nie jest wymagana"
+        ]
+      },
+      "bg": {
+        "q": "Какви видове анализи на разследване провежда мениджърът HSE за всички доклади за инциденти?",
+        "o": [
+          "Само анализ на разходите",
+          "Анализ на основната причина (RCA) и анализ на човешката грешка (HEA)",
+          "Само правен преглед",
+          "Не се изисква допълнителен анализ"
+        ]
+      },
+      "ro": {
+        "q": "Ce tipuri de analiză de investigație efectuează managerul HSE pentru toate rapoartele de incidente?",
+        "o": [
+          "Doar o analiză a costurilor",
+          "O analiză a cauzei principale (RCA) și o analiză a erorii umane (HEA)",
+          "Doar o revizuire legală",
+          "Nu este necesară nicio analiză suplimentară"
+        ]
+      },
+      "lv": {
+        "q": "Kāda veida izmeklēšanas analīzi HSE vadītājs veic visiem incidentu ziņojumiem?",
+        "o": [
+          "Tikai izmaksu analīzi",
+          "Pamatcēloņa analīzi (RCA) un cilvēka kļūdas analīzi (HEA)",
+          "Tikai juridisku pārskatu",
+          "Nekāda papildu analīze nav nepieciešama"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "What does the HSE Manager maintain to track where accidents occur?",
+        "o": [
+          "A staff attendance register",
+          "A map of all accident hot spots on each site plan",
+          "A vehicle log",
+          "A customer complaints log"
+        ]
+      },
+      "pl": {
+        "q": "Co prowadzi kierownik HSE, aby śledzić, gdzie dochodzi do wypadków?",
+        "o": [
+          "Rejestr obecności pracowników",
+          "Mapę wszystkich punktów zapalnych wypadków na planie każdego zakładu",
+          "Dziennik pojazdów",
+          "Rejestr reklamacji klientów"
+        ]
+      },
+      "bg": {
+        "q": "Какво поддържа мениджърът HSE, за да проследява къде се случват инциденти?",
+        "o": [
+          "Регистър на присъствието на персонала",
+          "Карта на всички горещи точки за инциденти на плана на всеки обект",
+          "Дневник на превозните средства",
+          "Регистър на оплаквания на клиенти"
+        ]
+      },
+      "ro": {
+        "q": "Ce menține managerul HSE pentru a urmări unde au loc accidentele?",
+        "o": [
+          "Un registru de prezență a personalului",
+          "O hartă a tuturor punctelor critice de accidente pe planul fiecărui șantier",
+          "Un registru al vehiculelor",
+          "Un registru al reclamațiilor clienților"
+        ]
+      },
+      "lv": {
+        "q": "Ko HSE vadītājs uztur, lai izsekotu, kur notiek negadījumi?",
+        "o": [
+          "Personāla apmeklējuma reģistru",
+          "Visu negadījumu karsto punktu karti katra objekta plānā",
+          "Transportlīdzekļu žurnālu",
+          "Klientu sūdzību žurnālu"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "How often are accident/incident details discussed at a management review meeting?",
+        "o": [
+          "Weekly",
+          "Every 6 months",
+          "Annually only",
+          "They are never formally reviewed"
+        ]
+      },
+      "pl": {
+        "q": "Jak często szczegóły wypadków/zdarzeń są omawiane na spotkaniu przeglądu zarządzania?",
+        "o": [
+          "Co tydzień",
+          "Co 6 miesięcy",
+          "Tylko raz w roku",
+          "Nigdy nie są formalnie przeglądane"
+        ]
+      },
+      "bg": {
+        "q": "Колко често подробностите за инциденти/произшествия се обсъждат на среща за преглед на управлението?",
+        "o": [
+          "Седмично",
+          "На всеки 6 месеца",
+          "Само веднъж годишно",
+          "Никога не се преглеждат официално"
+        ]
+      },
+      "ro": {
+        "q": "Cât de des sunt discutate detaliile despre accidente/incidente la o ședință de revizuire a managementului?",
+        "o": [
+          "Săptămânal",
+          "La fiecare 6 luni",
+          "Doar anual",
+          "Nu sunt niciodată revizuite oficial"
+        ]
+      },
+      "lv": {
+        "q": "Cik bieži negadījumu/incidentu detaļas tiek pārrunātas vadības pārskata sanāksmē?",
+        "o": [
+          "Katru nedēļu",
+          "Ik pēc 6 mēnešiem",
+          "Tikai reizi gadā",
+          "Tās nekad formāli netiek pārskatītas"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If an incident is reportable under RIDDOR, what must the HSE Manager do?",
+        "o": [
+          "Nothing further is required",
+          "Ensure the enforcing authority is informed, either online or via the Incident Contact Centre",
+          "Only inform the Production Manager",
+          "Wait for the authority to contact them"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli zdarzenie podlega zgłoszeniu na podstawie RIDDOR, co musi zrobić kierownik HSE?",
+        "o": [
+          "Nic więcej nie jest wymagane",
+          "Upewnić się, że organ egzekwujący został poinformowany, online lub za pośrednictwem Centrum Kontaktowego ds. Zdarzeń",
+          "Poinformować tylko kierownika produkcji",
+          "Poczekać, aż organ się z nim skontaktuje"
+        ]
+      },
+      "bg": {
+        "q": "Ако инцидент подлежи на докладване съгласно RIDDOR, какво трябва да направи мениджърът HSE?",
+        "o": [
+          "Нищо повече не се изисква",
+          "Да гарантира, че органът по прилагане е информиран, онлайн или чрез центъра за контакт по инциденти",
+          "Само да информира производствения мениджър",
+          "Да изчака органът да се свърже с него"
+        ]
+      },
+      "ro": {
+        "q": "Dacă un incident trebuie raportat conform RIDDOR, ce trebuie să facă managerul HSE?",
+        "o": [
+          "Nu mai este nevoie de nimic",
+          "Să se asigure că autoritatea de aplicare este informată, fie online, fie prin Centrul de Contact pentru Incidente",
+          "Doar să informeze managerul de producție",
+          "Să aștepte ca autoritatea să îl contacteze"
+        ]
+      },
+      "lv": {
+        "q": "Ja par incidentu jāziņo saskaņā ar RIDDOR, kas jādara HSE vadītājam?",
+        "o": [
+          "Nekas vairāk nav nepieciešams",
+          "Jānodrošina, ka izpildinstitūcija tiek informēta, tiešsaistē vai izmantojot Incidentu kontaktcentru",
+          "Jāinformē tikai ražošanas vadītājs",
+          "Jāgaida, kamēr institūcija ar viņu sazinās"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "For a major incident report, what information does the HSE Manager compile?",
+        "o": [
+          "Only a cost estimate",
+          "Incident details, witness statements, photographs, possible causation and recommendations",
+          "Only a verbal summary",
+          "Nothing specific is required"
+        ]
+      },
+      "pl": {
+        "q": "Jakie informacje kompiluje kierownik HSE w raporcie z poważnego zdarzenia?",
+        "o": [
+          "Tylko szacunek kosztów",
+          "Szczegóły zdarzenia, zeznania świadków, zdjęcia, możliwe przyczyny i zalecenia",
+          "Tylko ustne podsumowanie",
+          "Nic konkretnego nie jest wymagane"
+        ]
+      },
+      "bg": {
+        "q": "За доклад за сериозен инцидент, каква информация събира мениджърът HSE?",
+        "o": [
+          "Само оценка на разходите",
+          "Подробности за инцидента, свидетелски показания, снимки, възможна причина и препоръки",
+          "Само устно резюме",
+          "Нищо конкретно не се изисква"
+        ]
+      },
+      "ro": {
+        "q": "Pentru un raport de incident major, ce informații compilează managerul HSE?",
+        "o": [
+          "Doar o estimare a costurilor",
+          "Detalii despre incident, declarații ale martorilor, fotografii, cauze posibile și recomandări",
+          "Doar un rezumat verbal",
+          "Nu este necesar nimic specific"
+        ]
+      },
+      "lv": {
+        "q": "Nopietna incidenta ziņojumam, kādu informāciju apkopo HSE vadītājs?",
+        "o": [
+          "Tikai izmaksu tāmi",
+          "Incidenta detaļas, liecinieku liecības, fotogrāfijas, iespējamos cēloņus un ieteikumus",
+          "Tikai mutisku kopsavilkumu",
+          "Nekas konkrēts nav nepieciešams"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "After completing a major incident report, who does the HSE Manager arrange a meeting with?",
+        "o": [
+          "No one, the report is filed and closed",
+          "The Managing Director and the relevant Manager",
+          "Only the injured employee",
+          "The waste contractor"
+        ]
+      },
+      "pl": {
+        "q": "Po ukończeniu raportu z poważnego zdarzenia, z kim kierownik HSE organizuje spotkanie?",
+        "o": [
+          "Z nikim, raport jest archiwizowany i zamykany",
+          "Z dyrektorem zarządzającym i odpowiednim kierownikiem",
+          "Tylko z poszkodowanym pracownikiem",
+          "Z wykonawcą usług odpadowych"
+        ]
+      },
+      "bg": {
+        "q": "След приключване на доклада за сериозен инцидент, с кого мениджърът HSE организира среща?",
+        "o": [
+          "С никого, докладът се архивира и приключва",
+          "С управляващия директор и съответния мениджър",
+          "Само с пострадалия служител",
+          "С изпълнителя за отпадъци"
+        ]
+      },
+      "ro": {
+        "q": "După finalizarea unui raport de incident major, cu cine organizează managerul HSE o întâlnire?",
+        "o": [
+          "Cu nimeni, raportul este arhivat și închis",
+          "Cu directorul general și managerul relevant",
+          "Doar cu angajatul rănit",
+          "Cu contractorul de deșeuri"
+        ]
+      },
+      "lv": {
+        "q": "Pēc nopietna incidenta ziņojuma pabeigšanas, ar ko HSE vadītājs organizē tikšanos?",
+        "o": [
+          "Ne ar vienu, ziņojums tiek arhivēts un slēgts",
+          "Ar ģenerāldirektoru un attiecīgo vadītāju",
+          "Tikai ar cietušo darbinieku",
+          "Ar atkritumu apsaimniekošanas darbuzņēmēju"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Which of the following is listed as a protective system at the Barmston Close Fillers site?",
+        "o": [
+          "Bund Deluge System",
+          "Fire and Intruder Alarm Systems, Dust Extractor, and Filling Line Guarding Devices",
+          "Penstock Valve System",
+          "Blending Vessels Batch Controller Systems"
+        ]
+      },
+      "pl": {
+        "q": "Który z poniższych systemów jest wymieniony jako system zabezpieczający na terenie Barmston Close Fillers?",
+        "o": [
+          "System zraszania obwałowania",
+          "Systemy alarmowe przeciwpożarowe i antywłamaniowe, odciąg pyłu oraz urządzenia zabezpieczające linii napełniania",
+          "System zaworów upustowych",
+          "Systemy kontrolerów partii zbiorników mieszających"
+        ]
+      },
+      "bg": {
+        "q": "Кое от следните е посочено като защитна система на обекта Barmston Close Fillers?",
+        "o": [
+          "Система за наводняване на насипа",
+          "Пожарни и охранителни алармени системи, прахоуловител и предпазни устройства на линията за пълнене",
+          "Система за клапани тип „пенсток“",
+          "Системи за контролери на партиди на смесителните съдове"
+        ]
+      },
+      "ro": {
+        "q": "Care dintre următoarele este listat ca sistem de protecție la site-ul Barmston Close Fillers?",
+        "o": [
+          "Sistemul de inundare a digului",
+          "Sistemele de alarmă de incendiu și intruziune, extractorul de praf și dispozitivele de protecție ale liniei de umplere",
+          "Sistemul de vane tip stăvilar",
+          "Sistemele de control al loturilor pentru vasele de amestecare"
+        ]
+      },
+      "lv": {
+        "q": "Kurš no šiem ir uzskaitīts kā aizsardzības sistēma Barmston Close Fillers objektā?",
+        "o": [
+          "Dambja applūdināšanas sistēma",
+          "Ugunsgrēka un ielaušanās trauksmes sistēmas, putekļu ekstraktors un pildīšanas līnijas aizsargierīces",
+          "Aizvara vārstu sistēma",
+          "Maisīšanas trauku partiju kontrolieru sistēmas"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "If a protective system fails, who must be informed immediately using form B111?",
+        "o": [
+          "Only the HSE Manager",
+          "The Site Manager, with a copy given to the HSE Manager",
+          "Only the Maintenance Engineer",
+          "No one, it's logged automatically"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli system zabezpieczający ulegnie awarii, kogo należy natychmiast poinformować za pomocą formularza B111?",
+        "o": [
+          "Wyłącznie kierownika HSE",
+          "Kierownika zakładu, z kopią przekazaną kierownikowi HSE",
+          "Wyłącznie inżyniera utrzymania ruchu",
+          "Nikogo, jest to rejestrowane automatycznie"
+        ]
+      },
+      "bg": {
+        "q": "Ако защитна система откаже, кой трябва да бъде уведомен незабавно с формуляр B111?",
+        "o": [
+          "Само мениджърът HSE",
+          "Мениджърът на обекта, с копие до мениджъра HSE",
+          "Само инженерът по поддръжка",
+          "Никой, това се записва автоматично"
+        ]
+      },
+      "ro": {
+        "q": "Dacă un sistem de protecție cedează, cine trebuie informat imediat folosind formularul B111?",
+        "o": [
+          "Doar managerul HSE",
+          "Managerul șantierului, cu o copie dată managerului HSE",
+          "Doar inginerul de întreținere",
+          "Nimeni, este înregistrat automat"
+        ]
+      },
+      "lv": {
+        "q": "Ja aizsardzības sistēma atsakās, kas nekavējoties jāinformē, izmantojot B111 veidlapu?",
+        "o": [
+          "Tikai HSE vadītājs",
+          "Objekta vadītājs, ar kopiju HSE vadītājam",
+          "Tikai apkopes inženieris",
+          "Neviens, tas tiek reģistrēts automātiski"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "Who investigates the reason for a protective system failure and instigates remedial action?",
+        "o": [
+          "The Site Manager alone",
+          "The Site Manager in conjunction with the HSE Manager and Engineer",
+          "Only the original person who discovered it",
+          "An external contractor only"
+        ]
+      },
+      "pl": {
+        "q": "Kto bada przyczynę awarii systemu zabezpieczającego i inicjuje działania naprawcze?",
+        "o": [
+          "Wyłącznie kierownik zakładu",
+          "Kierownik zakładu wspólnie z kierownikiem HSE i inżynierem",
+          "Wyłącznie osoba, która pierwsza to odkryła",
+          "Wyłącznie zewnętrzny wykonawca"
+        ]
+      },
+      "bg": {
+        "q": "Кой разследва причината за повреда на защитна система и инициира коригиращи действия?",
+        "o": [
+          "Само мениджърът на обекта",
+          "Мениджърът на обекта заедно с мениджъра HSE и инженера",
+          "Само лицето, което първо е открило проблема",
+          "Само външен изпълнител"
+        ]
+      },
+      "ro": {
+        "q": "Cine investighează motivul defecțiunii unui sistem de protecție și inițiază acțiuni corective?",
+        "o": [
+          "Doar managerul șantierului",
+          "Managerul șantierului împreună cu managerul HSE și inginerul",
+          "Doar persoana care a descoperit-o inițial",
+          "Doar un contractor extern"
+        ]
+      },
+      "lv": {
+        "q": "Kas izmeklē aizsardzības sistēmas atteices iemeslu un ierosina koriģējošu darbību?",
+        "o": [
+          "Tikai objekta vadītājs",
+          "Objekta vadītājs kopā ar HSE vadītāju un inženieri",
+          "Tikai persona, kas to sākotnēji atklāja",
+          "Tikai ārējs darbuzņēmējs"
+        ]
+      },
+      "correct": 1
+    },
+    {
+      "en": {
+        "q": "In the Human Error Analysis framework, what distinguishes a \"violation\" from a \"mistake\" or \"slip\"?",
+        "o": [
+          "There is no difference",
+          "A violation is an intended action, while a slip/lapse is unintended",
+          "A violation always involves a visitor",
+          "A mistake is always more serious than a violation"
+        ]
+      },
+      "pl": {
+        "q": "W ramach analizy błędu ludzkiego, co odróżnia „naruszenie” od „pomyłki” lub „potknięcia”?",
+        "o": [
+          "Nie ma różnicy",
+          "Naruszenie jest działaniem zamierzonym, podczas gdy potknięcie/uchybienie jest niezamierzone",
+          "Naruszenie zawsze dotyczy gościa",
+          "Pomyłka zawsze jest poważniejsza niż naruszenie"
+        ]
+      },
+      "bg": {
+        "q": "В рамките на анализа на човешката грешка, какво отличава „нарушение“ от „грешка“ или „пропуск“?",
+        "o": [
+          "Няма разлика",
+          "Нарушението е умишлено действие, докато пропускът/грешката е неумишлена",
+          "Нарушението винаги включва посетител",
+          "Грешката винаги е по-сериозна от нарушението"
+        ]
+      },
+      "ro": {
+        "q": "În cadrul analizei erorii umane, ce distinge o „încălcare” de o „greșeală” sau un „lapsus”?",
+        "o": [
+          "Nu există nicio diferență",
+          "O încălcare este o acțiune intenționată, în timp ce un lapsus/eroare este neintenționată",
+          "O încălcare implică întotdeauna un vizitator",
+          "O greșeală este întotdeauna mai gravă decât o încălcare"
+        ]
+      },
+      "lv": {
+        "q": "Cilvēka kļūdu analīzes ietvaros, kas atšķir „pārkāpumu” no „kļūdas” vai „paviršības”?",
+        "o": [
+          "Nav atšķirības",
+          "Pārkāpums ir apzināta darbība, savukārt paviršība/aizmāršība ir neapzināta",
+          "Pārkāpums vienmēr saistīts ar apmeklētāju",
+          "Kļūda vienmēr ir nopietnāka par pārkāpumu"
+        ]
+      },
+      "correct": 1
+    }
+  ]
+}

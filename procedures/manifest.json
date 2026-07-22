@@ -104,6 +104,30 @@
         "ro": "Menaj și inspecții la locul de muncă",
         "lv": "Kārtības uzturēšana un darba vietas pārbaudes"
       }
+    },
+    {
+      "id": "wp22",
+      "file": "wp22.json",
+      "docRef": "WP22",
+      "title": {
+        "en": "Waste Management",
+        "pl": "Zarządzanie odpadami",
+        "bg": "Управление на отпадъците",
+        "ro": "Managementul deșeurilor",
+        "lv": "Atkritumu apsaimniekošana"
+      }
+    },
+    {
+      "id": "wp23",
+      "file": "wp23.json",
+      "docRef": "WP23",
+      "title": {
+        "en": "Accident/Incident & Protective Systems Failures Reporting & Investigation",
+        "pl": "Zgłaszanie i badanie wypadków/zdarzeń oraz awarii systemów zabezpieczających",
+        "bg": "Докладване и разследване на инциденти/произшествия и повреди на защитни системи",
+        "ro": "Raportarea și investigarea accidentelor/incidentelor și a defecțiunilor sistemelor de protecție",
+        "lv": "Negadījumu/incidentu un aizsardzības sistēmu atteiču ziņošana un izmeklēšana"
+      }
     }
   ]
 }
