@@ -224,6 +224,18 @@
                 "ro": "Amestecare – Produse amestecate gata preparate pentru tuburi",
                 "lv": "Maisīšana – Gatavi maisīti tūbiņu produkti"
             }
+        },
+        {
+            "id": "wp09n",
+            "file": "wp09n.json",
+            "docRef": "WP09N",
+            "title": {
+                "en": "Steam Injected Mixing Vessel",
+                "pl": "Mieszalnik z wtryskiem pary",
+                "bg": "Смесителен съд с впръскване на пара",
+                "ro": "Vas de amestecare cu injecție de abur",
+                "lv": "Tvaika iesmidzināšanas maisīšanas trauks"
+            }
         }
     ]
 }

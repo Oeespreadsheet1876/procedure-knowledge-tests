@@ -1,0 +1,485 @@
+{
+  "docRef": "WP09N",
+  "questions": [
+    {
+      "correct": 0,
+      "en": {
+        "q": "What must be isolated before taking any samples or cleaning the interior of the mixing vessel?",
+        "o": [
+          "The mixing vessel",
+          "The steam boiler",
+          "The batch card system",
+          "The COSHH cabinet"
+        ]
+      },
+      "pl": {
+        "q": "Co musi zostać odizolowane przed pobraniem jakichkolwiek próbek lub czyszczeniem wnętrza mieszalnika?",
+        "o": [
+          "Mieszalnik",
+          "Kocioł parowy",
+          "System kart partii",
+          "Szafka COSHH"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да бъде изолирано, преди да се вземат каквито и да е проби или да се почиства вътрешността на смесителния съд?",
+        "o": [
+          "Смесителният съд",
+          "Парният котел",
+          "Системата за карти на партидата",
+          "Шкафът за COSHH"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie izolat înainte de prelevarea oricăror probe sau curățarea interiorului vasului de amestecare?",
+        "o": [
+          "Vasul de amestecare",
+          "Cazanul de abur",
+          "Sistemul fișelor de lot",
+          "Dulapul COSHH"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāizolē pirms jebkādu paraugu ņemšanas vai maisīšanas trauka iekšpuses tīrīšanas?",
+        "o": [
+          "Maisīšanas trauks",
+          "Tvaika katls",
+          "Partijas karšu sistēma",
+          "COSHH skapis"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "When must a dust mask and safety glasses be worn?",
+        "o": [
+          "Only when using the thermometer",
+          "Only during vessel cleaning",
+          "Whenever handling the various powders/liquids",
+          "Only when the Team Leader is present"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy należy nosić maskę przeciwpyłową i okulary ochronne?",
+        "o": [
+          "Tylko podczas korzystania z termometru",
+          "Tylko podczas czyszczenia zbiornika",
+          "Za każdym razem, gdy pracuje się z różnymi proszkami/płynami",
+          "Tylko w obecności lidera zespołu"
+        ]
+      },
+      "bg": {
+        "q": "Кога трябва да се носят прахозащитна маска и защитни очила?",
+        "o": [
+          "Само при използване на термометъра",
+          "Само по време на почистване на съда",
+          "Винаги, когато се работи с различните прахове/течности",
+          "Само в присъствието на ръководителя на екипа"
+        ]
+      },
+      "ro": {
+        "q": "Când trebuie purtate masca de praf și ochelarii de protecție?",
+        "o": [
+          "Doar la utilizarea termometrului",
+          "Doar în timpul curățării vasului",
+          "Ori de câte ori se manipulează diverse pulberi/lichide",
+          "Doar în prezența liderului de echipă"
+        ]
+      },
+      "lv": {
+        "q": "Kad jāvalkā putekļu maska un aizsargbrilles?",
+        "o": [
+          "Tikai lietojot termometru",
+          "Tikai trauka tīrīšanas laikā",
+          "Ikreiz, strādājot ar dažādiem pulveriem/šķidrumiem",
+          "Tikai tad, kad klāt ir komandas vadītājs"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "When must Nitrile gloves and safety glasses specifically be worn according to the equipment list?",
+        "o": [
+          "When emptying bags of powder into the vessel",
+          "When handling Acticide",
+          "When taking a temperature reading",
+          "When connecting the vessel to the steam line"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy zgodnie z listą wymaganego sprzętu należy nosić rękawice nitrylowe i okulary ochronne?",
+        "o": [
+          "Podczas opróżniania worków proszku do zbiornika",
+          "Podczas pracy z Acticide",
+          "Podczas mierzenia temperatury",
+          "Podczas podłączania zbiornika do linii parowej"
+        ]
+      },
+      "bg": {
+        "q": "Кога съгласно списъка с необходимо оборудване трябва да се носят нитрилни ръкавици и защитни очила?",
+        "o": [
+          "При изсипване на торби с прах в съда",
+          "При работа с Acticide",
+          "При отчитане на температурата",
+          "При свързване на съда към паровата линия"
+        ]
+      },
+      "ro": {
+        "q": "Conform listei de echipament, când trebuie purtate mănuși de nitril și ochelari de protecție?",
+        "o": [
+          "La golirea sacilor de pulbere în vas",
+          "La manipularea Acticide",
+          "La citirea temperaturii",
+          "La conectarea vasului la linia de abur"
+        ]
+      },
+      "lv": {
+        "q": "Saskaņā ar aprīkojuma sarakstu, kad jāvalkā nitrila cimdi un aizsargbrilles?",
+        "o": [
+          "Iztukšojot pulvera maisus traukā",
+          "Strādājot ar Acticide",
+          "Nolasot temperatūru",
+          "Pievienojot trauku tvaika līnijai"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "How is the vessel secured before blending begins?",
+        "o": [
+          "With a padlock on the top access cover",
+          "With a permit to work",
+          "Attached to the steam line with a spanner and fastened to the base plate with the bottom clamps",
+          "By isolating the mains switch"
+        ]
+      },
+      "pl": {
+        "q": "Jak zabezpiecza się zbiornik przed rozpoczęciem mieszania?",
+        "o": [
+          "Kłódką na górnej pokrywie dostępowej",
+          "Zezwoleniem na pracę",
+          "Podłączeniem do linii parowej za pomocą klucza i przymocowaniem do płyty podstawy dolnymi zaciskami",
+          "Odizolowaniem głównego wyłącznika"
+        ]
+      },
+      "bg": {
+        "q": "Как се закрепва съдът, преди да започне смесването?",
+        "o": [
+          "С катинар на горния капак за достъп",
+          "С разрешение за работа",
+          "Прикрепен към паровата линия с гаечен ключ и закрепен към основната плоча с долните скоби",
+          "Чрез изолиране на главния прекъсвач"
+        ]
+      },
+      "ro": {
+        "q": "Cum este fixat vasul înainte de a începe amestecarea?",
+        "o": [
+          "Cu un lacăt pe capacul superior de acces",
+          "Cu un permis de lucru",
+          "Atașat la linia de abur cu o cheie fixă și fixat la placa de bază cu clemele inferioare",
+          "Izolând întrerupătorul principal"
+        ]
+      },
+      "lv": {
+        "q": "Kā trauks tiek nostiprināts pirms maisīšanas sākuma?",
+        "o": [
+          "Ar piekaramo slēdzeni uz augšējā piekļuves vāka",
+          "Ar darba atļauju",
+          "Piestiprināts tvaika līnijai ar uzgriežņu atslēgu un nostiprināts pie pamatplāksnes ar apakšējiem skavām",
+          "Izolējot galveno slēdzi"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "How many retaining clips secure the top access cover once it is wound down?",
+        "o": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      "pl": {
+        "q": "Ilu zacisków mocujących używa się do zabezpieczenia górnej pokrywy dostępowej po jej opuszczeniu?",
+        "o": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      "bg": {
+        "q": "С колко фиксиращи скоби се закрепва горният капак за достъп, след като бъде спуснат?",
+        "o": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      "ro": {
+        "q": "Câte cleme de fixare securizează capacul superior de acces odată coborât?",
+        "o": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      "lv": {
+        "q": "Ar cik fiksācijas skavām tiek nostiprināts augšējais piekļuves vāks, kad tas ir nolaists?",
+        "o": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Where does steam appear when the product has thickened enough during mixing?",
+        "o": [
+          "Out of the pressure release hole in the top cover",
+          "Out of the front discharge valve",
+          "Out of the mains switch panel",
+          "Out of the batch card slot"
+        ]
+      },
+      "pl": {
+        "q": "Skąd wydobywa się para, gdy produkt w trakcie mieszania wystarczająco zgęstnieje?",
+        "o": [
+          "Z otworu upustowego ciśnienia w górnej pokrywie",
+          "Z przedniego zaworu zrzutowego",
+          "Z panelu głównego wyłącznika",
+          "Ze szczeliny na kartę partii"
+        ]
+      },
+      "bg": {
+        "q": "Откъде излиза пара, когато продуктът се сгъсти достатъчно по време на смесването?",
+        "o": [
+          "От отвора за освобождаване на налягане в горния капак",
+          "От предния изходен клапан",
+          "От панела на главния прекъсвач",
+          "От отвора за картата на партидата"
+        ]
+      },
+      "ro": {
+        "q": "Pe unde iese aburul când produsul s-a îngroșat suficient în timpul amestecării?",
+        "o": [
+          "Prin orificiul de eliberare a presiunii din capacul superior",
+          "Prin valva frontală de descărcare",
+          "Prin panoul întrerupătorului principal",
+          "Prin fanta pentru fișa lotului"
+        ]
+      },
+      "lv": {
+        "q": "No kurienes izplūst tvaiks, kad produkts maisīšanas laikā ir pietiekami sabiezējis?",
+        "o": [
+          "No spiediena atbrīvošanas atveres augšējā vākā",
+          "No priekšējā izlaides vārsta",
+          "No galvenā slēdža paneļa",
+          "No partijas kartes atveres"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "Where should the thermometer be placed to take a temperature reading of the mix?",
+        "o": [
+          "In the front discharge valve",
+          "In the batch card holder",
+          "In the steam inlet valve",
+          "In the pressure release hole"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie należy umieścić termometr, aby zmierzyć temperaturę mieszanki?",
+        "o": [
+          "W przednim zaworze zrzutowym",
+          "W uchwycie na kartę partii",
+          "W zaworze dopływu pary",
+          "W otworze upustowym ciśnienia"
+        ]
+      },
+      "bg": {
+        "q": "Къде трябва да се постави термометърът, за да се отчете температурата на сместа?",
+        "o": [
+          "В предния изходен клапан",
+          "В държача за картата на партидата",
+          "Във входния клапан за пара",
+          "В отвора за освобождаване на налягане"
+        ]
+      },
+      "ro": {
+        "q": "Unde trebuie plasat termometrul pentru a citi temperatura amestecului?",
+        "o": [
+          "În valva frontală de descărcare",
+          "În suportul fișei lotului",
+          "În valva de admisie a aburului",
+          "În orificiul de eliberare a presiunii"
+        ]
+      },
+      "lv": {
+        "q": "Kur jānovieto termometrs, lai nolasītu maisījuma temperatūru?",
+        "o": [
+          "Priekšējā izlaides vārstā",
+          "Partijas kartes turētājā",
+          "Tvaika ieplūdes vārstā",
+          "Spiediena atbrīvošanas atverē"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "What is used to discharge the finished product into a suitable container?",
+        "o": [
+          "The steam inlet valve",
+          "The pressure release hole",
+          "The front valve",
+          "The bottom clamps"
+        ]
+      },
+      "pl": {
+        "q": "Czego używa się do zrzutu gotowego produktu do odpowiedniego pojemnika?",
+        "o": [
+          "Zaworu dopływu pary",
+          "Otworu upustowego ciśnienia",
+          "Zaworu przedniego",
+          "Dolnych zacisków"
+        ]
+      },
+      "bg": {
+        "q": "Какво се използва за изпускане на готовия продукт в подходящ контейнер?",
+        "o": [
+          "Входният клапан за пара",
+          "Отворът за освобождаване на налягане",
+          "Предният клапан",
+          "Долните скоби"
+        ]
+      },
+      "ro": {
+        "q": "Ce se folosește pentru a descărca produsul finit într-un recipient adecvat?",
+        "o": [
+          "Valva de admisie a aburului",
+          "Orificiul de eliberare a presiunii",
+          "Valva frontală",
+          "Clemele inferioare"
+        ]
+      },
+      "lv": {
+        "q": "Kas tiek izmantots, lai izlaistu gatavo produktu piemērotā traukā?",
+        "o": [
+          "Tvaika ieplūdes vārsts",
+          "Spiediena atbrīvošanas atvere",
+          "Priekšējais vārsts",
+          "Apakšējie skavas"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What condition must be met before the vessel can be cleaned out safely?",
+        "o": [
+          "The batch card must be signed off",
+          "It must have been disconnected from the steam line",
+          "The Team Leader must be present",
+          "The mixing blades must still be running"
+        ]
+      },
+      "pl": {
+        "q": "Jaki warunek musi zostać spełniony, aby zbiornik można było bezpiecznie wyczyścić?",
+        "o": [
+          "Karta partii musi być podpisana",
+          "Zbiornik musi zostać odłączony od linii parowej",
+          "Musi być obecny lider zespołu",
+          "Łopatki mieszające muszą nadal pracować"
+        ]
+      },
+      "bg": {
+        "q": "Какво условие трябва да бъде изпълнено, за да може съдът да бъде почистен безопасно?",
+        "o": [
+          "Картата на партидата трябва да е подписана",
+          "Съдът трябва да е изключен от паровата линия",
+          "Трябва да присъства ръководителят на екипа",
+          "Лопатките за смесване трябва все още да работят"
+        ]
+      },
+      "ro": {
+        "q": "Ce condiție trebuie îndeplinită pentru ca vasul să poată fi curățat în siguranță?",
+        "o": [
+          "Fișa lotului trebuie semnată",
+          "Trebuie să fi fost deconectat de la linia de abur",
+          "Trebuie să fie prezent liderul de echipă",
+          "Paletele de amestecare trebuie să funcționeze încă"
+        ]
+      },
+      "lv": {
+        "q": "Kāds nosacījums jāizpilda, lai trauku varētu droši iztīrīt?",
+        "o": [
+          "Partijas kartei jābūt parakstītai",
+          "Traukam jābūt atvienotam no tvaika līnijas",
+          "Jābūt klāt komandas vadītājam",
+          "Maisīšanas lāpstiņām joprojām jādarbojas"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Before cleaning product from the mixing blades, what must be done at the mains switch?",
+        "o": [
+          "The power must be isolated",
+          "The power must be increased",
+          "The steam line must be reconnected",
+          "The thermometer must be reset"
+        ]
+      },
+      "pl": {
+        "q": "Co musi zostać zrobione na głównym wyłączniku przed oczyszczeniem łopatek mieszających z produktu?",
+        "o": [
+          "Zasilanie musi zostać odizolowane",
+          "Zasilanie musi zostać zwiększone",
+          "Linia parowa musi zostać ponownie podłączona",
+          "Termometr musi zostać zresetowany"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се направи на главния прекъсвач, преди да се почистят лопатките за смесване от продукта?",
+        "o": [
+          "Захранването трябва да бъде изолирано",
+          "Захранването трябва да бъде увеличено",
+          "Паровата линия трябва да бъде свързана отново",
+          "Термометърът трябва да бъде нулиран"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie făcut la întrerupătorul principal înainte de curățarea produsului de pe paletele de amestecare?",
+        "o": [
+          "Alimentarea trebuie izolată",
+          "Alimentarea trebuie mărită",
+          "Linia de abur trebuie reconectată",
+          "Termometrul trebuie resetat"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāizdara ar galveno slēdzi, pirms tiek notīrīts produkts no maisīšanas lāpstiņām?",
+        "o": [
+          "Strāvas padeve jāizolē",
+          "Strāvas padeve jāpalielina",
+          "Tvaika līnija jāpieslēdz atkārtoti",
+          "Termometrs jāatiestata"
+        ]
+      }
+    }
+  ]
+}
