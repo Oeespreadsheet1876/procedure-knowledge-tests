@@ -260,6 +260,18 @@
                 "ro": "Amestecare – Siguranță generală",
                 "lv": "Maisīšana – Vispārējā drošība"
             }
+        },
+        {
+            "id": "wp09t",
+            "file": "wp09t.json",
+            "docRef": "WP09T",
+            "title": {
+                "en": "Steam Generator Operation",
+                "pl": "Mieszanie – Obsługa Generatora Pary",
+                "bg": "Смесване – Работа с парогенератор",
+                "ro": "Amestecare – Operarea Generatorului de Abur",
+                "lv": "Maisīšana – Tvaika Ģeneratora Darbība"
+            }
         }
     ]
 }

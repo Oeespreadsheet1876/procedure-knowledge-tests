@@ -1,0 +1,485 @@
+{
+  "docRef": "WP09T",
+  "questions": [
+    {
+      "correct": 0,
+      "en": {
+        "q": "Before using the steam generator, what training must operatives have received?",
+        "o": [
+          "WP09Y - Blending Area General Safety & Emergency Equipment",
+          "Forklift Driving Test",
+          "First Aid at Work",
+          "Confined Space Entry Certificate"
+        ]
+      },
+      "pl": {
+        "q": "Jakie szkolenie muszą odbyć operatorzy przed rozpoczęciem korzystania z generatora pary?",
+        "o": [
+          "WP09Y – Ogólne zasady bezpieczeństwa i wyposażenie awaryjne w obszarze mieszania",
+          "Test na uprawnienia do obsługi wózka widłowego",
+          "Szkolenie z pierwszej pomocy w pracy",
+          "Certyfikat pracy w przestrzeniach zamkniętych"
+        ]
+      },
+      "bg": {
+        "q": "Какво обучение трябва да са преминали операторите преди използване на парогенератора?",
+        "o": [
+          "WP09Y – Обща безопасност и аварийно оборудване в зоната за смесване",
+          "Тест за управление на мотокар",
+          "Обучение по първа помощ на работното място",
+          "Сертификат за работа в затворени пространства"
+        ]
+      },
+      "ro": {
+        "q": "Ce instruire trebuie să fi primit operatorii înainte de a utiliza generatorul de abur?",
+        "o": [
+          "WP09Y – Siguranță generală și echipament de urgență în zona de amestecare",
+          "Test de conducere a stivuitorului",
+          "Instruire de prim ajutor la locul de muncă",
+          "Certificat de lucru în spații închise"
+        ]
+      },
+      "lv": {
+        "q": "Kāda apmācība operatoriem jābūt saņemtai pirms tvaika ģeneratora lietošanas?",
+        "o": [
+          "WP09Y – vispārējā drošība un avārijas aprīkojums maisīšanas zonā",
+          "Autoiekrāvēja vadīšanas tests",
+          "Pirmās palīdzības apmācība darbavietā",
+          "Slēgtu telpu darba sertifikāts"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What PPE must be worn when operating the steam generator?",
+        "o": [
+          "A hard hat and steel-toe boots only",
+          "Coveralls, Blending Nitrile Gloves, and hearing protection",
+          "A full face respirator only",
+          "No PPE is required for the steam generator"
+        ]
+      },
+      "pl": {
+        "q": "Jakie ŚOI należy nosić podczas obsługi generatora pary?",
+        "o": [
+          "Tylko kask i obuwie ze stalowym noskiem",
+          "Kombinezon, rękawice nitrylowe oraz ochronniki słuchu",
+          "Tylko pełną maskę oddechową",
+          "Żadne ŚOI nie są wymagane przy generatorze pary"
+        ]
+      },
+      "bg": {
+        "q": "Какви ЛПС трябва да се носят при работа с парогенератора?",
+        "o": [
+          "Само каска и обувки със стоманени бомбета",
+          "Гащеризон, нитрилни ръкавици и антифони",
+          "Само пълна дихателна маска",
+          "Не се изискват ЛПС за парогенератора"
+        ]
+      },
+      "ro": {
+        "q": "Ce EIP trebuie purtat la operarea generatorului de abur?",
+        "o": [
+          "Doar cască și bocanci cu bombeu metalic",
+          "Salopetă, mănuși de nitril și protecție auditivă",
+          "Doar mască de protecție respiratorie completă",
+          "Nu este necesar niciun EIP pentru generatorul de abur"
+        ]
+      },
+      "lv": {
+        "q": "Kādi IAL jāvalkā, darbinot tvaika ģeneratoru?",
+        "o": [
+          "Tikai aizsargķivere un tērauda purngala apavi",
+          "Kombinezons, nitrila cimdi un dzirdes aizsardzība",
+          "Tikai pilna sejas maska",
+          "Tvaika ģeneratoram IAL nav nepieciešami"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "What should you do if the water level on the boiler is below the indicator line?",
+        "o": [
+          "Start the generator anyway",
+          "Add water yourself immediately",
+          "Inform the engineer immediately",
+          "Wait until the next shift to report it"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić, jeśli poziom wody w kotle jest poniżej linii wskaźnika?",
+        "o": [
+          "Uruchomić generator mimo to",
+          "Samodzielnie natychmiast dolać wody",
+          "Natychmiast poinformować inżyniera",
+          "Poczekać do następnej zmiany, aby to zgłosić"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направите, ако нивото на водата в котела е под индикаторната линия?",
+        "o": [
+          "Да стартирате генератора въпреки това",
+          "Сами незабавно да долеете вода",
+          "Незабавно да информирате инженера",
+          "Да изчакате следващата смяна, за да го докладвате"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți dacă nivelul apei din cazan este sub linia indicatorului?",
+        "o": [
+          "Să porniți totuși generatorul",
+          "Să adăugați chiar dumneavoastră apă imediat",
+          "Să informați imediat inginerul",
+          "Să așteptați tura următoare pentru a raporta"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara, ja ūdens līmenis katlā ir zem indikatora līnijas?",
+        "o": [
+          "Tik un tā iedarbināt ģeneratoru",
+          "Pašam nekavējoties pielieta ūdeni",
+          "Nekavējoties informēt inženieri",
+          "Nogaidīt līdz nākamajai maiņai, lai ziņotu"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "What must never happen under any circumstances, according to the safety warning?",
+        "o": [
+          "Valves 1 & 2 being open at the same time",
+          "The pump switch being left on PUMP",
+          "The isolator switch being turned to ON",
+          "Valves 1 & 2 being closed at the same time"
+        ]
+      },
+      "pl": {
+        "q": "Co nigdy nie może się zdarzyć, zgodnie z ostrzeżeniem bezpieczeństwa?",
+        "o": [
+          "Zawory 1 i 2 otwarte jednocześnie",
+          "Przełącznik pompy pozostawiony na PUMP",
+          "Wyłącznik izolujący przełączony na ON",
+          "Zawory 1 i 2 zamknięte jednocześnie"
+        ]
+      },
+      "bg": {
+        "q": "Какво никога не трябва да се случва, съгласно предупреждението за безопасност?",
+        "o": [
+          "Клапани 1 и 2 да са отворени едновременно",
+          "Превключвателят на помпата да остане на PUMP",
+          "Изолиращият прекъсвач да бъде превключен на ON",
+          "Клапани 1 и 2 да са затворени едновременно"
+        ]
+      },
+      "ro": {
+        "q": "Ce nu trebuie să se întâmple niciodată, conform avertismentului de siguranță?",
+        "o": [
+          "Valvele 1 și 2 să fie deschise simultan",
+          "Comutatorul pompei să rămână pe PUMP",
+          "Comutatorul izolator să fie comutat pe ON",
+          "Valvele 1 și 2 să fie închise simultan"
+        ]
+      },
+      "lv": {
+        "q": "Kas nekādā gadījumā nedrīkst notikt saskaņā ar drošības brīdinājumu?",
+        "o": [
+          "Vārsti 1 un 2 vienlaikus atvērti",
+          "Sūkņa slēdzis atstāts pozīcijā PUMP",
+          "Izolācijas slēdzis pārslēgts uz ON",
+          "Vārsti 1 un 2 vienlaikus aizvērti"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "After turning the isolator switch to ON and pressing RESET, what is the next step?",
+        "o": [
+          "Immediately turn the pump switch to PUMP & BURNER",
+          "Turn the pump switch to PUMP for 5 minutes",
+          "Open Valve 3",
+          "Obtain the keys from the team leader office"
+        ]
+      },
+      "pl": {
+        "q": "Po przełączeniu wyłącznika izolującego na ON i naciśnięciu RESET, jaki jest następny krok?",
+        "o": [
+          "Natychmiast przełączyć przełącznik pompy na PUMP & BURNER",
+          "Przełączyć przełącznik pompy na PUMP na 5 minut",
+          "Otworzyć zawór 3",
+          "Odebrać klucze z biura lidera zespołu"
+        ]
+      },
+      "bg": {
+        "q": "След превключване на изолиращия прекъсвач на ON и натискане на RESET, каква е следващата стъпка?",
+        "o": [
+          "Незабавно да превключите превключвателя на помпата на PUMP & BURNER",
+          "Да превключите превключвателя на помпата на PUMP за 5 минути",
+          "Да отворите клапан 3",
+          "Да вземете ключовете от офиса на ръководителя на екип"
+        ]
+      },
+      "ro": {
+        "q": "După comutarea comutatorului izolator pe ON și apăsarea RESET, care este următorul pas?",
+        "o": [
+          "Comutarea imediată a comutatorului pompei pe PUMP & BURNER",
+          "Comutarea comutatorului pompei pe PUMP timp de 5 minute",
+          "Deschiderea valvei 3",
+          "Obținerea cheilor de la biroul liderului de echipă"
+        ]
+      },
+      "lv": {
+        "q": "Pēc izolācijas slēdža pārslēgšanas uz ON un RESET nospiešanas, kāds ir nākamais solis?",
+        "o": [
+          "Nekavējoties pārslēgt sūkņa slēdzi uz PUMP & BURNER",
+          "Pārslēgt sūkņa slēdzi uz PUMP uz 5 minūtēm",
+          "Atvērt vārstu 3",
+          "Paņemt atslēgas no komandas vadītāja biroja"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Where must you obtain the keys needed to remove the guards from Valves 1 & 2?",
+        "o": [
+          "The team leader office",
+          "The Production Manager's desk",
+          "The mixer control panel",
+          "The waste skip"
+        ]
+      },
+      "pl": {
+        "q": "Skąd należy odebrać klucze potrzebne do zdjęcia osłon z zaworów 1 i 2?",
+        "o": [
+          "Z biura lidera zespołu",
+          "Z biurka Kierownika Produkcji",
+          "Z panelu sterowania mieszalnika",
+          "Z kontenera na odpady"
+        ]
+      },
+      "bg": {
+        "q": "Откъде трябва да вземете ключовете, необходими за сваляне на предпазните ограждения от клапани 1 и 2?",
+        "o": [
+          "От офиса на ръководителя на екип",
+          "От бюрото на производствения мениджър",
+          "От контролния панел на миксера",
+          "От контейнера за отпадъци"
+        ]
+      },
+      "ro": {
+        "q": "De unde trebuie obținute cheile necesare pentru a îndepărta apărătorile de pe valvele 1 și 2?",
+        "o": [
+          "De la biroul liderului de echipă",
+          "De pe biroul managerului de producție",
+          "De pe panoul de control al malaxorului",
+          "Din containerul de deșeuri"
+        ]
+      },
+      "lv": {
+        "q": "No kurienes jāpaņem atslēgas, kas nepieciešamas, lai noņemtu aizsargus no vārstiem 1 un 2?",
+        "o": [
+          "No komandas vadītāja biroja",
+          "No ražošanas vadītāja galda",
+          "No maisītāja vadības paneļa",
+          "No atkritumu konteinera"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "How long should the SEPARATOR VALVE be released for, before shutting it back off?",
+        "o": [
+          "5 minutes",
+          "10 seconds",
+          "30 seconds",
+          "Until the pressure gauge reaches zero"
+        ]
+      },
+      "pl": {
+        "q": "Jak długo należy odkręcić ZAWÓR SEPARATORA, zanim zostanie ponownie zakręcony?",
+        "o": [
+          "5 minut",
+          "10 sekund",
+          "30 sekund",
+          "Aż manometr osiągnie zero"
+        ]
+      },
+      "bg": {
+        "q": "За колко време трябва да се отвори КЛАПАНЪТ НА СЕПАРАТОРА, преди отново да се затвори?",
+        "o": [
+          "5 минути",
+          "10 секунди",
+          "30 секунди",
+          "Докато манометърът достигне нула"
+        ]
+      },
+      "ro": {
+        "q": "Cât timp trebuie deschisă VALVA SEPARATORULUI, înainte de a fi închisă la loc?",
+        "o": [
+          "5 minute",
+          "10 secunde",
+          "30 de secunde",
+          "Până când manometrul ajunge la zero"
+        ]
+      },
+      "lv": {
+        "q": "Cik ilgi jāatver SEPARATORA VĀRSTS, pirms tas atkal jāaizver?",
+        "o": [
+          "5 minūtes",
+          "10 sekundes",
+          "30 sekundes",
+          "Līdz manometrs sasniedz nulli"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What temperature should the vessel reach when cleaning the vessels (as opposed to making a batch)?",
+        "o": [
+          "160 degrees Fahrenheit",
+          "170 degrees Fahrenheit",
+          "165 degrees Fahrenheit",
+          "100 degrees Fahrenheit"
+        ]
+      },
+      "pl": {
+        "q": "Jaką temperaturę powinien osiągnąć zbiornik podczas czyszczenia zbiorników (w przeciwieństwie do przygotowywania partii)?",
+        "o": [
+          "160 stopni Fahrenheita",
+          "170 stopni Fahrenheita",
+          "165 stopni Fahrenheita",
+          "100 stopni Fahrenheita"
+        ]
+      },
+      "bg": {
+        "q": "Каква температура трябва да достигне съдът при почистване на съдовете (за разлика от производство на партида)?",
+        "o": [
+          "160 градуса по Фаренхайт",
+          "170 градуса по Фаренхайт",
+          "165 градуса по Фаренхайт",
+          "100 градуса по Фаренхайт"
+        ]
+      },
+      "ro": {
+        "q": "Ce temperatură trebuie să atingă vasul la curățarea vaselor (spre deosebire de producerea unui lot)?",
+        "o": [
+          "160 grade Fahrenheit",
+          "170 grade Fahrenheit",
+          "165 grade Fahrenheit",
+          "100 grade Fahrenheit"
+        ]
+      },
+      "lv": {
+        "q": "Kādai temperatūrai jāsasniedz traukam, tīrot traukus (nevis ražojot partiju)?",
+        "o": [
+          "160 grādi pēc Fārenheita",
+          "170 grādi pēc Fārenheita",
+          "165 grādi pēc Fārenheita",
+          "100 grādi pēc Fārenheita"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "Before turning the burner switch to MIN when shutting down, what temperature must the water have dropped below?",
+        "o": [
+          "165 degrees",
+          "160 degrees",
+          "170 degrees",
+          "100 degrees"
+        ]
+      },
+      "pl": {
+        "q": "Przed przełączeniem przełącznika palnika na MIN podczas wyłączania, poniżej jakiej temperatury musi spaść woda?",
+        "o": [
+          "165 stopni",
+          "160 stopni",
+          "170 stopni",
+          "100 stopni"
+        ]
+      },
+      "bg": {
+        "q": "Преди да превключите превключвателя на горелката на MIN при спиране, под каква температура трябва да е паднала водата?",
+        "o": [
+          "165 градуса",
+          "160 градуса",
+          "170 градуса",
+          "100 градуса"
+        ]
+      },
+      "ro": {
+        "q": "Înainte de a comuta comutatorul arzătorului pe MIN la oprire, sub ce temperatură trebuie să fi scăzut apa?",
+        "o": [
+          "165 grade",
+          "160 grade",
+          "170 grade",
+          "100 grade"
+        ]
+      },
+      "lv": {
+        "q": "Pirms degļa slēdža pārslēgšanas uz MIN, izslēdzot iekārtu, zem kādas temperatūras jābūt nokritušam ūdenim?",
+        "o": [
+          "165 grādiem",
+          "160 grādiem",
+          "170 grādiem",
+          "100 grādiem"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "How often is boiler maintenance conducted by the engineer, as per form B155?",
+        "o": [
+          "Weekly and two-weekly",
+          "Only annually",
+          "Only when a fault is reported",
+          "Daily"
+        ]
+      },
+      "pl": {
+        "q": "Jak często inżynier przeprowadza konserwację kotła, zgodnie z formularzem B155?",
+        "o": [
+          "Co tydzień i co dwa tygodnie",
+          "Tylko raz w roku",
+          "Tylko gdy zgłoszona zostanie usterka",
+          "Codziennie"
+        ]
+      },
+      "bg": {
+        "q": "Колко често инженерът извършва поддръжка на котела, съгласно формуляр B155?",
+        "o": [
+          "Седмично и на всеки две седмици",
+          "Само веднъж годишно",
+          "Само при докладвана неизправност",
+          "Ежедневно"
+        ]
+      },
+      "ro": {
+        "q": "Cât de des efectuează inginerul întreținerea cazanului, conform formularului B155?",
+        "o": [
+          "Săptămânal și bisăptămânal",
+          "Doar anual",
+          "Doar când este raportată o defecțiune",
+          "Zilnic"
+        ]
+      },
+      "lv": {
+        "q": "Cik bieži inženieris veic katla apkopi saskaņā ar veidlapu B155?",
+        "o": [
+          "Katru nedēļu un reizi divās nedēļās",
+          "Tikai reizi gadā",
+          "Tikai tad, kad ziņots par bojājumu",
+          "Katru dienu"
+        ]
+      }
+    }
+  ]
+}
