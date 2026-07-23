@@ -612,6 +612,7 @@
     <p class="error-msg" id="quiz-error" data-i18n="quiz_error"></p>
 
     <div class="actions-row">
+      <button class="btn ghost" onclick="exitTest()" data-i18n="exit_test_btn"></button>
       <button class="btn" onclick="submitTest()" data-i18n="submit_test_btn"></button>
     </div>
   </div>
@@ -1142,6 +1143,12 @@ function retakeTest(){
   renderQuestions();
   renderCandidateBadges();
   window.scrollTo({top:0, behavior:"smooth"});
+}
+
+function exitTest(){
+  const answered = answers.filter(a => a!==null).length;
+  if(answered > 0 && !window.confirm(t("exit_confirm_msg"))) return;
+  chooseDifferentTest();
 }
 
 function chooseDifferentTest(){
