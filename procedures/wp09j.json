@@ -1,0 +1,581 @@
+{
+  "docRef": "WP09J",
+  "questions": [
+    {
+      "correct": 0,
+      "en": {
+        "q": "Before blending on WP09J, what training must operatives have received?",
+        "o": [
+          "WP09Y - Blending Area General Safety & Emergency Equipment",
+          "Forklift Driving Test",
+          "First Aid at Work",
+          "Confined Space Entry Certificate"
+        ]
+      },
+      "pl": {
+        "q": "Jakie szkolenie muszą odbyć operatorzy przed rozpoczęciem mieszania zgodnie z WP09J?",
+        "o": [
+          "WP09Y – Ogólne zasady bezpieczeństwa i wyposażenie awaryjne w obszarze mieszania",
+          "Test na uprawnienia do obsługi wózka widłowego",
+          "Szkolenie z pierwszej pomocy w pracy",
+          "Certyfikat pracy w przestrzeniach zamkniętych"
+        ]
+      },
+      "bg": {
+        "q": "Какво обучение трябва да са преминали операторите преди смесване съгласно WP09J?",
+        "o": [
+          "WP09Y – Обща безопасност и аварийно оборудване в зоната за смесване",
+          "Тест за управление на мотокар",
+          "Обучение по първа помощ на работното място",
+          "Сертификат за работа в затворени пространства"
+        ]
+      },
+      "ro": {
+        "q": "Ce instruire trebuie să fi primit operatorii înainte de amestecare conform WP09J?",
+        "o": [
+          "WP09Y – Siguranță generală și echipament de urgență în zona de amestecare",
+          "Test de conducere a stivuitorului",
+          "Instruire de prim ajutor la locul de muncă",
+          "Certificat de lucru în spații închise"
+        ]
+      },
+      "lv": {
+        "q": "Kāda apmācība operatoriem jābūt saņemtai pirms maisīšanas saskaņā ar WP09J?",
+        "o": [
+          "WP09Y – vispārējā drošība un avārijas aprīkojums maisīšanas zonā",
+          "Autoiekrāvēja vadīšanas tests",
+          "Pirmās palīdzības apmācība darbavietā",
+          "Slēgtu telpu darba sertifikāts"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "What must always be checked before adding powders or liquids to the vessel?",
+        "o": [
+          "That the batch card is signed",
+          "That the QC Operative is present",
+          "That the extractor is running",
+          "That the mixer is on the timer"
+        ]
+      },
+      "pl": {
+        "q": "Co zawsze musi zostać sprawdzone przed dodaniem proszków lub płynów do zbiornika?",
+        "o": [
+          "Czy karta partii jest podpisana",
+          "Czy operator kontroli jakości jest obecny",
+          "Czy ekstraktor pracuje",
+          "Czy mieszalnik jest ustawiony na timer"
+        ]
+      },
+      "bg": {
+        "q": "Какво винаги трябва да се провери, преди да се добавят прахове или течности в съда?",
+        "o": [
+          "Дали картата на партидата е подписана",
+          "Дали операторът по контрол на качеството присъства",
+          "Дали аспирационната система работи",
+          "Дали миксерът е настроен на таймер"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie verificat întotdeauna înainte de a adăuga pulberi sau lichide în vas?",
+        "o": [
+          "Dacă fișa lotului este semnată",
+          "Dacă operatorul de control al calității este prezent",
+          "Dacă sistemul de extracție funcționează",
+          "Dacă malaxorul este setat pe temporizator"
+        ]
+      },
+      "lv": {
+        "q": "Kas vienmēr jāpārbauda pirms pulveru vai šķidrumu pievienošanas traukam?",
+        "o": [
+          "Vai partijas karte ir parakstīta",
+          "Vai ir klāt KK operators",
+          "Vai nosūkšanas sistēma darbojas",
+          "Vai maisītājs ir iestatīts uz taimeri"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "How must Ammonia be handled when measuring out the required amount?",
+        "o": [
+          "Poured directly into the vessel from the drum",
+          "Contained in a sealed container until added to a mixer",
+          "Left in an open container near the mixer",
+          "Measured only by the Technical Manager"
+        ]
+      },
+      "pl": {
+        "q": "Jak należy obchodzić się z amoniakiem podczas odmierzania wymaganej ilości?",
+        "o": [
+          "Wlewany bezpośrednio do zbiornika z beczki",
+          "Przechowywany w szczelnie zamkniętym pojemniku aż do dodania go do mieszalnika",
+          "Pozostawiony w otwartym pojemniku w pobliżu mieszalnika",
+          "Odmierzany wyłącznie przez kierownika technicznego"
+        ]
+      },
+      "bg": {
+        "q": "Как трябва да се борави с амоняка при отмерване на необходимото количество?",
+        "o": [
+          "Излива се директно в съда от бидона",
+          "Съхранява се в запечатан контейнер до добавянето му в миксера",
+          "Оставя се в отворен контейнер близо до миксера",
+          "Отмерва се само от техническия мениджър"
+        ]
+      },
+      "ro": {
+        "q": "Cum trebuie manevrat amoniacul la măsurarea cantității necesare?",
+        "o": [
+          "Turnat direct în vas din butoi",
+          "Păstrat într-un recipient sigilat până este adăugat în malaxor",
+          "Lăsat într-un recipient deschis lângă malaxor",
+          "Măsurat doar de managerul tehnic"
+        ]
+      },
+      "lv": {
+        "q": "Kā jārīkojas ar amonjaku, nomērot vajadzīgo daudzumu?",
+        "o": [
+          "Jālej tieši traukā no mucas",
+          "Jātur hermētiski noslēgtā traukā līdz pievienošanai maisītājam",
+          "Jāatstāj atvērtā traukā maisītāja tuvumā",
+          "To drīkst mērīt tikai tehniskais vadītājs"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What controls entering the mixing vessel, and must be followed strictly?",
+        "o": [
+          "A verbal instruction from any colleague",
+          "A permit to work",
+          "A key left in the isolator",
+          "No control is required"
+        ]
+      },
+      "pl": {
+        "q": "Co kontroluje wejście do zbiornika mieszającego i musi być ściśle przestrzegane?",
+        "o": [
+          "Ustna instrukcja dowolnego kolegi",
+          "Zezwolenie na pracę (permit to work)",
+          "Klucz pozostawiony w wyłączniku izolującym",
+          "Nie jest wymagana żadna kontrola"
+        ]
+      },
+      "bg": {
+        "q": "Какво контролира влизането в смесителния съд и трябва да се спазва стриктно?",
+        "o": [
+          "Устна инструкция от произволен колега",
+          "Разрешение за работа (permit to work)",
+          "Ключ, оставен в изолиращия прекъсвач",
+          "Не се изисква никакъв контрол"
+        ]
+      },
+      "ro": {
+        "q": "Ce controlează intrarea în vasul de amestecare și trebuie respectat strict?",
+        "o": [
+          "O instrucțiune verbală de la orice coleg",
+          "Un permis de lucru",
+          "O cheie lăsată în întrerupătorul de izolare",
+          "Nu este necesar niciun control"
+        ]
+      },
+      "lv": {
+        "q": "Kas kontrolē iekļūšanu maisīšanas traukā un stingri jāievēro?",
+        "o": [
+          "Jebkura kolēģa mutiska instrukcija",
+          "Darba atļauja (permit to work)",
+          "Atslēga, kas atstāta izolācijas slēdzī",
+          "Nekāda kontrole nav nepieciešama"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "What must be in place underneath the outlet hatch before RT Mixer A002 can be operated?",
+        "o": [
+          "A paste feeder",
+          "An empty IBC",
+          "The batch card",
+          "A jet washer"
+        ]
+      },
+      "pl": {
+        "q": "Co musi znajdować się pod włazem wylotowym, aby RT Mixer A002 mógł być obsługiwany?",
+        "o": [
+          "Podajnik pasty",
+          "Pusty pojemnik IBC",
+          "Karta partii",
+          "Myjka wysokociśnieniowa"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да има поставено под изходния люк, за да може RT Mixer A002 да бъде използван?",
+        "o": [
+          "Подаващо устройство за паста",
+          "Празен IBC контейнер",
+          "Картата на партидата",
+          "Водоструйна машина"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să existe sub chepengul de evacuare pentru ca RT Mixer A002 să poată fi operat?",
+        "o": [
+          "Un alimentator de pastă",
+          "Un IBC gol",
+          "Fișa lotului",
+          "Un aparat de spălare cu jet"
+        ]
+      },
+      "lv": {
+        "q": "Kam jāatrodas zem izplūdes lūkas, lai RT Mixer A002 varētu darbināt?",
+        "o": [
+          "Pastas padevējam",
+          "Tukšam IBC",
+          "Partijas kartei",
+          "Augstspiediena mazgātājam"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "To run the RT Mixer A002 on the timer, what must the CONTROL switch be set to?",
+        "o": [
+          "DISCHARGE",
+          "OFF",
+          "MIX",
+          "MANUAL"
+        ]
+      },
+      "pl": {
+        "q": "Aby uruchomić RT Mixer A002 na timerze, w jakiej pozycji musi być przełącznik CONTROL?",
+        "o": [
+          "DISCHARGE",
+          "OFF",
+          "MIX",
+          "MANUAL"
+        ]
+      },
+      "bg": {
+        "q": "За да работи RT Mixer A002 по таймер, в каква позиция трябва да бъде превключвателят CONTROL?",
+        "o": [
+          "DISCHARGE",
+          "OFF",
+          "MIX",
+          "MANUAL"
+        ]
+      },
+      "ro": {
+        "q": "Pentru a rula RT Mixer A002 pe temporizator, pe ce poziție trebuie să fie comutatorul CONTROL?",
+        "o": [
+          "DISCHARGE",
+          "OFF",
+          "MIX",
+          "MANUAL"
+        ]
+      },
+      "lv": {
+        "q": "Lai darbinātu RT Mixer A002 pēc taimera, kādā pozīcijā jābūt slēdzim CONTROL?",
+        "o": [
+          "DISCHARGE",
+          "OFF",
+          "MIX",
+          "MANUAL"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "What key must be in the paste feeder PF002 control panel before its paddle can run?",
+        "o": [
+          "Key P05",
+          "Key N90",
+          "Key N91",
+          "Key P09"
+        ]
+      },
+      "pl": {
+        "q": "Jaki klucz musi znajdować się w panelu sterowania podajnika pasty PF002, aby jego łopatka mogła pracować?",
+        "o": [
+          "Klucz P05",
+          "Klucz N90",
+          "Klucz N91",
+          "Klucz P09"
+        ]
+      },
+      "bg": {
+        "q": "Кой ключ трябва да е в контролния панел на подаващото устройство за паста PF002, за да може перката му да работи?",
+        "o": [
+          "Ключ P05",
+          "Ключ N90",
+          "Ключ N91",
+          "Ключ P09"
+        ]
+      },
+      "ro": {
+        "q": "Ce cheie trebuie să fie în panoul de control al alimentatorului de pastă PF002 pentru ca paleta acestuia să poată funcționa?",
+        "o": [
+          "Cheia P05",
+          "Cheia N90",
+          "Cheia N91",
+          "Cheia P09"
+        ]
+      },
+      "lv": {
+        "q": "Kurai atslēgai jāatrodas pastas padevēja PF002 vadības panelī, lai tā lāpstiņa varētu darboties?",
+        "o": [
+          "Atslēgai P05",
+          "Atslēgai N90",
+          "Atslēgai N91",
+          "Atslēgai P09"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What happens to a paste feeder's paddle and screw once it is locked in place with its top hatch key?",
+        "o": [
+          "They run continuously",
+          "They cannot be run",
+          "Only the paddle can run",
+          "Only the screw can run"
+        ]
+      },
+      "pl": {
+        "q": "Co dzieje się z łopatką i ślimakiem podajnika pasty, gdy zostanie on zablokowany na miejscu kluczem właza górnego?",
+        "o": [
+          "Pracują nieprzerwanie",
+          "Nie mogą pracować",
+          "Może pracować tylko łopatka",
+          "Może pracować tylko ślimak"
+        ]
+      },
+      "bg": {
+        "q": "Какво се случва с перката и шнека на подаващото устройство, когато то бъде заключено на място с ключа за горния люк?",
+        "o": [
+          "Работят непрекъснато",
+          "Не могат да работят",
+          "Може да работи само перката",
+          "Може да работи само шнекът"
+        ]
+      },
+      "ro": {
+        "q": "Ce se întâmplă cu paleta și șnecul unui alimentator de pastă odată ce este blocat în poziție cu cheia chepengului superior?",
+        "o": [
+          "Funcționează continuu",
+          "Nu pot funcționa",
+          "Poate funcționa doar paleta",
+          "Poate funcționa doar șnecul"
+        ]
+      },
+      "lv": {
+        "q": "Kas notiek ar pastas padevēja lāpstiņu un šneku, kad tas ir nofiksēts vietā ar augšējās lūkas atslēgu?",
+        "o": [
+          "Tie darbojas nepārtraukti",
+          "Tie nevar darboties",
+          "Var darboties tikai lāpstiņa",
+          "Var darboties tikai šneks"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "What must be true before starting up the mixer?",
+        "o": [
+          "Key N91 must be in the remote block",
+          "The paste feeder screw must be running",
+          "The blending vessel grill must be down",
+          "The CONTROL switch must be on MIX"
+        ]
+      },
+      "pl": {
+        "q": "Co musi być spełnione przed uruchomieniem mieszalnika?",
+        "o": [
+          "Klucz N91 musi znajdować się w bloku zdalnym",
+          "Ślimak podajnika pasty musi pracować",
+          "Krata zbiornika mieszającego musi być opuszczona",
+          "Przełącznik CONTROL musi być ustawiony na MIX"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да е изпълнено, преди да се стартира миксерът?",
+        "o": [
+          "Ключ N91 трябва да е в дистанционния блок",
+          "Шнекът на подаващото устройство трябва да работи",
+          "Решетката на смесителния съд трябва да е спусната надолу",
+          "Превключвателят CONTROL трябва да е на MIX"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să fie adevărat înainte de pornirea malaxorului?",
+        "o": [
+          "Cheia N91 trebuie să fie în blocul la distanță",
+          "Șnecul alimentatorului de pastă trebuie să funcționeze",
+          "Grătarul vasului de amestecare trebuie să fie coborât",
+          "Comutatorul CONTROL trebuie să fie pe MIX"
+        ]
+      },
+      "lv": {
+        "q": "Kam jābūt izpildītam pirms maisītāja iedarbināšanas?",
+        "o": [
+          "Atslēgai N91 jāatrodas attālinātajā blokā",
+          "Pastas padevēja šnekam jādarbojas",
+          "Maisīšanas trauka režģim jābūt nolaistam",
+          "Slēdzim CONTROL jābūt pozīcijā MIX"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "How is a sample taken from the RT Mixer?",
+        "o": [
+          "By lifting the blending vessel grill and using a long-handled ladle",
+          "By opening the outlet hatch and catching product in a cup",
+          "By removing the top hatch on the paste feeder",
+          "By taking product from the Tub Filling Machine hopper"
+        ]
+      },
+      "pl": {
+        "q": "Jak pobiera się próbkę z RT Mixer?",
+        "o": [
+          "Unosząc kratę zbiornika mieszającego i używając chochli z długim uchwytem",
+          "Otwierając właz wylotowy i łapiąc produkt do kubka",
+          "Zdejmując właz górny podajnika pasty",
+          "Pobierając produkt z leja Maszyny Napełniającej Tuby"
+        ]
+      },
+      "bg": {
+        "q": "Как се взема проба от RT Mixer?",
+        "o": [
+          "Като се повдигне решетката на смесителния съд и се използва дългодръжкова черпалка",
+          "Като се отвори изходният люк и се улови продукт в чаша",
+          "Като се свали горният люк на подаващото устройство",
+          "Като се вземе продукт от бункера на Машината за пълнене на тубички"
+        ]
+      },
+      "ro": {
+        "q": "Cum se prelevează o probă din RT Mixer?",
+        "o": [
+          "Ridicând grătarul vasului de amestecare și folosind un polonic cu mâner lung",
+          "Deschizând chepengul de evacuare și prinzând produsul într-o cupă",
+          "Îndepărtând chepengul superior de pe alimentatorul de pastă",
+          "Preluând produs din buncărul Mașinii de umplere a tuburilor"
+        ]
+      },
+      "lv": {
+        "q": "Kā tiek ņemts paraugs no RT Mixer?",
+        "o": [
+          "Paceļot maisīšanas trauka režģi un izmantojot garkātaino kausiņu",
+          "Atverot izplūdes lūku un uztverot produktu glāzē",
+          "Noņemot pastas padevēja augšējo lūku",
+          "Ņemot produktu no Tūbiņu pildīšanas iekārtas piltuves"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "To inspect the RT Mixer A002, which key must be put into the remote block to release key N91?",
+        "o": [
+          "Key P21",
+          "Key N90",
+          "Key P09",
+          "Key P05"
+        ]
+      },
+      "pl": {
+        "q": "Aby przeprowadzić inspekcję RT Mixer A002, jaki klucz musi zostać włożony do bloku zdalnego, aby zwolnić klucz N91?",
+        "o": [
+          "Klucz P21",
+          "Klucz N90",
+          "Klucz P09",
+          "Klucz P05"
+        ]
+      },
+      "bg": {
+        "q": "За да прегледате RT Mixer A002, кой ключ трябва да бъде поставен в дистанционния блок, за да се освободи ключ N91?",
+        "o": [
+          "Ключ P21",
+          "Ключ N90",
+          "Ключ P09",
+          "Ключ P05"
+        ]
+      },
+      "ro": {
+        "q": "Pentru a inspecta RT Mixer A002, ce cheie trebuie introdusă în blocul la distanță pentru a elibera cheia N91?",
+        "o": [
+          "Cheia P21",
+          "Cheia N90",
+          "Cheia P09",
+          "Cheia P05"
+        ]
+      },
+      "lv": {
+        "q": "Lai pārbaudītu RT Mixer A002, kura atslēga jāievieto attālinātajā blokā, lai atbrīvotu atslēgu N91?",
+        "o": [
+          "Atslēga P21",
+          "Atslēga N90",
+          "Atslēga P09",
+          "Atslēga P05"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "During downstairs cleaning, what must be true of the paste feeder's outlet valve while it is being jet washed?",
+        "o": [
+          "It must be closed",
+          "It is not relevant to cleaning",
+          "It must be locked with key P21",
+          "It must be left open so washings can drain into a container"
+        ]
+      },
+      "pl": {
+        "q": "Podczas czyszczenia na dole, co musi być prawdą w odniesieniu do zaworu wylotowego podajnika pasty podczas mycia myjką wysokociśnieniową?",
+        "o": [
+          "Musi być zamknięty",
+          "Nie ma to znaczenia dla czyszczenia",
+          "Musi być zablokowany kluczem P21",
+          "Musi pozostać otwarty, aby popłuczyny mogły spłynąć do pojemnika"
+        ]
+      },
+      "bg": {
+        "q": "По време на почистването долу, какво трябва да е вярно за изходния клапан на подаващото устройство, докато то се мие с водоструйна машина?",
+        "o": [
+          "Трябва да е затворен",
+          "Няма значение за почистването",
+          "Трябва да е заключен с ключ P21",
+          "Трябва да остане отворен, за да могат промивните води да се оттекат в контейнер"
+        ]
+      },
+      "ro": {
+        "q": "În timpul curățării la parter, ce trebuie să fie adevărat despre valva de evacuare a alimentatorului de pastă în timp ce este spălat cu jet?",
+        "o": [
+          "Trebuie să fie închisă",
+          "Nu este relevant pentru curățare",
+          "Trebuie să fie blocată cu cheia P21",
+          "Trebuie lăsată deschisă pentru ca apele de spălare să se scurgă într-un recipient"
+        ]
+      },
+      "lv": {
+        "q": "Tīrot lejasstāvā, kam jābūt patiesam par pastas padevēja izplūdes vārstu, kamēr tas tiek mazgāts ar augstspiediena mazgātāju?",
+        "o": [
+          "Tam jābūt aizvērtam",
+          "Tam nav nozīmes tīrīšanai",
+          "Tam jābūt aizslēgtam ar atslēgu P21",
+          "Tas jāatstāj atvērts, lai mazgāšanas ūdens varētu notecēt tvertnē"
+        ]
+      }
+    }
+  ]
+}

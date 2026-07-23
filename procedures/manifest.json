@@ -1,217 +1,229 @@
 {
-  "procedures": [
-    {
-      "id": "wp09z",
-      "file": "wp09z.json",
-      "docRef": "WP09Z",
-      "title": {
-        "en": "General Safety & Emergency Equipment",
-        "pl": "Bezpieczeństwo ogólne i wyposażenie awaryjne"
-      }
-    },
-    {
-      "id": "wp09g",
-      "file": "wp09g.json",
-      "docRef": "WP09G",
-      "title": {
-        "en": "Karmelle Ready Mixed Adhesive Filling Machine",
-        "pl": "Maszyna do napełniania klejem gotowym Karmelle",
-        "bg": "Машина за пълнене с готово смесен адхезив Karmelle",
-        "ro": "Mașină de umplere cu adeziv gata amestecat Karmelle",
-        "lv": "Karmelle gatavā līmes maisījuma pildīšanas iekārta"
-      }
-    },
-    {
-      "id": "wp09l",
-      "file": "wp09l.json",
-      "docRef": "WP09L",
-      "title": {
-        "en": "Tub Filling A004/A005",
-        "pl": "Napełnianie kubków A004/A005",
-        "bg": "Пълнене на кофички A004/A005",
-        "ro": "Umplere găleți A004/A005",
-        "lv": "Trauku pildīšana A004/A005"
-      }
-    },
-    {
-      "id": "wp09d",
-      "file": "wp09d.json",
-      "docRef": "WP09D",
-      "title": {
-        "en": "Powder Filling Lines",
-        "pl": "Linie napełniania proszkiem",
-        "bg": "Линии за пълнене на прах",
-        "ro": "Linii de umplere cu pudră",
-        "lv": "Pulvera pildīšanas līnijas"
-      }
-    },
-    {
-      "id": "wp74a",
-      "file": "wp74a.json",
-      "docRef": "WP74A",
-      "title": {
-        "en": "Loading of Triple Chamber Baler (Fillers)",
-        "pl": "Załadunek potrójnej prasy belującej (Fillers)",
-        "bg": "Товарене на тройния балиращ пресовач (Fillers)",
-        "ro": "Încărcarea presei de balotat cu trei camere (Fillers)",
-        "lv": "Trīskameru balošanas preses iekraušana (Fillers)"
-      }
-    },
-    {
-      "id": "wp93",
-      "file": "wp93.json",
-      "docRef": "WP93",
-      "title": {
-        "en": "Loading/Unloading Activities",
-        "pl": "Czynności załadunkowe i rozładunkowe",
-        "bg": "Дейности по товарене/разтоварване",
-        "ro": "Activități de încărcare/descărcare",
-        "lv": "Iekraušanas/izkraušanas darbības"
-      }
-    },
-    {
-      "id": "wp18",
-      "file": "wp18.json",
-      "docRef": "WP18",
-      "title": {
-        "en": "Fire Protection",
-        "pl": "Ochrona przeciwpożarowa",
-        "bg": "Противопожарна защита",
-        "ro": "Protecția împotriva incendiilor",
-        "lv": "Ugunsdrošība"
-      }
-    },
-    {
-      "id": "wp09c",
-      "file": "wp09c.json",
-      "docRef": "WP09C",
-      "title": {
-        "en": "Blending (Powder/Sugar Soap Blender)",
-        "pl": "Mieszanie (blender do proszku/mydła w płatkach)",
-        "bg": "Смесване (блендер за прах/сапунен сапун)",
-        "ro": "Amestecare (mixer de pudră/săpun cu zahăr)",
-        "lv": "Maisīšana (pulvera/cukura ziepju maisītājs)"
-      }
-    },
-    {
-      "id": "wp21a",
-      "file": "wp21a.json",
-      "docRef": "WP21A",
-      "title": {
-        "en": "Housekeeping & Workplace Inspections",
-        "pl": "Utrzymanie porządku i inspekcje miejsca pracy",
-        "bg": "Поддържане на реда и проверки на работното място",
-        "ro": "Menaj și inspecții la locul de muncă",
-        "lv": "Kārtības uzturēšana un darba vietas pārbaudes"
-      }
-    },
-    {
-      "id": "wp22",
-      "file": "wp22.json",
-      "docRef": "WP22",
-      "title": {
-        "en": "Waste Management",
-        "pl": "Zarządzanie odpadami",
-        "bg": "Управление на отпадъците",
-        "ro": "Managementul deșeurilor",
-        "lv": "Atkritumu apsaimniekošana"
-      }
-    },
-    {
-      "id": "wp23",
-      "file": "wp23.json",
-      "docRef": "WP23",
-      "title": {
-        "en": "Accident/Incident & Protective Systems Failures Reporting & Investigation",
-        "pl": "Zgłaszanie i badanie wypadków/zdarzeń oraz awarii systemów zabezpieczających",
-        "bg": "Докладване и разследване на инциденти/произшествия и повреди на защитни системи",
-        "ro": "Raportarea și investigarea accidentelor/incidentelor și a defecțiunilor sistemelor de protecție",
-        "lv": "Negadījumu/incidentu un aizsardzības sistēmu atteiču ziņošana un izmeklēšana"
-      }
-    },
-    {
-      "id": "wp26",
-      "file": "wp26.json",
-      "docRef": "WP26",
-      "title": {
-        "en": "Communication and Consultation",
-        "pl": "Komunikacja i konsultacje",
-        "bg": "Комуникация и консултации",
-        "ro": "Comunicare și consultare",
-        "lv": "Komunikācija un konsultācijas"
-      }
-    },
-    {
-      "id": "wp32",
-      "file": "wp32.json",
-      "docRef": "WP32",
-      "title": {
-        "en": "OHS - PPE Assessment & Control",
-        "pl": "BHP – Ocena i kontrola ŚOI",
-        "bg": "ЗБУТ – Оценка и контрол на PPE",
-        "ro": "SSM – Evaluarea și controlul echipamentului de protecție",
-        "lv": "DDS – PPE novērtēšana un kontrole"
-      }
-    },
-    {
-      "id": "wp36",
-      "file": "wp36.json",
-      "docRef": "WP36",
-      "title": {
-        "en": "Control of Substances Hazardous to Health",
-        "pl": "Kontrola substancji niebezpiecznych dla zdrowia",
-        "bg": "Контрол на веществата, опасни за здравето",
-        "ro": "Controlul substanțelor periculoase pentru sănătate",
-        "lv": "Veselībai bīstamo vielu kontrole"
-      }
-    },
-    {
-      "id": "wp59",
-      "file": "wp59.json",
-      "docRef": "WP59",
-      "title": {
-        "en": "Personal Hygiene",
-        "pl": "Higiena osobista",
-        "bg": "Лична хигиена",
-        "ro": "Igienă personală",
-        "lv": "Personīgā higiēna"
-      }
-    },
-    {
-      "id": "wp28",
-      "file": "wp28.json",
-      "docRef": "WP28",
-      "title": {
-        "en": "OHS - Manual Handling Assessment Procedure",
-        "pl": "BHP – Procedura oceny ryzyka ręcznego przemieszczania",
-        "bg": "ЗБУТ – Процедура за оценка на риска при ръчно преместване",
-        "ro": "SSM – Procedura de evaluare a riscului de manipulare manuală",
-        "lv": "DDS – Manuālās pārvietošanas riska novērtēšanas procedūra"
-      }
-    },
-    {
-      "id": "wp09e",
-      "file": "wp09e.json",
-      "docRef": "WP09E",
-      "title": {
-        "en": "Blending - Ready Mixed Adhesives - Fillers & Adhesives",
-        "pl": "Mieszanie – Kleje gotowe – Fillers & Adhesives",
-        "bg": "Смесване – Готови адхезиви – Fillers & Adhesives",
-        "ro": "Amestecare – Adezivi gata amestecați – Fillers & Adhesives",
-        "lv": "Maisīšana – Gatavie adhezīvi – Fillers & Adhesives"
-      }
-    },
-    {
-      "id": "wp09i",
-      "file": "wp09i.json",
-      "docRef": "WP09I",
-      "title": {
-        "en": "Blending - Ready Mixed Tube Product Blender",
-        "pl": "Mieszanie – Mieszalnik produktu w tubach",
-        "bg": "Смесване – Смесител за продукт в тубички",
-        "ro": "Amestecare – Malaxor pentru produs tub",
-        "lv": "Maisīšana – Tūbiņu produkta maisītājs"
-      }
-    }
-  ]
+    "procedures": [
+        {
+            "id": "wp09z",
+            "file": "wp09z.json",
+            "docRef": "WP09Z",
+            "title": {
+                "en": "General Safety & Emergency Equipment",
+                "pl": "Bezpieczeństwo ogólne i wyposażenie awaryjne"
+            }
+        },
+        {
+            "id": "wp09g",
+            "file": "wp09g.json",
+            "docRef": "WP09G",
+            "title": {
+                "en": "Karmelle Ready Mixed Adhesive Filling Machine",
+                "pl": "Maszyna do napełniania klejem gotowym Karmelle",
+                "bg": "Машина за пълнене с готово смесен адхезив Karmelle",
+                "ro": "Mașină de umplere cu adeziv gata amestecat Karmelle",
+                "lv": "Karmelle gatavā līmes maisījuma pildīšanas iekārta"
+            }
+        },
+        {
+            "id": "wp09l",
+            "file": "wp09l.json",
+            "docRef": "WP09L",
+            "title": {
+                "en": "Tub Filling A004/A005",
+                "pl": "Napełnianie kubków A004/A005",
+                "bg": "Пълнене на кофички A004/A005",
+                "ro": "Umplere găleți A004/A005",
+                "lv": "Trauku pildīšana A004/A005"
+            }
+        },
+        {
+            "id": "wp09d",
+            "file": "wp09d.json",
+            "docRef": "WP09D",
+            "title": {
+                "en": "Powder Filling Lines",
+                "pl": "Linie napełniania proszkiem",
+                "bg": "Линии за пълнене на прах",
+                "ro": "Linii de umplere cu pudră",
+                "lv": "Pulvera pildīšanas līnijas"
+            }
+        },
+        {
+            "id": "wp74a",
+            "file": "wp74a.json",
+            "docRef": "WP74A",
+            "title": {
+                "en": "Loading of Triple Chamber Baler (Fillers)",
+                "pl": "Załadunek potrójnej prasy belującej (Fillers)",
+                "bg": "Товарене на тройния балиращ пресовач (Fillers)",
+                "ro": "Încărcarea presei de balotat cu trei camere (Fillers)",
+                "lv": "Trīskameru balošanas preses iekraušana (Fillers)"
+            }
+        },
+        {
+            "id": "wp93",
+            "file": "wp93.json",
+            "docRef": "WP93",
+            "title": {
+                "en": "Loading/Unloading Activities",
+                "pl": "Czynności załadunkowe i rozładunkowe",
+                "bg": "Дейности по товарене/разтоварване",
+                "ro": "Activități de încărcare/descărcare",
+                "lv": "Iekraušanas/izkraušanas darbības"
+            }
+        },
+        {
+            "id": "wp18",
+            "file": "wp18.json",
+            "docRef": "WP18",
+            "title": {
+                "en": "Fire Protection",
+                "pl": "Ochrona przeciwpożarowa",
+                "bg": "Противопожарна защита",
+                "ro": "Protecția împotriva incendiilor",
+                "lv": "Ugunsdrošība"
+            }
+        },
+        {
+            "id": "wp09c",
+            "file": "wp09c.json",
+            "docRef": "WP09C",
+            "title": {
+                "en": "Blending (Powder/Sugar Soap Blender)",
+                "pl": "Mieszanie (blender do proszku/mydła w płatkach)",
+                "bg": "Смесване (блендер за прах/сапунен сапун)",
+                "ro": "Amestecare (mixer de pudră/săpun cu zahăr)",
+                "lv": "Maisīšana (pulvera/cukura ziepju maisītājs)"
+            }
+        },
+        {
+            "id": "wp21a",
+            "file": "wp21a.json",
+            "docRef": "WP21A",
+            "title": {
+                "en": "Housekeeping & Workplace Inspections",
+                "pl": "Utrzymanie porządku i inspekcje miejsca pracy",
+                "bg": "Поддържане на реда и проверки на работното място",
+                "ro": "Menaj și inspecții la locul de muncă",
+                "lv": "Kārtības uzturēšana un darba vietas pārbaudes"
+            }
+        },
+        {
+            "id": "wp22",
+            "file": "wp22.json",
+            "docRef": "WP22",
+            "title": {
+                "en": "Waste Management",
+                "pl": "Zarządzanie odpadami",
+                "bg": "Управление на отпадъците",
+                "ro": "Managementul deșeurilor",
+                "lv": "Atkritumu apsaimniekošana"
+            }
+        },
+        {
+            "id": "wp23",
+            "file": "wp23.json",
+            "docRef": "WP23",
+            "title": {
+                "en": "Accident/Incident & Protective Systems Failures Reporting & Investigation",
+                "pl": "Zgłaszanie i badanie wypadków/zdarzeń oraz awarii systemów zabezpieczających",
+                "bg": "Докладване и разследване на инциденти/произшествия и повреди на защитни системи",
+                "ro": "Raportarea și investigarea accidentelor/incidentelor și a defecțiunilor sistemelor de protecție",
+                "lv": "Negadījumu/incidentu un aizsardzības sistēmu atteiču ziņošana un izmeklēšana"
+            }
+        },
+        {
+            "id": "wp26",
+            "file": "wp26.json",
+            "docRef": "WP26",
+            "title": {
+                "en": "Communication and Consultation",
+                "pl": "Komunikacja i konsultacje",
+                "bg": "Комуникация и консултации",
+                "ro": "Comunicare și consultare",
+                "lv": "Komunikācija un konsultācijas"
+            }
+        },
+        {
+            "id": "wp32",
+            "file": "wp32.json",
+            "docRef": "WP32",
+            "title": {
+                "en": "OHS - PPE Assessment & Control",
+                "pl": "BHP – Ocena i kontrola ŚOI",
+                "bg": "ЗБУТ – Оценка и контрол на PPE",
+                "ro": "SSM – Evaluarea și controlul echipamentului de protecție",
+                "lv": "DDS – PPE novērtēšana un kontrole"
+            }
+        },
+        {
+            "id": "wp36",
+            "file": "wp36.json",
+            "docRef": "WP36",
+            "title": {
+                "en": "Control of Substances Hazardous to Health",
+                "pl": "Kontrola substancji niebezpiecznych dla zdrowia",
+                "bg": "Контрол на веществата, опасни за здравето",
+                "ro": "Controlul substanțelor periculoase pentru sănătate",
+                "lv": "Veselībai bīstamo vielu kontrole"
+            }
+        },
+        {
+            "id": "wp59",
+            "file": "wp59.json",
+            "docRef": "WP59",
+            "title": {
+                "en": "Personal Hygiene",
+                "pl": "Higiena osobista",
+                "bg": "Лична хигиена",
+                "ro": "Igienă personală",
+                "lv": "Personīgā higiēna"
+            }
+        },
+        {
+            "id": "wp28",
+            "file": "wp28.json",
+            "docRef": "WP28",
+            "title": {
+                "en": "OHS - Manual Handling Assessment Procedure",
+                "pl": "BHP – Procedura oceny ryzyka ręcznego przemieszczania",
+                "bg": "ЗБУТ – Процедура за оценка на риска при ръчно преместване",
+                "ro": "SSM – Procedura de evaluare a riscului de manipulare manuală",
+                "lv": "DDS – Manuālās pārvietošanas riska novērtēšanas procedūra"
+            }
+        },
+        {
+            "id": "wp09e",
+            "file": "wp09e.json",
+            "docRef": "WP09E",
+            "title": {
+                "en": "Blending - Ready Mixed Adhesives - Fillers & Adhesives",
+                "pl": "Mieszanie – Kleje gotowe – Fillers & Adhesives",
+                "bg": "Смесване – Готови адхезиви – Fillers & Adhesives",
+                "ro": "Amestecare – Adezivi gata amestecați – Fillers & Adhesives",
+                "lv": "Maisīšana – Gatavie adhezīvi – Fillers & Adhesives"
+            }
+        },
+        {
+            "id": "wp09i",
+            "file": "wp09i.json",
+            "docRef": "WP09I",
+            "title": {
+                "en": "Blending - Ready Mixed Tube Product Blender",
+                "pl": "Mieszanie – Mieszalnik produktu w tubach",
+                "bg": "Смесване – Смесител за продукт в тубички",
+                "ro": "Amestecare – Malaxor pentru produs tub",
+                "lv": "Maisīšana – Tūbiņu produkta maisītājs"
+            }
+        },
+        {
+            "id": "wp09j",
+            "file": "wp09j.json",
+            "docRef": "WP09J",
+            "title": {
+                "en": "Blending - Ready Mixed Tub Products",
+                "pl": "Mieszanie – Gotowe mieszanki w tubach",
+                "bg": "Смесване – Готови смесени продукти в тубички",
+                "ro": "Amestecare – Produse amestecate gata preparate pentru tuburi",
+                "lv": "Maisīšana – Gatavi maisīti tūbiņu produkti"
+            }
+        }
+    ]
 }
