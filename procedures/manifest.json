@@ -176,6 +176,42 @@
         "ro": "Igienă personală",
         "lv": "Personīgā higiēna"
       }
+    },
+    {
+      "id": "wp28",
+      "file": "wp28.json",
+      "docRef": "WP28",
+      "title": {
+        "en": "OHS - Manual Handling Assessment Procedure",
+        "pl": "BHP – Procedura oceny ryzyka ręcznego przemieszczania",
+        "bg": "ЗБУТ – Процедура за оценка на риска при ръчно преместване",
+        "ro": "SSM – Procedura de evaluare a riscului de manipulare manuală",
+        "lv": "DDS – Manuālās pārvietošanas riska novērtēšanas procedūra"
+      }
+    },
+    {
+      "id": "wp09e",
+      "file": "wp09e.json",
+      "docRef": "WP09E",
+      "title": {
+        "en": "Blending - Ready Mixed Adhesives - Fillers & Adhesives",
+        "pl": "Mieszanie – Kleje gotowe – Fillers & Adhesives",
+        "bg": "Смесване – Готови адхезиви – Fillers & Adhesives",
+        "ro": "Amestecare – Adezivi gata amestecați – Fillers & Adhesives",
+        "lv": "Maisīšana – Gatavie adhezīvi – Fillers & Adhesives"
+      }
+    },
+    {
+      "id": "wp09i",
+      "file": "wp09i.json",
+      "docRef": "WP09I",
+      "title": {
+        "en": "Blending - Ready Mixed Tube Product Blender",
+        "pl": "Mieszanie – Mieszalnik produktu w tubach",
+        "bg": "Смесване – Смесител за продукт в тубички",
+        "ro": "Amestecare – Malaxor pentru produs tub",
+        "lv": "Maisīšana – Tūbiņu produkta maisītājs"
+      }
     }
   ]
 }
