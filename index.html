@@ -22,10 +22,16 @@
   html,body{margin:0;padding:0;}
   body{
     background:var(--cream);
-    font-family:"Segoe UI","Helvetica Neue",Arial,sans-serif;
+    font-family:"Segoe UI","Tahoma","Helvetica Neue",Arial,sans-serif;
     color:var(--ink);
     line-height:1.5;
     min-height:100vh;
+  }
+  html[dir="rtl"] body{
+    font-family:"Tahoma","Segoe UI",Arial,sans-serif;
+  }
+  html[dir="rtl"] .brand-doc{
+    text-align:left;
   }
   .wrap{
     max-width:800px;
@@ -760,6 +766,8 @@ function setLang(lang){
     const btn = document.getElementById("btn-" + l.code);
     if(btn) btn.classList.toggle("active", l.code === lang);
   });
+  const langMeta = LANGUAGES.find(l => l.code === lang);
+  document.documentElement.setAttribute("dir", (langMeta && langMeta.rtl) ? "rtl" : "ltr");
   applyStaticI18n();
   const searchInput = document.getElementById("procedure-search");
   if(searchInput) searchInput.placeholder = t("search_placeholder");
