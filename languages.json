@@ -24,6 +24,12 @@
       "code": "lv",
       "label": "LV",
       "name": "Latviešu"
+    },
+    {
+      "code": "ps",
+      "label": "PS",
+      "name": "پښتو",
+      "rtl": true
     }
   ]
 }
