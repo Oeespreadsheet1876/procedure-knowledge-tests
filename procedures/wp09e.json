@@ -1,0 +1,581 @@
+{
+  "docRef": "WP09E",
+  "questions": [
+    {
+      "correct": 0,
+      "en": {
+        "q": "What must all blending operatives complete before carrying out this procedure?",
+        "o": [
+          "Training in WP09Y - Blending Area General Safety & Emergency Equipment",
+          "A forklift driving test",
+          "A first aid certificate",
+          "An annual fire drill"
+        ]
+      },
+      "pl": {
+        "q": "Co muszą ukończyć wszyscy operatorzy mieszania przed przystąpieniem do tej procedury?",
+        "o": [
+          "Szkolenie WP09Y – Ogólne zasady bezpieczeństwa i wyposażenie awaryjne w obszarze mieszania",
+          "Test na uprawnienia do obsługi wózka widłowego",
+          "Certyfikat pierwszej pomocy",
+          "Coroczne ćwiczenia przeciwpożarowe"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да завършат всички оператори по смесване, преди да извършват тази процедура?",
+        "o": [
+          "Обучение WP09Y – Обща безопасност и аварийно оборудване в зоната за смесване",
+          "Тест за управление на мотокар",
+          "Сертификат за първа помощ",
+          "Годишно противопожарно учение"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să finalizeze toți operatorii de amestecare înainte de a efectua această procedură?",
+        "o": [
+          "Instruirea WP09Y – Siguranță generală și echipament de urgență în zona de amestecare",
+          "Un test de conducere a stivuitorului",
+          "Un certificat de prim ajutor",
+          "Un exercițiu anual de incendiu"
+        ]
+      },
+      "lv": {
+        "q": "Kas visiem maisīšanas operatoriem jāpabeidz pirms šīs procedūras veikšanas?",
+        "o": [
+          "WP09Y apmācība – vispārējā drošība un avārijas aprīkojums maisīšanas zonā",
+          "Autoiekrāvēja vadīšanas tests",
+          "Pirmās palīdzības sertifikāts",
+          "Ikgadējā ugunsdrošības mācība"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Before injecting steam into the vessel, what must be true of the hatch?",
+        "o": [
+          "It must be left open for ventilation",
+          "It must be closed, secure and not opened again until the addition is finished",
+          "It must be removed completely",
+          "It only needs closing halfway"
+        ]
+      },
+      "pl": {
+        "q": "Co musi być prawdą w odniesieniu do włazu przed wtryskiwaniem pary do zbiornika?",
+        "o": [
+          "Musi pozostać otwarty w celu wentylacji",
+          "Musi być zamknięty, zabezpieczony i nie otwierany ponownie aż do zakończenia dodawania",
+          "Musi zostać całkowicie zdemontowany",
+          "Wystarczy zamknąć go do połowy"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да е вярно за люка преди инжектиране на пара в съда?",
+        "o": [
+          "Трябва да остане отворен за вентилация",
+          "Трябва да е затворен, обезопасен и да не се отваря отново до приключване на добавянето",
+          "Трябва да бъде напълно демонтиран",
+          "Достатъчно е да бъде затворен наполовина"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să fie adevărat despre chepeng înainte de injectarea aburului în vas?",
+        "o": [
+          "Trebuie să rămână deschis pentru ventilație",
+          "Trebuie să fie închis, asigurat și să nu fie deschis din nou până la finalizarea adăugării",
+          "Trebuie să fie demontat complet",
+          "Este suficient să fie închis pe jumătate"
+        ]
+      },
+      "lv": {
+        "q": "Kam jābūt patiesam attiecībā uz lūku pirms tvaika ievadīšanas traukā?",
+        "o": [
+          "Tai jāpaliek atvērtai ventilācijai",
+          "Tai jābūt aizvērtai, nostiprinātai un neatvērtai atkārtoti, kamēr pievienošana nav pabeigta",
+          "Tā pilnībā jānoņem",
+          "Pietiek to aizvērt uz pusi"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "When must the mixer be isolated at the main control panel?",
+        "o": [
+          "Only at the end of the shift",
+          "Before taking QC samples or cleaning the interior",
+          "Only during a fire alarm",
+          "Never, it must stay running at all times"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy mieszalnik musi zostać odizolowany na głównym panelu sterowania?",
+        "o": [
+          "Tylko na koniec zmiany",
+          "Przed pobraniem próbek do kontroli jakości lub czyszczeniem wnętrza",
+          "Tylko podczas alarmu pożarowego",
+          "Nigdy, musi pracować bez przerwy"
+        ]
+      },
+      "bg": {
+        "q": "Кога миксерът трябва да бъде изолиран на главния контролен панел?",
+        "o": [
+          "Само в края на смяната",
+          "Преди вземане на проби за контрол на качеството или почистване на вътрешността",
+          "Само по време на пожарна аларма",
+          "Никога, той трябва да работи постоянно"
+        ]
+      },
+      "ro": {
+        "q": "Când trebuie izolat malaxorul la panoul de control principal?",
+        "o": [
+          "Doar la sfârșitul turei",
+          "Înainte de prelevarea probelor pentru controlul calității sau curățarea interiorului",
+          "Doar în timpul unei alarme de incendiu",
+          "Niciodată, trebuie să funcționeze permanent"
+        ]
+      },
+      "lv": {
+        "q": "Kad maisītājs jāizolē pie galvenā vadības paneļa?",
+        "o": [
+          "Tikai maiņas beigās",
+          "Pirms KK paraugu ņemšanas vai iekšpuses tīrīšanas",
+          "Tikai ugunsgrēka trauksmes laikā",
+          "Nekad, tam jādarbojas nepārtraukti"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What must be running before powders are added to the vessel?",
+        "o": [
+          "The steam generator",
+          "The extractor",
+          "The water meter",
+          "The jet washer"
+        ]
+      },
+      "pl": {
+        "q": "Co musi działać przed dodaniem proszków do zbiornika?",
+        "o": [
+          "Generator pary",
+          "Wyciąg (ekstraktor)",
+          "Wodomierz",
+          "Myjka wysokociśnieniowa"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да работи, преди да се добавят прахове в съда?",
+        "o": [
+          "Парогенераторът",
+          "Аспирацията (екстракторът)",
+          "Водомерът",
+          "Водоструйната машина"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să funcționeze înainte de adăugarea pulberilor în vas?",
+        "o": [
+          "Generatorul de abur",
+          "Exhaustorul (extractorul)",
+          "Contorul de apă",
+          "Aparatul de spălare cu jet"
+        ]
+      },
+      "lv": {
+        "q": "Kam jādarbojas pirms pulveru pievienošanas traukam?",
+        "o": [
+          "Tvaika ģeneratoram",
+          "Nosūcējam (ekstraktoram)",
+          "Ūdens skaitītājam",
+          "Augstspiediena mazgātājam"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "What controls entry into the mixing vessel?",
+        "o": [
+          "A permit to work",
+          "A verbal instruction from any colleague",
+          "No control is required",
+          "A key left in the isolator switch"
+        ]
+      },
+      "pl": {
+        "q": "Co kontroluje wejście do zbiornika mieszającego?",
+        "o": [
+          "Zezwolenie na pracę (permit to work)",
+          "Ustna instrukcja dowolnego kolegi",
+          "Nie jest wymagana żadna kontrola",
+          "Klucz pozostawiony w wyłączniku izolującym"
+        ]
+      },
+      "bg": {
+        "q": "Какво контролира влизането в смесителния съд?",
+        "o": [
+          "Разрешение за работа (permit to work)",
+          "Устна инструкция от произволен колега",
+          "Не се изисква никакъв контрол",
+          "Ключ, оставен в изолиращия прекъсвач"
+        ]
+      },
+      "ro": {
+        "q": "Ce controlează intrarea în vasul de amestecare?",
+        "o": [
+          "Un permis de lucru",
+          "O instrucțiune verbală de la orice coleg",
+          "Nu este necesar niciun control",
+          "O cheie lăsată în întrerupătorul de izolare"
+        ]
+      },
+      "lv": {
+        "q": "Kas kontrolē iekļūšanu maisīšanas traukā?",
+        "o": [
+          "Darba atļauja (permit to work)",
+          "Jebkura kolēģa mutiska instrukcija",
+          "Nekāda kontrole nav nepieciešama",
+          "Atslēga, kas atstāta izolācijas slēdzī"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Who is responsible for co-ordinating the effective implementation of this procedure?",
+        "o": [
+          "The Production Manager",
+          "The QC Operative",
+          "The Blending Operative",
+          "The Forklift Driver"
+        ]
+      },
+      "pl": {
+        "q": "Kto odpowiada za koordynację skutecznego wdrożenia tej procedury?",
+        "o": [
+          "Kierownik Produkcji",
+          "Operator kontroli jakości",
+          "Operator mieszania",
+          "Kierowca wózka widłowego"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за координирането на ефективното изпълнение на тази процедура?",
+        "o": [
+          "Производственият мениджър",
+          "Операторът по качествен контрол",
+          "Операторът по смесване",
+          "Шофьорът на мотокар"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru coordonarea implementării eficiente a acestei proceduri?",
+        "o": [
+          "Managerul de producție",
+          "Operatorul de control al calității",
+          "Operatorul de amestecare",
+          "Șoferul de stivuitor"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par šīs procedūras efektīvas ieviešanas koordinēšanu?",
+        "o": [
+          "Ražošanas vadītājs",
+          "KK operators",
+          "Maisīšanas operators",
+          "Autoiekrāvēja vadītājs"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Who, together with the Night Shift Manager, is responsible for training blending operatives?",
+        "o": [
+          "The HSE Manager",
+          "The Blending Charge Hand",
+          "The Buyer",
+          "The IT Manager"
+        ]
+      },
+      "pl": {
+        "q": "Kto, wspólnie z Kierownikiem Zmiany Nocnej, odpowiada za szkolenie operatorów mieszania?",
+        "o": [
+          "Kierownik BHP",
+          "Brygadzista mieszania (Blending Charge Hand)",
+          "Zaopatrzeniowiec",
+          "Kierownik IT"
+        ]
+      },
+      "bg": {
+        "q": "Кой, заедно с нощния мениджър на смяната, отговаря за обучението на операторите по смесване?",
+        "o": [
+          "Мениджърът по ЗБУТ",
+          "Бригадирът по смесване (Blending Charge Hand)",
+          "Снабдителят",
+          "ИТ мениджърът"
+        ]
+      },
+      "ro": {
+        "q": "Cine, împreună cu managerul de tură de noapte, este responsabil pentru instruirea operatorilor de amestecare?",
+        "o": [
+          "Managerul HSE",
+          "Șeful de echipă de amestecare (Blending Charge Hand)",
+          "Responsabilul cu achizițiile",
+          "Managerul IT"
+        ]
+      },
+      "lv": {
+        "q": "Kas kopā ar nakts maiņas vadītāju ir atbildīgs par maisīšanas operatoru apmācību?",
+        "o": [
+          "DDS vadītājs",
+          "Maisīšanas brigadieris (Blending Charge Hand)",
+          "Iepirkumu speciālists",
+          "IT vadītājs"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What is the minimum pre-set for the water meter?",
+        "o": [
+          "5 litres",
+          "10 litres",
+          "25 litres",
+          "50 litres"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest minimalny ustawiony poziom wodomierza?",
+        "o": [
+          "5 litrów",
+          "10 litrów",
+          "25 litrów",
+          "50 litrów"
+        ]
+      },
+      "bg": {
+        "q": "Каква е минималната предварителна настройка на водомера?",
+        "o": [
+          "5 литра",
+          "10 литра",
+          "25 литра",
+          "50 литра"
+        ]
+      },
+      "ro": {
+        "q": "Care este presetarea minimă a contorului de apă?",
+        "o": [
+          "5 litri",
+          "10 litri",
+          "25 litri",
+          "50 litri"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir minimālais ūdens skaitītāja iepriekšējais iestatījums?",
+        "o": [
+          "5 litri",
+          "10 litri",
+          "25 litri",
+          "50 litri"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "When using Vessel 2, what should be the state of Valve C?",
+        "o": [
+          "Open",
+          "Closed",
+          "Half open",
+          "It is not used with Vessel 2"
+        ]
+      },
+      "pl": {
+        "q": "Jaki powinien być stan Zaworu C przy korzystaniu ze Zbiornika 2?",
+        "o": [
+          "Otwarty",
+          "Zamknięty",
+          "Częściowo otwarty",
+          "Nie jest używany przy Zbiorniku 2"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да е състоянието на Клапан C при използване на Съд 2?",
+        "o": [
+          "Отворен",
+          "Затворен",
+          "Частично отворен",
+          "Не се използва със Съд 2"
+        ]
+      },
+      "ro": {
+        "q": "Care ar trebui să fie starea Valvei C atunci când se utilizează Vasul 2?",
+        "o": [
+          "Deschisă",
+          "Închisă",
+          "Parțial deschisă",
+          "Nu este utilizată cu Vasul 2"
+        ]
+      },
+      "lv": {
+        "q": "Kādam jābūt C vārsta stāvoklim, izmantojot 2. trauku?",
+        "o": [
+          "Atvērtam",
+          "Aizvērtam",
+          "Daļēji atvērtam",
+          "Tas netiek izmantots ar 2. trauku"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "According to WP09E, who must witness the weighing out and addition of Acticide?",
+        "o": [
+          "The Team Leader",
+          "The QC",
+          "The Forklift Driver",
+          "No one, it is unsupervised"
+        ]
+      },
+      "pl": {
+        "q": "Zgodnie z WP09E, kto musi być świadkiem ważenia i dodawania Acticide?",
+        "o": [
+          "Lider zespołu",
+          "Kontrola jakości (QC)",
+          "Kierowca wózka widłowego",
+          "Nikt, czynność jest nienadzorowana"
+        ]
+      },
+      "bg": {
+        "q": "Съгласно WP09E, кой трябва да наблюдава претеглянето и добавянето на Acticide?",
+        "o": [
+          "Ръководителят на екип",
+          "Контролът по качество (QC)",
+          "Шофьорът на мотокар",
+          "Никой, действието е без надзор"
+        ]
+      },
+      "ro": {
+        "q": "Conform WP09E, cine trebuie să asiste la cântărirea și adăugarea de Acticide?",
+        "o": [
+          "Liderul de echipă",
+          "Controlul calității (QC)",
+          "Șoferul de stivuitor",
+          "Nimeni, acțiunea este nesupravegheată"
+        ]
+      },
+      "lv": {
+        "q": "Saskaņā ar WP09E, kam jāapliecina Acticide iesvēršana un pievienošana?",
+        "o": [
+          "Komandas vadītājam",
+          "Kvalitātes kontrolei (KK)",
+          "Autoiekrāvēja vadītājam",
+          "Nevienam, darbība nav uzraudzīta"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "At what temperature can Biocides be added to the mix?",
+        "o": [
+          "Only above 140°F",
+          "Only once the temperature has dropped below 140°F",
+          "At any temperature",
+          "Only at exactly 100°F"
+        ]
+      },
+      "pl": {
+        "q": "W jakiej temperaturze można dodawać biocydy do mieszanki?",
+        "o": [
+          "Tylko powyżej 140°F",
+          "Dopiero gdy temperatura spadnie poniżej 140°F",
+          "W dowolnej temperaturze",
+          "Tylko dokładnie w 100°F"
+        ]
+      },
+      "bg": {
+        "q": "При каква температура могат да се добавят биоциди към сместа?",
+        "o": [
+          "Само над 140°F",
+          "Едва след като температурата падне под 140°F",
+          "При произволна температура",
+          "Само точно при 100°F"
+        ]
+      },
+      "ro": {
+        "q": "La ce temperatură pot fi adăugați biocizii în amestec?",
+        "o": [
+          "Doar peste 140°F",
+          "Doar după ce temperatura a scăzut sub 140°F",
+          "La orice temperatură",
+          "Doar la exact 100°F"
+        ]
+      },
+      "lv": {
+        "q": "Kādā temperatūrā maisījumam var pievienot biocīdus?",
+        "o": [
+          "Tikai virs 140°F",
+          "Tikai pēc tam, kad temperatūra nokritusi zem 140°F",
+          "Jebkurā temperatūrā",
+          "Tikai tieši 100°F"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Before performing a pump over from Vessel 1 to Vessel 2, what must the operator check?",
+        "o": [
+          "That Vessel 2 is empty",
+          "That Vessel 1 is empty",
+          "That the extractor is switched off",
+          "That the water meter is reset to zero"
+        ]
+      },
+      "pl": {
+        "q": "Co operator musi sprawdzić przed wykonaniem przepompowania ze Zbiornika 1 do Zbiornika 2?",
+        "o": [
+          "Czy Zbiornik 2 jest pusty",
+          "Czy Zbiornik 1 jest pusty",
+          "Czy wyciąg jest wyłączony",
+          "Czy wodomierz jest wyzerowany"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да провери операторът, преди да извърши прехвърляне от Съд 1 към Съд 2?",
+        "o": [
+          "Дали Съд 2 е празен",
+          "Дали Съд 1 е празен",
+          "Дали аспирацията е изключена",
+          "Дали водомерът е нулиран"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să verifice operatorul înainte de a efectua un transfer din Vasul 1 în Vasul 2?",
+        "o": [
+          "Că Vasul 2 este gol",
+          "Că Vasul 1 este gol",
+          "Că exhaustorul este oprit",
+          "Că apometrul este resetat la zero"
+        ]
+      },
+      "lv": {
+        "q": "Kas operatoram jāpārbauda pirms pārsūknēšanas veikšanas no 1. trauka uz 2. trauku?",
+        "o": [
+          "Vai 2. trauks ir tukšs",
+          "Vai 1. trauks ir tukšs",
+          "Vai nosūcējs ir izslēgts",
+          "Vai ūdens skaitītājs ir atiestatīts uz nulli"
+        ]
+      }
+    }
+  ]
+}

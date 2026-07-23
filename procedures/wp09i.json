@@ -1,0 +1,581 @@
+{
+  "docRef": "WP09I",
+  "questions": [
+    {
+      "correct": 0,
+      "en": {
+        "q": "Before blending on WP09I, what training must operatives have received?",
+        "o": [
+          "WP09Y - Blending Area General Safety & Emergency Equipment",
+          "Forklift Driving Test",
+          "First Aid at Work",
+          "Confined Space Entry Certificate"
+        ]
+      },
+      "pl": {
+        "q": "Jakie szkolenie muszą odbyć operatorzy przed rozpoczęciem mieszania zgodnie z WP09I?",
+        "o": [
+          "WP09Y – Ogólne zasady bezpieczeństwa i wyposażenie awaryjne w obszarze mieszania",
+          "Test na uprawnienia do obsługi wózka widłowego",
+          "Szkolenie z pierwszej pomocy w pracy",
+          "Certyfikat pracy w przestrzeniach zamkniętych"
+        ]
+      },
+      "bg": {
+        "q": "Какво обучение трябва да са преминали операторите преди смесване съгласно WP09I?",
+        "o": [
+          "WP09Y – Обща безопасност и аварийно оборудване в зоната за смесване",
+          "Тест за управление на мотокар",
+          "Обучение по първа помощ на работното място",
+          "Сертификат за работа в затворени пространства"
+        ]
+      },
+      "ro": {
+        "q": "Ce instruire trebuie să fi primit operatorii înainte de amestecare conform WP09I?",
+        "o": [
+          "WP09Y – Siguranță generală și echipament de urgență în zona de amestecare",
+          "Test de conducere a stivuitorului",
+          "Instruire de prim ajutor la locul de muncă",
+          "Certificat de lucru în spații închise"
+        ]
+      },
+      "lv": {
+        "q": "Kāda apmācība operatoriem jābūt saņemtai pirms maisīšanas saskaņā ar WP09I?",
+        "o": [
+          "WP09Y – vispārējā drošība un avārijas aprīkojums maisīšanas zonā",
+          "Autoiekrāvēja vadīšanas tests",
+          "Pirmās palīdzības apmācība darbavietā",
+          "Slēgtu telpu darba sertifikāts"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "When must the mixer always be isolated?",
+        "o": [
+          "Only during a fire alarm",
+          "Before cleaning the interior",
+          "Only at shift changeover",
+          "It should never be isolated"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy mieszalnik musi być zawsze odizolowany?",
+        "o": [
+          "Tylko podczas alarmu pożarowego",
+          "Przed czyszczeniem wnętrza",
+          "Tylko przy zmianie zmiany",
+          "Nigdy nie powinien być odizolowany"
+        ]
+      },
+      "bg": {
+        "q": "Кога миксерът трябва винаги да бъде изолиран?",
+        "o": [
+          "Само по време на пожарна аларма",
+          "Преди почистване на вътрешността",
+          "Само при смяна на смяната",
+          "Никога не трябва да бъде изолиран"
+        ]
+      },
+      "ro": {
+        "q": "Când trebuie izolat întotdeauna malaxorul?",
+        "o": [
+          "Doar în timpul unei alarme de incendiu",
+          "Înainte de curățarea interiorului",
+          "Doar la schimbarea turei",
+          "Nu trebuie izolat niciodată"
+        ]
+      },
+      "lv": {
+        "q": "Kad maisītājs vienmēr jāizolē?",
+        "o": [
+          "Tikai ugunsgrēka trauksmes laikā",
+          "Pirms iekšpuses tīrīšanas",
+          "Tikai maiņas nomaiņas laikā",
+          "Tas nekad nav jāizolē"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What controls entering the mixing vessel, and must be followed strictly?",
+        "o": [
+          "A verbal instruction from any colleague",
+          "A permit to work",
+          "A key left in the isolator",
+          "No control is required"
+        ]
+      },
+      "pl": {
+        "q": "Co kontroluje wejście do zbiornika mieszającego i musi być ściśle przestrzegane?",
+        "o": [
+          "Ustna instrukcja dowolnego kolegi",
+          "Zezwolenie na pracę (permit to work)",
+          "Klucz pozostawiony w wyłączniku izolującym",
+          "Nie jest wymagana żadna kontrola"
+        ]
+      },
+      "bg": {
+        "q": "Какво контролира влизането в смесителния съд и трябва да се спазва стриктно?",
+        "o": [
+          "Устна инструкция от произволен колега",
+          "Разрешение за работа (permit to work)",
+          "Ключ, оставен в изолиращия прекъсвач",
+          "Не се изисква никакъв контрол"
+        ]
+      },
+      "ro": {
+        "q": "Ce controlează intrarea în vasul de amestecare și trebuie respectat strict?",
+        "o": [
+          "O instrucțiune verbală de la orice coleg",
+          "Un permis de lucru",
+          "O cheie lăsată în întrerupătorul de izolare",
+          "Nu este necesar niciun control"
+        ]
+      },
+      "lv": {
+        "q": "Kas kontrolē iekļūšanu maisīšanas traukā un stingri jāievēro?",
+        "o": [
+          "Jebkura kolēģa mutiska instrukcija",
+          "Darba atļauja (permit to work)",
+          "Atslēga, kas atstāta izolācijas slēdzī",
+          "Nekāda kontrole nav nepieciešama"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Who is responsible for ensuring all manufacturing samples are evaluated before the batch is dropped for packing?",
+        "o": [
+          "The Line Operator",
+          "The QC Operative",
+          "The Forklift Driver",
+          "The Buyer"
+        ]
+      },
+      "pl": {
+        "q": "Kto odpowiada za zapewnienie, że wszystkie próbki produkcyjne zostaną ocenione przed przekazaniem partii do pakowania?",
+        "o": [
+          "Operator linii",
+          "Operator kontroli jakości (QC)",
+          "Kierowca wózka widłowego",
+          "Zaopatrzeniowiec"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за гарантиране, че всички производствени проби са оценени преди партидата да бъде предадена за опаковане?",
+        "o": [
+          "Операторът на линията",
+          "Операторът по контрол на качеството (QC)",
+          "Шофьорът на мотокар",
+          "Снабдителят"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru asigurarea faptului că toate probele de fabricație sunt evaluate înainte ca lotul să fie trimis la ambalare?",
+        "o": [
+          "Operatorul de linie",
+          "Operatorul de control al calității (QC)",
+          "Șoferul de stivuitor",
+          "Responsabilul cu achizițiile"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par to, lai visi ražošanas paraugi tiktu novērtēti pirms partijas nodošanas iepakošanai?",
+        "o": [
+          "Līnijas operators",
+          "KK (kvalitātes kontroles) operators",
+          "Autoiekrāvēja vadītājs",
+          "Iepirkumu speciālists"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "What must be true for the RT Mixer A001 to run at all?",
+        "o": [
+          "Key N92 must be in the downstairs mixer timer control panel",
+          "The Paste Feeder must be running",
+          "The inspection hatches must be open",
+          "The water meter must be reset"
+        ]
+      },
+      "pl": {
+        "q": "Co musi być spełnione, aby mieszalnik RT Mixer A001 mógł w ogóle pracować?",
+        "o": [
+          "Klucz N92 musi znajdować się w dolnym panelu sterowania timera mieszalnika",
+          "Podajnik pasty musi pracować",
+          "Włazy inspekcyjne muszą być otwarte",
+          "Wodomierz musi zostać wyzerowany"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да е изпълнено, за да работи изобщо RT Mixer A001?",
+        "o": [
+          "Ключ N92 трябва да е в долния панел за управление на таймера на миксера",
+          "Подаващото устройство за паста трябва да работи",
+          "Инспекционните люкове трябва да са отворени",
+          "Водомерът трябва да бъде нулиран"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să fie adevărat pentru ca RT Mixer A001 să funcționeze deloc?",
+        "o": [
+          "Cheia N92 trebuie să fie în panoul de control al temporizatorului malaxorului de la parter",
+          "Alimentatorul de pastă trebuie să funcționeze",
+          "Chepengurile de inspecție trebuie să fie deschise",
+          "Contorul de apă trebuie resetat"
+        ]
+      },
+      "lv": {
+        "q": "Kam jābūt izpildītam, lai RT Mixer A001 vispār darbotos?",
+        "o": [
+          "Atslēgai N92 jāatrodas lejasstāva maisītāja taimera vadības panelī",
+          "Pastas padevējam jādarbojas",
+          "Inspekcijas lūkām jābūt atvērtām",
+          "Ūdens skaitītājam jābūt atiestatītam"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "To run the RT Mixer A001 on the timer, what must the CONTROL switch be set to?",
+        "o": [
+          "DISCHARGE",
+          "OFF",
+          "MIX",
+          "MANUAL"
+        ]
+      },
+      "pl": {
+        "q": "Aby uruchomić RT Mixer A001 na timerze, w jakiej pozycji musi być przełącznik CONTROL?",
+        "o": [
+          "DISCHARGE",
+          "OFF",
+          "MIX",
+          "MANUAL"
+        ]
+      },
+      "bg": {
+        "q": "За да работи RT Mixer A001 по таймер, в каква позиция трябва да бъде превключвателят CONTROL?",
+        "o": [
+          "DISCHARGE",
+          "OFF",
+          "MIX",
+          "MANUAL"
+        ]
+      },
+      "ro": {
+        "q": "Pentru a rula RT Mixer A001 pe temporizator, pe ce poziție trebuie să fie comutatorul CONTROL?",
+        "o": [
+          "DISCHARGE",
+          "OFF",
+          "MIX",
+          "MANUAL"
+        ]
+      },
+      "lv": {
+        "q": "Lai darbinātu RT Mixer A001 pēc taimera, kādā pozīcijā jābūt slēdzim CONTROL?",
+        "o": [
+          "DISCHARGE",
+          "OFF",
+          "MIX",
+          "MANUAL"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "What is required in the Paste Feeder PF001 control panel before its paddle can run?",
+        "o": [
+          "Key P01",
+          "Key N92",
+          "Key N93",
+          "Key P03"
+        ]
+      },
+      "pl": {
+        "q": "Co jest wymagane w panelu sterowania Paste Feeder PF001, zanim łopatka będzie mogła pracować?",
+        "o": [
+          "Klucz P01",
+          "Klucz N92",
+          "Klucz N93",
+          "Klucz P03"
+        ]
+      },
+      "bg": {
+        "q": "Какво се изисква в контролния панел на Paste Feeder PF001, преди перката да може да работи?",
+        "o": [
+          "Ключ P01",
+          "Ключ N92",
+          "Ключ N93",
+          "Ключ P03"
+        ]
+      },
+      "ro": {
+        "q": "Ce este necesar în panoul de control al Paste Feeder PF001 înainte ca paleta să poată funcționa?",
+        "o": [
+          "Cheia P01",
+          "Cheia N92",
+          "Cheia N93",
+          "Cheia P03"
+        ]
+      },
+      "lv": {
+        "q": "Kas nepieciešams Paste Feeder PF001 vadības panelī, pirms lāpstiņa var darboties?",
+        "o": [
+          "Atslēga P01",
+          "Atslēga N92",
+          "Atslēga N93",
+          "Atslēga P03"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What happens to the Paste Feeder PF001 screw when the high-level point is reached in the Tube Filling Machine hopper?",
+        "o": [
+          "It speeds up",
+          "It stops, and restarts automatically once the low-level point is reached",
+          "It reverses direction permanently",
+          "Nothing changes"
+        ]
+      },
+      "pl": {
+        "q": "Co dzieje się ze ślimakiem Paste Feeder PF001, gdy w zasobniku maszyny napełniającej tuby zostanie osiągnięty poziom wysoki?",
+        "o": [
+          "Przyspiesza",
+          "Zatrzymuje się i uruchamia ponownie automatycznie, gdy zostanie osiągnięty poziom niski",
+          "Na stałe zmienia kierunek obrotu",
+          "Nic się nie zmienia"
+        ]
+      },
+      "bg": {
+        "q": "Какво се случва с шнека на Paste Feeder PF001, когато се достигне високото ниво в бункера на машината за пълнене на тубички?",
+        "o": [
+          "Ускорява се",
+          "Спира и се рестартира автоматично, когато се достигне ниското ниво",
+          "Обръща посоката си за постоянно",
+          "Нищо не се променя"
+        ]
+      },
+      "ro": {
+        "q": "Ce se întâmplă cu șnecul Paste Feeder PF001 atunci când se atinge nivelul înalt în buncărul mașinii de umplere a tuburilor?",
+        "o": [
+          "Se accelerează",
+          "Se oprește și repornește automat odată ce se atinge nivelul scăzut",
+          "Își inversează direcția permanent",
+          "Nimic nu se schimbă"
+        ]
+      },
+      "lv": {
+        "q": "Kas notiek ar Paste Feeder PF001 šneku, kad tūbiņu pildīšanas iekārtas piltuvē tiek sasniegts augstais līmenis?",
+        "o": [
+          "Tas paātrinās",
+          "Tas apstājas un automātiski atsākas, kad tiek sasniegts zemais līmenis",
+          "Tas pastāvīgi maina virzienu",
+          "Nekas nemainās"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What does putting key P01 into the remote block (to release key P02) disable?",
+        "o": [
+          "The water meter",
+          "The Paste Feeder PF001 paddle and screw",
+          "The extractor",
+          "The jet washer"
+        ]
+      },
+      "pl": {
+        "q": "Co wyłącza włożenie klucza P01 do bloku zdalnego (w celu zwolnienia klucza P02)?",
+        "o": [
+          "Wodomierz",
+          "Łopatkę i ślimak Paste Feeder PF001",
+          "Wyciąg",
+          "Myjkę wysokociśnieniową"
+        ]
+      },
+      "bg": {
+        "q": "Какво деактивира поставянето на ключ P01 в дистанционния блок (за освобождаване на ключ P02)?",
+        "o": [
+          "Водомера",
+          "Перката и шнека на Paste Feeder PF001",
+          "Аспирацията",
+          "Водоструйната машина"
+        ]
+      },
+      "ro": {
+        "q": "Ce dezactivează introducerea cheii P01 în blocul la distanță (pentru a elibera cheia P02)?",
+        "o": [
+          "Contorul de apă",
+          "Paleta și șnecul Paste Feeder PF001",
+          "Exhaustorul",
+          "Aparatul de spălare cu jet"
+        ]
+      },
+      "lv": {
+        "q": "Ko atspējo atslēgas P01 ievietošana attālinātajā blokā (lai atbrīvotu atslēgu P02)?",
+        "o": [
+          "Ūdens skaitītāju",
+          "Paste Feeder PF001 lāpstiņu un šneku",
+          "Nosūcēju",
+          "Augstspiediena mazgātāju"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "What does putting key N92 into the remote block (to release keys N93) disable?",
+        "o": [
+          "The RT Mixer A001 blades from running",
+          "The Paste Feeder PF001 screw",
+          "The water meter",
+          "The steam generator"
+        ]
+      },
+      "pl": {
+        "q": "Co wyłącza włożenie klucza N92 do bloku zdalnego (w celu zwolnienia kluczy N93)?",
+        "o": [
+          "Łopatki RT Mixer A001 przed uruchomieniem",
+          "Ślimak Paste Feeder PF001",
+          "Wodomierz",
+          "Generator pary"
+        ]
+      },
+      "bg": {
+        "q": "Какво деактивира поставянето на ключ N92 в дистанционния блок (за освобождаване на ключове N93)?",
+        "o": [
+          "Работата на лопатките на RT Mixer A001",
+          "Шнека на Paste Feeder PF001",
+          "Водомера",
+          "Парогенератора"
+        ]
+      },
+      "ro": {
+        "q": "Ce dezactivează introducerea cheii N92 în blocul la distanță (pentru a elibera cheile N93)?",
+        "o": [
+          "Funcționarea paletelor RT Mixer A001",
+          "Șnecul Paste Feeder PF001",
+          "Contorul de apă",
+          "Generatorul de abur"
+        ]
+      },
+      "lv": {
+        "q": "Ko atspējo atslēgas N92 ievietošana attālinātajā blokā (lai atbrīvotu atslēgas N93)?",
+        "o": [
+          "RT Mixer A001 asmeņu darbību",
+          "Paste Feeder PF001 šneku",
+          "Ūdens skaitītāju",
+          "Tvaika ģeneratoru"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Once the product is completely mixed, what must be done before taking a sample?",
+        "o": [
+          "Open the outlet hatch fully",
+          "Lift the grill to the blending vessel, which disables the RT mixer blades from running",
+          "Switch the CONTROL switch to DISCHARGE",
+          "Remove key N93 completely from the site"
+        ]
+      },
+      "pl": {
+        "q": "Gdy produkt jest już całkowicie wymieszany, co należy zrobić przed pobraniem próbki?",
+        "o": [
+          "Całkowicie otworzyć właz wylotowy",
+          "Podnieść kratkę zbiornika mieszającego, co wyłącza łopatki RT mixer przed uruchomieniem",
+          "Przełączyć przełącznik CONTROL na DISCHARGE",
+          "Całkowicie usunąć klucz N93 z zakładu"
+        ]
+      },
+      "bg": {
+        "q": "След като продуктът е напълно смесен, какво трябва да се направи преди вземане на проба?",
+        "o": [
+          "Да се отвори напълно изходният люк",
+          "Да се повдигне решетката на смесителния съд, което деактивира работата на лопатките на RT mixer",
+          "Да се превключи CONTROL на DISCHARGE",
+          "Да се премахне напълно ключ N93 от обекта"
+        ]
+      },
+      "ro": {
+        "q": "Odată ce produsul este complet amestecat, ce trebuie făcut înainte de prelevarea unei probe?",
+        "o": [
+          "Deschiderea completă a chepengului de evacuare",
+          "Ridicarea grătarului vasului de amestecare, ceea ce dezactivează funcționarea paletelor RT mixer",
+          "Comutarea CONTROL pe DISCHARGE",
+          "Îndepărtarea completă a cheii N93 de pe șantier"
+        ]
+      },
+      "lv": {
+        "q": "Kad produkts ir pilnībā samaisīts, kas jādara pirms parauga ņemšanas?",
+        "o": [
+          "Pilnībā jāatver izplūdes lūka",
+          "Jāpaceļ maisīšanas trauka režģis, kas atspējo RT mixer asmeņu darbību",
+          "Jāpārslēdz CONTROL uz DISCHARGE",
+          "Pilnībā jāizņem atslēga N93 no objekta"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "According to WP09I, when must the Paste Feeder PF001 NOT be operated?",
+        "o": [
+          "When it is completely empty",
+          "When either the flexible hose between paste feeder and stirrer product hopper, or the flex hose to wash out the IBC, is not connected",
+          "When the mixer is running",
+          "When the QC Operator is present"
+        ]
+      },
+      "pl": {
+        "q": "Zgodnie z WP09I, kiedy Paste Feeder PF001 NIE może być obsługiwany?",
+        "o": [
+          "Gdy jest całkowicie pusty",
+          "Gdy elastyczny wąż między podajnikiem pasty a lejem mieszadła lub wąż do mycia IBC nie jest podłączony",
+          "Gdy mieszalnik pracuje",
+          "Gdy obecny jest operator kontroli jakości"
+        ]
+      },
+      "bg": {
+        "q": "Съгласно WP09I, кога Paste Feeder PF001 НЕ трябва да се експлоатира?",
+        "o": [
+          "Когато е напълно празен",
+          "Когато гъвкавият маркуч между подаващото устройство за паста и фунията на бъркалката, или маркучът за миене на IBC, не е свързан",
+          "Когато миксерът работи",
+          "Когато присъства операторът по контрол на качеството"
+        ]
+      },
+      "ro": {
+        "q": "Conform WP09I, când NU trebuie operat Paste Feeder PF001?",
+        "o": [
+          "Când este complet gol",
+          "Când fie furtunul flexibil dintre alimentatorul de pastă și buncărul agitatorului, fie furtunul flexibil pentru spălarea IBC-ului nu este conectat",
+          "Când malaxorul funcționează",
+          "Când este prezent operatorul de control al calității"
+        ]
+      },
+      "lv": {
+        "q": "Saskaņā ar WP09I, kad Paste Feeder PF001 NEDRĪKST darbināt?",
+        "o": [
+          "Kad tas ir pilnīgi tukšs",
+          "Kad nav pievienota vai nu elastīgā šļūtene starp pastas padevēju un maisītāja piltuvi, vai šļūtene IBC izmazgāšanai",
+          "Kad maisītājs darbojas",
+          "Kad ir klāt KK operators"
+        ]
+      }
+    }
+  ]
+}
