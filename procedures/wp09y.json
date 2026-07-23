@@ -1,0 +1,485 @@
+{
+  "docRef": "WP09Y",
+  "questions": [
+    {
+      "correct": 1,
+      "en": {
+        "q": "What must you do prior to starting work in the Blending area, according to the COSHH section?",
+        "o": [
+          "Complete a forklift refresher",
+          "Have received up-to-date COSHH training",
+          "Sign the master board log",
+          "Collect a spare respirator"
+        ]
+      },
+      "pl": {
+        "q": "Co musisz zrobić przed rozpoczęciem pracy w obszarze mieszania, zgodnie z sekcją COSHH?",
+        "o": [
+          "Ukończyć kurs odświeżający dla wózków widłowych",
+          "Odbyć aktualne szkolenie COSHH",
+          "Podpisać dziennik głównej tablicy elektrycznej",
+          "Odebrać zapasowy respirator"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да направите преди започване на работа в зоната за смесване, съгласно раздела за COSHH?",
+        "o": [
+          "Да преминете опреснителен курс за мотокар",
+          "Да сте преминали актуално обучение COSHH",
+          "Да подпишете дневника на главното табло",
+          "Да вземете резервен респиратор"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să faceți înainte de a începe lucrul în zona de amestecare, conform secțiunii COSHH?",
+        "o": [
+          "Să finalizați un curs de reîmprospătare pentru stivuitor",
+          "Să fi urmat o instruire COSHH actualizată",
+          "Să semnați registrul tabloului principal",
+          "Să ridicați un respirator de rezervă"
+        ]
+      },
+      "lv": {
+        "q": "Kas jādara pirms darba sākšanas maisīšanas zonā saskaņā ar COSHH sadaļu?",
+        "o": [
+          "Jāpabeidz autoiekrāvēja atkārtotās apmācības kurss",
+          "Jābūt saņēmušam aktuālu COSHH apmācību",
+          "Jāparaksta galvenā elektrības paneļa žurnāls",
+          "Jāpaņem rezerves respirators"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Where are the COSHH Action Cards (B82) located?",
+        "o": [
+          "In the Production Manager's office",
+          "On the mixer control panel",
+          "In a folder in a wall-mounted tray next to the blending area lockers",
+          "In the waste skip"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie znajdują się Karty działania COSHH (B82)?",
+        "o": [
+          "W biurze Kierownika Produkcji",
+          "Na panelu sterowania mieszalnika",
+          "W segregatorze w tacy zamontowanej na ścianie obok szafek w obszarze mieszania",
+          "W kontenerze na odpady"
+        ]
+      },
+      "bg": {
+        "q": "Къде се намират Картите за действие COSHH (B82)?",
+        "o": [
+          "В офиса на производствения мениджър",
+          "На контролния панел на миксера",
+          "В папка в поставена на стената табла до шкафчетата в зоната за смесване",
+          "В контейнера за отпадъци"
+        ]
+      },
+      "ro": {
+        "q": "Unde se află Fișele de acțiune COSHH (B82)?",
+        "o": [
+          "În biroul managerului de producție",
+          "Pe panoul de control al malaxorului",
+          "Într-un dosar dintr-o tavă montată pe perete, lângă dulapurile din zona de amestecare",
+          "În containerul de deșeuri"
+        ]
+      },
+      "lv": {
+        "q": "Kur atrodas COSHH rīcības kartes (B82)?",
+        "o": [
+          "Ražošanas vadītāja birojā",
+          "Uz maisītāja vadības paneļa",
+          "Mapē pie sienas piestiprinātā paplātē blakus maisīšanas zonas skapīšiem",
+          "Atkritumu konteinerā"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Where can the PPE requirements for a specific product be found?",
+        "o": [
+          "In the Protective Equipment section at the bottom of the COSHH Action Card",
+          "On the batch card",
+          "In the manifest",
+          "On the mains isolator label"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie można znaleźć wymagania dotyczące ŚOI dla konkretnego produktu?",
+        "o": [
+          "W sekcji Sprzęt Ochronny na dole Karty działania COSHH",
+          "Na karcie partii",
+          "W manifeście",
+          "Na etykiecie głównego wyłącznika izolującego"
+        ]
+      },
+      "bg": {
+        "q": "Къде могат да се намерят изискванията за ЛПС за конкретен продукт?",
+        "o": [
+          "В раздел Предпазно оборудване в долната част на Картата за действие COSHH",
+          "В картата на партидата",
+          "В манифеста",
+          "На етикета на главния изолиращ прекъсвач"
+        ]
+      },
+      "ro": {
+        "q": "Unde se pot găsi cerințele EIP pentru un anumit produs?",
+        "o": [
+          "În secțiunea Echipament de Protecție din partea de jos a Fișei de acțiune COSHH",
+          "Pe fișa lotului",
+          "În manifest",
+          "Pe eticheta izolatorului principal"
+        ]
+      },
+      "lv": {
+        "q": "Kur var atrast IAL prasības konkrētam produktam?",
+        "o": [
+          "COSHH rīcības kartes apakšā, sadaļā Aizsardzības aprīkojums",
+          "Partijas kartē",
+          "Manifestā",
+          "Uz galvenā izolatora etiķetes"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "What two tests must be completed before you start blending, regarding PPE?",
+        "o": [
+          "A hearing test and a vision test",
+          "A grip strength test and a balance test",
+          "A forklift test and a manual handling test",
+          "A Respirator Qualitative Face Fit Test and a skin monitoring test"
+        ]
+      },
+      "pl": {
+        "q": "Jakie dwa testy muszą zostać wykonane przed rozpoczęciem mieszania, w odniesieniu do ŚOI?",
+        "o": [
+          "Test słuchu i test wzroku",
+          "Test siły chwytu i test równowagi",
+          "Test na wózek widłowy i test dźwigania ręcznego",
+          "Jakościowy Test Dopasowania Maski Oddechowej i test monitorowania skóry"
+        ]
+      },
+      "bg": {
+        "q": "Кои два теста трябва да бъдат завършени преди започване на смесване, относно ЛПС?",
+        "o": [
+          "Тест на слуха и тест на зрението",
+          "Тест за сила на захвата и тест за баланс",
+          "Тест за мотокар и тест за ръчно повдигане",
+          "Качествен тест за прилягане на респиратора и тест за мониторинг на кожата"
+        ]
+      },
+      "ro": {
+        "q": "Ce două teste trebuie efectuate înainte de a începe amestecarea, referitor la EIP?",
+        "o": [
+          "Un test auditiv și un test de vedere",
+          "Un test al forței de prindere și un test de echilibru",
+          "Un test de stivuitor și un test de manipulare manuală",
+          "Un Test Calitativ de Etanșeitate a Măștii Respiratorii și un test de monitorizare a pielii"
+        ]
+      },
+      "lv": {
+        "q": "Kādi divi testi jāveic pirms maisīšanas sākšanas attiecībā uz IAL?",
+        "o": [
+          "Dzirdes tests un redzes tests",
+          "Satvēriena spēka tests un līdzsvara tests",
+          "Autoiekrāvēja tests un manuālas pārvietošanas tests",
+          "Elpošanas aparāta kvalitatīvais pieguļas tests un ādas monitoringa tests"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "According to the Hygiene section, when must you always wash your hands?",
+        "o": [
+          "Only before starting a shift",
+          "Only after cleaning the mixer",
+          "Before and after visiting the toilet, eating, drinking, or smoking",
+          "Only once per shift"
+        ]
+      },
+      "pl": {
+        "q": "Zgodnie z sekcją Higiena, kiedy zawsze musisz myć ręce?",
+        "o": [
+          "Tylko przed rozpoczęciem zmiany",
+          "Tylko po czyszczeniu mieszalnika",
+          "Przed i po skorzystaniu z toalety, jedzeniu, piciu lub paleniu",
+          "Tylko raz na zmianę"
+        ]
+      },
+      "bg": {
+        "q": "Съгласно раздела Хигиена, кога винаги трябва да мием ръцете си?",
+        "o": [
+          "Само преди началото на смяната",
+          "Само след почистване на миксера",
+          "Преди и след посещение на тоалетната, хранене, пиене или пушене",
+          "Само веднъж на смяна"
+        ]
+      },
+      "ro": {
+        "q": "Conform secțiunii Igienă, când trebuie să vă spălați întotdeauna pe mâini?",
+        "o": [
+          "Doar înainte de începerea turei",
+          "Doar după curățarea malaxorului",
+          "Înainte și după vizitarea toaletei, masă, băut sau fumat",
+          "Doar o dată pe tură"
+        ]
+      },
+      "lv": {
+        "q": "Saskaņā ar sadaļu Higiēna, kad vienmēr jāmazgā rokas?",
+        "o": [
+          "Tikai pirms maiņas sākuma",
+          "Tikai pēc maisītāja tīrīšanas",
+          "Pirms un pēc tualetes apmeklējuma, ēšanas, dzeršanas vai smēķēšanas",
+          "Tikai vienreiz maiņā"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What is the difference between the STOP button and the EMERGENCY STOP button?",
+        "o": [
+          "There is no difference, they do the same thing",
+          "STOP halts the machine at the end of the working cycle, while EMERGENCY STOP halts it immediately",
+          "STOP is for engineers only, EMERGENCY STOP is for operatives",
+          "EMERGENCY STOP only works during cleaning"
+        ]
+      },
+      "pl": {
+        "q": "Jaka jest różnica między przyciskiem STOP a przyciskiem EMERGENCY STOP?",
+        "o": [
+          "Nie ma różnicy, robią to samo",
+          "STOP zatrzymuje maszynę na koniec cyklu roboczego, natomiast EMERGENCY STOP zatrzymuje ją natychmiast",
+          "STOP jest tylko dla inżynierów, EMERGENCY STOP jest dla operatorów",
+          "EMERGENCY STOP działa tylko podczas czyszczenia"
+        ]
+      },
+      "bg": {
+        "q": "Каква е разликата между бутона STOP и бутона EMERGENCY STOP?",
+        "o": [
+          "Няма разлика, правят едно и също",
+          "STOP спира машината в края на работния цикъл, докато EMERGENCY STOP я спира незабавно",
+          "STOP е само за инженери, EMERGENCY STOP е за оператори",
+          "EMERGENCY STOP работи само по време на почистване"
+        ]
+      },
+      "ro": {
+        "q": "Care este diferența dintre butonul STOP și butonul EMERGENCY STOP?",
+        "o": [
+          "Nu există nicio diferență, fac același lucru",
+          "STOP oprește mașina la sfârșitul ciclului de lucru, în timp ce EMERGENCY STOP o oprește imediat",
+          "STOP este doar pentru ingineri, EMERGENCY STOP este pentru operatori",
+          "EMERGENCY STOP funcționează doar în timpul curățării"
+        ]
+      },
+      "lv": {
+        "q": "Kāda ir atšķirība starp pogu STOP un pogu EMERGENCY STOP?",
+        "o": [
+          "Nav atšķirības, tās dara vienu un to pašu",
+          "STOP aptur iekārtu darba cikla beigās, savukārt EMERGENCY STOP aptur to nekavējoties",
+          "STOP ir tikai inženieriem, EMERGENCY STOP ir operatoriem",
+          "EMERGENCY STOP darbojas tikai tīrīšanas laikā"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "What must always be true before performing any cleaning task on the machine?",
+        "o": [
+          "The electrical supply must be isolated at the mains isolator (lock out)",
+          "The QC Operator must be present",
+          "The batch card must be filed",
+          "The loading gate must be open"
+        ]
+      },
+      "pl": {
+        "q": "Co zawsze musi być zapewnione przed wykonaniem jakiejkolwiek czynności czyszczącej na maszynie?",
+        "o": [
+          "Zasilanie elektryczne musi być odizolowane na głównym wyłączniku izolującym (blokada - lock out)",
+          "Musi być obecny operator kontroli jakości",
+          "Karta partii musi zostać zarchiwizowana",
+          "Brama załadowcza musi być otwarta"
+        ]
+      },
+      "bg": {
+        "q": "Какво винаги трябва да е изпълнено, преди да се извърши каквато и да е дейност по почистване на машината?",
+        "o": [
+          "Електрозахранването трябва да бъде изолирано от главния изолиращ прекъсвач (блокиране - lock out)",
+          "Трябва да присъства операторът по контрол на качеството",
+          "Картата на партидата трябва да бъде архивирана",
+          "Товарната врата трябва да бъде отворена"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să fie întotdeauna adevărat înainte de a efectua orice operațiune de curățare pe mașină?",
+        "o": [
+          "Alimentarea electrică trebuie izolată de la izolatorul principal (blocare - lock out)",
+          "Operatorul de control al calității trebuie să fie prezent",
+          "Fișa lotului trebuie arhivată",
+          "Poarta de încărcare trebuie să fie deschisă"
+        ]
+      },
+      "lv": {
+        "q": "Kam vienmēr jābūt izpildītam, pirms tiek veikts jebkāds tīrīšanas darbs uz iekārtas?",
+        "o": [
+          "Elektrības padevei jābūt izolētai pie galvenā izolatora (bloķēšana - lock out)",
+          "Jābūt klāt KK operatoram",
+          "Partijas kartei jābūt arhivētai",
+          "Iekraušanas vārtiem jābūt atvērtiem"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "How often should drip trays around the IBC chemical dispensing area be emptied?",
+        "o": [
+          "Only at the end of each shift",
+          "Once a month",
+          "Only when an engineer requests it",
+          "Weekly, or as soon as they are full, into the chemical waste IBC"
+        ]
+      },
+      "pl": {
+        "q": "Jak często należy opróżniać tace ociekowe wokół obszaru dozowania chemikaliów IBC?",
+        "o": [
+          "Tylko na koniec każdej zmiany",
+          "Raz w miesiącu",
+          "Tylko na żądanie inżyniera",
+          "Co tydzień lub natychmiast po ich napełnieniu, do pojemnika IBC na odpady chemiczne"
+        ]
+      },
+      "bg": {
+        "q": "Колко често трябва да се изпразват улавящите тави около зоната за дозиране на химикали IBC?",
+        "o": [
+          "Само в края на всяка смяна",
+          "Веднъж месечно",
+          "Само по искане на инженер",
+          "Седмично или веднага щом се напълнят, в IBC контейнера за химически отпадъци"
+        ]
+      },
+      "ro": {
+        "q": "Cât de des trebuie golite tăvile de scurgere din jurul zonei de dozare chimică IBC?",
+        "o": [
+          "Doar la sfârșitul fiecărei ture",
+          "O dată pe lună",
+          "Doar la cererea unui inginer",
+          "Săptămânal, sau imediat ce sunt pline, în IBC-ul pentru deșeuri chimice"
+        ]
+      },
+      "lv": {
+        "q": "Cik bieži jāiztukšo pilēšanas paplātes ap IBC ķīmisko vielu dozēšanas zonu?",
+        "o": [
+          "Tikai katras maiņas beigās",
+          "Reizi mēnesī",
+          "Tikai pēc inženiera pieprasījuma",
+          "Katru nedēļu vai tiklīdz tās ir pilnas, IBC ķīmisko atkritumu konteinerā"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What is required of buckets containing chemicals when they are not in use?",
+        "o": [
+          "They must be emptied immediately",
+          "They must be labelled and have a lid on",
+          "They must be stored in the waste skip",
+          "They must be returned to the master board"
+        ]
+      },
+      "pl": {
+        "q": "Co jest wymagane w odniesieniu do wiader zawierających chemikalia, gdy nie są używane?",
+        "o": [
+          "Muszą zostać natychmiast opróżnione",
+          "Muszą być oznakowane i mieć założoną pokrywkę",
+          "Muszą być przechowywane w kontenerze na odpady",
+          "Muszą zostać zwrócone do głównej tablicy elektrycznej"
+        ]
+      },
+      "bg": {
+        "q": "Какво се изисква за кофите, съдържащи химикали, когато не се използват?",
+        "o": [
+          "Трябва незабавно да се изпразнят",
+          "Трябва да са етикетирани и да имат капак",
+          "Трябва да се съхраняват в контейнера за отпадъци",
+          "Трябва да се върнат в главното електрическо табло"
+        ]
+      },
+      "ro": {
+        "q": "Ce se cere de la gălețile care conțin chimicale atunci când nu sunt utilizate?",
+        "o": [
+          "Trebuie golite imediat",
+          "Trebuie etichetate și să aibă un capac",
+          "Trebuie depozitate în containerul de deșeuri",
+          "Trebuie returnate la tabloul electric principal"
+        ]
+      },
+      "lv": {
+        "q": "Kas nepieciešams attiecībā uz spaiņiem ar ķīmiskām vielām, kad tie netiek lietoti?",
+        "o": [
+          "Tie nekavējoties jāiztukšo",
+          "Tie jāmarķē ar etiķetēm un tiem jābūt vākam",
+          "Tie jāuzglabā atkritumu konteinerā",
+          "Tie jāatgriež galvenajā elektrības panelī"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Who should conduct maintenance and fault-finding on the machines?",
+        "o": [
+          "Any available Blending Operative",
+          "The QC Operator",
+          "Only trained and authorised personnel, e.g. engineers",
+          "The Charge Hand, without exception"
+        ]
+      },
+      "pl": {
+        "q": "Kto powinien przeprowadzać konserwację i wykrywanie usterek maszyn?",
+        "o": [
+          "Dowolny dostępny operator mieszania",
+          "Operator kontroli jakości",
+          "Wyłącznie przeszkolony i upoważniony personel, np. inżynierowie",
+          "Brygadzista, bez wyjątku"
+        ]
+      },
+      "bg": {
+        "q": "Кой трябва да извършва поддръжка и откриване на неизправности по машините?",
+        "o": [
+          "Всеки наличен оператор по смесване",
+          "Операторът по контрол на качеството",
+          "Само обучен и упълномощен персонал, напр. инженери",
+          "Бригадирът, без изключение"
+        ]
+      },
+      "ro": {
+        "q": "Cine ar trebui să efectueze întreținerea și depanarea mașinilor?",
+        "o": [
+          "Orice operator de amestecare disponibil",
+          "Operatorul de control al calității",
+          "Doar personal instruit și autorizat, de ex. ingineri",
+          "Șeful de echipă, fără excepție"
+        ]
+      },
+      "lv": {
+        "q": "Kam jāveic iekārtu apkope un bojājumu meklēšana?",
+        "o": [
+          "Jebkuram pieejamam maisīšanas operatoram",
+          "KK operatoram",
+          "Tikai apmācītam un pilnvarotam personālam, piemēram, inženieriem",
+          "Brigadierim, bez izņēmuma"
+        ]
+      }
+    }
+  ]
+}

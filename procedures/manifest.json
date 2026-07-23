@@ -248,6 +248,18 @@
                 "ro": "Amestecare – Malaxor A016",
                 "lv": "Maisīšana – Maisītājs A016"
             }
+        },
+        {
+            "id": "wp09y",
+            "file": "wp09y.json",
+            "docRef": "WP09Y",
+            "title": {
+                "en": "Blending - General Safety",
+                "pl": "Mieszanie – Ogólne zasady bezpieczeństwa",
+                "bg": "Смесване – Обща безопасност",
+                "ro": "Amestecare – Siguranță generală",
+                "lv": "Maisīšana – Vispārējā drošība"
+            }
         }
     ]
 }
