@@ -1,0 +1,485 @@
+{
+  "docRef": "WP09P",
+  "questions": [
+    {
+      "correct": 0,
+      "en": {
+        "q": "Before using the A016 blender, what training must operatives have received?",
+        "o": [
+          "WP09Y - Blending Area General Safety & Emergency Equipment",
+          "Forklift Driving Test",
+          "First Aid at Work",
+          "Confined Space Entry Certificate"
+        ]
+      },
+      "pl": {
+        "q": "Jakie szkolenie muszą odbyć operatorzy przed rozpoczęciem pracy z mieszalnikiem A016?",
+        "o": [
+          "WP09Y – Ogólne zasady bezpieczeństwa i wyposażenie awaryjne w obszarze mieszania",
+          "Test na uprawnienia do obsługi wózka widłowego",
+          "Szkolenie z pierwszej pomocy w pracy",
+          "Certyfikat pracy w przestrzeniach zamkniętych"
+        ]
+      },
+      "bg": {
+        "q": "Какво обучение трябва да са преминали операторите преди работа със смесител A016?",
+        "o": [
+          "WP09Y – Обща безопасност и аварийно оборудване в зоната за смесване",
+          "Тест за управление на мотокар",
+          "Обучение по първа помощ на работното място",
+          "Сертификат за работа в затворени пространства"
+        ]
+      },
+      "ro": {
+        "q": "Ce instruire trebuie să fi primit operatorii înainte de a utiliza malaxorul A016?",
+        "o": [
+          "WP09Y – Siguranță generală și echipament de urgență în zona de amestecare",
+          "Test de conducere a stivuitorului",
+          "Instruire de prim ajutor la locul de muncă",
+          "Certificat de lucru în spații închise"
+        ]
+      },
+      "lv": {
+        "q": "Kāda apmācība operatoriem jābūt saņemtai pirms maisītāja A016 lietošanas?",
+        "o": [
+          "WP09Y – vispārējā drošība un avārijas aprīkojums maisīšanas zonā",
+          "Autoiekrāvēja vadīšanas tests",
+          "Pirmās palīdzības apmācība darbavietā",
+          "Slēgtu telpu darba sertifikāts"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "What must always be ensured once raw materials have been loaded onto the platform?",
+        "o": [
+          "That the batch card is filed",
+          "That the isolator switch is ON",
+          "That the loading gate is shut",
+          "That the QC Operator is present"
+        ]
+      },
+      "pl": {
+        "q": "Co zawsze musi zostać zapewnione po załadowaniu surowców na platformę?",
+        "o": [
+          "Że karta partii jest zarchiwizowana",
+          "Że wyłącznik izolujący jest w pozycji ON",
+          "Że brama załadowcza jest zamknięta",
+          "Że obecny jest operator kontroli jakości"
+        ]
+      },
+      "bg": {
+        "q": "Какво винаги трябва да се осигури, след като суровините са натоварени на платформата?",
+        "o": [
+          "Че картата на партидата е архивирана",
+          "Че изолиращият прекъсвач е в позиция ON",
+          "Че товарната врата е затворена",
+          "Че присъства операторът по контрол на качеството"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie asigurat întotdeauna odată ce materiile prime au fost încărcate pe platformă?",
+        "o": [
+          "Că fișa lotului este arhivată",
+          "Că comutatorul izolator este pe ON",
+          "Că poarta de încărcare este închisă",
+          "Că operatorul de control al calității este prezent"
+        ]
+      },
+      "lv": {
+        "q": "Kas vienmēr jānodrošina, kad izejvielas ir uzkrautas uz platformas?",
+        "o": [
+          "Ka partijas karte ir arhivēta",
+          "Ka izolācijas slēdzis ir pozīcijā ON",
+          "Ka iekraušanas vārti ir aizvērti",
+          "Ka ir klāt KK operators"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Where do the Blenders obtain the ingredients before mixing?",
+        "o": [
+          "Directly from the filling hopper",
+          "As assembled per the batch card and placed on a pallet near the mixer",
+          "From the master board",
+          "From the Team Leader's office"
+        ]
+      },
+      "pl": {
+        "q": "Skąd operatorzy mieszania pobierają składniki przed mieszaniem?",
+        "o": [
+          "Bezpośrednio z leja napełniającego",
+          "Zgodnie z kartą partii, przygotowane i umieszczone na palecie w pobliżu mieszalnika",
+          "Z głównej tablicy elektrycznej",
+          "Z biura lidera zespołu"
+        ]
+      },
+      "bg": {
+        "q": "Откъде операторите по смесване вземат съставките преди смесване?",
+        "o": [
+          "Директно от бункера за пълнене",
+          "Подготвени съгласно картата на партидата и поставени на палет близо до миксера",
+          "От главното електрическо табло",
+          "От офиса на ръководителя на екип"
+        ]
+      },
+      "ro": {
+        "q": "De unde obțin operatorii de amestecare ingredientele înainte de amestecare?",
+        "o": [
+          "Direct din buncărul de umplere",
+          "Pregătite conform fișei lotului și așezate pe un palet lângă malaxor",
+          "De la tabloul electric principal",
+          "Din biroul liderului de echipă"
+        ]
+      },
+      "lv": {
+        "q": "No kurienes maisīšanas operatori iegūst sastāvdaļas pirms maisīšanas?",
+        "o": [
+          "Tieši no pildīšanas piltuves",
+          "Sagatavotas saskaņā ar partijas karti un novietotas uz paletes maisītāja tuvumā",
+          "No galvenā elektrības paneļa",
+          "No komandas vadītāja biroja"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Before opening the access hatch to check the blender is empty and clean, what position must the isolator switch be in?",
+        "o": [
+          "OFF",
+          "ON",
+          "MIX",
+          "It does not matter"
+        ]
+      },
+      "pl": {
+        "q": "W jakiej pozycji musi znajdować się wyłącznik izolujący przed otwarciem właz dostępowego w celu sprawdzenia, czy mieszalnik jest pusty i czysty?",
+        "o": [
+          "OFF",
+          "ON",
+          "MIX",
+          "Nie ma to znaczenia"
+        ]
+      },
+      "bg": {
+        "q": "В каква позиция трябва да бъде изолиращият прекъсвач, преди да се отвори люкът за достъп, за да се провери дали миксерът е празен и чист?",
+        "o": [
+          "OFF",
+          "ON",
+          "MIX",
+          "Няма значение"
+        ]
+      },
+      "ro": {
+        "q": "În ce poziție trebuie să fie comutatorul izolator înainte de a deschide chepengul de acces pentru a verifica dacă malaxorul este gol și curat?",
+        "o": [
+          "OFF",
+          "ON",
+          "MIX",
+          "Nu contează"
+        ]
+      },
+      "lv": {
+        "q": "Kādā pozīcijā jābūt izolācijas slēdzim, pirms tiek atvērta piekļuves lūka, lai pārbaudītu, vai maisītājs ir tukšs un tīrs?",
+        "o": [
+          "OFF",
+          "ON",
+          "MIX",
+          "Tam nav nozīmes"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "After loading ingredients into the mixer, what must be closed before pressing START?",
+        "o": [
+          "Only the loading gate",
+          "Only the bomb door",
+          "The cage flap and access hatch",
+          "Nothing needs to be closed"
+        ]
+      },
+      "pl": {
+        "q": "Co musi zostać zamknięte po załadowaniu składników do mieszalnika, zanim naciśnięty zostanie przycisk START?",
+        "o": [
+          "Tylko brama załadowcza",
+          "Tylko klapa spustowa",
+          "Klapa klatki i właz dostępowy",
+          "Nic nie musi być zamknięte"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да бъде затворено, след като съставките са заредени в миксера, преди да се натисне START?",
+        "o": [
+          "Само товарната врата",
+          "Само изпускателната врата",
+          "Капакът на клетката и люкът за достъп",
+          "Нищо не трябва да се затваря"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie închis după încărcarea ingredientelor în malaxor, înainte de a apăsa START?",
+        "o": [
+          "Doar poarta de încărcare",
+          "Doar ușa de descărcare",
+          "Clapeta cuștii și chepengul de acces",
+          "Nu trebuie închis nimic"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāaizver pēc sastāvdaļu ielādēšanas maisītājā, pirms tiek nospiesta poga START?",
+        "o": [
+          "Tikai iekraušanas vārti",
+          "Tikai izlaides durvis",
+          "Būra vāks un piekļuves lūka",
+          "Nekas nav jāaizver"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "How does the mixer stop once STARTed?",
+        "o": [
+          "It only stops if the isolator switch is turned OFF",
+          "It runs on a time control until the time elapses or STOP is pressed",
+          "It stops automatically after 5 minutes with no override",
+          "It stops when the loading gate opens"
+        ]
+      },
+      "pl": {
+        "q": "Jak zatrzymuje się mieszalnik po jego uruchomieniu przyciskiem START?",
+        "o": [
+          "Zatrzymuje się tylko po przełączeniu wyłącznika izolującego na OFF",
+          "Pracuje na sterowaniu czasowym, aż upłynie czas lub zostanie naciśnięty przycisk STOP",
+          "Zatrzymuje się automatycznie po 5 minutach bez możliwości zmiany",
+          "Zatrzymuje się, gdy otwiera się brama załadowcza"
+        ]
+      },
+      "bg": {
+        "q": "Как спира миксерът, след като е стартиран с START?",
+        "o": [
+          "Спира само ако изолиращият прекъсвач се превключи на OFF",
+          "Работи по времеви контрол, докато изтече времето или бъде натиснат бутонът STOP",
+          "Спира автоматично след 5 минути без възможност за промяна",
+          "Спира, когато се отвори товарната врата"
+        ]
+      },
+      "ro": {
+        "q": "Cum se oprește malaxorul odată pornit cu START?",
+        "o": [
+          "Se oprește doar dacă se comută comutatorul izolator pe OFF",
+          "Funcționează pe control temporizat până când timpul expiră sau este apăsat STOP",
+          "Se oprește automat după 5 minute, fără posibilitate de anulare",
+          "Se oprește când se deschide poarta de încărcare"
+        ]
+      },
+      "lv": {
+        "q": "Kā maisītājs apstājas pēc iedarbināšanas ar START?",
+        "o": [
+          "Tas apstājas tikai tad, ja izolācijas slēdzis tiek pārslēgts uz OFF",
+          "Tas darbojas ar laika kontroli, līdz beidzas laiks vai tiek nospiesta poga STOP",
+          "Tas automātiski apstājas pēc 5 minūtēm bez iespējas to mainīt",
+          "Tas apstājas, kad atveras iekraušanas vārti"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "What is done with the sample once the timer has elapsed and a sample is taken?",
+        "o": [
+          "It is discarded",
+          "It is placed in the waste skip",
+          "It is stored for the next shift",
+          "It is taken with the batch card to the QC Operator for analysis"
+        ]
+      },
+      "pl": {
+        "q": "Co robi się z próbką po upłynięciu czasu i jej pobraniu?",
+        "o": [
+          "Jest wyrzucana",
+          "Jest umieszczana w kontenerze na odpady",
+          "Jest przechowywana na następną zmianę",
+          "Jest zanoszona wraz z kartą partii do operatora kontroli jakości do analizy"
+        ]
+      },
+      "bg": {
+        "q": "Какво се прави с пробата, след като изтече времето и тя бъде взета?",
+        "o": [
+          "Изхвърля се",
+          "Поставя се в контейнера за отпадъци",
+          "Съхранява се за следващата смяна",
+          "Занася се заедно с картата на партидата на оператора по контрол на качеството за анализ"
+        ]
+      },
+      "ro": {
+        "q": "Ce se face cu proba odată ce temporizatorul a expirat și proba a fost prelevată?",
+        "o": [
+          "Este aruncată",
+          "Este pusă în containerul de deșeuri",
+          "Este păstrată pentru tura următoare",
+          "Este dusă împreună cu fișa lotului la operatorul de control al calității pentru analiză"
+        ]
+      },
+      "lv": {
+        "q": "Kas tiek darīts ar paraugu, kad taimeris ir beidzies un paraugs ir paņemts?",
+        "o": [
+          "Tas tiek izmests",
+          "Tas tiek ievietots atkritumu konteinerā",
+          "Tas tiek uzglabāts nākamajai maiņai",
+          "Tas kopā ar partijas karti tiek aiznests KK operatoram analīzei"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "How is the finished product dumped into the filling hopper below?",
+        "o": [
+          "By turning the DOORS switch to OPEN",
+          "By opening the loading gate",
+          "By pressing STOP",
+          "By turning the isolator switch to OFF"
+        ]
+      },
+      "pl": {
+        "q": "Jak zrzuca się gotowy produkt do leja napełniającego poniżej?",
+        "o": [
+          "Przełączając przełącznik DOORS na OPEN",
+          "Otwierając bramę załadowczą",
+          "Naciskając STOP",
+          "Przełączając wyłącznik izolujący na OFF"
+        ]
+      },
+      "bg": {
+        "q": "Как готовият продукт се изпуска в бункера за пълнене отдолу?",
+        "o": [
+          "Като се превключи DOORS на OPEN",
+          "Като се отвори товарната врата",
+          "Като се натисне STOP",
+          "Като се превключи изолиращият прекъсвач на OFF"
+        ]
+      },
+      "ro": {
+        "q": "Cum este descărcat produsul finit în buncărul de umplere de dedesubt?",
+        "o": [
+          "Comutând DOORS pe OPEN",
+          "Deschizând poarta de încărcare",
+          "Apăsând STOP",
+          "Comutând comutatorul izolator pe OFF"
+        ]
+      },
+      "lv": {
+        "q": "Kā gatavais produkts tiek izlaists pildīšanas piltuvē zemāk?",
+        "o": [
+          "Pārslēdzot DOORS uz OPEN",
+          "Atverot iekraušanas vārtus",
+          "Nospiežot STOP",
+          "Pārslēdzot izolācijas slēdzi uz OFF"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Where is the power isolated from before cleaning product from the mixer?",
+        "o": [
+          "The isolator switch on the loading gate",
+          "The DOORS switch",
+          "The master board on the wall adjacent to the mixer",
+          "The filling hopper control panel"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie odizolowuje się zasilanie przed oczyszczeniem mieszalnika z produktu?",
+        "o": [
+          "Na wyłączniku izolującym na bramie załadowczej",
+          "Na przełączniku DOORS",
+          "Na głównej tablicy elektrycznej znajdującej się na ścianie obok mieszalnika",
+          "Na panelu sterowania leja napełniającego"
+        ]
+      },
+      "bg": {
+        "q": "Откъде се изолира захранването преди почистване на миксера от продукта?",
+        "o": [
+          "От изолиращия прекъсвач на товарната врата",
+          "От превключвателя DOORS",
+          "От главното електрическо табло на стената до миксера",
+          "От контролния панел на бункера за пълнене"
+        ]
+      },
+      "ro": {
+        "q": "De unde este izolată alimentarea înainte de curățarea produsului din malaxor?",
+        "o": [
+          "De la comutatorul izolator de pe poarta de încărcare",
+          "De la comutatorul DOORS",
+          "De la tabloul electric principal de pe perete, lângă malaxor",
+          "De la panoul de control al buncărului de umplere"
+        ]
+      },
+      "lv": {
+        "q": "No kurienes tiek izolēta strāvas padeve pirms produkta notīrīšanas no maisītāja?",
+        "o": [
+          "No izolācijas slēdža uz iekraušanas vārtiem",
+          "No slēdža DOORS",
+          "No galvenā elektrības paneļa uz sienas blakus maisītājam",
+          "No pildīšanas piltuves vadības paneļa"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "At the end of shift, where will all completed batch cards remain until collected?",
+        "o": [
+          "In the Production Manager's office",
+          "In the Laboratory, until collected by stock control",
+          "In the waste skip",
+          "On the mixer control panel"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie na koniec zmiany pozostają wszystkie ukończone karty partii do momentu ich odebrania?",
+        "o": [
+          "W biurze Kierownika Produkcji",
+          "W laboratorium, do momentu odebrania przez dział kontroli zapasów",
+          "W kontenerze na odpady",
+          "Na panelu sterowania mieszalnika"
+        ]
+      },
+      "bg": {
+        "q": "Къде в края на смяната остават всички попълнени карти на партидата до събирането им?",
+        "o": [
+          "В офиса на производствения мениджър",
+          "В лабораторията, до събирането им от отдел контрол на запасите",
+          "В контейнера за отпадъци",
+          "На контролния панел на миксера"
+        ]
+      },
+      "ro": {
+        "q": "La sfârșitul turei, unde rămân toate fișele de lot completate până la colectare?",
+        "o": [
+          "În biroul managerului de producție",
+          "În laborator, până la colectarea lor de către controlul stocurilor",
+          "În containerul de deșeuri",
+          "Pe panoul de control al malaxorului"
+        ]
+      },
+      "lv": {
+        "q": "Kur maiņas beigās paliek visas aizpildītās partijas kartes līdz to savākšanai?",
+        "o": [
+          "Ražošanas vadītāja birojā",
+          "Laboratorijā, līdz tās savāks krājumu kontroles dienests",
+          "Atkritumu konteinerā",
+          "Uz maisītāja vadības paneļa"
+        ]
+      }
+    }
+  ]
+}

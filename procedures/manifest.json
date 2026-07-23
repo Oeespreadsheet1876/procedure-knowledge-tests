@@ -236,6 +236,18 @@
                 "ro": "Vas de amestecare cu injecție de abur",
                 "lv": "Tvaika iesmidzināšanas maisīšanas trauks"
             }
+        },
+        {
+            "id": "wp09p",
+            "file": "wp09p.json",
+            "docRef": "WP09P",
+            "title": {
+                "en": "Blending A016",
+                "pl": "Mieszanie – Mieszalnik A016",
+                "bg": "Смесване – Смесител A016",
+                "ro": "Amestecare – Malaxor A016",
+                "lv": "Maisīšana – Maisītājs A016"
+            }
         }
     ]
 }
