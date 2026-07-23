@@ -48,5 +48,7 @@
   "shift_manager_label": "Maiņas vadītājs / komandas vadītājs (neobligāti)",
   "shift_manager_hint": "Ja aizpildīts, šis vārds parādīsies sertifikātā tukšas paraksta rindas vietā.",
   "add_shift_manager_btn": "+ Pievienot maiņas vadītāju",
-  "shift_manager_badge_prefix": "Maiņas vadītājs:"
+  "shift_manager_badge_prefix": "Maiņas vadītājs:",
+  "exit_test_btn": "✕ Iziet no testa",
+  "exit_confirm_msg": "Jūsu atbildes šajā mēģinājumā tiks zaudētas. Vai tomēr vēlaties iziet uz procedūru sarakstu?"
 }

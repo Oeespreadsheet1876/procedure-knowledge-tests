@@ -48,5 +48,7 @@
   "shift_manager_label": "Shift Manager / Team Leader (optional)",
   "shift_manager_hint": "If filled in, this name appears on the certificate in place of a blank signature line.",
   "add_shift_manager_btn": "+ Add shift manager",
-  "shift_manager_badge_prefix": "Shift Manager:"
+  "shift_manager_badge_prefix": "Shift Manager:",
+  "exit_test_btn": "✕ Exit test",
+  "exit_confirm_msg": "Your answers on this attempt will be lost. Exit to the procedure list anyway?"
 }

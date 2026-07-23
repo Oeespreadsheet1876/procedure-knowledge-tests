@@ -48,5 +48,7 @@
   "shift_manager_label": "Kierownik zmiany / Lider zespołu (opcjonalnie)",
   "shift_manager_hint": "Jeśli zostanie wypełnione, to imię i nazwisko pojawi się na certyfikacie zamiast pustej linii podpisu.",
   "add_shift_manager_btn": "+ Dodaj kierownika zmiany",
-  "shift_manager_badge_prefix": "Kierownik zmiany:"
+  "shift_manager_badge_prefix": "Kierownik zmiany:",
+  "exit_test_btn": "✕ Zakończ test",
+  "exit_confirm_msg": "Twoje odpowiedzi z tej próby zostaną utracone. Czy mimo to zakończyć i wrócić do listy procedur?"
 }
