@@ -30,6 +30,12 @@
       "label": "PS",
       "name": "پښتو",
       "rtl": true
+    },
+    {
+      "code": "ur",
+      "label": "UR",
+      "name": "اردو",
+      "rtl": true
     }
   ]
 }
