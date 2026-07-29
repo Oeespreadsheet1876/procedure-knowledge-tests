@@ -300,6 +300,20 @@
         "ps": "د پاپړي ډکولو لاینونه - Fillers & Adhesives",
         "ur": "فلیک فلنگ لائنز - Fillers & Adhesives"
       }
+    },
+    {
+      "id": "wp09k",
+      "file": "wp09k.json",
+      "docRef": "WP09K",
+      "title": {
+        "en": "TGM Tube Filling Machine No A007",
+        "pl": "Maszyna do napełniania tub TGM Nr A007",
+        "bg": "Машина за пълнене на тубички TGM № A007",
+        "ro": "Mașina de umplere tuburi TGM Nr A007",
+        "lv": "TGM caurulīšu pildīšanas iekārta Nr A007",
+        "ps": "TGM Tube Filling Machine نمبر A007",
+        "ur": "TGM ٹیوب فلنگ مشین نمبر A007"
+      }
     }
   ]
 }
