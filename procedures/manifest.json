@@ -314,6 +314,20 @@
         "ps": "TGM Tube Filling Machine نمبر A007",
         "ur": "TGM ٹیوب فلنگ مشین نمبر A007"
       }
+    },
+    {
+      "id": "wp70",
+      "file": "wp70.json",
+      "docRef": "WP70",
+      "title": {
+        "en": "Safe Use of CTE 1016 Electric Stacker Truck (Fillers)",
+        "pl": "Bezpieczne użytkowanie elektrycznego wózka układacza CTE 1016 (Fillers)",
+        "bg": "Безопасна употреба на електрически щабелен кар CTE 1016 (Fillers)",
+        "ro": "Utilizarea în siguranță a stivuitorului electric CTE 1016 (Fillers)",
+        "lv": "Droša CTE 1016 elektriskā krāvēja lietošana (Fillers)",
+        "ps": "د CTE 1016 بریښنایی سټیکر ټرک خوندي کارول (Fillers)",
+        "ur": "CTE 1016 الیکٹرک اسٹیکر ٹرک کا محفوظ استعمال (Fillers)"
+      }
     }
   ]
 }

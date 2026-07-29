@@ -1,0 +1,1865 @@
+{
+  "id": "wp70",
+  "docRef": "WP70",
+  "issue": "6",
+  "title": {
+    "en": "Safe Use of CTE 1016 Electric Stacker Truck (Fillers)",
+    "pl": "Bezpieczne użytkowanie elektrycznego wózka układacza CTE 1016 (Fillers)",
+    "bg": "Безопасна употреба на електрически щабелен кар CTE 1016 (Fillers)",
+    "ro": "Utilizarea în siguranță a stivuitorului electric CTE 1016 (Fillers)",
+    "lv": "Droša CTE 1016 elektriskā krāvēja lietošana (Fillers)",
+    "ps": "د CTE 1016 بریښنایی سټیکر ټرک خوندي کارول (Fillers)",
+    "ur": "CTE 1016 الیکٹرک اسٹیکر ٹرک کا محفوظ استعمال (Fillers)"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "correct": 1,
+      "en": {
+        "q": "What is the purpose of this procedure?",
+        "o": [
+          "To describe how to charge batteries only",
+          "To enable the operator to use the CTE 1016 electric stacker truck safely, avoiding endangering themselves, other persons, or damaging property",
+          "To describe pallet types only",
+          "To set out training requirements only"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest cel tej procedury?",
+        "o": [
+          "Opisanie wyłącznie sposobu ładowania akumulatorów",
+          "Umożliwienie operatorowi bezpiecznego korzystania z elektrycznego wózka układacza CTE 1016, unikając narażania siebie, innych osób lub uszkodzenia mienia",
+          "Opisanie wyłącznie typów palet",
+          "Określenie wyłącznie wymagań szkoleniowych"
+        ]
+      },
+      "bg": {
+        "q": "Каква е целта на тази процедура?",
+        "o": [
+          "Да опише само как да се зарежда акумулаторът",
+          "Да позволи на оператора да използва електрическия щабелен кар CTE 1016 безопасно, избягвайки застрашаване на себе си, други лица или увреждане на имущество",
+          "Да опише само видовете палети",
+          "Да определи само изискванията за обучение"
+        ]
+      },
+      "ro": {
+        "q": "Care este scopul acestei proceduri?",
+        "o": [
+          "Să descrie doar cum se încarcă bateriile",
+          "Să permită operatorului să utilizeze stivuitorul electric CTE 1016 în siguranță, evitând să se pună în pericol pe sine, alte persoane, sau să deterioreze proprietatea",
+          "Să descrie doar tipurile de paleți",
+          "Să stabilească doar cerințele de instruire"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir šīs procedūras mērķis?",
+        "o": [
+          "Aprakstīt tikai to, kā uzlādēt akumulatorus",
+          "Ļaut operatoram droši izmantot CTE 1016 elektrisko krāvēju, izvairoties no sevis, citu personu apdraudēšanas vai īpašuma bojāšanas",
+          "Aprakstīt tikai paliktņu veidus",
+          "Noteikt tikai apmācības prasības"
+        ]
+      },
+      "ps": {
+        "q": "د دې طرزالعمل موخه څه ده؟",
+        "o": [
+          "یوازې د بیټری چارج کولو طریقه بیانول",
+          "آپریټور ته اجازه ورکول چې د CTE 1016 بریښنایی سټیکر ټرک خوندي ډول وکاروي، پرته له دې چې پخپله، نور کسان، یا شتمني ته زیان ورسوي",
+          "یوازې د پیلټ ډولونه بیانول",
+          "یوازې د روزنې اړتیاوې ټاکل"
+        ]
+      },
+      "ur": {
+        "q": "اس طریقہ کار کا مقصد کیا ہے؟",
+        "o": [
+          "صرف بیٹری چارج کرنے کا طریقہ بیان کرنا",
+          "آپریٹر کو CTE 1016 الیکٹرک اسٹیکر ٹرک کو محفوظ طریقے سے استعمال کرنے کے قابل بنانا، خود، دیگر افراد یا جائیداد کو نقصان پہنچانے سے گریز کرتے ہوئے",
+          "صرف پیلٹ کی اقسام بیان کرنا",
+          "صرف تربیت کی ضروریات مقرر کرنا"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Can you operate the stacker if you have not been trained or authorised to do so?",
+        "o": [
+          "Yes, if you are careful",
+          "No, never operate or allow others to operate it unless trained or authorised",
+          "Only during quiet periods",
+          "Only if a colleague supervises you"
+        ]
+      },
+      "pl": {
+        "q": "Czy możesz obsługiwać wózek, jeśli nie zostałeś przeszkolony lub upoważniony do tego?",
+        "o": [
+          "Tak, jeśli jesteś ostrożny",
+          "Nie, nigdy nie obsługuj ani nie pozwalaj innym obsługiwać go, chyba że są przeszkoleni lub upoważnieni",
+          "Tylko w spokojnych okresach",
+          "Tylko jeśli nadzoruje cię kolega"
+        ]
+      },
+      "bg": {
+        "q": "Можете ли да работите с кара, ако не сте обучени или упълномощени да го правите?",
+        "o": [
+          "Да, ако сте внимателни",
+          "Не, никога не работете и не позволявайте на други да работят с него, освен ако не са обучени или упълномощени",
+          "Само в спокойни периоди",
+          "Само ако колега ви наблюдава"
+        ]
+      },
+      "ro": {
+        "q": "Puteți opera stivuitorul dacă nu ați fost instruit sau autorizat să faceți acest lucru?",
+        "o": [
+          "Da, dacă sunteți atent",
+          "Nu, nu operați niciodată și nu permiteți altora să opereze decât dacă sunt instruiți sau autorizați",
+          "Doar în perioadele liniștite",
+          "Doar dacă un coleg vă supraveghează"
+        ]
+      },
+      "lv": {
+        "q": "Vai jūs varat vadīt krāvēju, ja neesat apmācīts vai pilnvarots to darīt?",
+        "o": [
+          "Jā, ja esat uzmanīgs",
+          "Nē, nekad nevadiet un neļaujiet citiem vadīt, ja vien viņi nav apmācīti vai pilnvaroti",
+          "Tikai mierīgos periodos",
+          "Tikai ja kolēģis jūs uzrauga"
+        ]
+      },
+      "ps": {
+        "q": "ایا تاسو سټیکر چلولی شئ که تاسو د دې لپاره روزل شوي یا مجاز نه یاست؟",
+        "o": [
+          "هو، که تاسو محتاط یاست",
+          "نه، هیڅکله یې مه چلوئ او نه نورو ته اجازه ورکوئ چې پرته له روزنې یا اجازې یې وچلوي",
+          "یوازې د آرام وختونو کې",
+          "یوازې که همکار مو نظارت وکړي"
+        ]
+      },
+      "ur": {
+        "q": "کیا آپ اسٹیکر چلا سکتے ہیں اگر آپ کو اس کے لیے تربیت یا اجازت نہیں دی گئی؟",
+        "o": [
+          "ہاں، اگر آپ محتاط ہوں",
+          "نہیں، کبھی بھی خود مت چلائیں اور نہ ہی دوسروں کو چلانے دیں جب تک وہ تربیت یافتہ یا مجاز نہ ہوں",
+          "صرف پرسکون اوقات میں",
+          "صرف اگر کوئی ساتھی نگرانی کرے"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "When the stacker is not in use, where should the forks be positioned?",
+        "o": [
+          "Raised to the highest position",
+          "Lowered to the lowest position",
+          "Left at whatever height they were last used",
+          "It does not matter"
+        ]
+      },
+      "pl": {
+        "q": "Gdy wózek nie jest używany, gdzie powinny być ustawione widły?",
+        "o": [
+          "Podniesione do najwyższej pozycji",
+          "Opuszczone do najniższej pozycji",
+          "Pozostawione na wysokości ostatniego użycia",
+          "Nie ma to znaczenia"
+        ]
+      },
+      "bg": {
+        "q": "Когато карът не се използва, къде трябва да бъдат позиционирани вилиците?",
+        "o": [
+          "Повдигнати в най-високата позиция",
+          "Спуснати в най-ниската позиция",
+          "Оставени на височината, на която последно са били използвани",
+          "Няма значение"
+        ]
+      },
+      "ro": {
+        "q": "Când stivuitorul nu este utilizat, unde trebuie poziționate furcile?",
+        "o": [
+          "Ridicate în poziția cea mai înaltă",
+          "Coborâte în poziția cea mai joasă",
+          "Lăsate la înălțimea la care au fost utilizate ultima dată",
+          "Nu contează"
+        ]
+      },
+      "lv": {
+        "q": "Kad krāvējs netiek izmantots, kur jānovieto dakšas?",
+        "o": [
+          "Paceltas visaugstākajā pozīcijā",
+          "Nolaistas viszemākajā pozīcijā",
+          "Atstātas augstumā, kādā tās pēdējo reizi izmantotas",
+          "Tam nav nozīmes"
+        ]
+      },
+      "ps": {
+        "q": "کله چې سټیکر کارول کیږي نه، پنجې باید چیرته موقعیت ولري؟",
+        "o": [
+          "لوړ ترین موقعیت ته پورته شوي",
+          "ټیټ ترین موقعیت ته ښکته شوي",
+          "هغه لوړوالي کې پریښودل شوي چې وروستی ځل کارول شوي",
+          "دا اهمیت نلري"
+        ]
+      },
+      "ur": {
+        "q": "جب اسٹیکر استعمال میں نہ ہو، تو کانٹے کہاں رکھے جانے چاہئیں؟",
+        "o": [
+          "سب سے اونچی پوزیشن پر اٹھائے ہوئے",
+          "سب سے نچلی پوزیشن پر نیچے کیے ہوئے",
+          "جہاں آخری بار استعمال کیے گئے وہیں چھوڑے ہوئے",
+          "کوئی فرق نہیں پڑتا"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What is the minimum clearance that must be maintained from any person when lifting or transporting a load?",
+        "o": [
+          "300mm",
+          "600mm",
+          "1000mm",
+          "No clearance is required"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest minimalny odstęp, który musi być zachowany od jakiejkolwiek osoby podczas podnoszenia lub transportowania ładunku?",
+        "o": [
+          "300mm",
+          "600mm",
+          "1000mm",
+          "Żaden odstęp nie jest wymagany"
+        ]
+      },
+      "bg": {
+        "q": "Какво е минималното разстояние, което трябва да се поддържа от всяко лице при повдигане или транспортиране на товар?",
+        "o": [
+          "300мм",
+          "600мм",
+          "1000мм",
+          "Не се изисква разстояние"
+        ]
+      },
+      "ro": {
+        "q": "Care este distanța minimă care trebuie menținută față de orice persoană la ridicarea sau transportarea unei sarcini?",
+        "o": [
+          "300mm",
+          "600mm",
+          "1000mm",
+          "Nu este necesară nicio distanță"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir minimālais attālums, kas jāievēro no jebkuras personas, ceļot vai transportējot kravu?",
+        "o": [
+          "300mm",
+          "600mm",
+          "1000mm",
+          "Attālums nav nepieciešams"
+        ]
+      },
+      "ps": {
+        "q": "د بار پورته کولو یا لیږد پرمهال د کوم کس څخه کوم لږترلږه واټن ساتل کیدی شي؟",
+        "o": [
+          "300mm",
+          "600mm",
+          "1000mm",
+          "هیڅ واټن ته اړتیا نشته"
+        ]
+      },
+      "ur": {
+        "q": "بار اٹھاتے یا منتقل کرتے وقت کسی بھی شخص سے کم از کم کتنا فاصلہ برقرار رکھا جانا چاہیے؟",
+        "o": [
+          "300mm",
+          "600mm",
+          "1000mm",
+          "کسی فاصلے کی ضرورت نہیں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "At what height should you avoid moving the stacker with goods lifted above?",
+        "o": [
+          "100mm",
+          "Greater than 300mm",
+          "Greater than 1000mm",
+          "There is no height restriction"
+        ]
+      },
+      "pl": {
+        "q": "Na jakiej wysokości należy unikać przemieszczania wózka z uniesionym towarem?",
+        "o": [
+          "100mm",
+          "Powyżej 300mm",
+          "Powyżej 1000mm",
+          "Nie ma ograniczenia wysokości"
+        ]
+      },
+      "bg": {
+        "q": "На каква височина трябва да избягвате да местите кара с повдигнати стоки?",
+        "o": [
+          "100мм",
+          "Над 300мм",
+          "Над 1000мм",
+          "Няма ограничение за височина"
+        ]
+      },
+      "ro": {
+        "q": "La ce înălțime ar trebui să evitați mutarea stivuitorului cu mărfuri ridicate deasupra?",
+        "o": [
+          "100mm",
+          "Mai mare de 300mm",
+          "Mai mare de 1000mm",
+          "Nu există restricție de înălțime"
+        ]
+      },
+      "lv": {
+        "q": "Kādā augstumā jāizvairās pārvietot krāvēju ar paceltām precēm?",
+        "o": [
+          "100mm",
+          "Vairāk nekā 300mm",
+          "Vairāk nekā 1000mm",
+          "Nav augstuma ierobežojuma"
+        ]
+      },
+      "ps": {
+        "q": "کوم لوړوالي کې تاسو باید له سټیکر حرکت ورکولو څخه ډډه وکړئ کله چې توکي پورته شوي وي؟",
+        "o": [
+          "100mm",
+          "د 300mm څخه ډیر",
+          "د 1000mm څخه ډیر",
+          "کوم لوړوالي بندیز نشته"
+        ]
+      },
+      "ur": {
+        "q": "کس اونچائی پر آپ کو سامان اٹھائے ہوئے اسٹیکر کو حرکت دینے سے گریز کرنا چاہیے؟",
+        "o": [
+          "100mm",
+          "300mm سے زیادہ",
+          "1000mm سے زیادہ",
+          "کوئی اونچائی کی پابندی نہیں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "On what type of ground should the stacker be used?",
+        "o": [
+          "Slopes only",
+          "Flat ground only, never slopes or uneven ground",
+          "Any ground, as long as you are careful",
+          "Uneven ground is preferred"
+        ]
+      },
+      "pl": {
+        "q": "Na jakim rodzaju podłoża powinien być używany wózek?",
+        "o": [
+          "Tylko na pochyłościach",
+          "Tylko na płaskim terenie, nigdy na pochyłościach lub nierównym terenie",
+          "Na dowolnym terenie, jeśli jesteś ostrożny",
+          "Nierówny teren jest preferowany"
+        ]
+      },
+      "bg": {
+        "q": "На какъв вид терен трябва да се използва карът?",
+        "o": [
+          "Само на наклони",
+          "Само на равен терен, никога на наклони или неравен терен",
+          "На всякакъв терен, стига да сте внимателни",
+          "Неравен терен е предпочитан"
+        ]
+      },
+      "ro": {
+        "q": "Pe ce tip de teren ar trebui utilizat stivuitorul?",
+        "o": [
+          "Doar pe pante",
+          "Doar pe teren plat, niciodată pe pante sau teren neregulat",
+          "Pe orice teren, atâta timp cât sunteți atent",
+          "Terenul neregulat este preferat"
+        ]
+      },
+      "lv": {
+        "q": "Uz kāda veida virsmas jāizmanto krāvējs?",
+        "o": [
+          "Tikai uz nogāzēm",
+          "Tikai uz līdzenas virsmas, nekad uz nogāzēm vai nelīdzenas virsmas",
+          "Uz jebkuras virsmas, ja esat uzmanīgs",
+          "Nelīdzena virsma ir vēlama"
+        ]
+      },
+      "ps": {
+        "q": "سټیکر باید د کوم ډول ځمکې باندې وکارول شي؟",
+        "o": [
+          "یوازې الوپو باندې",
+          "یوازې برابره ځمکه، هیڅکله الوپو یا ناهموار ځمکه نه",
+          "هره ځمکه، تر څو چې محتاط یاست",
+          "ناهموار ځمکه غوره ده"
+        ]
+      },
+      "ur": {
+        "q": "اسٹیکر کو کس قسم کی زمین پر استعمال کیا جانا چاہیے؟",
+        "o": [
+          "صرف ڈھلوانوں پر",
+          "صرف ہموار زمین پر، کبھی ڈھلوانوں یا ناہموار زمین پر نہیں",
+          "کسی بھی زمین پر، جب تک آپ محتاط ہوں",
+          "ناہموار زمین کو ترجیح دی جاتی ہے"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "What is the maximum load capacity of the stacker?",
+        "o": [
+          "500kg",
+          "750kg",
+          "1000kg",
+          "1500kg"
+        ]
+      },
+      "pl": {
+        "q": "Jaka jest maksymalna nośność wózka?",
+        "o": [
+          "500kg",
+          "750kg",
+          "1000kg",
+          "1500kg"
+        ]
+      },
+      "bg": {
+        "q": "Каква е максималната товароносимост на кара?",
+        "o": [
+          "500кг",
+          "750кг",
+          "1000кг",
+          "1500кг"
+        ]
+      },
+      "ro": {
+        "q": "Care este capacitatea maximă de încărcare a stivuitorului?",
+        "o": [
+          "500kg",
+          "750kg",
+          "1000kg",
+          "1500kg"
+        ]
+      },
+      "lv": {
+        "q": "Kāda ir maksimālā krāvēja kravnesība?",
+        "o": [
+          "500kg",
+          "750kg",
+          "1000kg",
+          "1500kg"
+        ]
+      },
+      "ps": {
+        "q": "د سټیکر اعظمي د بار ظرفیت څومره دی؟",
+        "o": [
+          "500kg",
+          "750kg",
+          "1000kg",
+          "1500kg"
+        ]
+      },
+      "ur": {
+        "q": "اسٹیکر کی زیادہ سے زیادہ لوڈ گنجائش کیا ہے؟",
+        "o": [
+          "500kg",
+          "750kg",
+          "1000kg",
+          "1500kg"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Is it permitted to modify the stacker in any way?",
+        "o": [
+          "Yes, if it improves performance",
+          "No, unauthorised modification may impair function, safety, or the life of the equipment",
+          "Only with a Team Leader's verbal approval",
+          "Only minor modifications are allowed"
+        ]
+      },
+      "pl": {
+        "q": "Czy dozwolone jest modyfikowanie wózka w jakikolwiek sposób?",
+        "o": [
+          "Tak, jeśli poprawia to wydajność",
+          "Nie, nieautoryzowana modyfikacja może upośledzić funkcję, bezpieczeństwo lub żywotność sprzętu",
+          "Tylko za ustną zgodą lidera zespołu",
+          "Dozwolone są tylko drobne modyfikacje"
+        ]
+      },
+      "bg": {
+        "q": "Разрешено ли е да се модифицира карът по какъвто и да е начин?",
+        "o": [
+          "Да, ако подобрява производителността",
+          "Не, неоторизирана модификация може да наруши функцията, безопасността или живота на оборудването",
+          "Само с устно одобрение на ръководителя на екипа",
+          "Разрешени са само незначителни модификации"
+        ]
+      },
+      "ro": {
+        "q": "Este permis să modificați stivuitorul în vreun fel?",
+        "o": [
+          "Da, dacă îmbunătățește performanța",
+          "Nu, modificarea neautorizată poate afecta funcția, siguranța sau durata de viață a echipamentului",
+          "Doar cu aprobarea verbală a liderului de echipă",
+          "Sunt permise doar modificări minore"
+        ]
+      },
+      "lv": {
+        "q": "Vai ir atļauts jebkādā veidā modificēt krāvēju?",
+        "o": [
+          "Jā, ja tas uzlabo veiktspēju",
+          "Nē, nesankcionēta modifikācija var pasliktināt funkciju, drošību vai iekārtas kalpošanas laiku",
+          "Tikai ar komandas vadītāja mutisku apstiprinājumu",
+          "Atļautas tikai nelielas modifikācijas"
+        ]
+      },
+      "ps": {
+        "q": "ایا سټیکر په کوم ډول بدلولو اجازه ده؟",
+        "o": [
+          "هو، که دا فعالیت ښه کوي",
+          "نه، غیر مجاز بدلون کولی شي فعالیت، خوندیتوب، یا د تجهیزاتو عمر ته زیان ورسوي",
+          "یوازې د ډلې مشر شفاهي منظوري سره",
+          "یوازې کوچني بدلونونه اجازه دي"
+        ]
+      },
+      "ur": {
+        "q": "کیا اسٹیکر کو کسی بھی طریقے سے تبدیل کرنے کی اجازت ہے؟",
+        "o": [
+          "ہاں، اگر یہ کارکردگی کو بہتر بناتا ہے",
+          "نہیں، غیر مجاز تبدیلی فنکشن، حفاظت، یا آلات کی زندگی کو خراب کر سکتی ہے",
+          "صرف ٹیم لیڈر کی زبانی منظوری کے ساتھ",
+          "صرف معمولی تبدیلیوں کی اجازت ہے"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "Which document is the Lifting Equipment Inventory?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to Inwentarz Sprzętu do Podnoszenia?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е Инвентарният опис на повдигателното оборудване?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "ro": {
+        "q": "Care document este Inventarul Echipamentului de Ridicare?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir Celšanas iekārtu inventārs?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "ps": {
+        "q": "کوم سند د پورته کولو تجهیزاتو انوینٹري دی؟",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "ur": {
+        "q": "کون سا دستاویز لفٹنگ ایکویپمنٹ انوینٹری ہے؟",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Which document is the Risk Assessment for the CTE 1016 electric stacker truck?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to Ocena Ryzyka dla elektrycznego wózka układacza CTE 1016?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е Оценката на риска за електрическия щабелен кар CTE 1016?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "ro": {
+        "q": "Care document este Evaluarea Riscului pentru stivuitorul electric CTE 1016?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir CTE 1016 elektriskā krāvēja riska novērtējums?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "ps": {
+        "q": "کوم سند د CTE 1016 بریښنایی سټیکر ټرک لپاره د خطر ارزونه ده؟",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "ur": {
+        "q": "کون سا دستاویز CTE 1016 الیکٹرک اسٹیکر ٹرک کے لیے رسک اسیسمنٹ ہے؟",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Which document is the Electric Stacker Truck pre-use inspection sheet?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to arkusz kontroli przed użyciem elektrycznego wózka układacza?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е листът за проверка преди употреба на електрическия щабелен кар?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "ro": {
+        "q": "Care document este fișa de inspecție înainte de utilizare a stivuitorului electric?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir elektriskā krāvēja pirms lietošanas pārbaudes lapa?",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "ps": {
+        "q": "کوم سند د بریښنایی سټیکر ټرک د کارونې مخکې معاینې پاڼه ده؟",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      },
+      "ur": {
+        "q": "کون سا دستاویز الیکٹرک اسٹیکر ٹرک پری یوز انسپیکشن شیٹ ہے؟",
+        "o": [
+          "B63",
+          "B166",
+          "WP34",
+          "B77"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "What must be clearly marked on all lifting equipment and accessories?",
+        "o": [
+          "The manufacturer's logo",
+          "The purchase date",
+          "The safe working load (SWL)",
+          "The operator's name"
+        ]
+      },
+      "pl": {
+        "q": "Co musi być wyraźnie oznaczone na całym sprzęcie do podnoszenia i akcesoriach?",
+        "o": [
+          "Logo producenta",
+          "Data zakupu",
+          "Bezpieczne obciążenie robocze (SWL)",
+          "Nazwisko operatora"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да бъде ясно маркирано на цялото повдигателно оборудване и принадлежности?",
+        "o": [
+          "Логото на производителя",
+          "Датата на покупка",
+          "Безопасния работен товар (SWL)",
+          "Името на оператора"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie marcat clar pe tot echipamentul de ridicare și accesoriile sale?",
+        "o": [
+          "Logo-ul producătorului",
+          "Data achiziției",
+          "Sarcina de lucru sigură (SWL)",
+          "Numele operatorului"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāatzīmē skaidri uz visām celšanas iekārtām un piederumiem?",
+        "o": [
+          "Ražotāja logotips",
+          "Iegādes datums",
+          "Drošā darba slodze (SWL)",
+          "Operatora vārds"
+        ]
+      },
+      "ps": {
+        "q": "ټول د پورته کولو تجهیزاتو او اضافي شیانو باندې باید څه په ښکاره ډول نښه شوي وي؟",
+        "o": [
+          "د جوړونکي لوگو",
+          "د پیرودلو نیټه",
+          "خوندي کاري بار (SWL)",
+          "د آپریټر نوم"
+        ]
+      },
+      "ur": {
+        "q": "تمام لفٹنگ ایکویپمنٹ اور لوازمات پر کیا واضح طور پر نشان زد ہونا چاہیے؟",
+        "o": [
+          "مینوفیکچرر کا لوگو",
+          "خریداری کی تاریخ",
+          "محفوظ کام کا بوجھ (SWL)",
+          "آپریٹر کا نام"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "If you notice any damage, malfunction, or concern with lifting equipment, what must you do?",
+        "o": [
+          "Ignore it if it seems minor",
+          "Immediately report it to the Production Manager, Team Leader, or Maintenance Engineer",
+          "Fix it yourself if possible",
+          "Wait until the end of shift to report it"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli zauważysz jakiekolwiek uszkodzenie, awarię lub problem ze sprzętem do podnoszenia, co musisz zrobić?",
+        "o": [
+          "Zignorować to, jeśli wydaje się drobne",
+          "Natychmiast zgłosić to Kierownikowi Produkcji, Liderowi Zespołu lub Inżynierowi Utrzymania Ruchu",
+          "Naprawić to samemu, jeśli to możliwe",
+          "Poczekać do końca zmiany, aby to zgłosić"
+        ]
+      },
+      "bg": {
+        "q": "Ако забележите повреда, неизправност или проблем с повдигателното оборудване, какво трябва да направите?",
+        "o": [
+          "Игнорирайте го, ако изглежда незначителен",
+          "Незабавно докладвайте на Производствения мениджър, Ръководителя на екипа или Инженера по поддръжка",
+          "Поправете го сами, ако е възможно",
+          "Изчакайте до края на смяната, за да го докладвате"
+        ]
+      },
+      "ro": {
+        "q": "Dacă observați orice deteriorare, defecțiune sau problemă cu echipamentul de ridicare, ce trebuie să faceți?",
+        "o": [
+          "Ignorați dacă pare minoră",
+          "Raportați imediat Managerului de Producție, Liderului de Echipă sau Inginerului de Întreținere",
+          "Reparați-l singur dacă este posibil",
+          "Așteptați până la sfârșitul turei pentru a raporta"
+        ]
+      },
+      "lv": {
+        "q": "Ja pamanāt jebkādus bojājumus, darbības traucējumus vai bažas par celšanas iekārtu, kas jādara?",
+        "o": [
+          "Ignorēt, ja tas šķiet nenozīmīgs",
+          "Nekavējoties ziņot ražošanas vadītājam, komandas vadītājam vai apkopes inženierim",
+          "Salabot to pašam, ja iespējams",
+          "Gaidīt līdz maiņas beigām, lai ziņotu"
+        ]
+      },
+      "ps": {
+        "q": "که تاسو د پورته کولو تجهیزاتو کې کوم زیان، خرابي، یا اندیښنه وګورئ، تاسو باید څه وکړئ؟",
+        "o": [
+          "که دا کوچنی ښکاري نو دې ته پام مه کوئ",
+          "سملاسي د تولید مدیر، ډلې مشر، یا مینٹیننس انجینر ته راپور ورکړئ",
+          "که ممکنه وي پخپله یې سم کړئ",
+          "د شفت پای ته انتظار وکړئ ترڅو راپور یې ورکړئ"
+        ]
+      },
+      "ur": {
+        "q": "اگر آپ کو لفٹنگ ایکویپمنٹ میں کوئی نقصان، خرابی، یا تشویش نظر آئے تو آپ کو کیا کرنا چاہیے؟",
+        "o": [
+          "اگر معمولی لگے تو نظر انداز کریں",
+          "فوراً پروڈکشن منیجر، ٹیم لیڈر، یا مینٹیننس انجینئر کو رپورٹ کریں",
+          "اگر ممکن ہو تو خود ٹھیک کریں",
+          "شفٹ کے اختتام تک انتظار کریں رپورٹ کرنے کے لیے"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Where must reports and defects of lifting equipment be recorded?",
+        "o": [
+          "Only verbally to the Team Leader",
+          "On the lifting equipment log/register (B77)",
+          "There is no requirement to record it",
+          "On the batch card"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie muszą być rejestrowane raporty i usterki sprzętu do podnoszenia?",
+        "o": [
+          "Tylko ustnie liderowi zespołu",
+          "W dzienniku/rejestrze sprzętu do podnoszenia (B77)",
+          "Nie ma wymogu rejestrowania tego",
+          "Na karcie partii"
+        ]
+      },
+      "bg": {
+        "q": "Къде трябва да се записват докладите и дефектите на повдигателното оборудване?",
+        "o": [
+          "Само устно на ръководителя на екипа",
+          "В дневника/регистъра на повдигателното оборудване (B77)",
+          "Няма изискване за записване на това",
+          "На картата на партидата"
+        ]
+      },
+      "ro": {
+        "q": "Unde trebuie înregistrate rapoartele și defectele echipamentului de ridicare?",
+        "o": [
+          "Doar verbal către liderul de echipă",
+          "În jurnalul/registrul echipamentului de ridicare (B77)",
+          "Nu există cerință de a înregistra acest lucru",
+          "Pe fișa lotului"
+        ]
+      },
+      "lv": {
+        "q": "Kur jāreģistrē celšanas iekārtu ziņojumi un defekti?",
+        "o": [
+          "Tikai mutiski komandas vadītājam",
+          "Celšanas iekārtu žurnālā/reģistrā (B77)",
+          "Nav prasības to reģistrēt",
+          "Uz partijas kartes"
+        ]
+      },
+      "ps": {
+        "q": "د پورته کولو تجهیزاتو راپورونه او خرابۍ چیرته باید ثبت شي؟",
+        "o": [
+          "یوازې شفاهي ډلې مشر ته",
+          "د پورته کولو تجهیزاتو لاگ/راجستر (B77) کې",
+          "دا ثبت کولو ته کومه اړتیا نشته",
+          "د بیچ کارت باندې"
+        ]
+      },
+      "ur": {
+        "q": "لفٹنگ ایکویپمنٹ کی رپورٹس اور خرابیاں کہاں ریکارڈ کی جانی چاہئیں؟",
+        "o": [
+          "صرف زبانی طور پر ٹیم لیڈر کو",
+          "لفٹنگ ایکویپمنٹ لاگ/رجسٹر (B77) میں",
+          "اسے ریکارڈ کرنے کی کوئی ضرورت نہیں",
+          "بیچ کارڈ پر"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Before loading pallets, what must you check?",
+        "o": [
+          "Only that the battery is fully charged",
+          "All safety checks listed on form B166, to ensure the stacker is safe to use",
+          "Only that the forks are clean",
+          "Nothing specific is required"
+        ]
+      },
+      "pl": {
+        "q": "Przed załadowaniem palet, co musisz sprawdzić?",
+        "o": [
+          "Tylko czy akumulator jest w pełni naładowany",
+          "Wszystkie kontrole bezpieczeństwa wymienione w formularzu B166, aby upewnić się, że wózek jest bezpieczny w użyciu",
+          "Tylko czy widły są czyste",
+          "Nic konkretnego nie jest wymagane"
+        ]
+      },
+      "bg": {
+        "q": "Преди зареждане на палети, какво трябва да проверите?",
+        "o": [
+          "Само дали акумулаторът е напълно зареден",
+          "Всички проверки за безопасност, изброени във формуляр B166, за да се уверите, че карът е безопасен за употреба",
+          "Само дали вилиците са чисти",
+          "Нищо конкретно не се изисква"
+        ]
+      },
+      "ro": {
+        "q": "Înainte de a încărca paleții, ce trebuie să verificați?",
+        "o": [
+          "Doar dacă bateria este complet încărcată",
+          "Toate verificările de siguranță listate pe formularul B166, pentru a vă asigura că stivuitorul este sigur de utilizat",
+          "Doar dacă furcile sunt curate",
+          "Nu este necesar nimic specific"
+        ]
+      },
+      "lv": {
+        "q": "Pirms paliktņu iekraušanas, kas jāpārbauda?",
+        "o": [
+          "Tikai vai akumulators ir pilnībā uzlādēts",
+          "Visas B166 veidlapā uzskaitītās drošības pārbaudes, lai pārliecinātos, ka krāvējs ir drošs lietošanai",
+          "Tikai vai dakšas ir tīras",
+          "Nekas konkrēts nav nepieciešams"
+        ]
+      },
+      "ps": {
+        "q": "پیلټونو د پورته کولو مخکې، تاسو باید څه وګورئ؟",
+        "o": [
+          "یوازې چې بیټری بشپړ چارج شوی دی",
+          "B166 فارم کې لیست شوي ټول خوندیتوب چیکونه، ترڅو ډاډ ترلاسه شي چې سټیکر د کارولو لپاره خوندي دی",
+          "یوازې چې پنجې پاکې دي",
+          "هیڅ ځانګړی شی ته اړتیا نشته"
+        ]
+      },
+      "ur": {
+        "q": "پیلٹس لوڈ کرنے سے پہلے، آپ کو کیا چیک کرنا چاہیے؟",
+        "o": [
+          "صرف کہ بیٹری مکمل طور پر چارج ہے",
+          "فارم B166 پر درج تمام حفاظتی چیک، تاکہ یقینی بنایا جا سکے کہ اسٹیکر استعمال کے لیے محفوظ ہے",
+          "صرف کہ کانٹے صاف ہیں",
+          "کسی خاص چیز کی ضرورت نہیں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "How many people are required to lift a four-way entry, open ended pallet onto the forks?",
+        "o": [
+          "One",
+          "Two",
+          "Three",
+          "Four"
+        ]
+      },
+      "pl": {
+        "q": "Ile osób jest potrzebnych, aby podnieść czterostronną paletę z otwartymi końcami na widły?",
+        "o": [
+          "Jedna",
+          "Dwie",
+          "Trzy",
+          "Cztery"
+        ]
+      },
+      "bg": {
+        "q": "Колко души са необходими, за да повдигнат четиристранна палета с отворени краища на вилиците?",
+        "o": [
+          "Един",
+          "Двама",
+          "Трима",
+          "Четирима"
+        ]
+      },
+      "ro": {
+        "q": "Câte persoane sunt necesare pentru a ridica un palet cu intrare pe patru părți, cu capete deschise, pe furci?",
+        "o": [
+          "Una",
+          "Două",
+          "Trei",
+          "Patru"
+        ]
+      },
+      "lv": {
+        "q": "Cik cilvēku nepieciešams, lai paceltu četrpusēju, atvērtu paliktni uz dakšām?",
+        "o": [
+          "Viens",
+          "Divi",
+          "Trīs",
+          "Četri"
+        ]
+      },
+      "ps": {
+        "q": "د څلور اړخیز ننوتلو، خلاص پای پیلټ پنجو باندې پورته کولو لپاره څو کسانو ته اړتیا ده؟",
+        "o": [
+          "یو",
+          "دوه",
+          "درې",
+          "څلور"
+        ]
+      },
+      "ur": {
+        "q": "چار طرفہ انٹری، کھلے سرے والے پیلٹ کو کانٹوں پر اٹھانے کے لیے کتنے لوگوں کی ضرورت ہے؟",
+        "o": [
+          "ایک",
+          "دو",
+          "تین",
+          "چار"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Why must the pallet be centralised between the forks?",
+        "o": [
+          "To make it easier to see",
+          "To ensure stability whilst loading",
+          "It is not necessary to centralise it",
+          "To speed up the process"
+        ]
+      },
+      "pl": {
+        "q": "Dlaczego paleta musi być wycentrowana między widłami?",
+        "o": [
+          "Aby ułatwić jej widoczność",
+          "Aby zapewnić stabilność podczas ładowania",
+          "Nie ma potrzeby jej centrowania",
+          "Aby przyspieszyć proces"
+        ]
+      },
+      "bg": {
+        "q": "Защо палетата трябва да бъде центрирана между вилиците?",
+        "o": [
+          "За да се вижда по-лесно",
+          "За да се осигури стабилност по време на товарене",
+          "Не е необходимо да се центрира",
+          "За да се ускори процесът"
+        ]
+      },
+      "ro": {
+        "q": "De ce trebuie paletul centralizat între furci?",
+        "o": [
+          "Pentru a fi mai ușor de văzut",
+          "Pentru a asigura stabilitatea în timpul încărcării",
+          "Nu este necesar să fie centralizat",
+          "Pentru a accelera procesul"
+        ]
+      },
+      "lv": {
+        "q": "Kāpēc paliktnim jābūt centrētam starp dakšām?",
+        "o": [
+          "Lai to būtu vieglāk redzēt",
+          "Lai nodrošinātu stabilitāti iekraušanas laikā",
+          "Nav nepieciešams to centrēt",
+          "Lai paātrinātu procesu"
+        ]
+      },
+      "ps": {
+        "q": "پیلټ باید د پنجو ترمنځ مرکزي ولې کیښودل شي؟",
+        "o": [
+          "د لیدو اسانتیا لپاره",
+          "د لوډولو پرمهال ثبات ډاډمن کولو لپاره",
+          "دا مرکزي کول اړین نه دي",
+          "پروسه چټکه کولو لپاره"
+        ]
+      },
+      "ur": {
+        "q": "پیلٹ کو کانٹوں کے درمیان مرکزی کیوں رکھا جانا چاہیے؟",
+        "o": [
+          "اسے دیکھنے میں آسانی کے لیے",
+          "لوڈنگ کے دوران استحکام کو یقینی بنانے کے لیے",
+          "اسے مرکزی رکھنے کی ضرورت نہیں",
+          "عمل کو تیز کرنے کے لیے"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Before adjusting the height of the pallets, what must be checked?",
+        "o": [
+          "That the emergency button is pressed",
+          "That a clearance of at least 600mm from any person has been achieved",
+          "That the battery indicator shows full charge",
+          "Nothing needs to be checked"
+        ]
+      },
+      "pl": {
+        "q": "Przed regulacją wysokości palet, co musi być sprawdzone?",
+        "o": [
+          "Czy przycisk awaryjny jest wciśnięty",
+          "Czy zachowano odstęp co najmniej 600mm od jakiejkolwiek osoby",
+          "Czy wskaźnik akumulatora pokazuje pełne naładowanie",
+          "Nic nie musi być sprawdzone"
+        ]
+      },
+      "bg": {
+        "q": "Преди регулиране на височината на палетите, какво трябва да се провери?",
+        "o": [
+          "Дали аварийният бутон е натиснат",
+          "Дали е постигнато разстояние от поне 600мм от всяко лице",
+          "Дали индикаторът на акумулатора показва пълен заряд",
+          "Нищо не трябва да се проверява"
+        ]
+      },
+      "ro": {
+        "q": "Înainte de a ajusta înălțimea paleților, ce trebuie verificat?",
+        "o": [
+          "Dacă butonul de urgență este apăsat",
+          "Dacă a fost realizată o distanță de cel puțin 600mm față de orice persoană",
+          "Dacă indicatorul bateriei arată încărcare completă",
+          "Nu trebuie verificat nimic"
+        ]
+      },
+      "lv": {
+        "q": "Pirms paliktņu augstuma regulēšanas, kas jāpārbauda?",
+        "o": [
+          "Vai avārijas poga ir nospiesta",
+          "Vai ir sasniegts vismaz 600mm attālums no jebkuras personas",
+          "Vai akumulatora indikators rāda pilnu uzlādi",
+          "Nekas nav jāpārbauda"
+        ]
+      },
+      "ps": {
+        "q": "د پیلټونو لوړوالي تنظیم کولو مخکې، څه باید وګورل شي؟",
+        "o": [
+          "چې بیړني تڼۍ فشار شوې ده",
+          "چې د هر چا څخه لږترلږه 600mm واټن ترلاسه شوی دی",
+          "چې بیټري شاخص بشپړ چارج ښیي",
+          "هیڅ شی ته اړتیا نشته چې وګورل شي"
+        ]
+      },
+      "ur": {
+        "q": "پیلٹس کی اونچائی ایڈجسٹ کرنے سے پہلے، کیا چیک کیا جانا چاہیے؟",
+        "o": [
+          "کہ ایمرجنسی بٹن دبایا گیا ہے",
+          "کہ کسی بھی شخص سے کم از کم 600mm فاصلہ حاصل کیا گیا ہے",
+          "کہ بیٹری انڈیکیٹر مکمل چارج دکھاتا ہے",
+          "کچھ بھی چیک کرنے کی ضرورت نہیں"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "How should heavy goods be loaded onto the forks?",
+        "o": [
+          "Slowly, using steady motions, not quickly",
+          "As quickly as possible",
+          "Only during the day shift",
+          "In a single large batch"
+        ]
+      },
+      "pl": {
+        "q": "Jak należy ładować ciężkie towary na widły?",
+        "o": [
+          "Powoli, stosując równomierne ruchy, nie szybko",
+          "Tak szybko, jak to możliwe",
+          "Tylko podczas zmiany dziennej",
+          "W jednej dużej partii"
+        ]
+      },
+      "bg": {
+        "q": "Как трябва да се товарят тежки стоки на вилиците?",
+        "o": [
+          "Бавно, с равномерни движения, не бързо",
+          "Възможно най-бързо",
+          "Само по време на дневната смяна",
+          "На една голяма партида"
+        ]
+      },
+      "ro": {
+        "q": "Cum ar trebui încărcate mărfurile grele pe furci?",
+        "o": [
+          "Încet, folosind mișcări constante, nu rapid",
+          "Cât mai repede posibil",
+          "Doar în timpul turei de zi",
+          "Într-un singur lot mare"
+        ]
+      },
+      "lv": {
+        "q": "Kā jāiekrauj smagas preces uz dakšām?",
+        "o": [
+          "Lēnām, izmantojot vienmērīgas kustības, nevis ātri",
+          "Pēc iespējas ātrāk",
+          "Tikai dienas maiņas laikā",
+          "Vienā lielā partijā"
+        ]
+      },
+      "ps": {
+        "q": "درانه توکي باید پنجو باندې څنګه لوډ شي؟",
+        "o": [
+          "ورو، ثابتو حرکتونو په کارولو سره، نه ګړندي",
+          "لکه څومره چې ممکن ژر",
+          "یوازې د ورځني شفت پرمهال",
+          "یو لوی بیچ کې"
+        ]
+      },
+      "ur": {
+        "q": "بھاری سامان کانٹوں پر کیسے لوڈ کیا جانا چاہیے؟",
+        "o": [
+          "آہستہ، مستحکم حرکات کا استعمال کرتے ہوئے، جلدی نہیں",
+          "جتنی جلدی ممکن ہو",
+          "صرف ڈے شفٹ کے دوران",
+          "ایک بڑے بیچ میں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Why must loads be distributed evenly?",
+        "o": [
+          "To make the pallet look neater",
+          "Uneven loads may cause the stacker to tip, causing injury",
+          "It has no safety impact",
+          "To reduce battery consumption"
+        ]
+      },
+      "pl": {
+        "q": "Dlaczego ładunki muszą być rozłożone równomiernie?",
+        "o": [
+          "Aby paleta wyglądała schludniej",
+          "Nierówne ładunki mogą spowodować przewrócenie się wózka, powodując obrażenia",
+          "Nie ma to wpływu na bezpieczeństwo",
+          "Aby zmniejszyć zużycie akumulatora"
+        ]
+      },
+      "bg": {
+        "q": "Защо товарите трябва да се разпределят равномерно?",
+        "o": [
+          "За да изглежда палетата по-спретната",
+          "Неравномерните товари могат да причинят преобръщане на кара, водещо до нараняване",
+          "Няма влияние върху безопасността",
+          "За намаляване на консумацията на акумулатора"
+        ]
+      },
+      "ro": {
+        "q": "De ce sarcinile trebuie distribuite uniform?",
+        "o": [
+          "Pentru ca paletul să arate mai ordonat",
+          "Sarcinile neuniforme pot cauza răsturnarea stivuitorului, provocând vătămări",
+          "Nu are impact asupra siguranței",
+          "Pentru a reduce consumul bateriei"
+        ]
+      },
+      "lv": {
+        "q": "Kāpēc kravas jāizvieto vienmērīgi?",
+        "o": [
+          "Lai paliktnis izskatītos kārtīgāks",
+          "Nevienmērīgas kravas var izraisīt krāvēja apgāšanos, radot traumas",
+          "Tam nav drošības ietekmes",
+          "Lai samazinātu akumulatora patēriņu"
+        ]
+      },
+      "ps": {
+        "q": "بارونه ولې باید مساوي ډول وویشل شي؟",
+        "o": [
+          "ترڅو پیلټ ښه ښکاري",
+          "غیر مساوي بارونه کولی شي سټیکر را ولوېږي، چې زخم رامنځته کوي",
+          "دا خوندیتوب اغیز نلري",
+          "د بیټري مصرف کمولو لپاره"
+        ]
+      },
+      "ur": {
+        "q": "بوجھ کو یکساں طور پر کیوں تقسیم کیا جانا چاہیے؟",
+        "o": [
+          "پیلٹ کو زیادہ صاف نظر آنے کے لیے",
+          "غیر مساوی بوجھ اسٹیکر کو الٹنے کا سبب بن سکتا ہے، جس سے چوٹ لگتی ہے",
+          "اس کا حفاظت پر کوئی اثر نہیں",
+          "بیٹری کی کھپت کم کرنے کے لیے"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "When off loading a completed pallet, to what height should the pallet be raised before moving?",
+        "o": [
+          "1000mm",
+          "No greater than 300mm",
+          "600mm exactly",
+          "As high as possible"
+        ]
+      },
+      "pl": {
+        "q": "Podczas rozładunku ukończonej palety, do jakiej wysokości należy ją podnieść przed przemieszczeniem?",
+        "o": [
+          "1000mm",
+          "Nie więcej niż 300mm",
+          "Dokładnie 600mm",
+          "Jak najwyżej"
+        ]
+      },
+      "bg": {
+        "q": "При разтоварване на завършена палета, до каква височина трябва да се повдигне палетата преди преместване?",
+        "o": [
+          "1000мм",
+          "Не повече от 300мм",
+          "Точно 600мм",
+          "Възможно най-високо"
+        ]
+      },
+      "ro": {
+        "q": "La descărcarea unui palet finalizat, la ce înălțime ar trebui ridicat paletul înainte de mutare?",
+        "o": [
+          "1000mm",
+          "Nu mai mare de 300mm",
+          "Exact 600mm",
+          "Cât mai sus posibil"
+        ]
+      },
+      "lv": {
+        "q": "Izkraujot pabeigtu paliktni, līdz kādam augstumam paliktnis jāpaceļ pirms pārvietošanas?",
+        "o": [
+          "1000mm",
+          "Ne vairāk kā 300mm",
+          "Tieši 600mm",
+          "Cik augstu vien iespējams"
+        ]
+      },
+      "ps": {
+        "q": "د بشپړ شوي پیلټ نه لوډولو پرمهال، پیلټ باید حرکت کولو مخکې کوم لوړوالي ته پورته شي؟",
+        "o": [
+          "1000mm",
+          "د 300mm نه زیات نه",
+          "دقیقا 600mm",
+          "لکه څومره چې ممکن لوړ"
+        ]
+      },
+      "ur": {
+        "q": "مکمل شدہ پیلٹ کو اتارتے وقت، حرکت دینے سے پہلے پیلٹ کو کس اونچائی تک اٹھایا جانا چاہیے؟",
+        "o": [
+          "1000mm",
+          "300mm سے زیادہ نہیں",
+          "بالکل 600mm",
+          "جتنا ممکن ہو اونچا"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What does the emergency button do when pressed down?",
+        "o": [
+          "It sounds an alarm only",
+          "It switches off the power",
+          "It increases speed",
+          "It has no function"
+        ]
+      },
+      "pl": {
+        "q": "Co robi przycisk awaryjny po wciśnięciu?",
+        "o": [
+          "Włącza tylko alarm",
+          "Wyłącza zasilanie",
+          "Zwiększa prędkość",
+          "Nie ma funkcji"
+        ]
+      },
+      "bg": {
+        "q": "Какво прави аварийният бутон, когато е натиснат надолу?",
+        "o": [
+          "Само звучи аларма",
+          "Изключва захранването",
+          "Увеличава скоростта",
+          "Няма функция"
+        ]
+      },
+      "ro": {
+        "q": "Ce face butonul de urgență atunci când este apăsat?",
+        "o": [
+          "Doar sună o alarmă",
+          "Oprește alimentarea",
+          "Crește viteza",
+          "Nu are funcție"
+        ]
+      },
+      "lv": {
+        "q": "Ko dara avārijas poga, kad tā tiek nospiesta?",
+        "o": [
+          "Tikai atskan trauksme",
+          "Izslēdz strāvu",
+          "Palielina ātrumu",
+          "Tai nav funkcijas"
+        ]
+      },
+      "ps": {
+        "q": "کله چې فشارول کیږي بیړنۍ تڼۍ څه کوي؟",
+        "o": [
+          "یوازې الارم غږوي",
+          "بریښنا بندوي",
+          "سرعت زیاتوي",
+          "کوم فعالیت نلري"
+        ]
+      },
+      "ur": {
+        "q": "ایمرجنسی بٹن دبانے پر کیا کرتا ہے؟",
+        "o": [
+          "صرف الارم بجاتا ہے",
+          "بجلی بند کرتا ہے",
+          "رفتار بڑھاتا ہے",
+          "کوئی فنکشن نہیں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "How do you switch the power back on after the emergency button has been pressed?",
+        "o": [
+          "Press it down again",
+          "Turn it clockwise",
+          "Turn it anticlockwise",
+          "It resets automatically after 10 seconds"
+        ]
+      },
+      "pl": {
+        "q": "Jak włączyć zasilanie z powrotem po wciśnięciu przycisku awaryjnego?",
+        "o": [
+          "Wcisnąć go ponownie",
+          "Obrócić go zgodnie z ruchem wskazówek zegara",
+          "Obrócić go przeciwnie do ruchu wskazówek zegara",
+          "Resetuje się automatycznie po 10 sekundach"
+        ]
+      },
+      "bg": {
+        "q": "Как да включите отново захранването след като аварийният бутон е бил натиснат?",
+        "o": [
+          "Натиснете го отново",
+          "Завъртете го по часовниковата стрелка",
+          "Завъртете го обратно на часовниковата стрелка",
+          "Нулира се автоматично след 10 секунди"
+        ]
+      },
+      "ro": {
+        "q": "Cum reporniți alimentarea după ce butonul de urgență a fost apăsat?",
+        "o": [
+          "Apăsați-l din nou",
+          "Rotiți-l în sensul acelor de ceasornic",
+          "Rotiți-l în sens invers acelor de ceasornic",
+          "Se resetează automat după 10 secunde"
+        ]
+      },
+      "lv": {
+        "q": "Kā ieslēgt strāvu atpakaļ pēc tam, kad ir nospiesta avārijas poga?",
+        "o": [
+          "Nospiest to vēlreiz",
+          "Pagriezt to pulksteņrādītāja virzienā",
+          "Pagriezt to pretēji pulksteņrādītāja virzienam",
+          "Tā atiestatās automātiski pēc 10 sekundēm"
+        ]
+      },
+      "ps": {
+        "q": "د بیړنۍ تڼۍ فشارولو وروسته تاسو څنګه بریښنا بیرته روښانه کولی شئ؟",
+        "o": [
+          "بیا یې فشار کړئ",
+          "د ساعت په لوري یې وګرځوئ",
+          "د ساعت مخالف لوري یې وګرځوئ",
+          "دا په اتومات ډول تر 10 ثانیو وروسته ری سیٹ کیږي"
+        ]
+      },
+      "ur": {
+        "q": "ایمرجنسی بٹن دبانے کے بعد آپ بجلی دوبارہ کیسے آن کرتے ہیں؟",
+        "o": [
+          "اسے دوبارہ دبائیں",
+          "اسے گھڑی کی سمت گھمائیں",
+          "اسے گھڑی کی مخالف سمت گھمائیں",
+          "یہ خودکار طور پر 10 سیکنڈ بعد ری سیٹ ہو جاتا ہے"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "When should the battery be charged?",
+        "o": [
+          "Only when completely flat",
+          "When its voltage is less than 3 bars on the level indicator",
+          "Every single day regardless of charge level",
+          "Only at the end of the month"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy należy ładować akumulator?",
+        "o": [
+          "Tylko gdy jest całkowicie rozładowany",
+          "Gdy jego napięcie jest mniejsze niż 3 kreski na wskaźniku poziomu",
+          "Codziennie, niezależnie od poziomu naładowania",
+          "Tylko na koniec miesiąca"
+        ]
+      },
+      "bg": {
+        "q": "Кога трябва да се зарежда акумулаторът?",
+        "o": [
+          "Само когато е напълно изтощен",
+          "Когато напрежението му е по-малко от 3 черти на индикатора за ниво",
+          "Всеки ден, независимо от нивото на заряд",
+          "Само в края на месеца"
+        ]
+      },
+      "ro": {
+        "q": "Când ar trebui încărcată bateria?",
+        "o": [
+          "Doar când este complet descărcată",
+          "Când tensiunea sa este mai mică de 3 bare pe indicatorul de nivel",
+          "În fiecare zi, indiferent de nivelul de încărcare",
+          "Doar la sfârșitul lunii"
+        ]
+      },
+      "lv": {
+        "q": "Kad jāuzlādē akumulators?",
+        "o": [
+          "Tikai, kad tas ir pilnībā tukšs",
+          "Kad tā spriegums ir mazāks par 3 svītrām līmeņa indikatorā",
+          "Katru dienu, neatkarīgi no uzlādes līmeņa",
+          "Tikai mēneša beigās"
+        ]
+      },
+      "ps": {
+        "q": "بیټري باید کله چارج شي؟",
+        "o": [
+          "یوازې کله چې بشپړ خالي وي",
+          "کله چې د دې ولتاژ د کچې شاخص باندې د 3 پټو څخه کم وي",
+          "هره ورځ د چارج کچې پرته له پام",
+          "یوازې د میاشتې په پای کې"
+        ]
+      },
+      "ur": {
+        "q": "بیٹری کب چارج کی جانی چاہیے؟",
+        "o": [
+          "صرف جب مکمل طور پر خالی ہو",
+          "جب اس کا وولٹیج لیول انڈیکیٹر پر 3 بارز سے کم ہو",
+          "چارج لیول سے قطع نظر ہر روز",
+          "صرف مہینے کے آخر میں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Where should battery charging take place?",
+        "o": [
+          "Anywhere convenient",
+          "In a well-ventilated area away from Oxidising or Flammable substances",
+          "Only outdoors",
+          "Directly next to the production line"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie powinno odbywać się ładowanie akumulatora?",
+        "o": [
+          "W dowolnym dogodnym miejscu",
+          "W dobrze wentylowanym obszarze, z dala od substancji utleniających lub łatwopalnych",
+          "Tylko na zewnątrz",
+          "Bezpośrednio przy linii produkcyjnej"
+        ]
+      },
+      "bg": {
+        "q": "Къде трябва да се извършва зареждането на акумулатора?",
+        "o": [
+          "Навсякъде удобно",
+          "На добре проветриво място, далеч от окисляващи или запалими вещества",
+          "Само на открито",
+          "Директно до производствената линия"
+        ]
+      },
+      "ro": {
+        "q": "Unde ar trebui să aibă loc încărcarea bateriei?",
+        "o": [
+          "Oriunde convenabil",
+          "Într-o zonă bine ventilată, departe de substanțe oxidante sau inflamabile",
+          "Doar în aer liber",
+          "Direct lângă linia de producție"
+        ]
+      },
+      "lv": {
+        "q": "Kur jānotiek akumulatora uzlādei?",
+        "o": [
+          "Jebkur, kur ērti",
+          "Labi vēdinātā vietā, prom no oksidējošām vai uzliesmojošām vielām",
+          "Tikai ārā",
+          "Tieši blakus ražošanas līnijai"
+        ]
+      },
+      "ps": {
+        "q": "د بیټري چارج کول باید چیرته ترسره شي؟",
+        "o": [
+          "هرځای چې آسانه وي",
+          "یو ښه هوايي ساحه کې، د اکسیدونکو یا اورلګېدونکو موادو څخه لرې",
+          "یوازې بهر",
+          "مستقیم د تولید لاین سره"
+        ]
+      },
+      "ur": {
+        "q": "بیٹری چارجنگ کہاں ہونی چاہیے؟",
+        "o": [
+          "جہاں کہیں بھی آسان ہو",
+          "ایک اچھی ہوادار جگہ میں، آکسیڈائزنگ یا آتش گیر مادوں سے دور",
+          "صرف باہر",
+          "براہ راست پروڈکشن لائن کے قریب"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "If the stacker truck is not used for a long period, how long should it be charged per week?",
+        "o": [
+          "30 minutes",
+          "A minimum of two hours per week",
+          "No charging is needed if unused",
+          "24 hours continuously"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli wózek nie jest używany przez dłuższy czas, jak długo powinien być ładowany tygodniowo?",
+        "o": [
+          "30 minut",
+          "Minimum dwie godziny tygodniowo",
+          "Ładowanie nie jest potrzebne, jeśli nie jest używany",
+          "24 godziny nieprzerwanie"
+        ]
+      },
+      "bg": {
+        "q": "Ако щабелният кар не се използва за дълъг период, колко дълго трябва да се зарежда седмично?",
+        "o": [
+          "30 минути",
+          "Минимум два часа седмично",
+          "Зареждане не е необходимо, ако не се използва",
+          "24 часа непрекъснато"
+        ]
+      },
+      "ro": {
+        "q": "Dacă stivuitorul nu este utilizat pentru o perioadă lungă, cât timp ar trebui încărcat pe săptămână?",
+        "o": [
+          "30 de minute",
+          "Minimum două ore pe săptămână",
+          "Nu este necesară încărcarea dacă nu este utilizat",
+          "24 de ore continuu"
+        ]
+      },
+      "lv": {
+        "q": "Ja krāvējs netiek izmantots ilgu laiku, cik ilgi tas jāuzlādē nedēļā?",
+        "o": [
+          "30 minūtes",
+          "Vismaz divas stundas nedēļā",
+          "Uzlāde nav nepieciešama, ja netiek lietots",
+          "24 stundas nepārtraukti"
+        ]
+      },
+      "ps": {
+        "q": "که سټیکر ټرک اوږده مودې لپاره کارول نشي، دا باید په هره اونۍ کې څومره وخت چارج شي؟",
+        "o": [
+          "30 دقیقې",
+          "لږترلږه دوه ساعته په اونۍ کې",
+          "که کارول نشي کوم چارج ته اړتیا نشته",
+          "24 ساعته دوامداره"
+        ]
+      },
+      "ur": {
+        "q": "اگر اسٹیکر ٹرک طویل عرصے تک استعمال نہ ہو، تو اسے فی ہفتہ کتنی دیر چارج کیا جانا چاہیے؟",
+        "o": [
+          "30 منٹ",
+          "کم از کم دو گھنٹے فی ہفتہ",
+          "اگر استعمال نہ ہو تو چارجنگ کی ضرورت نہیں",
+          "24 گھنٹے مسلسل"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Can you use the stacker truck whilst it is charging?",
+        "o": [
+          "Yes, there is no restriction",
+          "No, do not use the stacker truck whilst charging",
+          "Only for short distances",
+          "Only if supervised"
+        ]
+      },
+      "pl": {
+        "q": "Czy można używać wózka podczas ładowania?",
+        "o": [
+          "Tak, nie ma ograniczeń",
+          "Nie, nie należy używać wózka podczas ładowania",
+          "Tylko na krótkich dystansach",
+          "Tylko pod nadzorem"
+        ]
+      },
+      "bg": {
+        "q": "Можете ли да използвате щабелния кар докато се зарежда?",
+        "o": [
+          "Да, няма ограничение",
+          "Не, не използвайте щабелния кар докато се зарежда",
+          "Само за кратки разстояния",
+          "Само под наблюдение"
+        ]
+      },
+      "ro": {
+        "q": "Puteți utiliza stivuitorul în timp ce se încarcă?",
+        "o": [
+          "Da, nu există restricții",
+          "Nu, nu utilizați stivuitorul în timp ce se încarcă",
+          "Doar pentru distanțe scurte",
+          "Doar sub supraveghere"
+        ]
+      },
+      "lv": {
+        "q": "Vai jūs varat izmantot krāvēju tā uzlādes laikā?",
+        "o": [
+          "Jā, nav ierobežojumu",
+          "Nē, neizmantojiet krāvēju uzlādes laikā",
+          "Tikai īsiem attālumiem",
+          "Tikai uzraudzībā"
+        ]
+      },
+      "ps": {
+        "q": "ایا تاسو سټیکر ټرک کارولی شئ کله چې دا چارج کیږي؟",
+        "o": [
+          "هو، هیڅ بندیز نشته",
+          "نه، سټیکر ټرک د چارج کیدو پرمهال مه کاروئ",
+          "یوازې لنډو واټنونو لپاره",
+          "یوازې د نظارت لاندې"
+        ]
+      },
+      "ur": {
+        "q": "کیا آپ اسٹیکر ٹرک کو چارج ہوتے وقت استعمال کر سکتے ہیں؟",
+        "o": [
+          "ہاں، کوئی پابندی نہیں",
+          "نہیں، اسٹیکر ٹرک کو چارج ہوتے وقت استعمال نہ کریں",
+          "صرف مختصر فاصلوں کے لیے",
+          "صرف نگرانی میں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "If you are in doubt about any aspect of this procedure, what should you do?",
+        "o": [
+          "Guess and proceed carefully",
+          "Seek advice from your Team Leader",
+          "Ignore the concern",
+          "Wait until the next shift"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli masz wątpliwości co do jakiegokolwiek aspektu tej procedury, co powinieneś zrobić?",
+        "o": [
+          "Zgadywać i kontynuować ostrożnie",
+          "Zasięgnąć porady u swojego lidera zespołu",
+          "Zignorować obawę",
+          "Poczekać do następnej zmiany"
+        ]
+      },
+      "bg": {
+        "q": "Ако имате съмнения относно какъвто и да е аспект на тази процедура, какво трябва да направите?",
+        "o": [
+          "Гадайте и продължете внимателно",
+          "Потърсете съвет от вашия ръководител на екипа",
+          "Игнорирайте притеснението",
+          "Изчакайте до следващата смяна"
+        ]
+      },
+      "ro": {
+        "q": "Dacă aveți dubii cu privire la orice aspect al acestei proceduri, ce ar trebui să faceți?",
+        "o": [
+          "Ghiciți și continuați cu atenție",
+          "Cereți sfatul liderului dvs. de echipă",
+          "Ignorați îngrijorarea",
+          "Așteptați până la tura următoare"
+        ]
+      },
+      "lv": {
+        "q": "Ja jums ir šaubas par jebkuru šīs procedūras aspektu, kas jādara?",
+        "o": [
+          "Minēt un turpināt uzmanīgi",
+          "Meklēt padomu no sava komandas vadītāja",
+          "Ignorēt bažas",
+          "Gaidīt līdz nākamajai maiņai"
+        ]
+      },
+      "ps": {
+        "q": "که تاسو د دې طرزالعمل کوم اړخ په اړه شک لرئ، تاسو باید څه وکړئ؟",
+        "o": [
+          "اټکل وکړئ او په احتیاط سره ادامه ورکړئ",
+          "له خپل ډلې مشر څخه مشوره وغواړئ",
+          "اندیښنې ته پام مه کوئ",
+          "بلې شفٹ ته انتظار وکړئ"
+        ]
+      },
+      "ur": {
+        "q": "اگر آپ کو اس طریقہ کار کے کسی بھی پہلو کے بارے میں شک ہو تو آپ کو کیا کرنا چاہیے؟",
+        "o": [
+          "اندازہ لگائیں اور احتیاط سے آگے بڑھیں",
+          "اپنے ٹیم لیڈر سے مشورہ لیں",
+          "تشویش کو نظر انداز کریں",
+          "اگلی شفٹ تک انتظار کریں"
+        ]
+      }
+    }
+  ]
+}
