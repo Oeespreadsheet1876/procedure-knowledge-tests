@@ -1,0 +1,545 @@
+{
+  "id": "guide3",
+  "docRef": "Guide 3",
+  "issue": "TBC",
+  "title": {
+    "en": "Emergency Response Guide 3 – Use of Spill Kit",
+    "pl": "Przewodnik reagowania kryzysowego 3 – Użycie zestawu do usuwania wycieków",
+    "bg": "Ръководство за реакция при извънредни ситуации 3 – Използване на комплект за разливи",
+    "ro": "Ghid de răspuns la urgențe 3 – Utilizarea trusei pentru scurgeri",
+    "lv": "Ārkārtas reaģēšanas ceļvedis 3 – Noplūžu komplekta lietošana",
+    "ps": "د بیړني غبرګون لارښود 3 — د توی کیدو کیټ کارول",
+    "ur": "ایمرجنسی رسپانس گائیڈ 3 – اسپل کٹ کا استعمال"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "correct": 1,
+      "en": {
+        "q": "What is the first step when you discover a spill?",
+        "o": [
+          "Immediately start containing the spill with booms",
+          "Don't panic - assess the risk (eyes, smell, sound) and protect yourself first",
+          "Call the fire brigade",
+          "Report it to your Team Leader before doing anything else"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest pierwszy krok po odkryciu wycieku?",
+        "o": [
+          "Natychmiast rozpocząć ograniczanie wycieku za pomocą zapór",
+          "Nie panikować - ocenić ryzyko (oczy, zapach, dźwięk) i najpierw zabezpieczyć siebie",
+          "Zadzwonić do straży pożarnej",
+          "Zgłosić to liderowi zespołu przed podjęciem jakichkolwiek działań"
+        ]
+      },
+      "bg": {
+        "q": "Каква е първата стъпка, когато откриете разлив?",
+        "o": [
+          "Незабавно да започнете ограничаване на разлива с бариери",
+          "Не паникьосвайте - оценете риска (очи, мирис, звук) и първо се защитете",
+          "Обадете се на пожарната",
+          "Докладвайте на ръководителя на екипа, преди да предприемете каквото и да е действие"
+        ]
+      },
+      "ro": {
+        "q": "Care este primul pas atunci când descoperiți o scurgere?",
+        "o": [
+          "Începeți imediat să limitați scurgerea cu baraje",
+          "Nu intrați în panică - evaluați riscul (ochi, miros, sunet) și protejați-vă mai întâi",
+          "Sunați la pompieri",
+          "Raportați liderului de echipă înainte de a face orice altceva"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir pirmais solis, atklājot noplūdi?",
+        "o": [
+          "Nekavējoties sākt noplūdes ierobežošanu ar aizsprostiem",
+          "Nekrītiet panikā - novērtējiet risku (acis, smarža, skaņa) un vispirms pasargājiet sevi",
+          "Zvaniet ugunsdzēsējiem",
+          "Ziņojiet komandas vadītājam, pirms veicat jebkādas darbības"
+        ]
+      },
+      "ur": {
+        "q": "جب آپ کو کوئی اخراج ملے تو پہلا قدم کیا ہے؟",
+        "o": [
+          "فوراً بومز کے ذریعے اخراج کو قابو کرنا شروع کریں",
+          "گھبرائیں نہیں - خطرے کا اندازہ لگائیں (آنکھیں، بو، آواز) اور پہلے خود کو محفوظ کریں",
+          "فائر بریگیڈ کو کال کریں",
+          "کچھ بھی کرنے سے پہلے ٹیم لیڈر کو رپورٹ کریں"
+        ]
+      },
+      "ps": {
+        "q": "کله چې د یو مادې توی کیدل کشف کړئ، لومړی مرحله څه ده؟",
+        "o": [
+          "سملاسي د بومونو په مرسته د توی کیدو کنټرول پیل کړئ",
+          "خوفزده مه کیږئ - خطر ارزونه وکړئ (سترګې، بوی، غږ) او لومړی ځان خوندي کړئ",
+          "اور وژنې ته زنګ ووهئ",
+          "له هر ډول عمل مخکې ډلې مشر ته راپور ورکړئ"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What must you put on before doing anything else?",
+        "o": [
+          "A hard hat only",
+          "Safety goggles and gloves from the spill kit",
+          "Ear defenders",
+          "A full-face respirator"
+        ]
+      },
+      "pl": {
+        "q": "Co należy założyć przed podjęciem jakichkolwiek innych działań?",
+        "o": [
+          "Tylko kask ochronny",
+          "Okulary ochronne i rękawice z zestawu do usuwania wycieków",
+          "Ochronniki słuchu",
+          "Pełną maskę z respiratorem"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да облечете, преди да предприемете каквото и да е друго действие?",
+        "o": [
+          "Само защитна каска",
+          "Защитни очила и ръкавици от комплекта за разливи",
+          "Антифони",
+          "Пълна лицева маска с респиратор"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie să vă puneți înainte de a face orice altceva?",
+        "o": [
+          "Doar o cască de protecție",
+          "Ochelari de protecție și mănuși din trusa pentru scurgeri",
+          "Antifoane",
+          "Un respirator facial complet"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāuzvelk pirms jebkādām citām darbībām?",
+        "o": [
+          "Tikai aizsargķivere",
+          "Aizsargbrilles un cimdi no noplūžu komplekta",
+          "Ausu aizsargi",
+          "Pilna sejas respirators"
+        ]
+      },
+      "ur": {
+        "q": "کسی بھی دوسرے کام سے پہلے آپ کو کیا پہننا چاہیے؟",
+        "o": [
+          "صرف حفاظتی ہیلمٹ",
+          "اسپل کٹ سے حفاظتی چشمہ اور دستانے",
+          "کان کی حفاظت",
+          "فل فیس ریسپیریٹر"
+        ]
+      },
+      "ps": {
+        "q": "له هر بل عمل مخکې تاسو باید څه واغوندئ؟",
+        "o": [
+          "یوازې حفاظتي کلاه",
+          "د توی کیدو کیټ څخه حفاظتي عینکې او لاسپوڼې",
+          "د غوږ ساتونکي",
+          "بشپړ مخ تنفسي ماسک"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "If there is a drain grate nearby that the fluid could leak into, what should you do?",
+        "o": [
+          "Ignore it and focus on the main spill",
+          "Protect the grate with booms or snakes",
+          "Pour water down the drain to dilute it",
+          "Cover the grate with a bucket"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli w pobliżu znajduje się krata odpływowa, do której mógłby wyciec rozlany płyn, co należy zrobić?",
+        "o": [
+          "Zignorować ją i skupić się na głównym wycieku",
+          "Zabezpieczyć kratę za pomocą zapór lub węży",
+          "Wlać wodę do odpływu, aby go rozcieńczyć",
+          "Przykryć kratę wiadrem"
+        ]
+      },
+      "bg": {
+        "q": "Ако наблизо има решетка на канал, в която разлятата течност може да изтече, какво трябва да направите?",
+        "o": [
+          "Игнорирайте я и се съсредоточете върху основния разлив",
+          "Защитете решетката с бариери или маркучи",
+          "Излейте вода в канала, за да го разредите",
+          "Покрийте решетката с кофа"
+        ]
+      },
+      "ro": {
+        "q": "Dacă există un grătar de scurgere în apropiere în care lichidul eliberat ar putea să se scurgă, ce trebuie să faceți?",
+        "o": [
+          "Ignorați-l și concentrați-vă pe scurgerea principală",
+          "Protejați grătarul cu baraje sau șerpi absorbanți",
+          "Turnați apă pe scurgere pentru a o dilua",
+          "Acoperiți grătarul cu o găleată"
+        ]
+      },
+      "lv": {
+        "q": "Ja tuvumā ir notekas restes, kurās varētu ieplūst izlijušais šķidrums, kas jādara?",
+        "o": [
+          "Ignorēt to un koncentrēties uz galveno noplūdi",
+          "Aizsargāt restes ar aizsprostiem vai čūskām",
+          "Ieliet ūdeni notekā, lai to atšķaidītu",
+          "Pārklāt restes ar spaini"
+        ]
+      },
+      "ur": {
+        "q": "اگر قریب کوئی ڈرین گریٹ ہو جس میں خارج شدہ مائع رس سکتا ہو، تو آپ کو کیا کرنا چاہیے؟",
+        "o": [
+          "اسے نظر انداز کریں اور اصل اخراج پر توجہ دیں",
+          "بومز یا سانپوں سے گریٹ کی حفاظت کریں",
+          "پانی نالی میں ڈالیں تاکہ اسے پتلا کیا جا سکے",
+          "گریٹ کو بالٹی سے ڈھانپ دیں"
+        ]
+      },
+      "ps": {
+        "q": "که نږدې یوه ناوې دریچه وي چې خوشې شوی مایع پکې تویدلی شي، تاسو باید څه وکړئ؟",
+        "o": [
+          "دې ته پام مه کوئ او د اصلي توی کیدو باندې تمرکز وکړئ",
+          "دریچه د بومونو یا مارانو په واسطه خوندي کړئ",
+          "اوبه ناوې ته واچوئ ترڅو رقیق شي",
+          "دریچه د بالتین سره پوښ کړئ"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "If there is no drain grate nearby, where should the booms/snakes be placed?",
+        "o": [
+          "Behind the spill, where it has already been",
+          "At the forward edge of the spilled fluid, in the direction it is moving",
+          "Directly in the middle of the spill",
+          "Anywhere within 10 metres of the spill"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli w pobliżu nie ma kraty odpływowej, gdzie należy umieścić zapory/węże?",
+        "o": [
+          "Za wyciekiem, tam gdzie już się rozlał",
+          "Na czołowej krawędzi rozlanego płynu, w kierunku, w którym się porusza",
+          "Bezpośrednio na środku wycieku",
+          "Gdziekolwiek w promieniu 10 metrów od wycieku"
+        ]
+      },
+      "bg": {
+        "q": "Ако наблизо няма решетка на канал, къде трябва да се поставят бариерите/маркучите?",
+        "o": [
+          "Зад разлива, там където вече е бил",
+          "На предния край на разлятата течност, в посоката, в която се движи",
+          "Директно в средата на разлива",
+          "Навсякъде в радиус от 10 метра от разлива"
+        ]
+      },
+      "ro": {
+        "q": "Dacă nu există un grătar de scurgere în apropiere, unde trebuie plasate barajele/șerpii absorbanți?",
+        "o": [
+          "În spatele scurgerii, unde a fost deja",
+          "La marginea din față a lichidului scurs, în direcția în care se mișcă",
+          "Direct în mijlocul scurgerii",
+          "Oriunde în raza de 10 metri de scurgere"
+        ]
+      },
+      "lv": {
+        "q": "Ja tuvumā nav notekas restu, kur jānovieto aizsprosti/čūskas?",
+        "o": [
+          "Aiz noplūdes, tur, kur tā jau bijusi",
+          "Izlijušā šķidruma priekšējā malā, virzienā, kurā tas kustas",
+          "Tieši noplūdes vidū",
+          "Jebkur 10 metru rādiusā no noplūdes"
+        ]
+      },
+      "ur": {
+        "q": "اگر قریب کوئی ڈرین گریٹ نہ ہو تو بومز/سانپ کہاں رکھے جانے چاہئیں؟",
+        "o": [
+          "اخراج کے پیچھے، جہاں یہ پہلے ہی جا چکا ہے",
+          "بہنے والے مائع کے اگلے کنارے پر، اس سمت میں جس طرف یہ بڑھ رہا ہے",
+          "مستقیم اخراج کے وسط میں",
+          "اخراج سے 10 میٹر کے اندر کہیں بھی"
+        ]
+      },
+      "ps": {
+        "q": "که نږدې کومه ناوې دریچه نه وي، بومونه/ماران چیرته کیښودل کیدی شي؟",
+        "o": [
+          "د توی کیدو شاته، هلته چیرته چې دمخه و",
+          "د توی شوي مایع مخکینۍ څنډه کې، هغه لور ته چې حرکت کوي",
+          "مستقیم د توی کیدو منځ کې",
+          "د توی کیدو له 10 مترو دننه هر ځای"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What should be used to absorb the spilled fluid?",
+        "o": [
+          "A dry mop only",
+          "Absorbent pads, pillows, cloths and granules",
+          "Sand only",
+          "Paper towels from the canteen"
+        ]
+      },
+      "pl": {
+        "q": "Czego należy użyć do wchłonięcia rozlanego płynu?",
+        "o": [
+          "Tylko suchego mopa",
+          "Mat chłonnych, poduszek, szmatek i granulatu chłonnego",
+          "Tylko piasku",
+          "Ręczników papierowych ze stołówki"
+        ]
+      },
+      "bg": {
+        "q": "Какво трябва да се използва за абсорбиране на разлятата течност?",
+        "o": [
+          "Само суха моп",
+          "Абсорбиращи подложки, възглавнички, кърпи и гранули",
+          "Само пясък",
+          "Хартиени кърпи от стола"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie utilizat pentru a absorbi lichidul scurs?",
+        "o": [
+          "Doar un mop uscat",
+          "Tampoane absorbante, perne, cârpe și granule",
+          "Doar nisip",
+          "Prosoape de hârtie de la cantină"
+        ]
+      },
+      "lv": {
+        "q": "Kas jāizmanto, lai absorbētu izlijušo šķidrumu?",
+        "o": [
+          "Tikai sauss mops",
+          "Absorbējoši paliktņi, spilveni, drānas un granulas",
+          "Tikai smiltis",
+          "Papīra dvieļi no ēdnīcas"
+        ]
+      },
+      "ur": {
+        "q": "بہنے والے مائع کو جذب کرنے کے لیے کیا استعمال کیا جانا چاہیے؟",
+        "o": [
+          "صرف خشک موپ",
+          "جاذب پیڈز، تکیے، کپڑے، اور دانے",
+          "صرف ریت",
+          "کینٹین کے کاغذی تولیے"
+        ]
+      },
+      "ps": {
+        "q": "د توی شوي مایع جذبولو لپاره باید څه وکارول شي؟",
+        "o": [
+          "یوازې وچه موپ",
+          "جذب کوونکي پیډونه، بالښتونه، ټوکري، او دانې",
+          "یوازې ریګ",
+          "د کانتین کاغذي دستمالونه"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Where should saturated sorbents be placed after use?",
+        "o": [
+          "In the general waste skip",
+          "In the disposal bags provided in the spill kit",
+          "Back into the spill kit for reuse",
+          "Left on site until the next shift"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie należy umieścić nasycone sorbenty po użyciu?",
+        "o": [
+          "W ogólnym kontenerze na odpady",
+          "W workach na odpady dostarczonych w zestawie do usuwania wycieków",
+          "Z powrotem w zestawie do usuwania wycieków do ponownego użycia",
+          "Pozostawić na miejscu do następnej zmiany"
+        ]
+      },
+      "bg": {
+        "q": "Къде трябва да се поставят наситените сорбенти след употреба?",
+        "o": [
+          "В общия контейнер за отпадъци",
+          "В торбите за изхвърляне, предоставени в комплекта за разливи",
+          "Обратно в комплекта за разливи за повторна употреба",
+          "Оставете ги на място до следващата смяна"
+        ]
+      },
+      "ro": {
+        "q": "Unde trebuie plasate materialele sorbante saturate după utilizare?",
+        "o": [
+          "În containerul general de deșeuri",
+          "În sacii de eliminare furnizați în trusa pentru scurgeri",
+          "Înapoi în trusa pentru scurgeri pentru reutilizare",
+          "Lăsate la fața locului până la tura următoare"
+        ]
+      },
+      "lv": {
+        "q": "Kur jānovieto piesātinātie sorbenti pēc lietošanas?",
+        "o": [
+          "Vispārējā atkritumu konteinerā",
+          "Noplūžu komplektā iekļautajos likvidēšanas maisos",
+          "Atpakaļ noplūžu komplektā atkārtotai izmantošanai",
+          "Jāatstāj vietā līdz nākamajai maiņai"
+        ]
+      },
+      "ur": {
+        "q": "استعمال کے بعد سیر شدہ سوربنٹس کہاں رکھے جانے چاہئیں؟",
+        "o": [
+          "عمومی ویسٹ اسکِپ میں",
+          "اسپل کٹ میں فراہم کردہ ڈسپوزل بیگز میں",
+          "دوبارہ استعمال کے لیے واپس اسپل کٹ میں",
+          "اگلی شفٹ تک جگہ پر چھوڑ دیا جائے"
+        ]
+      },
+      "ps": {
+        "q": "کارولو وروسته، مشبوع شوي جذب کوونکي توکي چیرته کیښودل کیږي؟",
+        "o": [
+          "عمومي کثافاتو کنټینر کې",
+          "د توی کیدو کیټ کې چمتو شوي ضایع کولو بګونو کې",
+          "بیرته توی کیدو کیټ ته د بیا کارولو لپاره",
+          "د راتلونکي شفت پورې پر ځای پریښودل شي"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Which procedure governs the disposal of contaminated absorbents?",
+        "o": [
+          "WP32 - PPE",
+          "WP22 - Waste Management",
+          "WP36 - COSHH",
+          "WP18 - Fire Protection"
+        ]
+      },
+      "pl": {
+        "q": "Która procedura reguluje utylizację zanieczyszczonych sorbentów?",
+        "o": [
+          "WP32 - Środki ochrony indywidualnej",
+          "WP22 - Zarządzanie odpadami",
+          "WP36 - COSHH",
+          "WP18 - Ochrona przeciwpożarowa"
+        ]
+      },
+      "bg": {
+        "q": "Коя процедура регулира изхвърлянето на замърсени сорбенти?",
+        "o": [
+          "WP32 - Лични предпазни средства",
+          "WP22 - Управление на отпадъците",
+          "WP36 - COSHH",
+          "WP18 - Противопожарна защита"
+        ]
+      },
+      "ro": {
+        "q": "Ce procedură reglementează eliminarea materialelor sorbante contaminate?",
+        "o": [
+          "WP32 - Echipament individual de protecție",
+          "WP22 - Managementul deșeurilor",
+          "WP36 - COSHH",
+          "WP18 - Protecția împotriva incendiilor"
+        ]
+      },
+      "lv": {
+        "q": "Kura procedūra reglamentē piesārņoto sorbentu likvidēšanu?",
+        "o": [
+          "WP32 - Individuālie aizsardzības līdzekļi",
+          "WP22 - Atkritumu apsaimniekošana",
+          "WP36 - COSHH",
+          "WP18 - Ugunsdrošība"
+        ]
+      },
+      "ur": {
+        "q": "کون سا طریقہ کار آلودہ سوربنٹس کے ٹھکانے لگانے کو ریگولیٹ کرتا ہے؟",
+        "o": [
+          "WP32 - ذاتی حفاظتی سامان",
+          "WP22 - کچرے کا انتظام",
+          "WP36 - COSHH",
+          "WP18 - آگ سے تحفظ"
+        ]
+      },
+      "ps": {
+        "q": "کوم طرزالعمل د آلوده جذب کوونکو توکو له منځه وړل تنظیموي؟",
+        "o": [
+          "WP32 - ذاتي حفاظتي سامان",
+          "WP22 - د کثافاتو مدیریت",
+          "WP36 - COSHH",
+          "WP18 - د اور خوندیتوب"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "After dealing with a spill, what must you do?",
+        "o": [
+          "Nothing further is required",
+          "Report the incident to your Team Leader and complete incident report B57",
+          "Only mention it if someone asks",
+          "Complete a COSHH Action Card instead"
+        ]
+      },
+      "pl": {
+        "q": "Po zajęciu się wyciekiem, co należy zrobić?",
+        "o": [
+          "Nic więcej nie jest wymagane",
+          "Zgłosić incydent liderowi zespołu i wypełnić raport o incydencie B57",
+          "Wspomnieć o tym tylko, jeśli ktoś zapyta",
+          "Zamiast tego wypełnić kartę działania COSHH"
+        ]
+      },
+      "bg": {
+        "q": "След като се справите с разлива, какво трябва да направите?",
+        "o": [
+          "Нищо повече не е необходимо",
+          "Докладвайте инцидента на ръководителя на екипа и попълнете доклад за инцидент B57",
+          "Споменете го само ако някой попита",
+          "Вместо това попълнете карта за действие COSHH"
+        ]
+      },
+      "ro": {
+        "q": "După ce ați rezolvat scurgerea, ce trebuie să faceți?",
+        "o": [
+          "Nu mai este necesar nimic",
+          "Raportați incidentul liderului de echipă și completați raportul de incident B57",
+          "Menționați-l doar dacă vă întreabă cineva",
+          "Completați în schimb o fișă de acțiune COSHH"
+        ]
+      },
+      "lv": {
+        "q": "Pēc noplūdes novēršanas, kas jādara?",
+        "o": [
+          "Nekas vairāk nav nepieciešams",
+          "Jāziņo par incidentu komandas vadītājam un jāaizpilda incidenta ziņojums B57",
+          "Jāpiemin tikai tad, ja kāds jautā",
+          "Tā vietā jāaizpilda COSHH rīcības karte"
+        ]
+      },
+      "ur": {
+        "q": "اخراج سے نمٹنے کے بعد، آپ کو کیا کرنا چاہیے؟",
+        "o": [
+          "مزید کچھ کرنے کی ضرورت نہیں",
+          "واقعے کی ٹیم لیڈر کو رپورٹ دیں اور واقعہ رپورٹ B57 مکمل کریں",
+          "صرف اس کا ذکر کریں اگر کوئی پوچھے",
+          "اس کے بجائے COSHH ایکشن کارڈ مکمل کریں"
+        ]
+      },
+      "ps": {
+        "q": "د توی کیدو سره د معاملې کولو وروسته، تاسو باید څه وکړئ؟",
+        "o": [
+          "نور هیڅ شی ته اړتیا نشته",
+          "پیښه ډلې مشر ته راپور کړئ او د پیښې راپور B57 مکمل کړئ",
+          "یوازې کله یې یاد کړئ چې څوک پوښتنه وکړي",
+          "پرځای یې د COSHH ایکشن کارت مکمل کړئ"
+        ]
+      }
+    }
+  ]
+}
