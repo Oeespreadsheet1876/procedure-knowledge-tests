@@ -1,0 +1,463 @@
+{
+  "id": "wp99",
+  "docRef": "WP99",
+  "issue": "1",
+  "title": {
+    "en": "Safe Use of the Blending Shear Mixer",
+    "pl": "Bezpieczne użytkowanie miksera ścinającego do mieszania",
+    "ro": "Utilizarea în siguranță a malaxorului de forfecare pentru amestecare"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "correct": 1,
+      "en": {
+        "q": "What PPE must be worn at all times when using the shear mixer?",
+        "o": [
+          "Only safety glasses",
+          "Safety glasses, laboratory jacket and gloves",
+          "Only gloves",
+          "No specific PPE is required"
+        ]
+      },
+      "pl": {
+        "q": "Jakie ŚOI musi być noszone przez cały czas podczas korzystania z miksera ścinającego?",
+        "o": [
+          "Tylko okulary ochronne",
+          "Okulary ochronne, kitel laboratoryjny i rękawice",
+          "Tylko rękawice",
+          "Żadne konkretne ŚOI nie jest wymagane"
+        ]
+      },
+      "ro": {
+        "q": "Ce EIP trebuie purtat în orice moment când se utilizează malaxorul de forfecare?",
+        "o": [
+          "Doar ochelari de protecție",
+          "Ochelari de protecție, halat de laborator și mănuși",
+          "Doar mănuși",
+          "Nu este necesar niciun EIP specific"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "What must be completed before starting the mixer?",
+        "o": [
+          "Daily/pre-start checks and the accompanying form",
+          "Only the batch card",
+          "Nothing specific is required",
+          "Only a visual inspection of the bowl"
+        ]
+      },
+      "pl": {
+        "q": "Co musi zostać ukończone przed uruchomieniem miksera?",
+        "o": [
+          "Codzienne/przed-startowe kontrole i towarzyszący formularz",
+          "Tylko karta partii",
+          "Nic konkretnego nie jest wymagane",
+          "Tylko wizualna inspekcja miski"
+        ]
+      },
+      "ro": {
+        "q": "Ce trebuie finalizat înainte de pornirea malaxorului?",
+        "o": [
+          "Verificările zilnice/înainte de pornire și formularul aferent",
+          "Doar fișa lotului",
+          "Nu este necesar nimic specific",
+          "Doar o inspecție vizuală a vasului"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "How should the mixer bowl be positioned under the mixer blade?",
+        "o": [
+          "Lifted by hand and placed directly",
+          "With the safety guard/lid raised, using the pallet truck and runner guides, pushed gently until it contacts the safety switch",
+          "By reversing a forklift into position",
+          "The bowl position does not matter"
+        ]
+      },
+      "pl": {
+        "q": "Jak należy pozycjonować miskę miksera pod ostrzem miksera?",
+        "o": [
+          "Podnieść ręcznie i umieścić bezpośrednio",
+          "Z podniesioną osłoną/pokrywą bezpieczeństwa, używając wózka paletowego i prowadnic, delikatnie popchnąć aż zetknie się z wyłącznikiem bezpieczeństwa",
+          "Cofając wózek widłowy na pozycję",
+          "Pozycja miski nie ma znaczenia"
+        ]
+      },
+      "ro": {
+        "q": "Cum trebuie poziționat vasul malaxorului sub lama malaxorului?",
+        "o": [
+          "Ridicat manual și plasat direct",
+          "Cu apărătoarea/capacul de siguranță ridicat, folosind cărucior cu palet și ghidajele, împins ușor până face contact cu întrerupătorul de siguranță",
+          "Prin manevrarea unui stivuitor în poziție",
+          "Poziția vasului nu contează"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "After positioning the bowl, what should be done with the safety guard/lid?",
+        "o": [
+          "Leave it raised",
+          "Lower it down to the mixer bowl",
+          "Remove it completely",
+          "It is not needed for this step"
+        ]
+      },
+      "pl": {
+        "q": "Po ustawieniu miski, co należy zrobić z osłoną/pokrywą bezpieczeństwa?",
+        "o": [
+          "Zostawić ją podniesioną",
+          "Opuścić ją na miskę miksera",
+          "Całkowicie ją usunąć",
+          "Nie jest potrzebna na tym etapie"
+        ]
+      },
+      "ro": {
+        "q": "După poziționarea vasului, ce trebuie făcut cu apărătoarea/capacul de siguranță?",
+        "o": [
+          "Lăsați-o ridicată",
+          "Coborâți-o pe vasul malaxorului",
+          "Îndepărtați-o complet",
+          "Nu este necesară la acest pas"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Why should you test start the stirrer before adding ingredients?",
+        "o": [
+          "To check the interlock switches are connected properly",
+          "To warm up the motor",
+          "To check the RPM display is working",
+          "This step is not necessary"
+        ]
+      },
+      "pl": {
+        "q": "Dlaczego należy testowo uruchomić mieszadło przed dodaniem składników?",
+        "o": [
+          "Aby sprawdzić, czy przełączniki blokujące są prawidłowo podłączone",
+          "Aby rozgrzać silnik",
+          "Aby sprawdzić, czy wyświetlacz RPM działa",
+          "Ten krok nie jest konieczny"
+        ]
+      },
+      "ro": {
+        "q": "De ce ar trebui să testați pornirea agitatorului înainte de a adăuga ingredientele?",
+        "o": [
+          "Pentru a verifica dacă întrerupătoarele de blocare sunt conectate corect",
+          "Pentru a încălzi motorul",
+          "Pentru a verifica dacă afișajul RPM funcționează",
+          "Acest pas nu este necesar"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "If the stirrer does not start correctly, what should you do?",
+        "o": [
+          "Force the lid down harder",
+          "Raise the lid and adjust the mixer bowl position, then lower the lid and try again",
+          "Increase the RPM setting",
+          "Call an electrician immediately"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli mieszadło nie uruchamia się prawidłowo, co należy zrobić?",
+        "o": [
+          "Mocniej docisnąć pokrywę",
+          "Podnieść pokrywę i dostosować pozycję miski miksera, następnie opuścić pokrywę i spróbować ponownie",
+          "Zwiększyć ustawienie RPM",
+          "Natychmiast wezwać elektryka"
+        ]
+      },
+      "ro": {
+        "q": "Dacă agitatorul nu pornește corect, ce ar trebui să faceți?",
+        "o": [
+          "Apăsați capacul mai tare",
+          "Ridicați capacul și ajustați poziția vasului malaxorului, apoi coborâți capacul și încercați din nou",
+          "Creșteți setarea RPM",
+          "Sunați imediat un electrician"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Once the stirrer starts correctly, how should ingredients be added?",
+        "o": [
+          "By removing the lid completely",
+          "All at once before starting the stirrer",
+          "Through the hatch as required to make the batch, after adding water",
+          "Ingredients cannot be added once started"
+        ]
+      },
+      "pl": {
+        "q": "Gdy mieszadło uruchomi się prawidłowo, jak należy dodawać składniki?",
+        "o": [
+          "Poprzez całkowite usunięcie pokrywy",
+          "Wszystkie na raz przed uruchomieniem mieszadła",
+          "Przez klapę zgodnie z potrzebą, aby przygotować partię, po dodaniu wody",
+          "Składników nie można dodawać po uruchomieniu"
+        ]
+      },
+      "ro": {
+        "q": "Odată ce agitatorul pornește corect, cum ar trebui adăugate ingredientele?",
+        "o": [
+          "Prin îndepărtarea completă a capacului",
+          "Toate deodată înainte de pornirea agitatorului",
+          "Prin trapă conform necesității pentru a face lotul, după adăugarea apei",
+          "Ingredientele nu pot fi adăugate odată pornit"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What speed should the stirrer be increased to in order to make the batch?",
+        "o": [
+          "20 RPM",
+          "40 RPM",
+          "100 RPM",
+          "There is no specific speed"
+        ]
+      },
+      "pl": {
+        "q": "Do jakiej prędkości należy zwiększyć mieszadło, aby przygotować partię?",
+        "o": [
+          "20 RPM",
+          "40 RPM",
+          "100 RPM",
+          "Nie ma konkretnej prędkości"
+        ]
+      },
+      "ro": {
+        "q": "La ce viteză ar trebui crescut agitatorul pentru a face lotul?",
+        "o": [
+          "20 RPM",
+          "40 RPM",
+          "100 RPM",
+          "Nu există o viteză specifică"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Where should you always check for blending ratios?",
+        "o": [
+          "Ask a colleague to estimate",
+          "The batch card",
+          "The machine's default settings",
+          "There is no need to check ratios"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie zawsze należy sprawdzić proporcje mieszania?",
+        "o": [
+          "Poprosić kolegę o oszacowanie",
+          "Karta partii",
+          "Domyślne ustawienia maszyny",
+          "Nie ma potrzeby sprawdzania proporcji"
+        ]
+      },
+      "ro": {
+        "q": "Unde ar trebui să verificați întotdeauna proporțiile de amestecare?",
+        "o": [
+          "Cereți unui coleg să estimeze",
+          "Fișa lotului",
+          "Setările implicite ale mașinii",
+          "Nu este nevoie să verificați proporțiile"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Once the sample has been blended, how do you turn the stirrer off?",
+        "o": [
+          "Press the emergency stop only",
+          "Decrease the RPM speed, then press stop",
+          "Simply unplug the machine",
+          "Raise the guard immediately without stopping it"
+        ]
+      },
+      "pl": {
+        "q": "Gdy próbka zostanie zmieszana, jak wyłączyć mieszadło?",
+        "o": [
+          "Nacisnąć tylko zatrzymanie awaryjne",
+          "Zmniejszyć prędkość RPM, następnie nacisnąć stop",
+          "Po prostu odłączyć maszynę od zasilania",
+          "Podnieść osłonę natychmiast, bez zatrzymywania"
+        ]
+      },
+      "ro": {
+        "q": "Odată ce proba a fost amestecată, cum opriți agitatorul?",
+        "o": [
+          "Apăsați doar oprirea de urgență",
+          "Reduceți viteza RPM, apoi apăsați stop",
+          "Pur și simplu deconectați mașina",
+          "Ridicați apărătoarea imediat fără a-l opri"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "After turning off the stirrer, what is the next step to move the mixer bowl out?",
+        "o": [
+          "Raise the guard",
+          "Lower the guard further",
+          "Add more water",
+          "Increase the RPM again"
+        ]
+      },
+      "pl": {
+        "q": "Po wyłączeniu mieszadła, jaki jest następny krok, aby wyjąć miskę miksera?",
+        "o": [
+          "Podnieść osłonę",
+          "Jeszcze bardziej opuścić osłonę",
+          "Dodać więcej wody",
+          "Ponownie zwiększyć RPM"
+        ]
+      },
+      "ro": {
+        "q": "După oprirea agitatorului, care este următorul pas pentru a scoate vasul malaxorului?",
+        "o": [
+          "Ridicați apărătoarea",
+          "Coborâți apărătoarea și mai mult",
+          "Adăugați mai multă apă",
+          "Creșteți din nou RPM"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Where should the bowl be moved to next?",
+        "o": [
+          "Back to storage",
+          "The blending mixer for the batch",
+          "The cleaning station immediately",
+          "It stays in place"
+        ]
+      },
+      "pl": {
+        "q": "Dokąd należy przenieść miskę w następnej kolejności?",
+        "o": [
+          "Z powrotem do magazynu",
+          "Do miksera do mieszania partii",
+          "Natychmiast do stacji czyszczenia",
+          "Pozostaje na miejscu"
+        ]
+      },
+      "ro": {
+        "q": "Unde ar trebui mutat vasul în continuare?",
+        "o": [
+          "Înapoi la depozitare",
+          "Malaxorul de amestecare pentru lot",
+          "Imediat la stația de curățare",
+          "Rămâne pe loc"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "How is the batch transferred from the mixer bowl to the blending mixer?",
+        "o": [
+          "By pouring it manually",
+          "By connecting the outlet of the mixer bowl to the inlet port of the blending mixer and turning on the pump",
+          "By lifting the bowl above the blending mixer and tipping it",
+          "The batch cannot be transferred this way"
+        ]
+      },
+      "pl": {
+        "q": "Jak partia jest przenoszona z miski miksera do miksera do mieszania?",
+        "o": [
+          "Poprzez ręczne przelanie",
+          "Poprzez podłączenie wylotu miski miksera do portu wlotowego miksera do mieszania i włączenie pompy",
+          "Poprzez podniesienie miski nad mikser do mieszania i jej przechylenie",
+          "Partii nie można przenieść w ten sposób"
+        ]
+      },
+      "ro": {
+        "q": "Cum este transferat lotul din vasul malaxorului în malaxorul de amestecare?",
+        "o": [
+          "Prin turnare manuală",
+          "Prin conectarea ieșirii vasului malaxorului la portul de intrare al malaxorului de amestecare și pornirea pompei",
+          "Prin ridicarea vasului deasupra malaxorului de amestecare și înclinarea acestuia",
+          "Lotul nu poate fi transferat astfel"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "To fully empty the mixer bowl, what should you do?",
+        "o": [
+          "Tilt the mixer bowl",
+          "Shake it vigorously",
+          "Use compressed air",
+          "Leave the remainder for the next batch"
+        ]
+      },
+      "pl": {
+        "q": "Aby całkowicie opróżnić miskę miksera, co należy zrobić?",
+        "o": [
+          "Przechylić miskę miksera",
+          "Energicznie nią potrząsnąć",
+          "Użyć sprężonego powietrza",
+          "Zostawić resztę na następną partię"
+        ]
+      },
+      "ro": {
+        "q": "Pentru a goli complet vasul malaxorului, ce ar trebui să faceți?",
+        "o": [
+          "Înclinați vasul malaxorului",
+          "Scuturați-l viguros",
+          "Folosiți aer comprimat",
+          "Lăsați restul pentru lotul următor"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What should be done once the bowl is empty?",
+        "o": [
+          "Leave it as is for the next shift",
+          "Clean the bowl ready for the next batch",
+          "Store it without cleaning",
+          "Report it to the QC Operator"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić, gdy miska jest pusta?",
+        "o": [
+          "Zostawić ją tak dla następnej zmiany",
+          "Wyczyścić miskę, przygotowując ją na następną partię",
+          "Przechowywać bez czyszczenia",
+          "Zgłosić to operatorowi QC"
+        ]
+      },
+      "ro": {
+        "q": "Ce ar trebui făcut odată ce vasul este gol?",
+        "o": [
+          "Lăsați-l așa pentru tura următoare",
+          "Curățați vasul, pregătindu-l pentru lotul următor",
+          "Depozitați-l fără curățare",
+          "Raportați-l Operatorului QC"
+        ]
+      }
+    }
+  ]
+}

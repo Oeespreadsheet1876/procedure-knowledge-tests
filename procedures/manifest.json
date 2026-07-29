@@ -328,6 +328,16 @@
         "ps": "د CTE 1016 بریښنایی سټیکر ټرک خوندي کارول (Fillers)",
         "ur": "CTE 1016 الیکٹرک اسٹیکر ٹرک کا محفوظ استعمال (Fillers)"
       }
+    },
+    {
+      "id": "wp99",
+      "file": "wp99.json",
+      "docRef": "WP99",
+      "title": {
+        "en": "Safe Use of the Blending Shear Mixer",
+        "pl": "Bezpieczne użytkowanie miksera ścinającego do mieszania",
+        "ro": "Utilizarea în siguranță a malaxorului de forfecare pentru amestecare"
+      }
     }
   ]
 }
