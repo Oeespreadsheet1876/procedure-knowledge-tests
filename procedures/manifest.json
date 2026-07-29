@@ -286,6 +286,20 @@
         "ps": "د بیړني غبرګون لارښود 3 — د توی کیدو کیټ کارول",
         "ur": "ایمرجنسی رسپانس گائیڈ 3 – اسپل کٹ کا استعمال"
       }
+    },
+    {
+      "id": "wp09x",
+      "file": "wp09x.json",
+      "docRef": "WP09X",
+      "title": {
+        "en": "Flake Filling Lines - Fillers & Adhesives",
+        "pl": "Linie napełniania płatkami - Fillers & Adhesives",
+        "bg": "Линии за пълнене на люспи - Fillers & Adhesives",
+        "ro": "Linii de umplere cu fulgi - Fillers & Adhesives",
+        "lv": "Pārslu pildīšanas līnijas - Fillers & Adhesives",
+        "ps": "د پاپړي ډکولو لاینونه - Fillers & Adhesives",
+        "ur": "فلیک فلنگ لائنز - Fillers & Adhesives"
+      }
     }
   ]
 }

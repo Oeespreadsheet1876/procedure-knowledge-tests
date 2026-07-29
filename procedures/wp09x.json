@@ -1,0 +1,1931 @@
+{
+  "id": "wp09x",
+  "docRef": "WP09X",
+  "issue": "4",
+  "title": {
+    "en": "Flake Filling Lines - Fillers & Adhesives",
+    "pl": "Linie napełniania płatkami - Fillers & Adhesives",
+    "bg": "Линии за пълнене на люспи - Fillers & Adhesives",
+    "ro": "Linii de umplere cu fulgi - Fillers & Adhesives",
+    "lv": "Pārslu pildīšanas līnijas - Fillers & Adhesives",
+    "ps": "د پاپړي ډکولو لاینونه - Fillers & Adhesives",
+    "ur": "فلیک فلنگ لائنز - Fillers & Adhesives"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "correct": 1,
+      "en": {
+        "q": "Before operating the flake filling line, what training must you have received?",
+        "o": [
+          "Only this WP09X procedure",
+          "WP09Z Production Area - General Safety & Emergency Equipment",
+          "Forklift training only",
+          "No training is required"
+        ]
+      },
+      "pl": {
+        "q": "Przed obsługą linii do napełniania płatkami, jakie szkolenie musisz ukończyć?",
+        "o": [
+          "Tylko tę procedurę WP09X",
+          "WP09Z Strefa Produkcji - Ogólne bezpieczeństwo i sprzęt awaryjny",
+          "Tylko szkolenie na wózek widłowy",
+          "Żadne szkolenie nie jest wymagane"
+        ]
+      },
+      "bg": {
+        "q": "Преди да работите с линията за пълнене на люспи, какво обучение трябва да сте преминали?",
+        "o": [
+          "Само тази процедура WP09X",
+          "WP09Z Производствена зона - Обща безопасност и авариен инструмент",
+          "Само обучение за мотокар",
+          "Не се изисква обучение"
+        ]
+      },
+      "ro": {
+        "q": "Înainte de a opera linia de umplere cu fulgi, ce instruire trebuie să fi primit?",
+        "o": [
+          "Doar această procedură WP09X",
+          "WP09Z Zona de Producție - Siguranță generală și echipament de urgență",
+          "Doar instruire pentru stivuitor",
+          "Nu este necesară nicio instruire"
+        ]
+      },
+      "lv": {
+        "q": "Pirms pārslu pildīšanas līnijas ekspluatācijas, kāda apmācība jums jāsaņem?",
+        "o": [
+          "Tikai šī WP09X procedūra",
+          "WP09Z Ražošanas zona - Vispārējā drošība un avārijas aprīkojums",
+          "Tikai autoiekrāvēja apmācība",
+          "Apmācība nav nepieciešama"
+        ]
+      },
+      "ps": {
+        "q": "د پاپړي ډکولو لاین چلولو مخکې، تاسو باید کومه روزنه ترلاسه کړې وي؟",
+        "o": [
+          "یوازې دا WP09X طرزالعمل",
+          "WP09Z د تولید ساحه - عمومي خوندیتوب او بیړني تجهیزات",
+          "یوازې د فورک لفټ روزنه",
+          "هیڅ روزنې ته اړتیا نشته"
+        ]
+      },
+      "ur": {
+        "q": "فلیک فلنگ لائن چلانے سے پہلے، آپ نے کون سی تربیت حاصل کی ہونی چاہیے؟",
+        "o": [
+          "صرف یہ WP09X طریقہ کار",
+          "WP09Z پروڈکشن ایریا - عمومی حفاظت اور ہنگامی سامان",
+          "صرف فورک لفٹ تربیت",
+          "کسی تربیت کی ضرورت نہیں"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "How hot can the vertical and horizontal sealing strips become?",
+        "o": [
+          "Up to 100°C",
+          "Up to 200°C",
+          "In excess of 300°C",
+          "They do not heat up"
+        ]
+      },
+      "pl": {
+        "q": "Jak gorące mogą stać się pionowe i poziome pasy uszczelniające?",
+        "o": [
+          "Do 100°C",
+          "Do 200°C",
+          "Ponad 300°C",
+          "Nie nagrzewają się"
+        ]
+      },
+      "bg": {
+        "q": "Колко горещи могат да станат вертикалните и хоризонталните уплътнителни ленти?",
+        "o": [
+          "До 100°C",
+          "До 200°C",
+          "Над 300°C",
+          "Те не се нагряват"
+        ]
+      },
+      "ro": {
+        "q": "Cât de fierbinți pot deveni benzile de etanșare verticale și orizontale?",
+        "o": [
+          "Până la 100°C",
+          "Până la 200°C",
+          "Peste 300°C",
+          "Nu se încălzesc"
+        ]
+      },
+      "lv": {
+        "q": "Cik karstas var kļūt vertikālās un horizontālās blīvējošās sloksnes?",
+        "o": [
+          "Līdz 100°C",
+          "Līdz 200°C",
+          "Vairāk nekā 300°C",
+          "Tās nesakarst"
+        ]
+      },
+      "ps": {
+        "q": "عمودي او افقي مهر کوونکي پټیاوې څومره ګرمې کیدی شي؟",
+        "o": [
+          "تر 100°C پورې",
+          "تر 200°C پورې",
+          "د 300°C څخه ډیر",
+          "دوی نه ګرمیږي"
+        ]
+      },
+      "ur": {
+        "q": "عمودی اور افقی سیلنگ پٹیاں کتنی گرم ہو سکتی ہیں؟",
+        "o": [
+          "100°C تک",
+          "200°C تک",
+          "300°C سے زیادہ",
+          "یہ گرم نہیں ہوتیں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Before making any adjustment other than on the control panel, what must you do?",
+        "o": [
+          "Just proceed carefully",
+          "Press STOP on the display panel and ensure the front door is open",
+          "Ask a colleague to watch",
+          "Nothing specific is required"
+        ]
+      },
+      "pl": {
+        "q": "Przed dokonaniem jakiejkolwiek regulacji innej niż na panelu sterowania, co musisz zrobić?",
+        "o": [
+          "Po prostu postępować ostrożnie",
+          "Nacisnąć STOP na panelu wyświetlacza i upewnić się, że przednie drzwi są otwarte",
+          "Poprosić kolegę o obserwację",
+          "Nic konkretnego nie jest wymagane"
+        ]
+      },
+      "bg": {
+        "q": "Преди да направите каквато и да е корекция извън контролния панел, какво трябва да направите?",
+        "o": [
+          "Просто продължете внимателно",
+          "Натиснете STOP на дисплейния панел и се уверете, че предната врата е отворена",
+          "Помолете колега да наблюдава",
+          "Нищо конкретно не се изисква"
+        ]
+      },
+      "ro": {
+        "q": "Înainte de a face orice ajustare alta decât pe panoul de control, ce trebuie să faceți?",
+        "o": [
+          "Doar continuați cu atenție",
+          "Apăsați STOP pe panoul de afișare și asigurați-vă că ușa din față este deschisă",
+          "Rugați un coleg să supravegheze",
+          "Nu este necesar nimic special"
+        ]
+      },
+      "lv": {
+        "q": "Pirms jebkādas regulēšanas, izņemot vadības panelī, kas jādara?",
+        "o": [
+          "Vienkārši rīkoties uzmanīgi",
+          "Nospiest STOP displeja panelī un pārliecināties, ka priekšējās durvis ir atvērtas",
+          "Palūgt kolēģi novērot",
+          "Nekas īpašs nav nepieciešams"
+        ]
+      },
+      "ps": {
+        "q": "د کنټرول پینل پرته له کوم بل تعدیل کولو مخکې، تاسو باید څه وکړئ؟",
+        "o": [
+          "یوازې په احتیاط سره ادامه ورکړئ",
+          "د ډسپلې پینل کې STOP فشار کړئ او ډاډ ترلاسه کړئ چې مخکینی دروازه خلاصه ده",
+          "له یو همکار وغواړئ چې وګوري",
+          "هیڅ ځانګړی شی ته اړتیا نشته"
+        ]
+      },
+      "ur": {
+        "q": "کنٹرول پینل کے علاوہ کوئی بھی ایڈجسٹمنٹ کرنے سے پہلے، آپ کو کیا کرنا چاہیے؟",
+        "o": [
+          "بس احتیاط سے آگے بڑھیں",
+          "ڈسپلے پینل پر STOP دبائیں اور یقینی بنائیں کہ سامنے کا دروازہ کھلا ہے",
+          "کسی ساتھی سے دیکھنے کو کہیں",
+          "کسی خاص چیز کی ضرورت نہیں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What happens when either of the two front doors is opened while the machine is running?",
+        "o": [
+          "Nothing, the machine continues as normal",
+          "The safety interlock prevents the machine starting, or stops it if in motion",
+          "Only an alarm sounds, the machine keeps running",
+          "The doors are not linked to machine operation"
+        ]
+      },
+      "pl": {
+        "q": "Co się dzieje, gdy któreś z dwóch przednich drzwi zostaną otwarte podczas pracy maszyny?",
+        "o": [
+          "Nic, maszyna działa normalnie dalej",
+          "Blokada bezpieczeństwa uniemożliwia uruchomienie maszyny lub zatrzymuje ją, jeśli jest w ruchu",
+          "Tylko włącza się alarm, maszyna dalej pracuje",
+          "Drzwi nie są powiązane z działaniem maszyny"
+        ]
+      },
+      "bg": {
+        "q": "Какво се случва, когато една от двете предни врати се отвори, докато машината работи?",
+        "o": [
+          "Нищо, машината продължава нормално",
+          "Предпазната блокировка предотвратява стартирането на машината или я спира, ако е в движение",
+          "Само алармата звучи, машината продължава да работи",
+          "Вратите не са свързани с работата на машината"
+        ]
+      },
+      "ro": {
+        "q": "Ce se întâmplă atunci când una dintre cele două uși din față este deschisă în timp ce mașina funcționează?",
+        "o": [
+          "Nimic, mașina continuă normal",
+          "Blocarea de siguranță împiedică pornirea mașinii sau o oprește dacă este în mișcare",
+          "Doar sună o alarmă, mașina continuă să funcționeze",
+          "Ușile nu sunt legate de funcționarea mașinii"
+        ]
+      },
+      "lv": {
+        "q": "Kas notiek, kad kādas no divām priekšējām durvīm tiek atvērtas, kamēr iekārta darbojas?",
+        "o": [
+          "Nekas, iekārta turpina darboties normāli",
+          "Drošības bloķētājs neļauj iekārtai iedarboties vai aptur to, ja tā ir kustībā",
+          "Tikai atskan trauksme, iekārta turpina darboties",
+          "Durvis nav saistītas ar iekārtas darbību"
+        ]
+      },
+      "ps": {
+        "q": "کله چې دوه مخکینیو دروازو څخه یوه پرانستل شي، پداسې حال کې چې ماشین کار کوي، څه پیښیږي؟",
+        "o": [
+          "هیڅ نه، ماشین په عادي ډول ادامه ورکوي",
+          "خوندیتوب انټرلاک ماشین ته د پیل کولو مخنیوی کوي، یا یې درولو که چیرې دا حرکت کې وي",
+          "یوازې الارم غږیږي، ماشین همداسې چلیږي",
+          "دروازې د ماشین عملیاتو سره تړاو نلري"
+        ]
+      },
+      "ur": {
+        "q": "جب مشین چلتے ہوئے دونوں میں سے کوئی ایک سامنے کا دروازہ کھولا جائے تو کیا ہوتا ہے؟",
+        "o": [
+          "کچھ نہیں، مشین معمول کے مطابق جاری رہتی ہے",
+          "حفاظتی انٹرلاک مشین کو شروع ہونے سے روکتا ہے، یا اگر حرکت میں ہو تو روک دیتا ہے",
+          "صرف الارم بجتا ہے، مشین چلتی رہتی ہے",
+          "دروازے مشین کے آپریشن سے منسلک نہیں ہیں"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "When lifting bags of flake onto the hopper supports, what must you ensure?",
+        "o": [
+          "All personnel are clear of the area",
+          "The machine is running",
+          "The film reel is removed",
+          "Nothing specific is required"
+        ]
+      },
+      "pl": {
+        "q": "Podnosząc worki płatków na podpory leja, co musisz zapewnić?",
+        "o": [
+          "Że cały personel jest z dala od obszaru",
+          "Że maszyna pracuje",
+          "Że rolka folii jest usunięta",
+          "Nic konkretnego nie jest wymagane"
+        ]
+      },
+      "bg": {
+        "q": "При повдигане на торби с люспи върху опорите на фунията, какво трябва да осигурите?",
+        "o": [
+          "Целият персонал да е далеч от зоната",
+          "Машината да работи",
+          "Ролката с фолио да е премахната",
+          "Нищо конкретно не се изисква"
+        ]
+      },
+      "ro": {
+        "q": "La ridicarea sacilor cu fulgi pe suporturile pâlniei, ce trebuie să vă asigurați?",
+        "o": [
+          "Că tot personalul este departe de zonă",
+          "Că mașina funcționează",
+          "Că rola de film este scoasă",
+          "Nu este necesar nimic special"
+        ]
+      },
+      "lv": {
+        "q": "Ceļot pārslu maisus uz piltuves balstiem, kas jānodrošina?",
+        "o": [
+          "Ka viss personāls ir prom no zonas",
+          "Ka iekārta darbojas",
+          "Ka plēves ruļļis ir noņemts",
+          "Nekas īpašs nav nepieciešams"
+        ]
+      },
+      "ps": {
+        "q": "کله چې د پاپړي بوجۍ د هوپر ملاتړونو باندې پورته کول کیږي، تاسو باید څه ډاډمن کړئ؟",
+        "o": [
+          "چې ټول کارکوونکي له ساحې څخه لرې دي",
+          "چې ماشین چلیږي",
+          "چې د فلم رول لرې شوی دی",
+          "هیڅ ځانګړی شی ته اړتیا نشته"
+        ]
+      },
+      "ur": {
+        "q": "ہوپر سپورٹس پر فلیک کی بوریاں اٹھاتے وقت، آپ کو کیا یقینی بنانا چاہیے؟",
+        "o": [
+          "تمام عملہ علاقے سے دور ہے",
+          "مشین چل رہی ہے",
+          "فلم ریل ہٹا دی گئی ہے",
+          "کسی خاص چیز کی ضرورت نہیں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Should you step over the inclined conveyor to reach the other side of the machine?",
+        "o": [
+          "Yes, if you are careful",
+          "No, always walk around the machine",
+          "Only during cleaning",
+          "Only if the machine is stopped"
+        ]
+      },
+      "pl": {
+        "q": "Czy należy przechodzić nad pochyłym przenośnikiem, aby dotrzeć na drugą stronę maszyny?",
+        "o": [
+          "Tak, jeśli jest się ostrożnym",
+          "Nie, zawsze obchodzić maszynę dookoła",
+          "Tylko podczas czyszczenia",
+          "Tylko gdy maszyna jest zatrzymana"
+        ]
+      },
+      "bg": {
+        "q": "Трябва ли да прекрачвате наклонения конвейер, за да стигнете до другата страна на машината?",
+        "o": [
+          "Да, ако сте внимателни",
+          "Не, винаги заобикаляйте машината",
+          "Само по време на почистване",
+          "Само ако машината е спряна"
+        ]
+      },
+      "ro": {
+        "q": "Trebuie să treceți peste transportorul înclinat pentru a ajunge pe cealaltă parte a mașinii?",
+        "o": [
+          "Da, dacă sunteți atent",
+          "Nu, întotdeauna ocoliți mașina",
+          "Doar în timpul curățării",
+          "Doar dacă mașina este oprită"
+        ]
+      },
+      "lv": {
+        "q": "Vai jāpāriet pāri slīpajam konveijeram, lai nokļūtu otrā iekārtas pusē?",
+        "o": [
+          "Jā, ja esat uzmanīgs",
+          "Nē, vienmēr apejiet iekārtu apkārt",
+          "Tikai tīrīšanas laikā",
+          "Tikai tad, ja iekārta ir apturēta"
+        ]
+      },
+      "ps": {
+        "q": "ایا تاسو باید د ماشین بلې خوا ته د رسیدو لپاره د تمایل لرونکي کنویر پورته لاړ شئ؟",
+        "o": [
+          "هو، که تاسو محتاط یاست",
+          "نه، تل د ماشین شاوخوا وګرځئ",
+          "یوازې د پاکولو پرمهال",
+          "یوازې کله چې ماشین ودرول شوی وي"
+        ]
+      },
+      "ur": {
+        "q": "کیا آپ کو مشین کی دوسری طرف پہنچنے کے لیے مائل کنویئر کے اوپر سے گزرنا چاہیے؟",
+        "o": [
+          "ہاں، اگر آپ محتاط ہوں",
+          "نہیں، ہمیشہ مشین کے گرد چلیں",
+          "صرف صفائی کے دوران",
+          "صرف جب مشین رکی ہو"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "Which document is the Sewing Machine Operation & Guide Booklet?",
+        "o": [
+          "B61e",
+          "B82",
+          "B19",
+          "Test 21"
+        ]
+      },
+      "pl": {
+        "q": "Który dokument to Broszura Obsługi i Przewodnik Maszyny do Szycia?",
+        "o": [
+          "B61e",
+          "B82",
+          "B19",
+          "Test 21"
+        ]
+      },
+      "bg": {
+        "q": "Кой документ е Ръководството за работа и упътване на шевната машина?",
+        "o": [
+          "B61e",
+          "B82",
+          "B19",
+          "Test 21"
+        ]
+      },
+      "ro": {
+        "q": "Care document este Manualul de Operare și Ghid al Mașinii de Cusut?",
+        "o": [
+          "B61e",
+          "B82",
+          "B19",
+          "Test 21"
+        ]
+      },
+      "lv": {
+        "q": "Kurš dokuments ir Šujmašīnas darbības un rokasgrāmatas bukleta?",
+        "o": [
+          "B61e",
+          "B82",
+          "B19",
+          "Test 21"
+        ]
+      },
+      "ps": {
+        "q": "کوم سند د ګنډلو ماشین عملیات او لارښود کتابچه ده؟",
+        "o": [
+          "B61e",
+          "B82",
+          "B19",
+          "Test 21"
+        ]
+      },
+      "ur": {
+        "q": "کون سا دستاویز سلائی مشین آپریشن اور گائیڈ بکلیٹ ہے؟",
+        "o": [
+          "B61e",
+          "B82",
+          "B19",
+          "Test 21"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Who is responsible for the cleaning of the line and surrounding area?",
+        "o": [
+          "The QC Operative",
+          "The Team Leader",
+          "The Production Operatives",
+          "The Production Manager"
+        ]
+      },
+      "pl": {
+        "q": "Kto odpowiada za czyszczenie linii i otaczającego obszaru?",
+        "o": [
+          "Operator QC",
+          "Lider Zespołu",
+          "Operatorzy Produkcji",
+          "Kierownik Produkcji"
+        ]
+      },
+      "bg": {
+        "q": "Кой отговаря за почистването на линията и околната зона?",
+        "o": [
+          "Операторът по КК",
+          "Ръководителят на екипа",
+          "Производствените оператори",
+          "Производственият мениджър"
+        ]
+      },
+      "ro": {
+        "q": "Cine este responsabil pentru curățarea liniei și a zonei înconjurătoare?",
+        "o": [
+          "Operatorul QC",
+          "Liderul de Echipă",
+          "Operatorii de Producție",
+          "Managerul de Producție"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir atbildīgs par līnijas un apkārtējās zonas tīrīšanu?",
+        "o": [
+          "KK operators",
+          "Komandas vadītājs",
+          "Ražošanas operatori",
+          "Ražošanas vadītājs"
+        ]
+      },
+      "ps": {
+        "q": "د لاین او شاوخوا ساحې پاکولو مسؤلیت له چا سره دی؟",
+        "o": [
+          "د QC آپریټو",
+          "د ډلې مشر",
+          "د تولید آپریټوان",
+          "د تولید مدیر"
+        ]
+      },
+      "ur": {
+        "q": "لائن اور آس پاس کے علاقے کی صفائی کا ذمہ دار کون ہے؟",
+        "o": [
+          "QC آپریٹو",
+          "ٹیم لیڈر",
+          "پروڈکشن آپریٹوز",
+          "پروڈکشن منیجر"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What is done first during pre-production start up?",
+        "o": [
+          "Load the film reel",
+          "Switch on the wall mounted mains isolator and spiroflow master box",
+          "Press MAKE BAGS",
+          "Complete the B19 form"
+        ]
+      },
+      "pl": {
+        "q": "Co robi się najpierw podczas uruchomienia przed produkcją?",
+        "o": [
+          "Załadować rolkę folii",
+          "Włączyć naścienny główny izolator i skrzynkę główną spiroflow",
+          "Nacisnąć MAKE BAGS",
+          "Wypełnić formularz B19"
+        ]
+      },
+      "bg": {
+        "q": "Какво се прави първо по време на предпроизводственото пускане?",
+        "o": [
+          "Зарежда се ролката с фолио",
+          "Включва се стенният главен изолатор и главната кутия spiroflow",
+          "Натиска се MAKE BAGS",
+          "Попълва се формуляр B19"
+        ]
+      },
+      "ro": {
+        "q": "Ce se face mai întâi în timpul pornirii înainte de producție?",
+        "o": [
+          "Se încarcă rola de film",
+          "Se pornește izolatorul principal montat pe perete și cutia principală spiroflow",
+          "Se apasă MAKE BAGS",
+          "Se completează formularul B19"
+        ]
+      },
+      "lv": {
+        "q": "Kas tiek darīts vispirms pirms-ražošanas iedarbināšanas laikā?",
+        "o": [
+          "Iekrauj plēves ruļļi",
+          "Ieslēdz pie sienas piestiprināto galveno izolatoru un spiroflow galveno kārbu",
+          "Nospiež MAKE BAGS",
+          "Aizpilda B19 veidlapu"
+        ]
+      },
+      "ps": {
+        "q": "د تولید مخکې پیل کولو پرمهال لومړی څه کیږي؟",
+        "o": [
+          "د فلم رول لوډ کول",
+          "د دیوال باندې نصب شوی اصلي آئسولیټر او spiroflow اصلي بکس روښانه کول",
+          "MAKE BAGS فشار کول",
+          "د B19 فارم مکملول"
+        ]
+      },
+      "ur": {
+        "q": "پری پروڈکشن اسٹارٹ اپ کے دوران پہلے کیا کیا جاتا ہے؟",
+        "o": [
+          "فلم ریل لوڈ کریں",
+          "دیوار پر نصب مینز آئسولیٹر اور spiroflow ماسٹر باکس آن کریں",
+          "MAKE BAGS دبائیں",
+          "B19 فارم مکمل کریں"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Before loading the film, what must you check?",
+        "o": [
+          "That the part number of the reel is correct, and get QC approval",
+          "That the machine is switched off",
+          "That the batch card is signed",
+          "That the scales are calibrated"
+        ]
+      },
+      "pl": {
+        "q": "Przed załadowaniem folii, co musisz sprawdzić?",
+        "o": [
+          "Że numer części rolki jest prawidłowy, i uzyskać zatwierdzenie QC",
+          "Że maszyna jest wyłączona",
+          "Że karta partii jest podpisana",
+          "Że waga jest skalibrowana"
+        ]
+      },
+      "bg": {
+        "q": "Преди зареждане на фолиото, какво трябва да проверите?",
+        "o": [
+          "Че номерът на частта на ролката е правилен, и да получите одобрение от КК",
+          "Че машината е изключена",
+          "Че картата на партидата е подписана",
+          "Че везните са калибрирани"
+        ]
+      },
+      "ro": {
+        "q": "Înainte de a încărca filmul, ce trebuie să verificați?",
+        "o": [
+          "Că numărul de piesă al rolei este corect, și să obțineți aprobarea QC",
+          "Că mașina este oprită",
+          "Că fișa lotului este semnată",
+          "Că cântarele sunt calibrate"
+        ]
+      },
+      "lv": {
+        "q": "Pirms plēves iekraušanas, kas jāpārbauda?",
+        "o": [
+          "Ka ruļļa detaļas numurs ir pareizs, un jāsaņem KK apstiprinājums",
+          "Ka iekārta ir izslēgta",
+          "Ka partijas karte ir parakstīta",
+          "Ka svari ir kalibrēti"
+        ]
+      },
+      "ps": {
+        "q": "د فلم لوډ کولو مخکې، تاسو باید څه وګورئ؟",
+        "o": [
+          "چې د رول جز شمیره سمه ده، او د QC تصویب ترلاسه کړئ",
+          "چې ماشین بند دی",
+          "چې د بیچ کارت لاسلیک شوی دی",
+          "چې تله کیلیبریټ شوی دی"
+        ]
+      },
+      "ur": {
+        "q": "فلم لوڈ کرنے سے پہلے، آپ کو کیا چیک کرنا چاہیے؟",
+        "o": [
+          "کہ ریل کا پارٹ نمبر درست ہے، اور QC کی منظوری حاصل کریں",
+          "کہ مشین بند ہے",
+          "کہ بیچ کارڈ پر دستخط ہیں",
+          "کہ ترازو کیلیبریٹڈ ہے"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "On the A019 set up, what must the manual/auto switch on the spiroflow master box be set to, before pressing START?",
+        "o": [
+          "MANUAL",
+          "AUTO",
+          "OFF",
+          "It does not matter"
+        ]
+      },
+      "pl": {
+        "q": "Podczas ustawienia A019, na co musi być ustawiony przełącznik manualny/auto na skrzynce głównej spiroflow, przed naciśnięciem START?",
+        "o": [
+          "MANUAL",
+          "AUTO",
+          "OFF",
+          "Nie ma to znaczenia"
+        ]
+      },
+      "bg": {
+        "q": "При настройката A019, на какво трябва да е поставен превключвателят ръчно/авто на главната кутия spiroflow, преди да натиснете START?",
+        "o": [
+          "MANUAL",
+          "AUTO",
+          "OFF",
+          "Няма значение"
+        ]
+      },
+      "ro": {
+        "q": "La configurarea A019, pe ce trebuie să fie setat comutatorul manual/auto de pe cutia principală spiroflow, înainte de a apăsa START?",
+        "o": [
+          "MANUAL",
+          "AUTO",
+          "OFF",
+          "Nu contează"
+        ]
+      },
+      "lv": {
+        "q": "A019 iestatīšanas laikā, uz ko jābūt iestatītam manuālajam/automātiskajam slēdzim uz spiroflow galvenās kārbas, pirms START nospiešanas?",
+        "o": [
+          "MANUAL",
+          "AUTO",
+          "OFF",
+          "Tam nav nozīmes"
+        ]
+      },
+      "ps": {
+        "q": "د A019 تنظیم پرمهال، د START فشارولو مخکې، د spiroflow اصلي بکس باندې منوول/اتومات سویچ باید په څه ټاکل شوی وي؟",
+        "o": [
+          "MANUAL",
+          "AUTO",
+          "OFF",
+          "دا اهمیت نلري"
+        ]
+      },
+      "ur": {
+        "q": "A019 سیٹ اپ پر، START دبانے سے پہلے، spiroflow ماسٹر باکس پر مینوئل/آٹو سوئچ کس پر سیٹ ہونا چاہیے؟",
+        "o": [
+          "MANUAL",
+          "AUTO",
+          "OFF",
+          "کوئی فرق نہیں پڑتا"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "During A019 set up, what must be pressed to set the printer online?",
+        "o": [
+          "MENU",
+          "RESET",
+          "The green online button",
+          "EXIT"
+        ]
+      },
+      "pl": {
+        "q": "Podczas ustawienia A019, co należy nacisnąć, aby ustawić drukarkę online?",
+        "o": [
+          "MENU",
+          "RESET",
+          "Zielony przycisk online",
+          "EXIT"
+        ]
+      },
+      "bg": {
+        "q": "По време на настройката A019, какво трябва да се натисне, за да се постави принтерът онлайн?",
+        "o": [
+          "MENU",
+          "RESET",
+          "Зеленият бутон онлайн",
+          "EXIT"
+        ]
+      },
+      "ro": {
+        "q": "În timpul configurării A019, ce trebuie apăsat pentru a pune imprimanta online?",
+        "o": [
+          "MENU",
+          "RESET",
+          "Butonul verde online",
+          "EXIT"
+        ]
+      },
+      "lv": {
+        "q": "A019 iestatīšanas laikā, kas jānospiež, lai iestatītu printeri tiešsaistē?",
+        "o": [
+          "MENU",
+          "RESET",
+          "Zaļā tiešsaistes poga",
+          "EXIT"
+        ]
+      },
+      "ps": {
+        "q": "د A019 تنظیم پرمهال، پرنټر آنلاین کولو لپاره باید څه فشار شي؟",
+        "o": [
+          "MENU",
+          "RESET",
+          "شنه آنلاین تڼۍ",
+          "EXIT"
+        ]
+      },
+      "ur": {
+        "q": "A019 سیٹ اپ کے دوران، پرنٹر کو آن لائن سیٹ کرنے کے لیے کیا دبانا چاہیے؟",
+        "o": [
+          "MENU",
+          "RESET",
+          "سبز آن لائن بٹن",
+          "EXIT"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "In the A019 touch screen set up sequence, what do you press after using the arrows to select PRODUCT DIRECTORY?",
+        "o": [
+          "LOAD",
+          "SELECT",
+          "MENU",
+          "EXIT"
+        ]
+      },
+      "pl": {
+        "q": "W sekwencji ustawień ekranu dotykowego A019, co naciskasz po użyciu strzałek do wyboru PRODUCT DIRECTORY?",
+        "o": [
+          "LOAD",
+          "SELECT",
+          "MENU",
+          "EXIT"
+        ]
+      },
+      "bg": {
+        "q": "В последователността за настройка на сензорния екран A019, какво натискате след използване на стрелките за избор на PRODUCT DIRECTORY?",
+        "o": [
+          "LOAD",
+          "SELECT",
+          "MENU",
+          "EXIT"
+        ]
+      },
+      "ro": {
+        "q": "În secvența de configurare a ecranului tactil A019, ce apăsați după utilizarea săgeților pentru a selecta PRODUCT DIRECTORY?",
+        "o": [
+          "LOAD",
+          "SELECT",
+          "MENU",
+          "EXIT"
+        ]
+      },
+      "lv": {
+        "q": "A019 skārienekrāna iestatīšanas secībā, ko jūs nospiežat pēc bultiņu izmantošanas, lai izvēlētos PRODUCT DIRECTORY?",
+        "o": [
+          "LOAD",
+          "SELECT",
+          "MENU",
+          "EXIT"
+        ]
+      },
+      "ps": {
+        "q": "د A019 لمس سکرین تنظیم ترتیب کې، د PRODUCT DIRECTORY انتخاب کولو لپاره د غشو کارولو وروسته تاسو څه فشار کوئ؟",
+        "o": [
+          "LOAD",
+          "SELECT",
+          "MENU",
+          "EXIT"
+        ]
+      },
+      "ur": {
+        "q": "A019 ٹچ اسکرین سیٹ اپ ترتیب میں، PRODUCT DIRECTORY منتخب کرنے کے لیے ایرو استعمال کرنے کے بعد آپ کیا دباتے ہیں؟",
+        "o": [
+          "LOAD",
+          "SELECT",
+          "MENU",
+          "EXIT"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "After selecting the correct product and pressing LOAD in the A019 sequence, what should you press next?",
+        "o": [
+          "EXIT",
+          "MAKE BAGS",
+          "FILL BAGS",
+          "RESET"
+        ]
+      },
+      "pl": {
+        "q": "Po wybraniu prawidłowego produktu i naciśnięciu LOAD w sekwencji A019, co powinieneś nacisnąć następnie?",
+        "o": [
+          "EXIT",
+          "MAKE BAGS",
+          "FILL BAGS",
+          "RESET"
+        ]
+      },
+      "bg": {
+        "q": "След избор на правилния продукт и натискане на LOAD в последователността A019, какво трябва да натиснете след това?",
+        "o": [
+          "EXIT",
+          "MAKE BAGS",
+          "FILL BAGS",
+          "RESET"
+        ]
+      },
+      "ro": {
+        "q": "După selectarea produsului corect și apăsarea LOAD în secvența A019, ce ar trebui să apăsați apoi?",
+        "o": [
+          "EXIT",
+          "MAKE BAGS",
+          "FILL BAGS",
+          "RESET"
+        ]
+      },
+      "lv": {
+        "q": "Pēc pareizā produkta izvēles un LOAD nospiešanas A019 secībā, kas jānospiež pēc tam?",
+        "o": [
+          "EXIT",
+          "MAKE BAGS",
+          "FILL BAGS",
+          "RESET"
+        ]
+      },
+      "ps": {
+        "q": "د A019 ترتیب کې د سم محصول غوره کولو او LOAD فشارولو وروسته، تاسو باید بیا څه فشار کړئ؟",
+        "o": [
+          "EXIT",
+          "MAKE BAGS",
+          "FILL BAGS",
+          "RESET"
+        ]
+      },
+      "ur": {
+        "q": "A019 ترتیب میں صحیح پروڈکٹ منتخب کرنے اور LOAD دبانے کے بعد، آپ کو اگلا کیا دبانا چاہیے؟",
+        "o": [
+          "EXIT",
+          "MAKE BAGS",
+          "FILL BAGS",
+          "RESET"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "In the A019 sequence, how many bags should be made to check before filling begins?",
+        "o": [
+          "1",
+          "5",
+          "2",
+          "10"
+        ]
+      },
+      "pl": {
+        "q": "W sekwencji A019, ile worków należy wykonać do sprawdzenia przed rozpoczęciem napełniania?",
+        "o": [
+          "1",
+          "5",
+          "2",
+          "10"
+        ]
+      },
+      "bg": {
+        "q": "В последователността A019, колко торби трябва да се направят за проверка преди началото на пълненето?",
+        "o": [
+          "1",
+          "5",
+          "2",
+          "10"
+        ]
+      },
+      "ro": {
+        "q": "În secvența A019, câte pungi ar trebui făcute pentru verificare înainte de începerea umplerii?",
+        "o": [
+          "1",
+          "5",
+          "2",
+          "10"
+        ]
+      },
+      "lv": {
+        "q": "A019 secībā, cik maisiņi jāizgatavo pārbaudei pirms pildīšanas sākuma?",
+        "o": [
+          "1",
+          "5",
+          "2",
+          "10"
+        ]
+      },
+      "ps": {
+        "q": "د A019 ترتیب کې، د ډکولو له پیل کیدو مخکې د ازموینې لپاره باید څو بوجۍ جوړې شي؟",
+        "o": [
+          "1",
+          "5",
+          "2",
+          "10"
+        ]
+      },
+      "ur": {
+        "q": "A019 ترتیب میں، فلنگ شروع ہونے سے پہلے چیک کے لیے کتنے بیگ بنائے جانے چاہئیں؟",
+        "o": [
+          "1",
+          "5",
+          "2",
+          "10"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "On the A008 set up, what should you press first, underneath the front display screen?",
+        "o": [
+          "MAKE BAGS",
+          "RESET",
+          "FILL BAGS",
+          "STOP"
+        ]
+      },
+      "pl": {
+        "q": "Podczas ustawienia A008, co powinieneś nacisnąć najpierw, pod przednim ekranem wyświetlacza?",
+        "o": [
+          "MAKE BAGS",
+          "RESET",
+          "FILL BAGS",
+          "STOP"
+        ]
+      },
+      "bg": {
+        "q": "При настройката A008, какво трябва да натиснете първо, под предния дисплеен екран?",
+        "o": [
+          "MAKE BAGS",
+          "RESET",
+          "FILL BAGS",
+          "STOP"
+        ]
+      },
+      "ro": {
+        "q": "La configurarea A008, ce ar trebui să apăsați mai întâi, sub ecranul de afișare frontal?",
+        "o": [
+          "MAKE BAGS",
+          "RESET",
+          "FILL BAGS",
+          "STOP"
+        ]
+      },
+      "lv": {
+        "q": "A008 iestatīšanas laikā, kas jānospiež vispirms, zem priekšējā displeja ekrāna?",
+        "o": [
+          "MAKE BAGS",
+          "RESET",
+          "FILL BAGS",
+          "STOP"
+        ]
+      },
+      "ps": {
+        "q": "د A008 تنظیم پرمهال، د مخکینی ډسپلې سکرین لاندې، تاسو باید لومړی څه فشار کړئ؟",
+        "o": [
+          "MAKE BAGS",
+          "RESET",
+          "FILL BAGS",
+          "STOP"
+        ]
+      },
+      "ur": {
+        "q": "A008 سیٹ اپ پر، سامنے کے ڈسپلے اسکرین کے نیچے، آپ کو پہلے کیا دبانا چاہیے؟",
+        "o": [
+          "MAKE BAGS",
+          "RESET",
+          "FILL BAGS",
+          "STOP"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "On the A008 set up, after pressing RESET, what should you press on the side panel weight screen?",
+        "o": [
+          "The GREEN button",
+          "The RED button",
+          "MENU",
+          "EXIT"
+        ]
+      },
+      "pl": {
+        "q": "Podczas ustawienia A008, po naciśnięciu RESET, co powinieneś nacisnąć na bocznym panelu ekranu wagi?",
+        "o": [
+          "Zielony przycisk",
+          "Czerwony przycisk",
+          "MENU",
+          "EXIT"
+        ]
+      },
+      "bg": {
+        "q": "При настройката A008, след натискане на RESET, какво трябва да натиснете на страничния панел на екрана за тегло?",
+        "o": [
+          "Зеленият бутон",
+          "Червеният бутон",
+          "MENU",
+          "EXIT"
+        ]
+      },
+      "ro": {
+        "q": "La configurarea A008, după apăsarea RESET, ce ar trebui să apăsați pe ecranul de greutate din panoul lateral?",
+        "o": [
+          "Butonul VERDE",
+          "Butonul ROȘU",
+          "MENU",
+          "EXIT"
+        ]
+      },
+      "lv": {
+        "q": "A008 iestatīšanas laikā, pēc RESET nospiešanas, kas jānospiež uz sānu paneļa svara ekrāna?",
+        "o": [
+          "ZAĻĀ poga",
+          "SARKANĀ poga",
+          "MENU",
+          "EXIT"
+        ]
+      },
+      "ps": {
+        "q": "د A008 تنظیم پرمهال، د RESET فشارولو وروسته، تاسو باید د اړخیز پینل وزن سکرین باندې څه فشار کړئ؟",
+        "o": [
+          "شنه تڼۍ",
+          "سره تڼۍ",
+          "MENU",
+          "EXIT"
+        ]
+      },
+      "ur": {
+        "q": "A008 سیٹ اپ پر، RESET دبانے کے بعد، آپ کو سائیڈ پینل وزن اسکرین پر کیا دبانا چاہیے؟",
+        "o": [
+          "سبز بٹن",
+          "سرخ بٹن",
+          "MENU",
+          "EXIT"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What is the purpose of turning on the film reel run out and print tape run out sensors?",
+        "o": [
+          "To speed up the machine",
+          "To prevent bags running with no batch number",
+          "To reduce noise",
+          "They have no functional purpose"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest cel włączenia czujników końca rolki folii i końca taśmy drukującej?",
+        "o": [
+          "Aby przyspieszyć maszynę",
+          "Aby zapobiec produkcji worków bez numeru partii",
+          "Aby zmniejszyć hałas",
+          "Nie mają żadnego funkcjonalnego celu"
+        ]
+      },
+      "bg": {
+        "q": "Каква е целта на включването на сензорите за край на ролката фолио и край на печатната лента?",
+        "o": [
+          "За ускоряване на машината",
+          "За предотвратяване на пускането на торби без номер на партида",
+          "За намаляване на шума",
+          "Нямат функционална цел"
+        ]
+      },
+      "ro": {
+        "q": "Care este scopul pornirii senzorilor de epuizare a rolei de film și a benzii de imprimare?",
+        "o": [
+          "Pentru a accelera mașina",
+          "Pentru a preveni funcționarea pungilor fără număr de lot",
+          "Pentru a reduce zgomotul",
+          "Nu au scop funcțional"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir mērķis ieslēgt plēves ruļļa beigu un drukas lentes beigu sensorus?",
+        "o": [
+          "Lai paātrinātu iekārtu",
+          "Lai novērstu maisu darbību bez partijas numura",
+          "Lai samazinātu troksni",
+          "Tiem nav funkcionāla mērķa"
+        ]
+      },
+      "ps": {
+        "q": "د فلم رول پای ته رسیدو او د چاپ ټیپ پای ته رسیدو سینسرونو روښانه کولو موخه څه ده؟",
+        "o": [
+          "د ماشین ګړندي کولو لپاره",
+          "د بیچ شمیرې پرته بوجیو چلولو مخنیوي لپاره",
+          "د غږ کمولو لپاره",
+          "دوی هیڅ فعال موخه نلري"
+        ]
+      },
+      "ur": {
+        "q": "فلم ریل ختم ہونے اور پرنٹ ٹیپ ختم ہونے کے سینسرز آن کرنے کا مقصد کیا ہے؟",
+        "o": [
+          "مشین کو تیز کرنا",
+          "بغیر بیچ نمبر کے بیگز چلنے سے روکنا",
+          "شور کم کرنا",
+          "ان کا کوئی فعال مقصد نہیں ہے"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "How do you check the vertical and horizontal seal jaws are at the correct temperature?",
+        "o": [
+          "Touch them carefully",
+          "Press MENU then HEAT on the display, and compare ACTUAL heat to SET heat",
+          "Wait exactly 10 minutes",
+          "There is no way to check"
+        ]
+      },
+      "pl": {
+        "q": "Jak sprawdzić, czy pionowe i poziome szczęki uszczelniające są w prawidłowej temperaturze?",
+        "o": [
+          "Ostrożnie ich dotknąć",
+          "Nacisnąć MENU, a następnie HEAT na wyświetlaczu, i porównać ACTUAL heat z SET heat",
+          "Poczekać dokładnie 10 minut",
+          "Nie ma sposobu, aby to sprawdzić"
+        ]
+      },
+      "bg": {
+        "q": "Как проверявате дали вертикалните и хоризонталните уплътнителни челюсти са на правилната температура?",
+        "o": [
+          "Докоснете ги внимателно",
+          "Натиснете MENU, след това HEAT на дисплея, и сравнете ACTUAL heat със SET heat",
+          "Изчакайте точно 10 минути",
+          "Няма начин да се провери"
+        ]
+      },
+      "ro": {
+        "q": "Cum verificați dacă fălcile de etanșare verticale și orizontale sunt la temperatura corectă?",
+        "o": [
+          "Atingeți-le cu grijă",
+          "Apăsați MENU apoi HEAT pe afișaj, și comparați căldura ACTUALĂ cu căldura SETATĂ",
+          "Așteptați exact 10 minute",
+          "Nu există nicio modalitate de a verifica"
+        ]
+      },
+      "lv": {
+        "q": "Kā pārbaudīt, vai vertikālās un horizontālās blīvējošās žokļi ir pareizajā temperatūrā?",
+        "o": [
+          "Uzmanīgi tos aiztikt",
+          "Nospiest MENU tad HEAT displejā, un salīdzināt ACTUAL siltumu ar SET siltumu",
+          "Gaidīt tieši 10 minūtes",
+          "Nav veida, kā to pārbaudīt"
+        ]
+      },
+      "ps": {
+        "q": "تاسو څنګه ګورئ چې عمودي او افقي مهر کوونکي جبڼې په سمه تودوخه کې دي؟",
+        "o": [
+          "په احتیاط سره یې لمس کړئ",
+          "ډسپلې کې MENU بیا HEAT فشار کړئ، او ACTUAL تودوخه د SET تودوخې سره پرتله کړئ",
+          "دقیقا 10 دقیقې انتظار وکړئ",
+          "د دې چیک کولو کوم لاره نشته"
+        ]
+      },
+      "ur": {
+        "q": "آپ کیسے چیک کرتے ہیں کہ عمودی اور افقی سیل جبڑے درست درجہ حرارت پر ہیں؟",
+        "o": [
+          "احتیاط سے انہیں چھوئیں",
+          "ڈسپلے پر MENU پھر HEAT دبائیں، اور ACTUAL حرارت کا SET حرارت سے موازنہ کریں",
+          "بالکل 10 منٹ انتظار کریں",
+          "چیک کرنے کا کوئی طریقہ نہیں ہے"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "How often must a bag be weighed with the weight recorded on the B19 form?",
+        "o": [
+          "Every 10 minutes",
+          "Every thirty minutes",
+          "Once per shift",
+          "Only at the end of the batch"
+        ]
+      },
+      "pl": {
+        "q": "Jak często należy zważyć worek i zapisać wagę na formularzu B19?",
+        "o": [
+          "Co 10 minut",
+          "Co trzydzieści minut",
+          "Raz na zmianę",
+          "Tylko na końcu partii"
+        ]
+      },
+      "bg": {
+        "q": "Колко често трябва да се претегли торба с теглото, записано на формуляр B19?",
+        "o": [
+          "На всеки 10 минути",
+          "На всеки тридесет минути",
+          "Веднъж на смяна",
+          "Само в края на партидата"
+        ]
+      },
+      "ro": {
+        "q": "Cât de des trebuie cântărită o pungă cu greutatea înregistrată pe formularul B19?",
+        "o": [
+          "La fiecare 10 minute",
+          "La fiecare treizeci de minute",
+          "O dată pe tură",
+          "Doar la sfârșitul lotului"
+        ]
+      },
+      "lv": {
+        "q": "Cik bieži maiss jāsver, ierakstot svaru B19 veidlapā?",
+        "o": [
+          "Katras 10 minūtes",
+          "Katras trīsdesmit minūtes",
+          "Vienreiz maiņā",
+          "Tikai partijas beigās"
+        ]
+      },
+      "ps": {
+        "q": "یوه بوجۍ باید څومره وار وزن شي او وزن د B19 فارم باندې ثبت شي؟",
+        "o": [
+          "هر 10 دقیقو کې",
+          "هر دیرش دقیقو کې",
+          "په هره شفټ کې یو ځل",
+          "یوازې د بیچ په پای کې"
+        ]
+      },
+      "ur": {
+        "q": "ایک بیگ کتنی بار وزن کیا جانا چاہیے اور وزن B19 فارم پر ریکارڈ کیا جانا چاہیے؟",
+        "o": [
+          "ہر 10 منٹ میں",
+          "ہر تیس منٹ میں",
+          "شفٹ میں ایک بار",
+          "صرف بیچ کے اختتام پر"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "When adding filled bags to large sacks which require sewing, which reference should be followed?",
+        "o": [
+          "WP09Z",
+          "B61e",
+          "B82",
+          "Test 21"
+        ]
+      },
+      "pl": {
+        "q": "Dodając napełnione worki do dużych worków wymagających szycia, do którego dokumentu należy się odnieść?",
+        "o": [
+          "WP09Z",
+          "B61e",
+          "B82",
+          "Test 21"
+        ]
+      },
+      "bg": {
+        "q": "При добавяне на напълнени торби в големи чували, изискващи шиене, кой документ трябва да се следва?",
+        "o": [
+          "WP09Z",
+          "B61e",
+          "B82",
+          "Test 21"
+        ]
+      },
+      "ro": {
+        "q": "La adăugarea pungilor umplute în saci mari care necesită coasere, ce referință trebuie urmată?",
+        "o": [
+          "WP09Z",
+          "B61e",
+          "B82",
+          "Test 21"
+        ]
+      },
+      "lv": {
+        "q": "Pievienojot piepildītos maisus lielajiem maisiem, kuriem nepieciešama šūšana, kura atsauce jāievēro?",
+        "o": [
+          "WP09Z",
+          "B61e",
+          "B82",
+          "Test 21"
+        ]
+      },
+      "ps": {
+        "q": "کله چې ډکې شوي بوجۍ لویو کڅوړو ته اضافه کیږي چې ګنډلو ته اړتیا لري، کوم حواله باید تعقیب شي؟",
+        "o": [
+          "WP09Z",
+          "B61e",
+          "B82",
+          "Test 21"
+        ]
+      },
+      "ur": {
+        "q": "ڈکے ہوئے بیگز کو بڑے بوروں میں شامل کرتے وقت جنہیں سلائی کی ضرورت ہو، کون سا حوالہ پیروی کیا جانا چاہیے؟",
+        "o": [
+          "WP09Z",
+          "B61e",
+          "B82",
+          "Test 21"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "If the QC Operator is not available for the First Pallet Check, what should the line operative do?",
+        "o": [
+          "Send the pallet without checking",
+          "Apply a Red Quarantine Sticker with the reason, and inform the forklift operator",
+          "Carry out the QC check themselves",
+          "Destroy the pallet"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli operator QC nie jest dostępny do sprawdzenia pierwszej palety, co powinien zrobić operator linii?",
+        "o": [
+          "Wysłać paletę bez sprawdzenia",
+          "Nakleić czerwoną naklejkę kwarantanny z podaniem powodu i poinformować operatora wózka widłowego",
+          "Samodzielnie przeprowadzić kontrolę QC",
+          "Zniszczyć paletę"
+        ]
+      },
+      "bg": {
+        "q": "Ако операторът по КК не е наличен за проверката на първата палета, какво трябва да направи операторът на линията?",
+        "o": [
+          "Да изпрати палетата без проверка",
+          "Да постави червен стикер за карантина с посочена причина и да информира оператора на мотокара",
+          "Сам да извърши проверката на КК",
+          "Да унищожи палетата"
+        ]
+      },
+      "ro": {
+        "q": "Dacă operatorul QC nu este disponibil pentru Verificarea Primului Palet, ce ar trebui să facă operatorul de linie?",
+        "o": [
+          "Trimite paletul fără verificare",
+          "Aplică un Autocolant Roșu de Carantină cu motivul, și informează operatorul de stivuitor",
+          "Efectuează el însuși verificarea QC",
+          "Distruge paletul"
+        ]
+      },
+      "lv": {
+        "q": "Ja KK operators nav pieejams Pirmās Paletes Pārbaudei, ko operatoram jādara?",
+        "o": [
+          "Nosūtīt paleti bez pārbaudes",
+          "Uzlīmēt Sarkanu Karantīnas Uzlīmi ar iemeslu, un informēt autoiekrāvēja operatoru",
+          "Pašam veikt KK pārbaudi",
+          "Iznīcināt paleti"
+        ]
+      },
+      "ps": {
+        "q": "که د لومړي پیلټ چیک لپاره QC آپریټر شتون ونلري، لاین آپریټیو باید څه وکړي؟",
+        "o": [
+          "پیلټ پرته له چیک کولو واستوي",
+          "د دلیل سره یو سور قرنطین سټیکر ولګوي، او د فورک لفټ آپریټر خبر کړي",
+          "پخپله د QC چیک ترسره کړي",
+          "پیلټ له منځه یوسي"
+        ]
+      },
+      "ur": {
+        "q": "اگر پہلے پیلٹ چیک کے لیے QC آپریٹر دستیاب نہ ہو، تو لائن آپریٹو کو کیا کرنا چاہیے؟",
+        "o": [
+          "پیلٹ کو بغیر چیک کیے بھیج دیں",
+          "وجہ کے ساتھ سرخ قرنطینہ اسٹیکر لگائیں، اور فورک لفٹ آپریٹر کو مطلع کریں",
+          "خود QC چیک کریں",
+          "پیلٹ کو تباہ کریں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "When a film reel runs out, what should happen automatically?",
+        "o": [
+          "Nothing happens",
+          "The machine should stop automatically and the error alarm should sound",
+          "The machine speeds up",
+          "A new reel loads automatically"
+        ]
+      },
+      "pl": {
+        "q": "Gdy rolka folii się skończy, co powinno stać się automatycznie?",
+        "o": [
+          "Nic się nie dzieje",
+          "Maszyna powinna automatycznie się zatrzymać i powinien zabrzmieć alarm błędu",
+          "Maszyna przyspiesza",
+          "Nowa rolka ładuje się automatycznie"
+        ]
+      },
+      "bg": {
+        "q": "Когато ролката с фолио свърши, какво трябва да се случи автоматично?",
+        "o": [
+          "Нищо не се случва",
+          "Машината трябва автоматично да спре и да прозвучи алармата за грешка",
+          "Машината ускорява",
+          "Нова ролка се зарежда автоматично"
+        ]
+      },
+      "ro": {
+        "q": "Când o rolă de film se epuizează, ce ar trebui să se întâmple automat?",
+        "o": [
+          "Nimic nu se întâmplă",
+          "Mașina ar trebui să se oprească automat și alarma de eroare ar trebui să sune",
+          "Mașina accelerează",
+          "O rolă nouă se încarcă automat"
+        ]
+      },
+      "lv": {
+        "q": "Kad plēves ruļļis beidzas, kam vajadzētu notikt automātiski?",
+        "o": [
+          "Nekas nenotiek",
+          "Iekārtai automātiski jāapstājas un jāatskan kļūdas trauksmei",
+          "Iekārta paātrinās",
+          "Jauns ruļļis ielādējas automātiski"
+        ]
+      },
+      "ps": {
+        "q": "کله چې د فلم رول پای ته ورسیږي، باید خپلواکه توګه څه پیښ شي؟",
+        "o": [
+          "هیڅ نه پیښیږي",
+          "ماشین باید په اتومات ډول ودریږي او د تېروتنې الارم دې وغږیږي",
+          "ماشین ګړندی کیږي",
+          "نوی رول په اتومات ډول لوډیږي"
+        ]
+      },
+      "ur": {
+        "q": "جب فلم ریل ختم ہو جائے تو خودکار طور پر کیا ہونا چاہیے؟",
+        "o": [
+          "کچھ نہیں ہوتا",
+          "مشین کو خودکار طور پر رک جانا چاہیے اور ایرر الارم بجنا چاہیے",
+          "مشین تیز ہو جاتی ہے",
+          "نئی ریل خودکار طور پر لوڈ ہو جاتی ہے"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Before removing the old film reel, what must you check about the air mandrel switch?",
+        "o": [
+          "Nothing, just remove the reel",
+          "That it is off (down) and the bladder is deflated",
+          "That it is on (up)",
+          "That it is disconnected from power"
+        ]
+      },
+      "pl": {
+        "q": "Przed usunięciem starej rolki folii, co musisz sprawdzić dotyczące przełącznika trzpienia powietrznego?",
+        "o": [
+          "Nic, po prostu usunąć rolkę",
+          "Że jest wyłączony (w dół) i pęcherz jest opróżniony",
+          "Że jest włączony (w górę)",
+          "Że jest odłączony od zasilania"
+        ]
+      },
+      "bg": {
+        "q": "Преди премахване на старата ролка фолио, какво трябва да проверите относно превключвателя на въздушния дорник?",
+        "o": [
+          "Нищо, просто премахнете ролката",
+          "Че е изключен (надолу) и балонът е изпразнен",
+          "Че е включен (нагоре)",
+          "Че е изключен от захранването"
+        ]
+      },
+      "ro": {
+        "q": "Înainte de a scoate rola veche de film, ce trebuie să verificați despre comutatorul mandrinei de aer?",
+        "o": [
+          "Nimic, doar scoateți rola",
+          "Că este oprit (jos) și balonul este dezumflat",
+          "Că este pornit (sus)",
+          "Că este deconectat de la alimentare"
+        ]
+      },
+      "lv": {
+        "q": "Pirms vecā plēves ruļļa noņemšanas, kas jāpārbauda par gaisa trumzeļa slēdzi?",
+        "o": [
+          "Nekas, vienkārši noņemt ruļļi",
+          "Ka tas ir izslēgts (lejā) un pūslis ir izpūsts",
+          "Ka tas ir ieslēgts (augšā)",
+          "Ka tas ir atvienots no strāvas"
+        ]
+      },
+      "ps": {
+        "q": "د زاړه فلم رول لرې کولو مخکې، تاسو باید د هوا مینډرل سویچ په اړه څه وګورئ؟",
+        "o": [
+          "هیڅ نه، یوازې رول لرې کړئ",
+          "چې دا بند دی (ښکته) او بلادر خالي شوی دی",
+          "چې دا روښانه دی (پورته)",
+          "چې دا له برېښنا څخه بیل شوی دی"
+        ]
+      },
+      "ur": {
+        "q": "پرانی فلم ریل ہٹانے سے پہلے، آپ کو ایئر مینڈرل سوئچ کے بارے میں کیا چیک کرنا چاہیے؟",
+        "o": [
+          "کچھ نہیں، بس ریل ہٹا دیں",
+          "کہ یہ بند ہے (نیچے) اور بلادر ہوا سے خالی ہے",
+          "کہ یہ آن ہے (اوپر)",
+          "کہ یہ بجلی سے منقطع ہے"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "If the film becomes stuck in the forming shoulder, what is one of the first steps?",
+        "o": [
+          "Keep the machine running",
+          "Stop the machine using the stop button on the visual display",
+          "Immediately call the QC Operator",
+          "Ignore it, it will clear itself"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli folia utknie w ramieniu formującym, jaki jest jeden z pierwszych kroków?",
+        "o": [
+          "Utrzymywać maszynę w ruchu",
+          "Zatrzymać maszynę za pomocą przycisku stop na wyświetlaczu wizualnym",
+          "Natychmiast zadzwonić do operatora QC",
+          "Zignorować to, samo się wyczyści"
+        ]
+      },
+      "bg": {
+        "q": "Ако фолиото се заклещи в оформящото рамо, коя е една от първите стъпки?",
+        "o": [
+          "Да оставите машината да работи",
+          "Да спрете машината с бутона за стоп на визуалния дисплей",
+          "Незабавно да се обадите на оператора по КК",
+          "Да го игнорирате, ще се изчисти само"
+        ]
+      },
+      "ro": {
+        "q": "Dacă filmul se blochează în umărul de formare, care este unul dintre primii pași?",
+        "o": [
+          "Lăsați mașina să funcționeze",
+          "Opriți mașina folosind butonul de oprire de pe afișajul vizual",
+          "Sunați imediat operatorul QC",
+          "Ignorați-l, se va rezolva singur"
+        ]
+      },
+      "lv": {
+        "q": "Ja plēve iestrēgst formēšanas plecā, kas ir viens no pirmajiem soļiem?",
+        "o": [
+          "Turpināt iekārtas darbību",
+          "Apturēt iekārtu, izmantojot stop pogu vizuālajā displejā",
+          "Nekavējoties zvanīt KK operatoram",
+          "Ignorēt to, tas pats izzudīs"
+        ]
+      },
+      "ps": {
+        "q": "که فلم د جوړولو اوږه کې ونښلي، لومړی مرحلو څخه یوه څه ده؟",
+        "o": [
+          "ماشین چلول ته ادامه ورکړئ",
+          "د بصري ډسپلې کې د سټاپ تڼۍ په کارولو سره ماشین ودروئ",
+          "سملاسي QC آپریټر ته زنګ ووهئ",
+          "دې ته پام مه کوئ، پخپله به پاک شي"
+        ]
+      },
+      "ur": {
+        "q": "اگر فلم فارمنگ شولڈر میں پھنس جائے تو پہلے مراحل میں سے ایک کیا ہے؟",
+        "o": [
+          "مشین کو چلتا رہنے دیں",
+          "بصری ڈسپلے پر اسٹاپ بٹن استعمال کر کے مشین روکیں",
+          "فوراً QC آپریٹر کو کال کریں",
+          "اسے نظر انداز کریں، یہ خود ہی صاف ہو جائے گی"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Who is permitted to clean the hot sealing jaws/Euroslot?",
+        "o": [
+          "Anyone on shift",
+          "Only those who have received supervised instruction",
+          "Only the QC Operative",
+          "Only management"
+        ]
+      },
+      "pl": {
+        "q": "Kto może czyścić gorące szczęki uszczelniające/Euroslot?",
+        "o": [
+          "Ktokolwiek na zmianie",
+          "Tylko ci, którzy przeszli nadzorowane szkolenie",
+          "Tylko operator QC",
+          "Tylko kierownictwo"
+        ]
+      },
+      "bg": {
+        "q": "Кой има право да почиства горещите уплътнителни челюсти/Euroslot?",
+        "o": [
+          "Всеки на смяна",
+          "Само тези, които са получили надзиравано обучение",
+          "Само операторът по КК",
+          "Само ръководството"
+        ]
+      },
+      "ro": {
+        "q": "Cine are voie să curețe fălcile de etanșare fierbinți/Euroslot?",
+        "o": [
+          "Oricine din tură",
+          "Doar cei care au primit instruire supravegheată",
+          "Doar operatorul QC",
+          "Doar managementul"
+        ]
+      },
+      "lv": {
+        "q": "Kam ir atļauts tīrīt karstos blīvējošos žokļus/Euroslot?",
+        "o": [
+          "Ikvienam maiņā",
+          "Tikai tiem, kuri ir saņēmuši uzraudzītu apmācību",
+          "Tikai KK operatoram",
+          "Tikai vadībai"
+        ]
+      },
+      "ps": {
+        "q": "د ګرمو مهر کوونکو جبڼو/Euroslot پاکولو اجازه څوک لري؟",
+        "o": [
+          "هر څوک چې په شفټ کې وي",
+          "یوازې هغه کسان چې نظارت شوې روزنه یې ترلاسه کړې وي",
+          "یوازې QC آپریټیو",
+          "یوازې مدیریت"
+        ]
+      },
+      "ur": {
+        "q": "گرم سیلنگ جبڑوں/Euroslot کی صفائی کی اجازت کسے ہے؟",
+        "o": [
+          "شفٹ پر موجود کوئی بھی",
+          "صرف وہ لوگ جنہوں نے نگرانی میں ہدایت حاصل کی ہے",
+          "صرف QC آپریٹو",
+          "صرف انتظامیہ"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "From which side must the machine be cleaned?",
+        "o": [
+          "The front left hand side",
+          "The front right hand side",
+          "From the rear",
+          "Any side, it does not matter"
+        ]
+      },
+      "pl": {
+        "q": "Z której strony musi być czyszczona maszyna?",
+        "o": [
+          "Z przedniej lewej strony",
+          "Z przedniej prawej strony",
+          "Od tyłu",
+          "Z dowolnej strony, nie ma to znaczenia"
+        ]
+      },
+      "bg": {
+        "q": "От коя страна трябва да се почиства машината?",
+        "o": [
+          "От предната лява страна",
+          "От предната дясна страна",
+          "Отзад",
+          "От която и да е страна, няма значение"
+        ]
+      },
+      "ro": {
+        "q": "Din ce parte trebuie curățată mașina?",
+        "o": [
+          "Din partea din față stânga",
+          "Din partea din față dreapta",
+          "Din spate",
+          "Din orice parte, nu contează"
+        ]
+      },
+      "lv": {
+        "q": "No kuras puses jātīra iekārta?",
+        "o": [
+          "No priekšējās kreisās puses",
+          "No priekšējās labās puses",
+          "No aizmugures",
+          "No jebkuras puses, tam nav nozīmes"
+        ]
+      },
+      "ps": {
+        "q": "ماشین باید له کومې خوا څخه پاک شي؟",
+        "o": [
+          "د مخکینۍ کیڼې خوا څخه",
+          "د مخکینۍ ښیې خوا څخه",
+          "له شا څخه",
+          "له هرې خوا، اهمیت نلري"
+        ]
+      },
+      "ur": {
+        "q": "مشین کو کس طرف سے صاف کرنا چاہیے؟",
+        "o": [
+          "سامنے کی بائیں طرف سے",
+          "سامنے کی دائیں طرف سے",
+          "پیچھے سے",
+          "کسی بھی طرف سے، فرق نہیں پڑتا"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What PPE must be worn when cleaning the hot sealing jaws?",
+        "o": [
+          "No specific PPE is required",
+          "Packing gloves, overalls with sleeves rolled down, and safety glasses",
+          "Only a hard hat",
+          "Only safety glasses"
+        ]
+      },
+      "pl": {
+        "q": "Jakie ŚOI należy nosić podczas czyszczenia gorących szczęk uszczelniających?",
+        "o": [
+          "Żadne konkretne ŚOI nie jest wymagane",
+          "Rękawice pakujące, kombinezon z opuszczonymi rękawami i okulary ochronne",
+          "Tylko kask ochronny",
+          "Tylko okulary ochronne"
+        ]
+      },
+      "bg": {
+        "q": "Какви лични предпазни средства трябва да се носят при почистване на горещите уплътнителни челюсти?",
+        "o": [
+          "Не се изискват специфични ЛПС",
+          "Ръкавици за опаковане, гащеризон с навити ръкави и защитни очила",
+          "Само защитна каска",
+          "Само защитни очила"
+        ]
+      },
+      "ro": {
+        "q": "Ce echipament individual de protecție trebuie purtat la curățarea fălcilor de etanșare fierbinți?",
+        "o": [
+          "Nu este necesar niciun EIP specific",
+          "Mănuși de ambalare, salopetă cu mânecile suflecate, și ochelari de protecție",
+          "Doar o cască de protecție",
+          "Doar ochelari de protecție"
+        ]
+      },
+      "lv": {
+        "q": "Kāds IAL jāvalkā, tīrot karstos blīvējošos žokļus?",
+        "o": [
+          "Nav nepieciešams īpašs IAL",
+          "Iepakošanas cimdi, kombinezons ar uzrotītām piedurknēm, un aizsargbrilles",
+          "Tikai aizsargķivere",
+          "Tikai aizsargbrilles"
+        ]
+      },
+      "ps": {
+        "q": "د ګرمو مهر کوونکو جبڼو پاکولو پرمهال کوم PPE باید واغوستل شي؟",
+        "o": [
+          "هیڅ ځانګړی PPE ته اړتیا نشته",
+          "د بسته بندۍ لاسپوڼې، اوورال د پورته شوو استینونو سره، او حفاظتي عینکې",
+          "یوازې حفاظتي کلاه",
+          "یوازې حفاظتي عینکې"
+        ]
+      },
+      "ur": {
+        "q": "گرم سیلنگ جبڑوں کی صفائی کرتے وقت کون سا PPE پہننا چاہیے؟",
+        "o": [
+          "کسی مخصوص PPE کی ضرورت نہیں",
+          "پیکنگ دستانے، آستینیں چڑھی ہوئی اوورآلز، اور حفاظتی چشمہ",
+          "صرف حفاظتی ہیلمٹ",
+          "صرف حفاظتی چشمہ"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "In an emergency, what is the first action to take?",
+        "o": [
+          "Call the office",
+          "Press the STOP button on the display panel to suspend filling",
+          "Leave the area without stopping the machine",
+          "Try to fix the fault yourself first"
+        ]
+      },
+      "pl": {
+        "q": "W sytuacji awaryjnej, jakie jest pierwsze działanie do podjęcia?",
+        "o": [
+          "Zadzwonić do biura",
+          "Nacisnąć przycisk STOP na panelu wyświetlacza, aby zawiesić napełnianie",
+          "Opuścić obszar bez zatrzymywania maszyny",
+          "Najpierw spróbować samodzielnie naprawić usterkę"
+        ]
+      },
+      "bg": {
+        "q": "При извънредна ситуация, кое е първото действие, което трябва да се предприеме?",
+        "o": [
+          "Да се обадите в офиса",
+          "Да натиснете бутона STOP на дисплейния панел, за да прекратите пълненето",
+          "Да напуснете зоната без да спрете машината",
+          "Първо сами да опитате да отстраните проблема"
+        ]
+      },
+      "ro": {
+        "q": "Într-o situație de urgență, care este prima acțiune de întreprins?",
+        "o": [
+          "Sunați la birou",
+          "Apăsați butonul STOP de pe panoul de afișare pentru a suspenda umplerea",
+          "Părăsiți zona fără a opri mașina",
+          "Încercați mai întâi să reparați singur defecțiunea"
+        ]
+      },
+      "lv": {
+        "q": "Ārkārtas situācijā, kāda ir pirmā darbība, kas jāveic?",
+        "o": [
+          "Zvanīt uz biroju",
+          "Nospiest STOP pogu displeja panelī, lai apturētu pildīšanu",
+          "Pamest zonu, neapturot iekārtu",
+          "Vispirms pats mēģināt novērst kļūdu"
+        ]
+      },
+      "ps": {
+        "q": "په بیړني حالت کې، لومړی عمل چې باید ترسره شي، څه دی؟",
+        "o": [
+          "دفتر ته زنګ ووهئ",
+          "د ډکولو د معطلولو لپاره د ډسپلې پینل باندې STOP تڼۍ فشار کړئ",
+          "ماشین درولو پرته ساحه پریږدئ",
+          "لومړی پخپله د خرابۍ حل کولو هڅه وکړئ"
+        ]
+      },
+      "ur": {
+        "q": "ہنگامی صورتحال میں، پہلا عمل کیا کرنا چاہیے؟",
+        "o": [
+          "دفتر کو کال کریں",
+          "فلنگ معطل کرنے کے لیے ڈسپلے پینل پر STOP بٹن دبائیں",
+          "مشین کو روکے بغیر علاقہ چھوڑ دیں",
+          "پہلے خود خرابی ٹھیک کرنے کی کوشش کریں"
+        ]
+      }
+    }
+  ]
+}
