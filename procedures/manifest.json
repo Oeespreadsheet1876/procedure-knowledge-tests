@@ -338,6 +338,76 @@
         "pl": "Bezpieczne użytkowanie miksera ścinającego do mieszania",
         "ro": "Utilizarea în siguranță a malaxorului de forfecare pentru amestecare"
       }
+    },
+    {
+      "id": "pf-full",
+      "file": "pf-full.json",
+      "docRef": "PF-FULL",
+      "title": {
+        "en": "Product Flow (iSeries) – Operators & Forklift Drivers",
+        "pl": "Przepływ produktu (iSeries) – Operatorzy i kierowcy wózków widłowych",
+        "bg": "Движение на продукта (iSeries) – Оператори и водачи на мотокари",
+        "ro": "Fluxul de produs (iSeries) – Operatori și stivuitoriști",
+        "lv": "Produkta plūsma (iSeries) – Operatori un autoiekrāvēju operatori",
+        "ps": "د محصول جریان (iSeries) – آپریټران او فورک لفټ چلوونکي",
+        "ur": "پروڈکٹ فلو (iSeries) – آپریٹرز اور فورک لفٹ ڈرائیورز"
+      }
+    },
+    {
+      "id": "pf-flt",
+      "file": "pf-flt.json",
+      "docRef": "PF-FLT",
+      "title": {
+        "en": "Product Flow (iSeries) – FLT Drivers",
+        "pl": "Przepływ produktu (iSeries) – Kierowcy FLT",
+        "bg": "Движение на продукта (iSeries) – FLT водачи",
+        "ro": "Fluxul de produs (iSeries) – Operatori FLT",
+        "lv": "Produkta plūsma (iSeries) – FLT operatori",
+        "ps": "د محصول جریان (iSeries) – د FLT چلوونکي",
+        "ur": "پروڈکٹ فلو (iSeries) – FLT ڈرائیورز"
+      }
+    },
+    {
+      "id": "pf-lo",
+      "file": "pf-lo.json",
+      "docRef": "PF-LO",
+      "title": {
+        "en": "Product Flow (iSeries) – Line Operators",
+        "pl": "Przepływ produktu (iSeries) – Operatorzy linii",
+        "bg": "Движение на продукта (iSeries) – Оператори на линия",
+        "ro": "Fluxul de produs (iSeries) – Operatori de linie",
+        "lv": "Produkta plūsma (iSeries) – Līnijas operatori",
+        "ps": "د محصول جریان (iSeries) – د لاین آپریټران",
+        "ur": "پروڈکٹ فلو (iSeries) – لائن آپریٹرز"
+      }
+    },
+    {
+      "id": "pf-qc",
+      "file": "pf-qc.json",
+      "docRef": "PF-QC",
+      "title": {
+        "en": "Product Flow (iSeries) – QC",
+        "pl": "Przepływ produktu (iSeries) – QC",
+        "bg": "Движение на продукта (iSeries) – КК",
+        "ro": "Fluxul de produs (iSeries) – QC",
+        "lv": "Produkta plūsma (iSeries) – KK",
+        "ps": "د محصول جریان (iSeries) – QC",
+        "ur": "پروڈکٹ فلو (iSeries) – QC"
+      }
+    },
+    {
+      "id": "pf-bl",
+      "file": "pf-bl.json",
+      "docRef": "PF-BL",
+      "title": {
+        "en": "Product Flow (iSeries) – Blenders",
+        "pl": "Przepływ produktu (iSeries) – Operatorzy mieszania",
+        "bg": "Движение на продукта (iSeries) – Оператори по смесване",
+        "ro": "Fluxul de produs (iSeries) – Operatorii de amestecare",
+        "lv": "Produkta plūsma (iSeries) – Maisītāji",
+        "ps": "د محصول جریان (iSeries) – بلینډرز",
+        "ur": "پروڈکٹ فلو (iSeries) – بلینڈرز"
+      }
     }
   ]
 }
