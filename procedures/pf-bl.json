@@ -1,0 +1,545 @@
+{
+  "id": "pf-bl",
+  "docRef": "PF-BL",
+  "issue": "TBC",
+  "title": {
+    "en": "Product Flow (iSeries) – Blenders",
+    "pl": "Przepływ produktu (iSeries) – Operatorzy mieszania",
+    "bg": "Движение на продукта (iSeries) – Оператори по смесване",
+    "ro": "Fluxul de produs (iSeries) – Operatorii de amestecare",
+    "lv": "Produkta plūsma (iSeries) – Maisītāji",
+    "ps": "د محصول جریان (iSeries) – بلینډرز",
+    "ur": "پروڈکٹ فلو (iSeries) – بلینڈرز"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "correct": 1,
+      "en": {
+        "q": "A scan fails or a label will not print. What should you do first?",
+        "o": [
+          "Carry on and report it at the end of the shift",
+          "Stop and report it straight away",
+          "Try again until it works, then move the pallet",
+          "Skip that step and fix it later"
+        ]
+      },
+      "pl": {
+        "q": "Skanowanie się nie udaje lub etykieta się nie drukuje. Co należy zrobić najpierw?",
+        "o": [
+          "Kontynuować i zgłosić to na koniec zmiany",
+          "Zatrzymać się i natychmiast to zgłosić",
+          "Próbować do skutku, a potem przenieść paletę",
+          "Pominąć ten krok i naprawić go później"
+        ]
+      },
+      "bg": {
+        "q": "Сканирането не успява или етикетът не се печата. Какво трябва да направите първо?",
+        "o": [
+          "Да продължите и да докладвате в края на смяната",
+          "Да спрете и да докладвате веднага",
+          "Да опитвате, докато проработи, и тогава да преместите палетата",
+          "Да прескочите стъпката и да я оправите по-късно"
+        ]
+      },
+      "ro": {
+        "q": "O scanare eșuează sau o etichetă nu se imprimă. Ce trebuie să faceți mai întâi?",
+        "o": [
+          "Să continuați și să raportați la sfârșitul turei",
+          "Să vă opriți și să raportați imediat",
+          "Să încercați până funcționează, apoi să mutați paletul",
+          "Să săriți acel pas și să îl rezolvați mai târziu"
+        ]
+      },
+      "lv": {
+        "q": "Skenēšana neizdodas vai etiķete neizdrukājas. Kas jādara vispirms?",
+        "o": [
+          "Turpināt un ziņot maiņas beigās",
+          "Apstāties un nekavējoties ziņot",
+          "Mēģināt, līdz izdodas, un tad pārvietot paleti",
+          "Izlaist šo soli un salabot vēlāk"
+        ]
+      },
+      "ps": {
+        "q": "سکین ناکام کیږي یا لیبل نه چاپیږي. تاسو باید لومړی څه وکړئ؟",
+        "o": [
+          "دوام ورکړئ او د شفټ په پای کې یې راپور ورکړئ",
+          "ودریږئ او سمدلاسه یې راپور ورکړئ",
+          "هڅه کوئ تر څو کار وکړي، بیا پیلټ حرکت ورکړئ",
+          "دا مرحله پریږدئ او وروسته یې سمه کړئ"
+        ]
+      },
+      "ur": {
+        "q": "اسکین ناکام ہو جائے یا لیبل پرنٹ نہ ہو۔ آپ کو سب سے پہلے کیا کرنا چاہیے؟",
+        "o": [
+          "کام جاری رکھیں اور شفٹ کے اختتام پر رپورٹ کریں",
+          "رک جائیں اور فوراً رپورٹ کریں",
+          "چلنے تک کوشش کرتے رہیں، پھر پیلٹ منتقل کریں",
+          "وہ مرحلہ چھوڑ دیں اور بعد میں ٹھیک کریں"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "If the Production Lead cannot resolve the problem, who do they report it to?",
+        "o": [
+          "The Production Manager",
+          "QC",
+          "The FLT driver",
+          "The Shift Manager"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli Lider Produkcji nie może rozwiązać problemu, komu go zgłasza?",
+        "o": [
+          "Kierownikowi Produkcji",
+          "QC",
+          "Kierowcy FLT",
+          "Kierownikowi Zmiany"
+        ]
+      },
+      "bg": {
+        "q": "Ако Производственият лидер не може да реши проблема, на кого го докладва?",
+        "o": [
+          "На Производствения мениджър",
+          "На КК",
+          "На FLT водача",
+          "На Мениджъра на смяната"
+        ]
+      },
+      "ro": {
+        "q": "Dacă Liderul de Producție nu poate rezolva problema, cui o raportează?",
+        "o": [
+          "Managerului de Producție",
+          "QC",
+          "Operatorului FLT",
+          "Managerului de Tură"
+        ]
+      },
+      "lv": {
+        "q": "Ja Ražošanas līderis nevar atrisināt problēmu, kam viņš par to ziņo?",
+        "o": [
+          "Ražošanas vadītājam",
+          "KK",
+          "FLT operatoram",
+          "Maiņas vadītājam"
+        ]
+      },
+      "ps": {
+        "q": "که د تولید لیډ ستونزه حل نه کړای شي، دا چا ته راپور ورکوي؟",
+        "o": [
+          "د تولید مدیر ته",
+          "QC ته",
+          "د FLT چلوونکي ته",
+          "د شفټ مدیر ته"
+        ]
+      },
+      "ur": {
+        "q": "اگر پروڈکشن لیڈ مسئلہ حل نہ کر سکے تو وہ کسے رپورٹ کرتا ہے؟",
+        "o": [
+          "پروڈکشن منیجر کو",
+          "QC کو",
+          "FLT ڈرائیور کو",
+          "شفٹ منیجر کو"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Which stockroom is the blending floor, where batches are manufactured?",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      },
+      "pl": {
+        "q": "Który magazyn to strefa mieszania, w której produkowane są partie?",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      },
+      "bg": {
+        "q": "Кой склад е зоната за смесване, където се произвеждат партидите?",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      },
+      "ro": {
+        "q": "Care depozit este zona de amestecare, unde se produc loturile?",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      },
+      "lv": {
+        "q": "Kura noliktava ir maisīšanas zona, kur tiek ražotas partijas?",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      },
+      "ps": {
+        "q": "کوم ګودام د بلینډینګ ساحه ده چېرته چې بیچونه تولیدیږي؟",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      },
+      "ur": {
+        "q": "کون سا اسٹاک روم بلینڈنگ فلور ہے جہاں بیچ تیار ہوتے ہیں؟",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Stock from the main warehouse arrives on the shunt trailer (BLSTOF). Which shopfloor area is it first scanned to for the blending floor?",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      },
+      "pl": {
+        "q": "Towar z głównego magazynu przyjeżdża na przyczepie przetokowej (BLSTOF). Do której strefy hali jest skanowany najpierw w przypadku strefy mieszania?",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      },
+      "bg": {
+        "q": "Стоката от главния склад пристига с маневреното ремарке (BLSTOF). В коя зона на цеха се сканира първо за зоната за смесване?",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      },
+      "ro": {
+        "q": "Marfa din depozitul principal ajunge pe remorca de manevră (BLSTOF). În care zonă a halei este scanată prima dată pentru zona de amestecare?",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      },
+      "lv": {
+        "q": "Krājumi no galvenās noliktavas pienāk ar pārvietošanas piekabi (BLSTOF). Uz kuru cehā zonu tos noskenē vispirms maisīšanas zonai?",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      },
+      "ps": {
+        "q": "د اصلي ګودام توکي په شنټ ټریلر (BLSTOF) کې رسیږي. د بلینډینګ ساحې لپاره لومړی کومې ساحې ته سکین کیږي؟",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      },
+      "ur": {
+        "q": "مین ویئر ہاؤس کا اسٹاک شنٹ ٹریلر (BLSTOF) پر آتا ہے۔ بلینڈنگ فلور کے لیے اسے سب سے پہلے کس شاپ فلور ایریا پر اسکین کیا جاتا ہے؟",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Who scans the raw materials to F0 for a batch?",
+        "o": [
+          "QC",
+          "The line operators",
+          "The FLT drivers",
+          "The blenders"
+        ]
+      },
+      "pl": {
+        "q": "Kto skanuje surowce do partii na F0?",
+        "o": [
+          "QC",
+          "Operatorzy linii",
+          "Kierowcy FLT",
+          "Operatorzy mieszania"
+        ]
+      },
+      "bg": {
+        "q": "Кой сканира суровините към F0 за една партида?",
+        "o": [
+          "КК",
+          "Операторите на линия",
+          "FLT водачите",
+          "Операторите по смесване"
+        ]
+      },
+      "ro": {
+        "q": "Cine scanează materiile prime către F0 pentru un lot?",
+        "o": [
+          "QC",
+          "Operatorii de linie",
+          "Operatorii FLT",
+          "Operatorii de amestecare"
+        ]
+      },
+      "lv": {
+        "q": "Kurš skenē partijas izejvielas uz F0?",
+        "o": [
+          "KK",
+          "Līnijas operatori",
+          "FLT operatori",
+          "Maisītāji"
+        ]
+      },
+      "ps": {
+        "q": "د بیچ خام مواد F0 ته څوک سکین کوي؟",
+        "o": [
+          "QC",
+          "د لاین آپریټران",
+          "د FLT چلوونکي",
+          "بلینډرز"
+        ]
+      },
+      "ur": {
+        "q": "بیچ کے لیے خام مال F0 پر کون اسکین کرتا ہے؟",
+        "o": [
+          "QC",
+          "لائن آپریٹرز",
+          "FLT ڈرائیورز",
+          "بلینڈرز"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "Which raw materials may blenders use to make a batch?",
+        "o": [
+          "Any raw material on the floor",
+          "Only returns from BLFFOUT",
+          "Only raw materials in the line inbound",
+          "Only raw materials scanned to F0"
+        ]
+      },
+      "pl": {
+        "q": "Z jakich surowców operatorzy mieszania mogą wykonać partię?",
+        "o": [
+          "Z dowolnego surowca na hali",
+          "Tylko ze zwrotów z BLFFOUT",
+          "Tylko z surowców w inbound linii",
+          "Tylko z surowców zeskanowanych na F0"
+        ]
+      },
+      "bg": {
+        "q": "Какви суровини могат да използват операторите по смесване, за да направят партида?",
+        "o": [
+          "Всякаква суровина в цеха",
+          "Само върнати материали от BLFFOUT",
+          "Само суровини в inbound на линията",
+          "Само суровини, сканирани към F0"
+        ]
+      },
+      "ro": {
+        "q": "Ce materii prime pot folosi operatorii de amestecare pentru a face un lot?",
+        "o": [
+          "Orice materie primă din hală",
+          "Doar retururi din BLFFOUT",
+          "Doar materii prime din inbound-ul liniei",
+          "Doar materii prime scanate către F0"
+        ]
+      },
+      "lv": {
+        "q": "Kādas izejvielas maisītāji drīkst izmantot partijas izgatavošanai?",
+        "o": [
+          "Jebkuru izejvielu cehā",
+          "Tikai atgriezumus no BLFFOUT",
+          "Tikai izejvielas līnijas inbound",
+          "Tikai izejvielas, kas noskenētas uz F0"
+        ]
+      },
+      "ps": {
+        "q": "بلینډرز د بیچ جوړولو لپاره کوم خام مواد کارولی شي؟",
+        "o": [
+          "په ساحه کې هر خام مواد",
+          "یوازې له BLFFOUT څخه ریټرنز",
+          "یوازې د لاین ان باونډ خام مواد",
+          "یوازې هغه خام مواد چې F0 ته سکین شوي وي"
+        ]
+      },
+      "ur": {
+        "q": "بلینڈرز بیچ بنانے کے لیے کون سا خام مال استعمال کر سکتے ہیں؟",
+        "o": [
+          "فلور پر موجود کوئی بھی خام مال",
+          "صرف BLFFOUT سے ریٹرنز",
+          "صرف لائن ان باؤنڈ کا خام مال",
+          "صرف وہ خام مال جو F0 پر اسکین ہوا ہو"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "What is issued to the blending floor when the works order is issued?",
+        "o": [
+          "A batch card",
+          "A returns label",
+          "A pallet label",
+          "An override code"
+        ]
+      },
+      "pl": {
+        "q": "Co zostaje wydane na strefę mieszania, gdy wydawane jest zlecenie robocze?",
+        "o": [
+          "Karta partii",
+          "Etykieta zwrotu",
+          "Etykieta palety",
+          "Kod override"
+        ]
+      },
+      "bg": {
+        "q": "Какво се издава към зоната за смесване, когато се издаде работната поръчка?",
+        "o": [
+          "Карта на партидата",
+          "Етикет за връщане",
+          "Етикет на палета",
+          "Код за override"
+        ]
+      },
+      "ro": {
+        "q": "Ce se emite către zona de amestecare când este emisă comanda de lucru?",
+        "o": [
+          "O fișă a lotului",
+          "O etichetă de retur",
+          "O etichetă de palet",
+          "Un cod de override"
+        ]
+      },
+      "lv": {
+        "q": "Ko izdod maisīšanas zonai, kad tiek izdots darba pasūtījums?",
+        "o": [
+          "Partijas karti",
+          "Atgriezuma etiķeti",
+          "Paletes etiķeti",
+          "Override kodu"
+        ]
+      },
+      "ps": {
+        "q": "کله چې ورکس آرډر خپریږي، بلینډینګ ساحې ته څه خپریږي؟",
+        "o": [
+          "د بیچ کارت",
+          "د ریټرنز لیبل",
+          "د پیلټ لیبل",
+          "د override کوډ"
+        ]
+      },
+      "ur": {
+        "q": "ورکس آرڈر جاری ہونے پر بلینڈنگ فلور کو کیا جاری کیا جاتا ہے؟",
+        "o": [
+          "بیچ کارڈ",
+          "ریٹرنز لیبل",
+          "پیلٹ لیبل",
+          "override کوڈ"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Who passes the batch and books the additions and the batch itself into the system?",
+        "o": [
+          "The blenders",
+          "QC",
+          "The FLT drivers",
+          "The line operators"
+        ]
+      },
+      "pl": {
+        "q": "Kto zatwierdza partię i księguje w systemie dodatki do partii oraz samą partię?",
+        "o": [
+          "Operatorzy mieszania",
+          "QC",
+          "Kierowcy FLT",
+          "Operatorzy linii"
+        ]
+      },
+      "bg": {
+        "q": "Кой одобрява партидата и заприходява в системата добавките към партидата и самата партида?",
+        "o": [
+          "Операторите по смесване",
+          "КК",
+          "FLT водачите",
+          "Операторите на линия"
+        ]
+      },
+      "ro": {
+        "q": "Cine aprobă lotul și înregistrează în sistem adaosurile la lot și lotul în sine?",
+        "o": [
+          "Operatorii de amestecare",
+          "QC",
+          "Operatorii FLT",
+          "Operatorii de linie"
+        ]
+      },
+      "lv": {
+        "q": "Kurš apstiprina partiju un reģistrē sistēmā partijas piedevas un pašu partiju?",
+        "o": [
+          "Maisītāji",
+          "KK",
+          "FLT operatori",
+          "Līnijas operatori"
+        ]
+      },
+      "ps": {
+        "q": "بیچ څوک پاس کوي او د بیچ اضافې او پخپله بیچ په سیسټم کې ثبتوي؟",
+        "o": [
+          "بلینډرز",
+          "QC",
+          "د FLT چلوونکي",
+          "د لاین آپریټران"
+        ]
+      },
+      "ur": {
+        "q": "بیچ کون پاس کرتا ہے اور بیچ کے اضافے اور خود بیچ کو سسٹم میں درج کرتا ہے؟",
+        "o": [
+          "بلینڈرز",
+          "QC",
+          "FLT ڈرائیورز",
+          "لائن آپریٹرز"
+        ]
+      }
+    }
+  ]
+}

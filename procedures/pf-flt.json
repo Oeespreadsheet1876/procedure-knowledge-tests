@@ -1,0 +1,1799 @@
+{
+  "id": "pf-flt",
+  "docRef": "PF-FLT",
+  "issue": "TBC",
+  "title": {
+    "en": "Product Flow (iSeries) – FLT Drivers",
+    "pl": "Przepływ produktu (iSeries) – Kierowcy FLT",
+    "bg": "Движение на продукта (iSeries) – FLT водачи",
+    "ro": "Fluxul de produs (iSeries) – Operatori FLT",
+    "lv": "Produkta plūsma (iSeries) – FLT operatori",
+    "ps": "د محصول جریان (iSeries) – د FLT چلوونکي",
+    "ur": "پروڈکٹ فلو (iSeries) – FLT ڈرائیورز"
+  },
+  "passMark": 80,
+  "questions": [
+    {
+      "correct": 1,
+      "en": {
+        "q": "A scan fails or a label will not print. What should you do first?",
+        "o": [
+          "Carry on and report it at the end of the shift",
+          "Stop and report it straight away",
+          "Try again until it works, then move the pallet",
+          "Skip that step and fix it later"
+        ]
+      },
+      "pl": {
+        "q": "Skanowanie się nie udaje lub etykieta się nie drukuje. Co należy zrobić najpierw?",
+        "o": [
+          "Kontynuować i zgłosić to na koniec zmiany",
+          "Zatrzymać się i natychmiast to zgłosić",
+          "Próbować do skutku, a potem przenieść paletę",
+          "Pominąć ten krok i naprawić go później"
+        ]
+      },
+      "bg": {
+        "q": "Сканирането не успява или етикетът не се печата. Какво трябва да направите първо?",
+        "o": [
+          "Да продължите и да докладвате в края на смяната",
+          "Да спрете и да докладвате веднага",
+          "Да опитвате, докато проработи, и тогава да преместите палетата",
+          "Да прескочите стъпката и да я оправите по-късно"
+        ]
+      },
+      "ro": {
+        "q": "O scanare eșuează sau o etichetă nu se imprimă. Ce trebuie să faceți mai întâi?",
+        "o": [
+          "Să continuați și să raportați la sfârșitul turei",
+          "Să vă opriți și să raportați imediat",
+          "Să încercați până funcționează, apoi să mutați paletul",
+          "Să săriți acel pas și să îl rezolvați mai târziu"
+        ]
+      },
+      "lv": {
+        "q": "Skenēšana neizdodas vai etiķete neizdrukājas. Kas jādara vispirms?",
+        "o": [
+          "Turpināt un ziņot maiņas beigās",
+          "Apstāties un nekavējoties ziņot",
+          "Mēģināt, līdz izdodas, un tad pārvietot paleti",
+          "Izlaist šo soli un salabot vēlāk"
+        ]
+      },
+      "ps": {
+        "q": "سکین ناکام کیږي یا لیبل نه چاپیږي. تاسو باید لومړی څه وکړئ؟",
+        "o": [
+          "دوام ورکړئ او د شفټ په پای کې یې راپور ورکړئ",
+          "ودریږئ او سمدلاسه یې راپور ورکړئ",
+          "هڅه کوئ تر څو کار وکړي، بیا پیلټ حرکت ورکړئ",
+          "دا مرحله پریږدئ او وروسته یې سمه کړئ"
+        ]
+      },
+      "ur": {
+        "q": "اسکین ناکام ہو جائے یا لیبل پرنٹ نہ ہو۔ آپ کو سب سے پہلے کیا کرنا چاہیے؟",
+        "o": [
+          "کام جاری رکھیں اور شفٹ کے اختتام پر رپورٹ کریں",
+          "رک جائیں اور فوراً رپورٹ کریں",
+          "چلنے تک کوشش کرتے رہیں، پھر پیلٹ منتقل کریں",
+          "وہ مرحلہ چھوڑ دیں اور بعد میں ٹھیک کریں"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "If the Production Lead cannot resolve the problem, who do they report it to?",
+        "o": [
+          "The Production Manager",
+          "QC",
+          "The FLT driver",
+          "The Shift Manager"
+        ]
+      },
+      "pl": {
+        "q": "Jeśli Lider Produkcji nie może rozwiązać problemu, komu go zgłasza?",
+        "o": [
+          "Kierownikowi Produkcji",
+          "QC",
+          "Kierowcy FLT",
+          "Kierownikowi Zmiany"
+        ]
+      },
+      "bg": {
+        "q": "Ако Производственият лидер не може да реши проблема, на кого го докладва?",
+        "o": [
+          "На Производствения мениджър",
+          "На КК",
+          "На FLT водача",
+          "На Мениджъра на смяната"
+        ]
+      },
+      "ro": {
+        "q": "Dacă Liderul de Producție nu poate rezolva problema, cui o raportează?",
+        "o": [
+          "Managerului de Producție",
+          "QC",
+          "Operatorului FLT",
+          "Managerului de Tură"
+        ]
+      },
+      "lv": {
+        "q": "Ja Ražošanas līderis nevar atrisināt problēmu, kam viņš par to ziņo?",
+        "o": [
+          "Ražošanas vadītājam",
+          "KK",
+          "FLT operatoram",
+          "Maiņas vadītājam"
+        ]
+      },
+      "ps": {
+        "q": "که د تولید لیډ ستونزه حل نه کړای شي، دا چا ته راپور ورکوي؟",
+        "o": [
+          "د تولید مدیر ته",
+          "QC ته",
+          "د FLT چلوونکي ته",
+          "د شفټ مدیر ته"
+        ]
+      },
+      "ur": {
+        "q": "اگر پروڈکشن لیڈ مسئلہ حل نہ کر سکے تو وہ کسے رپورٹ کرتا ہے؟",
+        "o": [
+          "پروڈکشن منیجر کو",
+          "QC کو",
+          "FLT ڈرائیور کو",
+          "شفٹ منیجر کو"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "A scan has failed. What must you do with the pallet until the problem is sorted?",
+        "o": [
+          "Move it to BLFFOUT",
+          "Do not move or use it",
+          "Wrap it and carry on",
+          "Scan it to a different location"
+        ]
+      },
+      "pl": {
+        "q": "Skanowanie się nie udało. Co należy zrobić z paletą, dopóki problem nie zostanie rozwiązany?",
+        "o": [
+          "Przenieść ją do BLFFOUT",
+          "Nie przemieszczać jej ani nie używać",
+          "Owinąć ją i pracować dalej",
+          "Zeskanować ją do innej lokalizacji"
+        ]
+      },
+      "bg": {
+        "q": "Сканирането е неуспешно. Какво трябва да направите с палетата, докато проблемът не бъде решен?",
+        "o": [
+          "Да я преместите в BLFFOUT",
+          "Да не я премествате и да не я използвате",
+          "Да я опаковате и да продължите",
+          "Да я сканирате към друго местоположение"
+        ]
+      },
+      "ro": {
+        "q": "O scanare a eșuat. Ce trebuie să faceți cu paletul până când problema este rezolvată?",
+        "o": [
+          "Să îl mutați în BLFFOUT",
+          "Să nu îl mutați și să nu îl folosiți",
+          "Să îl ambalați și să continuați",
+          "Să îl scanați către altă locație"
+        ]
+      },
+      "lv": {
+        "q": "Skenēšana ir neizdevusies. Ko darīt ar paleti, kamēr problēma nav atrisināta?",
+        "o": [
+          "Pārvietot to uz BLFFOUT",
+          "Nepārvietot un neizmantot to",
+          "Ietīt to un turpināt",
+          "Noskenēt to uz citu vietu"
+        ]
+      },
+      "ps": {
+        "q": "سکین ناکام شوی دی. تر هغه چې ستونزه حل شي، له پیلټ سره باید څه وکړئ؟",
+        "o": [
+          "BLFFOUT ته یې ولیږدوئ",
+          "نه یې حرکت ورکوئ او نه یې کاروئ",
+          "وی یې ګنډئ او دوام ورکړئ",
+          "بل ځای ته یې سکین کړئ"
+        ]
+      },
+      "ur": {
+        "q": "اسکین ناکام ہو گیا ہے۔ جب تک مسئلہ حل نہ ہو، پیلٹ کے ساتھ کیا کرنا چاہیے؟",
+        "o": [
+          "اسے BLFFOUT میں منتقل کریں",
+          "اسے نہ ہلائیں اور نہ استعمال کریں",
+          "اسے ریپ کریں اور کام جاری رکھیں",
+          "اسے کسی دوسری لوکیشن پر اسکین کریں"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Why must every movement be scanned or booked at the time it happens?",
+        "o": [
+          "So the system always matches what is physically on the floor",
+          "So pallets can be moved faster",
+          "So labels do not have to be printed",
+          "So a works order is not needed"
+        ]
+      },
+      "pl": {
+        "q": "Dlaczego każde przemieszczenie musi być zeskanowane lub zaksięgowane w momencie, w którym ma miejsce?",
+        "o": [
+          "Aby system zawsze zgadzał się z tym, co fizycznie znajduje się na hali",
+          "Aby palety można było przewozić szybciej",
+          "Aby nie trzeba było drukować etykiet",
+          "Aby nie było potrzebne zlecenie robocze"
+        ]
+      },
+      "bg": {
+        "q": "Защо всяко движение трябва да се сканира или заприходява в момента, в който се случва?",
+        "o": [
+          "За да съвпада системата винаги с това, което физически е в цеха",
+          "За да могат палетите да се местят по-бързо",
+          "За да не се налага печатане на етикети",
+          "За да не е нужна работна поръчка"
+        ]
+      },
+      "ro": {
+        "q": "De ce trebuie fiecare mișcare scanată sau înregistrată în momentul în care are loc?",
+        "o": [
+          "Pentru ca sistemul să corespundă mereu cu ceea ce se află fizic în hală",
+          "Pentru ca paleții să poată fi mutați mai repede",
+          "Pentru ca etichetele să nu mai trebuiască imprimate",
+          "Pentru ca o comandă de lucru să nu mai fie necesară"
+        ]
+      },
+      "lv": {
+        "q": "Kāpēc katra pārvietošana jāskenē vai jāreģistrē tajā brīdī, kad tā notiek?",
+        "o": [
+          "Lai sistēma vienmēr atbilstu tam, kas fiziski atrodas cehā",
+          "Lai paletes varētu pārvietot ātrāk",
+          "Lai nebūtu jādrukā etiķetes",
+          "Lai darba pasūtījums nebūtu vajadzīgs"
+        ]
+      },
+      "ps": {
+        "q": "ولې باید هر حرکت په هغه شېبه سکین یا ثبت شي چې پیښیږي؟",
+        "o": [
+          "ترڅو سیسټم تل د ساحې له اصلي حالت سره سمون ولري",
+          "ترڅو پیلټونه ژر حرکت وکړي",
+          "ترڅو لیبلونه چاپ نه شي",
+          "ترڅو ورکس آرډر ته اړتیا پاتې نه شي"
+        ]
+      },
+      "ur": {
+        "q": "ہر حرکت اسی وقت اسکین یا درج کیوں کی جانی چاہیے جب وہ ہو رہی ہو؟",
+        "o": [
+          "تاکہ سسٹم ہمیشہ فلور پر موجود اصل صورتحال کے مطابق رہے",
+          "تاکہ پیلٹ زیادہ تیزی سے منتقل ہو سکیں",
+          "تاکہ لیبل پرنٹ نہ کرنے پڑیں",
+          "تاکہ ورکس آرڈر کی ضرورت نہ رہے"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Which stockroom is the blending floor, where batches are manufactured?",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      },
+      "pl": {
+        "q": "Który magazyn to strefa mieszania, w której produkowane są partie?",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      },
+      "bg": {
+        "q": "Кой склад е зоната за смесване, където се произвеждат партидите?",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      },
+      "ro": {
+        "q": "Care depozit este zona de amestecare, unde se produc loturile?",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      },
+      "lv": {
+        "q": "Kura noliktava ir maisīšanas zona, kur tiek ražotas partijas?",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      },
+      "ps": {
+        "q": "کوم ګودام د بلینډینګ ساحه ده چېرته چې بیچونه تولیدیږي؟",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      },
+      "ur": {
+        "q": "کون سا اسٹاک روم بلینڈنگ فلور ہے جہاں بیچ تیار ہوتے ہیں؟",
+        "o": [
+          "F1",
+          "F0",
+          "F3",
+          "BLF001A"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Stock from the main warehouse arrives on the shunt trailer (BLSTOF). Which shopfloor area is it first scanned to for the blending floor?",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      },
+      "pl": {
+        "q": "Towar z głównego magazynu przyjeżdża na przyczepie przetokowej (BLSTOF). Do której strefy hali jest skanowany najpierw w przypadku strefy mieszania?",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      },
+      "bg": {
+        "q": "Стоката от главния склад пристига с маневреното ремарке (BLSTOF). В коя зона на цеха се сканира първо за зоната за смесване?",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      },
+      "ro": {
+        "q": "Marfa din depozitul principal ajunge pe remorca de manevră (BLSTOF). În care zonă a halei este scanată prima dată pentru zona de amestecare?",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      },
+      "lv": {
+        "q": "Krājumi no galvenās noliktavas pienāk ar pārvietošanas piekabi (BLSTOF). Uz kuru cehā zonu tos noskenē vispirms maisīšanas zonai?",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      },
+      "ps": {
+        "q": "د اصلي ګودام توکي په شنټ ټریلر (BLSTOF) کې رسیږي. د بلینډینګ ساحې لپاره لومړی کومې ساحې ته سکین کیږي؟",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      },
+      "ur": {
+        "q": "مین ویئر ہاؤس کا اسٹاک شنٹ ٹریلر (BLSTOF) پر آتا ہے۔ بلینڈنگ فلور کے لیے اسے سب سے پہلے کس شاپ فلور ایریا پر اسکین کیا جاتا ہے؟",
+        "o": [
+          "BLF001A",
+          "BLFFOUT",
+          "BLF1INB",
+          "BLC001A"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "What is the inbound barcode for stockroom F2?",
+        "o": [
+          "BLF1INB",
+          "BLF3INB",
+          "BLF2INB",
+          "BLFFOUT"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest kod kreskowy inbound dla magazynu F2?",
+        "o": [
+          "BLF1INB",
+          "BLF3INB",
+          "BLF2INB",
+          "BLFFOUT"
+        ]
+      },
+      "bg": {
+        "q": "Кой е баркодът inbound за склад F2?",
+        "o": [
+          "BLF1INB",
+          "BLF3INB",
+          "BLF2INB",
+          "BLFFOUT"
+        ]
+      },
+      "ro": {
+        "q": "Care este codul de bare inbound pentru depozitul F2?",
+        "o": [
+          "BLF1INB",
+          "BLF3INB",
+          "BLF2INB",
+          "BLFFOUT"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir noliktavas F2 inbound svītrkods?",
+        "o": [
+          "BLF1INB",
+          "BLF3INB",
+          "BLF2INB",
+          "BLFFOUT"
+        ]
+      },
+      "ps": {
+        "q": "د F2 ګودام لپاره ان باونډ بارکوډ کوم دی؟",
+        "o": [
+          "BLF1INB",
+          "BLF3INB",
+          "BLF2INB",
+          "BLFFOUT"
+        ]
+      },
+      "ur": {
+        "q": "اسٹاک روم F2 کا ان باؤنڈ بار کوڈ کون سا ہے؟",
+        "o": [
+          "BLF1INB",
+          "BLF3INB",
+          "BLF2INB",
+          "BLFFOUT"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "What is BLSTOF?",
+        "o": [
+          "The returns location",
+          "The blending floor stockroom",
+          "A line inbound area",
+          "The shunt (pick and drop) trailer from the main warehouse"
+        ]
+      },
+      "pl": {
+        "q": "Czym jest BLSTOF?",
+        "o": [
+          "Lokalizacją zwrotów",
+          "Magazynem strefy mieszania",
+          "Obszarem inbound linii",
+          "Przyczepą przetokową (pick and drop) z głównego magazynu"
+        ]
+      },
+      "bg": {
+        "q": "Какво е BLSTOF?",
+        "o": [
+          "Местоположението за върнати материали",
+          "Складът на зоната за смесване",
+          "Зона inbound на линия",
+          "Маневреното ремарке (pick and drop) от главния склад"
+        ]
+      },
+      "ro": {
+        "q": "Ce este BLSTOF?",
+        "o": [
+          "Locația pentru retururi",
+          "Depozitul zonei de amestecare",
+          "O zonă inbound a liniei",
+          "Remorca de manevră (pick and drop) din depozitul principal"
+        ]
+      },
+      "lv": {
+        "q": "Kas ir BLSTOF?",
+        "o": [
+          "Atgriezumu atrašanās vieta",
+          "Maisīšanas zonas noliktava",
+          "Līnijas inbound zona",
+          "Pārvietošanas piekabe (pick and drop) no galvenās noliktavas"
+        ]
+      },
+      "ps": {
+        "q": "BLSTOF څه دی؟",
+        "o": [
+          "د ریټرنز موقعیت",
+          "د بلینډینګ ساحې ګودام",
+          "د لاین ان باونډ ساحه",
+          "د اصلي ګودام شنټ (pick and drop) ټریلر"
+        ]
+      },
+      "ur": {
+        "q": "BLSTOF کیا ہے؟",
+        "o": [
+          "ریٹرنز کی لوکیشن",
+          "بلینڈنگ فلور اسٹاک روم",
+          "لائن کا ان باؤنڈ ایریا",
+          "مین ویئر ہاؤس سے آنے والا شنٹ (پک اینڈ ڈراپ) ٹریلر"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Into which location are unused raw materials returned?",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "BLFFOUT",
+          "F0"
+        ]
+      },
+      "pl": {
+        "q": "Do której lokalizacji zwracane są niewykorzystane surowce?",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "BLFFOUT",
+          "F0"
+        ]
+      },
+      "bg": {
+        "q": "В кое местоположение се връщат неизползваните суровини?",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "BLFFOUT",
+          "F0"
+        ]
+      },
+      "ro": {
+        "q": "În ce locație sunt returnate materiile prime neutilizate?",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "BLFFOUT",
+          "F0"
+        ]
+      },
+      "lv": {
+        "q": "Uz kuru vietu tiek atgrieztas neizmantotās izejvielas?",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "BLFFOUT",
+          "F0"
+        ]
+      },
+      "ps": {
+        "q": "نه کارول شوي خام مواد کوم موقعیت ته بیرته ورکول کیږي؟",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "BLFFOUT",
+          "F0"
+        ]
+      },
+      "ur": {
+        "q": "غیر استعمال شدہ خام مال کس لوکیشن میں واپس کیا جاتا ہے؟",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "BLFFOUT",
+          "F0"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Which gun action shows where a pallet is going?",
+        "o": [
+          "F2 enquiry",
+          "F7, F1",
+          "F1, F1",
+          "Override code 99"
+        ]
+      },
+      "pl": {
+        "q": "Która czynność na skanerze pokazuje, dokąd jedzie paleta?",
+        "o": [
+          "F2 enquiry",
+          "F7, F1",
+          "F1, F1",
+          "Kod override 99"
+        ]
+      },
+      "bg": {
+        "q": "Кое действие на скенера показва къде отива палетата?",
+        "o": [
+          "F2 enquiry",
+          "F7, F1",
+          "F1, F1",
+          "Код за override 99"
+        ]
+      },
+      "ro": {
+        "q": "Care acțiune pe scanner arată încotro merge un palet?",
+        "o": [
+          "F2 enquiry",
+          "F7, F1",
+          "F1, F1",
+          "Cod override 99"
+        ]
+      },
+      "lv": {
+        "q": "Kura darbība uz skenera parāda, kurp palete dodas?",
+        "o": [
+          "F2 enquiry",
+          "F7, F1",
+          "F1, F1",
+          "Override kods 99"
+        ]
+      },
+      "ps": {
+        "q": "په سکینر کې کوم عمل ښيي چې پیلټ چېرته ځي؟",
+        "o": [
+          "F2 enquiry",
+          "F7, F1",
+          "F1, F1",
+          "د override کوډ 99"
+        ]
+      },
+      "ur": {
+        "q": "گن پر کون سا عمل دکھاتا ہے کہ پیلٹ کہاں جا رہا ہے؟",
+        "o": [
+          "F2 enquiry",
+          "F7, F1",
+          "F1, F1",
+          "override کوڈ 99"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Which keys open the pick and drop (shunt) menu for a requested move?",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2, F2",
+          "F1, F7"
+        ]
+      },
+      "pl": {
+        "q": "Które klawisze otwierają menu pick and drop (shunt) dla przemieszczenia zleconego (requested)?",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2, F2",
+          "F1, F7"
+        ]
+      },
+      "bg": {
+        "q": "Кои клавиши отварят менюто pick and drop (shunt) за заявено преместване (requested)?",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2, F2",
+          "F1, F7"
+        ]
+      },
+      "ro": {
+        "q": "Ce taste deschid meniul pick and drop (shunt) pentru o mutare solicitată (requested)?",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2, F2",
+          "F1, F7"
+        ]
+      },
+      "lv": {
+        "q": "Kuri taustiņi atver pick and drop (shunt) izvēlni pieprasītai pārvietošanai (requested)?",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2, F2",
+          "F1, F7"
+        ]
+      },
+      "ps": {
+        "q": "کوم کلیدونه د غوښتل شوي (requested) حرکت لپاره pick and drop (shunt) مینو خلاصوي؟",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2, F2",
+          "F1, F7"
+        ]
+      },
+      "ur": {
+        "q": "درخواست شدہ (requested) حرکت کے لیے پک اینڈ ڈراپ (shunt) مینو کون سی کیز کھولتی ہیں؟",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2, F2",
+          "F1, F7"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Which keys start a non-requested move?",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2 enquiry",
+          "F7, F7"
+        ]
+      },
+      "pl": {
+        "q": "Które klawisze rozpoczynają przemieszczenie niezlecone (non-requested)?",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2 enquiry",
+          "F7, F7"
+        ]
+      },
+      "bg": {
+        "q": "Кои клавиши започват незаявено преместване (non-requested)?",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2 enquiry",
+          "F7, F7"
+        ]
+      },
+      "ro": {
+        "q": "Ce taste încep o mutare nesolicitată (non-requested)?",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2 enquiry",
+          "F7, F7"
+        ]
+      },
+      "lv": {
+        "q": "Kuri taustiņi sāk nepieprasītu pārvietošanu (non-requested)?",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2 enquiry",
+          "F7, F7"
+        ]
+      },
+      "ps": {
+        "q": "کوم کلیدونه نه غوښتل شوی (non-requested) حرکت پیلوي؟",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2 enquiry",
+          "F7, F7"
+        ]
+      },
+      "ur": {
+        "q": "غیر درخواست شدہ (non-requested) حرکت کون سی کیز شروع کرتی ہیں؟",
+        "o": [
+          "F7, F1",
+          "F1, F1",
+          "F2 enquiry",
+          "F7, F7"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "When is a move a non-requested move?",
+        "o": [
+          "The move is entered on the system and the pallet arrives on the shunt trailer",
+          "The Production Lead issues a works order",
+          "The gun shows the F2 enquiry screen",
+          "You are asked verbally to move a pallet from a storage location to an inbound area"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy przemieszczenie jest niezlecone (non-requested)?",
+        "o": [
+          "Przemieszczenie jest wprowadzone do systemu, a paleta przyjeżdża na przyczepie przetokowej",
+          "Lider Produkcji wydaje zlecenie robocze",
+          "Skaner pokazuje ekran zapytania F2",
+          "Dostajesz ustne polecenie przeniesienia palety z lokalizacji magazynowej do obszaru inbound"
+        ]
+      },
+      "bg": {
+        "q": "Кога едно преместване е незаявено (non-requested)?",
+        "o": [
+          "Преместването е въведено в системата и палетата идва с маневреното ремарке",
+          "Производственият лидер издава работна поръчка",
+          "Скенерът показва екрана за справка F2",
+          "Казват ви устно да преместите палета от складово местоположение до зона inbound"
+        ]
+      },
+      "ro": {
+        "q": "Când este o mutare nesolicitată (non-requested)?",
+        "o": [
+          "Mutarea este introdusă în sistem, iar paletul ajunge pe remorca de manevră",
+          "Liderul de Producție emite o comandă de lucru",
+          "Scannerul afișează ecranul de interogare F2",
+          "Vi se cere verbal să mutați un palet dintr-o locație de depozitare într-o zonă inbound"
+        ]
+      },
+      "lv": {
+        "q": "Kad pārvietošana ir nepieprasīta (non-requested)?",
+        "o": [
+          "Pārvietošana ir ievadīta sistēmā, un palete pienāk ar pārvietošanas piekabi",
+          "Ražošanas līderis izdod darba pasūtījumu",
+          "Skeneris parāda F2 pieprasījuma ekrānu",
+          "Jums mutiski liek pārvietot paleti no glabāšanas vietas uz inbound zonu"
+        ]
+      },
+      "ps": {
+        "q": "یو حرکت کله نه غوښتل شوی (non-requested) وي؟",
+        "o": [
+          "حرکت په سیسټم کې داخل شوی وي او پیلټ په شنټ ټریلر کې رسیږي",
+          "د تولید لیډ ورکس آرډر خپروي",
+          "سکینر د F2 پوښتنې سکرین ښيي",
+          "تاسو ته په شفاهي ډول ویل کیږي چې پیلټ له ذخیره موقعیت څخه ان باونډ ساحې ته ولیږدوئ"
+        ]
+      },
+      "ur": {
+        "q": "حرکت کب غیر درخواست شدہ (non-requested) ہوتی ہے؟",
+        "o": [
+          "حرکت سسٹم میں درج ہو اور پیلٹ شنٹ ٹریلر پر آئے",
+          "پروڈکشن لیڈ ورکس آرڈر جاری کرے",
+          "گن F2 انکوائری اسکرین دکھائے",
+          "آپ کو زبانی کہا جائے کہ پیلٹ اسٹوریج لوکیشن سے ان باؤنڈ ایریا میں منتقل کریں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "What is the override code?",
+        "o": [
+          "11",
+          "99",
+          "77",
+          "00"
+        ]
+      },
+      "pl": {
+        "q": "Jaki jest kod override?",
+        "o": [
+          "11",
+          "99",
+          "77",
+          "00"
+        ]
+      },
+      "bg": {
+        "q": "Какъв е кодът за override?",
+        "o": [
+          "11",
+          "99",
+          "77",
+          "00"
+        ]
+      },
+      "ro": {
+        "q": "Care este codul de override?",
+        "o": [
+          "11",
+          "99",
+          "77",
+          "00"
+        ]
+      },
+      "lv": {
+        "q": "Kāds ir override kods?",
+        "o": [
+          "11",
+          "99",
+          "77",
+          "00"
+        ]
+      },
+      "ps": {
+        "q": "د override کوډ کوم دی؟",
+        "o": [
+          "11",
+          "99",
+          "77",
+          "00"
+        ]
+      },
+      "ur": {
+        "q": "override کوڈ کیا ہے؟",
+        "o": [
+          "11",
+          "99",
+          "77",
+          "00"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "When does the gun ask for an override?",
+        "o": [
+          "On a requested move, when you scan a destination different from the suggested one",
+          "On a non-requested move (F7, F1)",
+          "When you scan the pallet label twice",
+          "Every time you press Enter"
+        ]
+      },
+      "pl": {
+        "q": "Kiedy skaner prosi o override?",
+        "o": [
+          "Przy przemieszczeniu zleconym, gdy zeskanujesz miejsce docelowe inne niż sugerowane",
+          "Przy przemieszczeniu niezleconym (F7, F1)",
+          "Gdy dwa razy zeskanujesz etykietę palety",
+          "Za każdym razem, gdy naciśniesz Enter"
+        ]
+      },
+      "bg": {
+        "q": "Кога скенерът изисква override?",
+        "o": [
+          "При заявено преместване, когато сканирате местоназначение, различно от предложеното",
+          "При незаявено преместване (F7, F1)",
+          "Когато сканирате етикета на палетата два пъти",
+          "Всеки път, когато натиснете Enter"
+        ]
+      },
+      "ro": {
+        "q": "Când cere scannerul un override?",
+        "o": [
+          "La o mutare solicitată, când scanați o destinație diferită de cea sugerată",
+          "La o mutare nesolicitată (F7, F1)",
+          "Când scanați eticheta paletului de două ori",
+          "De fiecare dată când apăsați Enter"
+        ]
+      },
+      "lv": {
+        "q": "Kad skeneris prasa override?",
+        "o": [
+          "Pieprasītas pārvietošanas gadījumā, kad noskenējat galamērķi, kas atšķiras no ieteiktā",
+          "Nepieprasītas pārvietošanas gadījumā (F7, F1)",
+          "Kad divreiz noskenējat paletes etiķeti",
+          "Katru reizi, kad nospiežat Enter"
+        ]
+      },
+      "ps": {
+        "q": "سکینر کله override غواړي؟",
+        "o": [
+          "په غوښتل شوي حرکت کې، کله چې تاسو له وړاندیز شوې منزل څخه بله منزل سکین کړئ",
+          "په نه غوښتل شوي حرکت (F7, F1) کې",
+          "کله چې د پیلټ لیبل دوه ځله سکین کړئ",
+          "هر ځل چې Enter فشار کړئ"
+        ]
+      },
+      "ur": {
+        "q": "گن override کب مانگتی ہے؟",
+        "o": [
+          "درخواست شدہ حرکت میں، جب آپ تجویز کردہ منزل سے مختلف منزل اسکین کریں",
+          "غیر درخواست شدہ حرکت (F7, F1) میں",
+          "جب آپ پیلٹ لیبل دو بار اسکین کریں",
+          "ہر بار جب آپ Enter دبائیں"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "A non-requested move needs no override. In which order do you scan?",
+        "o": [
+          "Destination, label, from-location",
+          "Label, destination, from-location",
+          "From-location, destination, label",
+          "From-location, label, destination"
+        ]
+      },
+      "pl": {
+        "q": "Przemieszczenie niezlecone nie wymaga override. W jakiej kolejności skanujesz?",
+        "o": [
+          "Miejsce docelowe, etykieta, lokalizacja „skąd”",
+          "Etykieta, miejsce docelowe, lokalizacja „skąd”",
+          "Lokalizacja „skąd”, miejsce docelowe, etykieta",
+          "Lokalizacja „skąd”, etykieta, miejsce docelowe"
+        ]
+      },
+      "bg": {
+        "q": "Незаявеното преместване не изисква override. В какъв ред сканирате?",
+        "o": [
+          "Местоназначение, етикет, местоположение „откъде“",
+          "Етикет, местоназначение, местоположение „откъде“",
+          "Местоположение „откъде“, местоназначение, етикет",
+          "Местоположение „откъде“, етикет, местоназначение"
+        ]
+      },
+      "ro": {
+        "q": "O mutare nesolicitată nu necesită override. În ce ordine scanați?",
+        "o": [
+          "Destinația, eticheta, locația „de unde”",
+          "Eticheta, destinația, locația „de unde”",
+          "Locația „de unde”, destinația, eticheta",
+          "Locația „de unde”, eticheta, destinația"
+        ]
+      },
+      "lv": {
+        "q": "Nepieprasītai pārvietošanai override nav vajadzīgs. Kādā secībā skenējat?",
+        "o": [
+          "Galamērķis, etiķete, vieta „no kurienes”",
+          "Etiķete, galamērķis, vieta „no kurienes”",
+          "Vieta „no kurienes”, galamērķis, etiķete",
+          "Vieta „no kurienes”, etiķete, galamērķis"
+        ]
+      },
+      "ps": {
+        "q": "نه غوښتل شوی حرکت override ته اړتیا نلري. تاسو په کومه لړۍ سکین کوئ؟",
+        "o": [
+          "منزل، لیبل، د «له کوم ځایه» موقعیت",
+          "لیبل، منزل، د «له کوم ځایه» موقعیت",
+          "د «له کوم ځایه» موقعیت، منزل، لیبل",
+          "د «له کوم ځایه» موقعیت، لیبل، منزل"
+        ]
+      },
+      "ur": {
+        "q": "غیر درخواست شدہ حرکت کو override کی ضرورت نہیں۔ آپ کس ترتیب میں اسکین کرتے ہیں؟",
+        "o": [
+          "منزل، لیبل، “کہاں سے” لوکیشن",
+          "لیبل، منزل، “کہاں سے” لوکیشن",
+          "“کہاں سے” لوکیشن، منزل، لیبل",
+          "“کہاں سے” لوکیشن، لیبل، منزل"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Can an FLT driver take a pallet straight from BLSTOF to F0?",
+        "o": [
+          "No, it must always be scanned to BLF001A first",
+          "Yes, without scanning anything",
+          "Yes, by overriding the suggested move to BLF001A; BLF001A is then not scanned",
+          "Only if QC gives permission"
+        ]
+      },
+      "pl": {
+        "q": "Czy kierowca FLT może zabrać paletę prosto z BLSTOF na F0?",
+        "o": [
+          "Nie, zawsze trzeba ją najpierw zeskanować do BLF001A",
+          "Tak, bez skanowania czegokolwiek",
+          "Tak, robiąc override sugerowanego przemieszczenia na BLF001A; BLF001A nie jest wtedy skanowane",
+          "Tylko jeśli QC wyrazi zgodę"
+        ]
+      },
+      "bg": {
+        "q": "Може ли FLT водач да вземе палета направо от BLSTOF към F0?",
+        "o": [
+          "Не, тя винаги трябва първо да се сканира към BLF001A",
+          "Да, без да сканира нищо",
+          "Да, като смени (override) предложеното преместване към BLF001A; BLF001A тогава не се сканира",
+          "Само ако КК даде разрешение"
+        ]
+      },
+      "ro": {
+        "q": "Poate un operator FLT să ducă un palet direct din BLSTOF în F0?",
+        "o": [
+          "Nu, trebuie scanat mereu mai întâi în BLF001A",
+          "Da, fără a scana nimic",
+          "Da, făcând override mutării sugerate către BLF001A; BLF001A nu mai este scanat",
+          "Doar dacă QC dă permisiunea"
+        ]
+      },
+      "lv": {
+        "q": "Vai FLT operators var aizvest paleti tieši no BLSTOF uz F0?",
+        "o": [
+          "Nē, tā vienmēr vispirms jānoskenē uz BLF001A",
+          "Jā, neko neskenējot",
+          "Jā, izdarot ieteiktās pārvietošanas uz BLF001A override; BLF001A tad netiek skenēts",
+          "Tikai ja KK to atļauj"
+        ]
+      },
+      "ps": {
+        "q": "ایا د FLT چلوونکی کولی شي پیلټ مستقیم له BLSTOF څخه F0 ته یوسي؟",
+        "o": [
+          "نه، تل باید لومړی BLF001A ته سکین شي",
+          "هو، پرته له دې چې څه سکین کړي",
+          "هو، د BLF001A ته د وړاندیز شوي حرکت override کولو سره؛ بیا BLF001A سکین نه کیږي",
+          "یوازې که QC اجازه ورکړي"
+        ]
+      },
+      "ur": {
+        "q": "کیا FLT ڈرائیور پیلٹ کو BLSTOF سے سیدھا F0 تک لے جا سکتا ہے؟",
+        "o": [
+          "نہیں، اسے ہمیشہ پہلے BLF001A پر اسکین کرنا ضروری ہے",
+          "ہاں، بغیر کچھ اسکین کیے",
+          "ہاں، BLF001A کی تجویز کردہ حرکت کو override کر کے؛ تب BLF001A اسکین نہیں ہوتا",
+          "صرف اگر QC اجازت دے"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Who scans the raw materials to F0 for a batch?",
+        "o": [
+          "QC",
+          "The line operators",
+          "The FLT drivers",
+          "The blenders"
+        ]
+      },
+      "pl": {
+        "q": "Kto skanuje surowce do partii na F0?",
+        "o": [
+          "QC",
+          "Operatorzy linii",
+          "Kierowcy FLT",
+          "Operatorzy mieszania"
+        ]
+      },
+      "bg": {
+        "q": "Кой сканира суровините към F0 за една партида?",
+        "o": [
+          "КК",
+          "Операторите на линия",
+          "FLT водачите",
+          "Операторите по смесване"
+        ]
+      },
+      "ro": {
+        "q": "Cine scanează materiile prime către F0 pentru un lot?",
+        "o": [
+          "QC",
+          "Operatorii de linie",
+          "Operatorii FLT",
+          "Operatorii de amestecare"
+        ]
+      },
+      "lv": {
+        "q": "Kurš skenē partijas izejvielas uz F0?",
+        "o": [
+          "KK",
+          "Līnijas operatori",
+          "FLT operatori",
+          "Maisītāji"
+        ]
+      },
+      "ps": {
+        "q": "د بیچ خام مواد F0 ته څوک سکین کوي؟",
+        "o": [
+          "QC",
+          "د لاین آپریټران",
+          "د FLT چلوونکي",
+          "بلینډرز"
+        ]
+      },
+      "ur": {
+        "q": "بیچ کے لیے خام مال F0 پر کون اسکین کرتا ہے؟",
+        "o": [
+          "QC",
+          "لائن آپریٹرز",
+          "FLT ڈرائیورز",
+          "بلینڈرز"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "In what order are the barcodes on the works order sheet scanned when booking in finished product?",
+        "o": [
+          "Product Code, Works Order No, Workstation",
+          "Works Order No, Workstation, Product Code",
+          "Workstation, Works Order No, Product Code",
+          "Pallet Qty, Workstation, Product Code"
+        ]
+      },
+      "pl": {
+        "q": "W jakiej kolejności skanuje się kody kreskowe z arkusza zlecenia roboczego przy przyjmowaniu wyrobu gotowego?",
+        "o": [
+          "Product Code, Works Order No, Workstation",
+          "Works Order No, Workstation, Product Code",
+          "Workstation, Works Order No, Product Code",
+          "Pallet Qty, Workstation, Product Code"
+        ]
+      },
+      "bg": {
+        "q": "В какъв ред се сканират баркодовете на листа на работната поръчка при заприходяване на готова продукция?",
+        "o": [
+          "Product Code, Works Order No, Workstation",
+          "Works Order No, Workstation, Product Code",
+          "Workstation, Works Order No, Product Code",
+          "Pallet Qty, Workstation, Product Code"
+        ]
+      },
+      "ro": {
+        "q": "În ce ordine se scanează codurile de bare de pe fișa comenzii de lucru la înregistrarea produsului finit?",
+        "o": [
+          "Product Code, Works Order No, Workstation",
+          "Works Order No, Workstation, Product Code",
+          "Workstation, Works Order No, Product Code",
+          "Pallet Qty, Workstation, Product Code"
+        ]
+      },
+      "lv": {
+        "q": "Kādā secībā tiek skenēti svītrkodi darba pasūtījuma lapā, reģistrējot gatavo produkciju?",
+        "o": [
+          "Product Code, Works Order No, Workstation",
+          "Works Order No, Workstation, Product Code",
+          "Workstation, Works Order No, Product Code",
+          "Pallet Qty, Workstation, Product Code"
+        ]
+      },
+      "ps": {
+        "q": "د بشپړ شوي محصول ثبتولو پر مهال د ورکس آرډر پاڼې بارکوډونه په کومه لړۍ سکین کیږي؟",
+        "o": [
+          "Product Code, Works Order No, Workstation",
+          "Works Order No, Workstation, Product Code",
+          "Workstation, Works Order No, Product Code",
+          "Pallet Qty, Workstation, Product Code"
+        ]
+      },
+      "ur": {
+        "q": "تیار مصنوعات کا اندراج کرتے وقت ورکس آرڈر شیٹ کے بار کوڈ کس ترتیب میں اسکین کیے جاتے ہیں؟",
+        "o": [
+          "Product Code, Works Order No, Workstation",
+          "Works Order No, Workstation, Product Code",
+          "Workstation, Works Order No, Product Code",
+          "Pallet Qty, Workstation, Product Code"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "What do you do for a part pallet when booking in?",
+        "o": [
+          "Scan the Pallet Qty barcode",
+          "Scan the BLFFOUT barcode",
+          "Wait for QC to enter it",
+          "Type in the quantity (it is the last pallet on the order)"
+        ]
+      },
+      "pl": {
+        "q": "Co robisz przy przyjmowaniu niepełnej palety?",
+        "o": [
+          "Skanuję kod kreskowy Pallet Qty",
+          "Skanuję kod kreskowy BLFFOUT",
+          "Czekam, aż QC to wprowadzi",
+          "Wpisuję ilość (to ostatnia paleta na zleceniu)"
+        ]
+      },
+      "bg": {
+        "q": "Какво правите при непълна палета при заприходяване?",
+        "o": [
+          "Сканирам баркода Pallet Qty",
+          "Сканирам баркода BLFFOUT",
+          "Чакам КК да го въведе",
+          "Въвеждам количеството (това е последната палета по поръчката)"
+        ]
+      },
+      "ro": {
+        "q": "Ce faceți pentru un palet incomplet la înregistrare?",
+        "o": [
+          "Scanez codul de bare Pallet Qty",
+          "Scanez codul de bare BLFFOUT",
+          "Aștept ca QC să îl introducă",
+          "Introduc cantitatea (este ultimul palet din comandă)"
+        ]
+      },
+      "lv": {
+        "q": "Ko dara nepilnai paletei reģistrējot?",
+        "o": [
+          "Skenēju svītrkodu Pallet Qty",
+          "Skenēju svītrkodu BLFFOUT",
+          "Gaidu, kamēr KK to ievadīs",
+          "Ievadu daudzumu (tā ir pasūtījuma pēdējā palete)"
+        ]
+      },
+      "ps": {
+        "q": "د ثبتولو پر مهال د نیمګړي پیلټ لپاره څه کوئ؟",
+        "o": [
+          "د Pallet Qty بارکوډ سکین کوم",
+          "د BLFFOUT بارکوډ سکین کوم",
+          "انتظار کوم چې QC یې داخل کړي",
+          "مقدار لیکم (دا د آرډر وروستی پیلټ دی)"
+        ]
+      },
+      "ur": {
+        "q": "اندراج کے وقت ادھورے پیلٹ کے لیے آپ کیا کرتے ہیں؟",
+        "o": [
+          "Pallet Qty بار کوڈ اسکین کرتا ہوں",
+          "BLFFOUT بار کوڈ اسکین کرتا ہوں",
+          "QC کے درج کرنے کا انتظار کرتا ہوں",
+          "مقدار ٹائپ کرتا ہوں (یہ آرڈر کا آخری پیلٹ ہے)"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "How many labels print when a pallet is booked in?",
+        "o": [
+          "One",
+          "Three",
+          "Two",
+          "Four"
+        ]
+      },
+      "pl": {
+        "q": "Ile etykiet drukuje się przy przyjęciu palety?",
+        "o": [
+          "Jedna",
+          "Trzy",
+          "Dwie",
+          "Cztery"
+        ]
+      },
+      "bg": {
+        "q": "Колко етикета се отпечатват при заприходяване на палета?",
+        "o": [
+          "Един",
+          "Три",
+          "Два",
+          "Четири"
+        ]
+      },
+      "ro": {
+        "q": "Câte etichete se imprimă când un palet este înregistrat?",
+        "o": [
+          "Una",
+          "Trei",
+          "Două",
+          "Patru"
+        ]
+      },
+      "lv": {
+        "q": "Cik etiķetes tiek izdrukātas, reģistrējot paleti?",
+        "o": [
+          "Viena",
+          "Trīs",
+          "Divas",
+          "Četras"
+        ]
+      },
+      "ps": {
+        "q": "کله چې پیلټ ثبتیږي، څو لیبلونه چاپیږي؟",
+        "o": [
+          "یو",
+          "درې",
+          "دوه",
+          "څلور"
+        ]
+      },
+      "ur": {
+        "q": "پیلٹ کا اندراج کرنے پر کتنے لیبل پرنٹ ہوتے ہیں؟",
+        "o": [
+          "ایک",
+          "تین",
+          "دو",
+          "چار"
+        ]
+      }
+    },
+    {
+      "correct": 0,
+      "en": {
+        "q": "Where does the label that identifies the pallet go?",
+        "o": [
+          "On the side of the pallet, in the top right-hand corner",
+          "On top of the pallet",
+          "On the shrink wrap only",
+          "On the returns table"
+        ]
+      },
+      "pl": {
+        "q": "Gdzie nakleja się etykietę identyfikującą paletę?",
+        "o": [
+          "Z boku palety, w prawym górnym rogu",
+          "Na wierzchu palety",
+          "Tylko na folii",
+          "Na stole zwrotów"
+        ]
+      },
+      "bg": {
+        "q": "Къде се поставя етикетът, който идентифицира палетата?",
+        "o": [
+          "Отстрани на палетата, в горния десен ъгъл",
+          "Отгоре на палетата",
+          "Само върху фолиото",
+          "На масата за връщания"
+        ]
+      },
+      "ro": {
+        "q": "Unde se lipește eticheta care identifică paletul?",
+        "o": [
+          "Pe latura paletului, în colțul din dreapta sus",
+          "Deasupra paletului",
+          "Doar pe folie",
+          "Pe masa de retururi"
+        ]
+      },
+      "lv": {
+        "q": "Kur uzlīmē etiķeti, kas identificē paleti?",
+        "o": [
+          "Paletes sānā, augšējā labajā stūrī",
+          "Paletes augšpusē",
+          "Tikai uz plēves",
+          "Atgriezumu galdā"
+        ]
+      },
+      "ps": {
+        "q": "هغه لیبل چېرته لګول کیږي چې پیلټ پېژني؟",
+        "o": [
+          "د پیلټ په څنډه کې، پورته ښي کونج کې",
+          "د پیلټ پر سر",
+          "یوازې په وی باندې",
+          "د ریټرنز میز باندې"
+        ]
+      },
+      "ur": {
+        "q": "پیلٹ کی شناخت کرنے والا لیبل کہاں لگایا جاتا ہے؟",
+        "o": [
+          "پیلٹ کی سائیڈ پر، اوپر دائیں کونے میں",
+          "پیلٹ کے اوپر",
+          "صرف شرنک ریپ پر",
+          "ریٹرنز ٹیبل پر"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "Why are two spare labels left on top of the pallet?",
+        "o": [
+          "To use as returns labels",
+          "To hand to QC",
+          "To replace damaged labels",
+          "The shrink wrap covers the side label, so they go on the outside of the wrap"
+        ]
+      },
+      "pl": {
+        "q": "Dlaczego dwie zapasowe etykiety zostają na wierzchu palety?",
+        "o": [
+          "Aby użyć ich jako etykiet zwrotów",
+          "Aby oddać je QC",
+          "Aby zastąpić uszkodzone etykiety",
+          "Folia zakrywa etykietę z boku, więc naklejane są na zewnątrz folii"
+        ]
+      },
+      "bg": {
+        "q": "Защо два резервни етикета се оставят отгоре на палетата?",
+        "o": [
+          "За да се използват като етикети за връщане",
+          "За да се предадат на КК",
+          "За да заменят повредени етикети",
+          "Фолиото покрива етикета отстрани, затова те се поставят отвън върху фолиото"
+        ]
+      },
+      "ro": {
+        "q": "De ce rămân două etichete de rezervă deasupra paletului?",
+        "o": [
+          "Pentru a fi folosite ca etichete de retur",
+          "Pentru a fi predate la QC",
+          "Pentru a înlocui etichete deteriorate",
+          "Folia acoperă eticheta de pe latură, așa că ele se lipesc pe exteriorul foliei"
+        ]
+      },
+      "lv": {
+        "q": "Kāpēc divas rezerves etiķetes tiek atstātas paletes augšpusē?",
+        "o": [
+          "Lai izmantotu kā atgriezumu etiķetes",
+          "Lai nodotu KK",
+          "Lai aizstātu bojātas etiķetes",
+          "Plēve nosedz sānā esošo etiķeti, tāpēc tās uzlīmē plēves ārpusē"
+        ]
+      },
+      "ps": {
+        "q": "ولې دوه اضافي لیبلونه د پیلټ پر سر پرېښودل کیږي؟",
+        "o": [
+          "د ریټرنز لیبلونو په توګه د کارولو لپاره",
+          "QC ته د سپارلو لپاره",
+          "د خرابو لیبلونو د بدلولو لپاره",
+          "وی د څنډې لیبل پټوي، نو دا د وی پر بهر لګول کیږي"
+        ]
+      },
+      "ur": {
+        "q": "دو اضافی لیبل پیلٹ کے اوپر کیوں چھوڑے جاتے ہیں؟",
+        "o": [
+          "ریٹرنز لیبل کے طور پر استعمال کے لیے",
+          "QC کو دینے کے لیے",
+          "خراب لیبل بدلنے کے لیے",
+          "شرنک ریپ سائیڈ والے لیبل کو ڈھانپ لیتا ہے، اس لیے وہ ریپ کے باہر لگائے جاتے ہیں"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "Who shrink-wraps the pallet and sticks the two labels on the outside of the wrap?",
+        "o": [
+          "Line operators",
+          "FLT drivers",
+          "QC",
+          "The blenders"
+        ]
+      },
+      "pl": {
+        "q": "Kto owija paletę folią i nakleja dwie etykiety na zewnątrz folii?",
+        "o": [
+          "Operatorzy linii",
+          "Kierowcy FLT",
+          "QC",
+          "Operatorzy mieszania"
+        ]
+      },
+      "bg": {
+        "q": "Кой опакова палетата със стреч фолио и залепя двата етикета отвън върху фолиото?",
+        "o": [
+          "Операторите на линия",
+          "FLT водачите",
+          "КК",
+          "Операторите по смесване"
+        ]
+      },
+      "ro": {
+        "q": "Cine ambalează paletul cu folie și lipește cele două etichete pe exteriorul foliei?",
+        "o": [
+          "Operatorii de linie",
+          "Operatorii FLT",
+          "QC",
+          "Operatorii de amestecare"
+        ]
+      },
+      "lv": {
+        "q": "Kurš ietin paleti plēvē un uzlīmē abas etiķetes plēves ārpusē?",
+        "o": [
+          "Līnijas operatori",
+          "FLT operatori",
+          "KK",
+          "Maisītāji"
+        ]
+      },
+      "ps": {
+        "q": "پیلټ څوک وی ګنډي او دوه لیبلونه د وی پر بهر لګوي؟",
+        "o": [
+          "د لاین آپریټران",
+          "د FLT چلوونکي",
+          "QC",
+          "بلینډرز"
+        ]
+      },
+      "ur": {
+        "q": "پیلٹ کو شرنک ریپ کون کرتا ہے اور دونوں لیبل ریپ کے باہر کون لگاتا ہے؟",
+        "o": [
+          "لائن آپریٹرز",
+          "FLT ڈرائیورز",
+          "QC",
+          "بلینڈرز"
+        ]
+      }
+    },
+    {
+      "correct": 3,
+      "en": {
+        "q": "When moving returns from BLFFOUT to storage, which barcode is the \"from\" location?",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "F0",
+          "BLFFOUT (the label on the pallet or the location barcode, they are the same)"
+        ]
+      },
+      "pl": {
+        "q": "Przy przenoszeniu zwrotów z BLFFOUT do miejsca składowania, który kod kreskowy jest lokalizacją „skąd”?",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "F0",
+          "BLFFOUT (etykieta na palecie lub kod kreskowy lokalizacji, to ten sam kod)"
+        ]
+      },
+      "bg": {
+        "q": "При преместване на върнатите материали от BLFFOUT към склад, кой баркод е местоположението „откъде“?",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "F0",
+          "BLFFOUT (етикетът на палетата или баркодът на местоположението, те са един и същ)"
+        ]
+      },
+      "ro": {
+        "q": "La mutarea retururilor din BLFFOUT în depozit, care cod de bare este locația „de unde”?",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "F0",
+          "BLFFOUT (eticheta de pe palet sau codul de bare al locației, sunt același cod)"
+        ]
+      },
+      "lv": {
+        "q": "Pārvietojot atgriezumus no BLFFOUT uz glabāšanas vietu, kurš svītrkods ir vieta „no kurienes”?",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "F0",
+          "BLFFOUT (etiķete uz paletes vai vietas svītrkods, tas ir viens un tas pats kods)"
+        ]
+      },
+      "ps": {
+        "q": "کله چې ریټرنز له BLFFOUT څخه ذخیرې ته لیږدول کیږي، «له کوم ځایه» موقعیت کوم بارکوډ دی؟",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "F0",
+          "BLFFOUT (په پیلټ باندې لیبل یا د موقعیت بارکوډ، دا یو ښه بارکوډ دی)"
+        ]
+      },
+      "ur": {
+        "q": "ریٹرنز کو BLFFOUT سے اسٹوریج میں منتقل کرتے وقت “کہاں سے” لوکیشن کون سا بار کوڈ ہے؟",
+        "o": [
+          "BLSTOF",
+          "BLF001A",
+          "F0",
+          "BLFFOUT (پیلٹ پر لگا لیبل یا لوکیشن بار کوڈ، یہ ایک ہی بار کوڈ ہیں)"
+        ]
+      }
+    },
+    {
+      "correct": 1,
+      "en": {
+        "q": "After the returns pallet is scanned to its location, what must you do with the BLFFOUT barcode label?",
+        "o": [
+          "Leave it on so it can be scanned again",
+          "Remove it, or cross it out or blank it out with a felt tip, so it cannot be scanned again",
+          "Stick a second one next to it",
+          "Hand it to QC"
+        ]
+      },
+      "pl": {
+        "q": "Co należy zrobić z etykietą z kodem kreskowym BLFFOUT po zeskanowaniu palety zwrotów na jej miejsce?",
+        "o": [
+          "Zostawić ją, aby można było zeskanować ją ponownie",
+          "Zdjąć ją albo przekreślić lub zamalować flamastrem, aby nie można jej było zeskanować ponownie",
+          "Przykleić obok drugą",
+          "Oddać ją QC"
+        ]
+      },
+      "bg": {
+        "q": "След като палетата за връщане е сканирана към местоположението си, какво трябва да направите с етикета с баркод BLFFOUT?",
+        "o": [
+          "Да го оставите, за да може да се сканира отново",
+          "Да го махнете или да го зачеркнете, или замажете с маркер, така че да не може да се сканира отново",
+          "Да залепите втори до него",
+          "Да го предадете на КК"
+        ]
+      },
+      "ro": {
+        "q": "După ce paletul de retur este scanat în locația sa, ce trebuie să faceți cu eticheta cu cod de bare BLFFOUT?",
+        "o": [
+          "S-o lăsați, ca să poată fi scanată din nou",
+          "S-o scoateți, sau s-o tăiați ori s-o acoperiți cu un marker, astfel încât să nu mai poată fi scanată",
+          "Să lipiți încă una lângă ea",
+          "S-o predați la QC"
+        ]
+      },
+      "lv": {
+        "q": "Kad atgriezumu palete ir noskenēta uz savu vietu, ko darīt ar BLFFOUT svītrkoda etiķeti?",
+        "o": [
+          "Atstāt, lai to varētu noskenēt vēlreiz",
+          "Noņemt to vai pārsvītrot, vai aizkrāsot ar flomāsteru, lai to vairs nevarētu noskenēt",
+          "Uzlīmēt blakus otru",
+          "Nodot KK"
+        ]
+      },
+      "ps": {
+        "q": "کله چې د ریټرنز پیلټ خپل موقعیت ته سکین شي، د BLFFOUT بارکوډ لیبل سره باید څه وکړئ؟",
+        "o": [
+          "پریږدئ چې بیا سکین شي",
+          "لرې یې کړئ، یا په مارکر سره یې کرښه کړئ یا پټ کړئ چې بیا سکین نه شي",
+          "یو بل تر څنګ ولګوئ",
+          "QC ته یې ورکړئ"
+        ]
+      },
+      "ur": {
+        "q": "ریٹرنز پیلٹ اپنی لوکیشن پر اسکین ہو جانے کے بعد BLFFOUT بار کوڈ لیبل کے ساتھ کیا کرنا چاہیے؟",
+        "o": [
+          "اسے لگا رہنے دیں تاکہ دوبارہ اسکین ہو سکے",
+          "اسے اتار دیں، یا اس پر لکیر پھیر دیں یا فیلٹ ٹپ مارکر سے مٹا دیں تاکہ دوبارہ اسکین نہ ہو",
+          "اس کے ساتھ دوسرا لگا دیں",
+          "QC کو دے دیں"
+        ]
+      }
+    },
+    {
+      "correct": 2,
+      "en": {
+        "q": "Where do returns go from BLFFOUT?",
+        "o": [
+          "Back to the line inbound",
+          "The returns table",
+          "Racking storage or the solvents trailer",
+          "F0"
+        ]
+      },
+      "pl": {
+        "q": "Dokąd trafiają zwroty z BLFFOUT?",
+        "o": [
+          "Z powrotem do inbound linii",
+          "Na stół zwrotów",
+          "Na regały magazynowe lub do przyczepy z rozpuszczalnikami",
+          "Na F0"
+        ]
+      },
+      "bg": {
+        "q": "Къде отиват върнатите материали от BLFFOUT?",
+        "o": [
+          "Обратно в inbound на линията",
+          "На масата за връщания",
+          "На стелажи или в ремаркето за разтворители",
+          "В F0"
+        ]
+      },
+      "ro": {
+        "q": "Unde merg retururile din BLFFOUT?",
+        "o": [
+          "Înapoi în inbound-ul liniei",
+          "La masa de retururi",
+          "Pe rafturi sau în remorca de solvenți",
+          "În F0"
+        ]
+      },
+      "lv": {
+        "q": "Kurp dodas atgriezumi no BLFFOUT?",
+        "o": [
+          "Atpakaļ uz līnijas inbound",
+          "Uz atgriezumu galdu",
+          "Uz plauktu glabātuvi vai šķīdinātāju piekabi",
+          "Uz F0"
+        ]
+      },
+      "ps": {
+        "q": "ریټرنز له BLFFOUT څخه چېرته ځي؟",
+        "o": [
+          "بیرته د لاین ان باونډ ته",
+          "د ریټرنز میز ته",
+          "ریکینګ ذخیرې یا د سالوینټ ټریلر ته",
+          "F0 ته"
+        ]
+      },
+      "ur": {
+        "q": "ریٹرنز BLFFOUT سے کہاں جاتے ہیں؟",
+        "o": [
+          "واپس لائن ان باؤنڈ میں",
+          "ریٹرنز ٹیبل پر",
+          "ریکنگ اسٹوریج یا سالونٹس ٹریلر پر",
+          "F0 پر"
+        ]
+      }
+    }
+  ]
+}
