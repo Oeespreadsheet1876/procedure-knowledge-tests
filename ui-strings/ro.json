@@ -50,5 +50,10 @@
   "add_shift_manager_btn": "+ Adaugă șef de tură",
   "shift_manager_badge_prefix": "Șef de tură:",
   "exit_test_btn": "✕ Ieșire din test",
-  "exit_confirm_msg": "Răspunsurile dvs. din această încercare vor fi pierdute. Doriți totuși să ieșiți la lista de proceduri?"
+  "exit_confirm_msg": "Răspunsurile dvs. din această încercare vor fi pierdute. Doriți totuși să ieșiți la lista de proceduri?",
+  "review_focus_heading": "Domenii pe care să se concentreze instruirea",
+  "review_focus_intro": "La aceste întrebări nu s-a răspuns corect. Managerul dumneavoastră de Tură va parcurge aceste domenii împreună cu dumneavoastră.",
+  "review_correct_heading": "Răspunsuri corecte",
+  "review_all_correct": "S-a răspuns corect la toate întrebările. Nu există domenii de instruire de urmărit.",
+  "report_btn": "Descarcă raportul domeniilor de instruire"
 }

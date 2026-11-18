@@ -50,5 +50,10 @@
   "add_shift_manager_btn": "+ Pievienot maiņas vadītāju",
   "shift_manager_badge_prefix": "Maiņas vadītājs:",
   "exit_test_btn": "✕ Iziet no testa",
-  "exit_confirm_msg": "Jūsu atbildes šajā mēģinājumā tiks zaudētas. Vai tomēr vēlaties iziet uz procedūru sarakstu?"
+  "exit_confirm_msg": "Jūsu atbildes šajā mēģinājumā tiks zaudētas. Vai tomēr vēlaties iziet uz procedūru sarakstu?",
+  "review_focus_heading": "Jomas, uz kurām koncentrēt apmācību",
+  "review_focus_intro": "Uz šiem jautājumiem nav atbildēts pareizi. Jūsu Maiņas vadītājs šīs jomas izskatīs kopā ar jums.",
+  "review_correct_heading": "Pareizi atbildētie jautājumi",
+  "review_all_correct": "Uz visiem jautājumiem atbildēts pareizi. Nav apmācības jomu, kurām pievērsties.",
+  "report_btn": "Lejupielādēt apmācības jomu pārskatu"
 }

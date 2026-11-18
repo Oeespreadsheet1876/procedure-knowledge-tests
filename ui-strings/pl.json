@@ -50,5 +50,10 @@
   "add_shift_manager_btn": "+ Dodaj kierownika zmiany",
   "shift_manager_badge_prefix": "Kierownik zmiany:",
   "exit_test_btn": "✕ Zakończ test",
-  "exit_confirm_msg": "Twoje odpowiedzi z tej próby zostaną utracone. Czy mimo to zakończyć i wrócić do listy procedur?"
+  "exit_confirm_msg": "Twoje odpowiedzi z tej próby zostaną utracone. Czy mimo to zakończyć i wrócić do listy procedur?",
+  "review_focus_heading": "Obszary wymagające dodatkowego szkolenia",
+  "review_focus_intro": "Na te pytania nie udzielono poprawnej odpowiedzi. Twój Kierownik Zmiany omówi z Tobą te obszary.",
+  "review_correct_heading": "Odpowiedzi poprawne",
+  "review_all_correct": "Na wszystkie pytania odpowiedziano poprawnie. Nie ma obszarów wymagających dodatkowego szkolenia.",
+  "report_btn": "Pobierz raport z obszarów do szkolenia"
 }
